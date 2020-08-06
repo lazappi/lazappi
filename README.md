@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 ![lazappi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazappi&hide=html&theme=buefy&layout=compact)
 
 _Courtesy of https://github.com/anuraghazra/github-readme-stats_
+
+### My latest tweet
+
+[![My latest tweet](latest_tweet.png?raw=true "My latest tweet")](https://twitter.com/_lazappi_)
