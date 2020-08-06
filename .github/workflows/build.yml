@@ -21,7 +21,7 @@ jobs:
         Rscript -e "install.packages('rtweet')"
     - name: Generate Twitter Image
       env:
-        ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
         ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
         CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
