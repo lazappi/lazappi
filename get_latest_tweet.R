@@ -16,7 +16,7 @@ recent_tweets <- get_timeline(handle, n = 1, token = token)
 tweet_screenshot(
     tweet_url(handle, recent_tweets$status_id),
     scale      = 5,
-    maxwidth   = 600,
+    maxwidth   = 400,
     theme      = "light",
     hide_media = FALSE,
     file       = "latest_tweet.png"

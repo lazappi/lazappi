@@ -24,4 +24,4 @@ _Courtesy of https://github.com/anuraghazra/github-readme-stats_
 
 ### My latest tweet
 
-[![My latest tweet](latest_tweet.png?raw=true "My latest tweet")](https://twitter.com/_lazappi_)
+[![My latest tweet](https://github.com/lazappi/lazappi/raw/master/latest_tweet.png "My latest tweet")](https://twitter.com/_lazappi_)
