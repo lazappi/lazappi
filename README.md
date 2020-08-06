@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Luke 👋
 
 <!--
 **lazappi/lazappi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Here's some stats on my GitHub repos
+
+![lazappi's github stats](https://github-readme-stats.vercel.app/api?username=lazappi&count_private=true&show_icons=true&theme=buefy&hide_title=True)
+![lazappi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazappi&hide=html&theme=buefy&layout=compact)
+
+_Courtesy of https://github.com/anuraghazra/github-readme-stats_
