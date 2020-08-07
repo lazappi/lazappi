@@ -24,4 +24,8 @@ _Courtesy of https://github.com/anuraghazra/github-readme-stats_
 
 ### My latest tweet
 
-<a href="https://twitter.com/_lazappi_"><img src="https://github.com/lazappi/lazappi/raw/master/latest_tweet.png" width="400" align="center"></a>
+<p align="center">
+  <a href="https://twitter.com/_lazappi_">
+    <img src="https://github.com/lazappi/lazappi/raw/master/latest_tweet.png" width="400">
+  </a>
+</p>
