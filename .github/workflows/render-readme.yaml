@@ -38,7 +38,7 @@ jobs:
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Clean README
         # Remove the extra tweet images because I can't work out stop them
-        run: sed -i '/width="0"/d' README.md
+        run: sed -i '' '/width="0"/d' README.md
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
