@@ -17,7 +17,10 @@ knitr::opts_chunk$set(
 library(rtweet)
 library(tweetrmd)
 library(webshot2)
+library(tidyRSS)
+library(glue)
 library(dplyr)
+library(purrr)
 ```
 
 ### Hi, I'm Luke 👋
@@ -45,6 +48,22 @@ Here are some ideas to get you started:
 </p>
 
 *Courtesy of https://github.com/anuraghazra/github-readme-stats*
+
+### Some recent blog posts 📝
+
+```{r blog, results = "asis"}
+posts <- tidyfeed("https://lazappi.id.au/post/index.xml") %>%
+    arrange(desc(item_pub_date)) %>%
+    slice_head(n = 3)
+
+map2_chr(posts$item_title, posts$item_link, function(title, link) {
+    glue("* [{title}]({link})")
+}) %>%
+    paste(collapse = "\n") %>%
+    cat()
+```
+
+*More at https://lazappi.id.au*
 
 ### My latest tweet 👇 and retweet 👉
 

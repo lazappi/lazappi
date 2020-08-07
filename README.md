@@ -29,6 +29,17 @@ Here are some ideas to get you started:
 
 *Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
 
+### Some recent blog posts
+
+  - [triple j’s
+    Requestival](https://lazappi.id.au/post/2020-07-11-requestival/)
+  - [Back to the
+    SCE-verse\!](https://lazappi.id.au/post/2020-05-12-back-to-the-sce-verse/)
+  - [Bioconductor 3.11
+    wrap-up](https://lazappi.id.au/post/2020-04-29-bioconductor-3-11-wrap-up/)
+
+*More at <https://lazappi.id.au>*
+
 ### My latest tweet 👇 and retweet 👉
 
 <img src="README_files/figure-gfm/tweets-1.png" width="0" /><img src="README_files/figure-gfm/tweets-2.png" width="0" />
