@@ -9,6 +9,13 @@
     ]
   },
   "Packages": {
+    "AsioHeaders": {
+      "Package": "AsioHeaders",
+      "Version": "1.16.1-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "9305444d113b052089eba3694047d42d"
+    },
     "BH": {
       "Package": "BH",
       "Version": "1.72.0-3",
@@ -55,6 +62,25 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "543776ae6848fde2f48ff3816d0628bc"
+    },
+    "callr": {
+      "Package": "callr",
+      "Version": "3.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "643163a00cb536454c624883a10ae0bc"
+    },
+    "chromote": {
+      "Package": "chromote",
+      "Version": "0.0.0.9002",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "rstudio",
+      "RemoteRepo": "chromote",
+      "RemoteRef": "master",
+      "RemoteSha": "b706e2186bab6a25b8d28935a70e7383f3afb6c2",
+      "Hash": "c684d24cbd1c6496cc02f740cfc1c04e"
     },
     "cli": {
       "Package": "cli",
@@ -116,6 +142,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "7fce217eaaf8016e72065e85c73027b5"
+    },
+    "fastmap": {
+      "Package": "fastmap",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "83ab58a0518afe3d17e41da01af13b60"
     },
     "generics": {
       "Package": "generics",
@@ -258,6 +291,13 @@
       "Repository": "CRAN",
       "Hash": "95ef9167b75dde9d2ccc3c7528393e7e"
     },
+    "processx": {
+      "Package": "processx",
+      "Version": "3.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "f4f13345fcb00c51ace12f65dd18749f"
+    },
     "progress": {
       "Package": "progress",
       "Version": "1.2.2",
@@ -271,6 +311,13 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "a8730dcbdd19f9047774909f0ec214a4"
+    },
+    "ps": {
+      "Package": "ps",
+      "Version": "1.3.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "425d938eb9c02906a8ac98c0c2a306b5"
     },
     "purrr": {
       "Package": "purrr",
@@ -374,6 +421,25 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "5ba3006888ac62fd5e97b208d00d3317"
+    },
+    "webshot2": {
+      "Package": "webshot2",
+      "Version": "0.0.0.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "rstudio",
+      "RemoteRepo": "webshot2",
+      "RemoteRef": "master",
+      "RemoteSha": "f62e743c9fee3dea313677ee061c041a8bbccb19",
+      "Hash": "54dffb169fd079449ba6201c11525c3e"
+    },
+    "websocket": {
+      "Package": "websocket",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "76ca9061b6fedb4a9547c16d23eb74a6"
     },
     "xfun": {
       "Package": "xfun",
