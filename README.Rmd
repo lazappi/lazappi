@@ -19,6 +19,7 @@ library(tweetrmd)
 library(webshot2)
 library(tidyRSS)
 library(glue)
+library(stringr)
 library(dplyr)
 library(purrr)
 ```
@@ -49,6 +50,37 @@ Here are some ideas to get you started:
 
 *Courtesy of https://github.com/anuraghazra/github-readme-stats*
 
+### My recent GitHub activity
+
+```{r github, results = "asis"}
+activity <- tidyfeed("https://github.com/lazappi.atom") %>%
+    arrange(desc(entry_last_updated)) %>%
+    slice_head(n = 10)
+
+map_chr(activity$entry_title, function(.title) {
+    title <- str_remove(.title, "^lazappi ")
+    title_split <- str_split(str_to_sentence(title), " ", simplify = TRUE)
+    repo <- title_split[length(title_split)]
+    repo_link <- glue("[{repo}](https://github.com/{repo})")
+    event_type <- title_split[1]
+    event <- glue_collapse(title_split[-length(title_split)], sep = " ")
+    emoji <- case_when(
+        event_type == "Commented" ~ "🗣",
+        event_type == "Closed"    ~ "🎊",
+        event_type == "Merged"    ~ "🎉",
+        event_type == "Opened"    ~ "🤔",
+        event_type == "Pushed"    ~ "📨",
+        event_type == "Starred"   ~ "⭐️",
+        event_type == "Forked"    ~ "🍴",
+        event_type == "Released"  ~ "📦",
+        TRUE                      ~ "😺"
+    )
+    glue("* {emoji} {event} {repo_link}")
+})  %>%
+    paste(collapse = "\n") %>%
+    cat()
+```
+
 ### Some recent blog posts 📝
 
 ```{r blog, results = "asis"}
@@ -56,8 +88,8 @@ posts <- tidyfeed("https://lazappi.id.au/post/index.xml") %>%
     arrange(desc(item_pub_date)) %>%
     slice_head(n = 3)
 
-map2_chr(posts$item_title, posts$item_link, function(title, link) {
-    glue("* [{title}]({link})")
+map2_chr(posts$item_title, posts$item_link, function(.title, .link) {
+    glue("* [{.title}]({.link})")
 }) %>%
     paste(collapse = "\n") %>%
     cat()

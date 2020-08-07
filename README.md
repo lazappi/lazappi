@@ -29,6 +29,29 @@ Here are some ideas to get you started:
 
 *Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
 
+### My recent GitHub activity
+
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - ⭐️ Starred
+    [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+
 ### Some recent blog posts 📝
 
   - [triple j’s
