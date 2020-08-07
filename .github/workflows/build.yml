@@ -19,6 +19,7 @@ jobs:
         Rscript -e "remotes::install_github('gadenbuie/tweetrmd')"
         Rscript -e "remotes::install_github('rstudio/webshot2')"
         Rscript -e "install.packages('rtweet')"
+        Rscript -e "install.packages('dplyr')"
     - name: Generate Twitter Image
       env:
         ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
