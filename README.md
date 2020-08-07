@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 *Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
 
-### Some recent blog posts
+### Some recent blog posts 📝
 
   - [triple j’s
     Requestival](https://lazappi.id.au/post/2020-07-11-requestival/)
