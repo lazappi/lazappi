@@ -1,14 +1,20 @@
 ---
 output: github_document
+always_allow_html: true
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, include = FALSE}
+```{r setup, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>"
+  comment  = "#>",
+  echo     = FALSE
 )
+
+library(rtweet)
+library(tweetrmd)
+library(dplyr)
 ```
 
 ### Hi, I'm Luke 👋
@@ -37,11 +43,31 @@ _Courtesy of https://github.com/anuraghazra/github-readme-stats_
 
 ### My latest tweet and retweet
 
-<p align="center">
-  <a href="https://twitter.com/_lazappi_">
-    <img src="https://github.com/lazappi/lazappi/raw/master/latest_tweet.png" width="400">
-  </a>
-  <a href="https://twitter.com/_lazappi_">
-    <img src="https://github.com/lazappi/lazappi/raw/master/latest_retweet.png" width="400">
-  </a>
-</p>
+```{r tweets, fig.show = "hold", out.width = "50%"}
+token <- tryCatch({
+    get_token()
+}, error = function(e) {
+    create_token(
+        "github-readme-last-tweet",
+        consumer_key    = Sys.getenv("CONSUMER_KEY"),
+        consumer_secret = Sys.getenv("CONSUMER_SECRET"),
+        access_token    = Sys.getenv("ACCESS_TOKEN"),
+        access_secret   = Sys.getenv("ACCESS_SECRET"),
+        set_renv        = FALSE
+    )
+})
+
+tweets <- get_timeline("_lazappi_", n = 30, token = token)
+original <- tweets %>%
+    filter(
+        !is_retweet,
+        source != "IFTTT"
+    ) %>%
+    arrange(desc(created_at))
+retweets <- tweets %>%
+    filter(is_retweet) %>%
+    arrange(desc(created_at))
+
+tweet_screenshot(original$status_url[1], maxwidth   = 400)
+tweet_screenshot(retweets$status_url[1], maxwidth   = 400)
+```
