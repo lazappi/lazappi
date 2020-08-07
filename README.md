@@ -29,14 +29,6 @@ languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazapp
 
 ### My latest tweet and retweet
 
-<img src="README_files/figure-gfm/tweets-1.png" width="40%" style="display: block; margin: auto;" /><img src="README_files/figure-gfm/tweets-2.png" width="40%" style="display: block; margin: auto;" />
+    #> Requesting token on behalf of user...
 
-<p align="center">
-
-<a href="https://twitter.com/_lazappi_">
-<img src="https://github.com/lazappi/lazappi/raw/master/latest_tweet.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_">
-<img src="https://github.com/lazappi/lazappi/raw/master/latest_retweet.png" width="400">
-</a>
-
-</p>
+<img src="README_files/figure-gfm/tweets-1.png" width="50%" /><img src="README_files/figure-gfm/tweets-2.png" width="50%" />
