@@ -20,15 +20,25 @@ Here are some ideas to get you started:
 
 ### Here’s some stats on my GitHub repos
 
-![lazappi’s github
-stats](https://github-readme-stats.vercel.app/api?username=lazappi&count_private=true&show_icons=true&theme=buefy&hide_title=True)
-![lazappi’s top
-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazappi&hide=html&theme=buefy&layout=compact)
+<p align="center">
 
-\_Courtesy of <https://github.com/anuraghazra/github-readme-stats_>
+<img src="https://github-readme-stats.vercel.app/api?username=lazappi&count_private=true&show_icons=true&theme=buefy&hide_title=True">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazappi&hide=html&theme=buefy&layout=compact">
 
-### My latest tweet and retweet
+</p>
 
-    #> Requesting token on behalf of user...
+*Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
 
-<img src="README_files/figure-gfm/tweets-1.png" width="50%" /><img src="README_files/figure-gfm/tweets-2.png" width="50%" />
+### My latest tweet 👇 and retweet 👉
+
+<img src="README_files/figure-gfm/tweets-1.png" width="0" /><img src="README_files/figure-gfm/tweets-2.png" width="0" />
+
+<p align="center">
+
+<a href="https://twitter.com/_lazappi_">
+<img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
+</a> <a href="https://twitter.com/_lazappi_">
+<img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
+</a>
+
+</p>
