@@ -43,12 +43,12 @@ Here are some ideas to get you started:
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - ⭐️ Starred
     [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
 
@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 
 ### My latest tweet 👇 and retweet 👉
 
-<img src="README_files/figure-gfm/tweets-1.png" width="0" /><img src="README_files/figure-gfm/tweets-2.png" width="0" />
 
 <p align="center">
 
