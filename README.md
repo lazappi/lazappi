@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 🍴 Forked lazappi/now-playing-profile from
     [joshlmao/now-playing-profile](https://github.com/joshlmao/now-playing-profile)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
-  - ⭐️ Starred
-    [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 ### Some recent blog posts 📝
 
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="https://now-playing-profile.lazappi.vercel.app/now-playing?open">
-<img src="https://now-playing-profile.lazappi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">\`
+<img src="https://now-playing-profile.lazappi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 </p>
