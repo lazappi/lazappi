@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 
 ### My latest tweet 👇 and retweet 👉
 
+<img src="README_files/figure-gfm/tweets-1.png" width="0" /><img src="README_files/figure-gfm/tweets-2.png" width="0" />
 
 <p align="center">
 
@@ -72,6 +73,16 @@ Here are some ideas to get you started:
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1291758720330981376">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
+</a>
+
+</p>
+
+### Now playing on Spotify
+
+<p align="center">
+
+<a href="https://now-playing-profile.lazappi.vercel.app/now-playing?open">
+<img src="https://now-playing-profile.lazappi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">\`
 </a>
 
 </p>
