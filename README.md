@@ -33,14 +33,14 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 🍴 Forked lazappi/now-playing-profile from
     [joshlmao/now-playing-profile](https://github.com/joshlmao/now-playing-profile)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
