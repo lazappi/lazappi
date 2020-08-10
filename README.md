@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [scrna-tools/scrna-tools\#108](https://github.com/scrna-tools/scrna-tools#108)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -41,8 +43,6 @@ Here are some ideas to get you started:
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 🍴 Forked lazappi/now-playing-profile from
     [joshlmao/now-playing-profile](https://github.com/joshlmao/now-playing-profile)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
