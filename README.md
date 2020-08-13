@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [easystats/easystats](https://github.com/easystats/easystats)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 🍴 Forked lazappi/now-playing-profile from
     [joshlmao/now-playing-profile](https://github.com/joshlmao/now-playing-profile)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1293690477917736960">
+<a href="https://twitter.com/_lazappi_/status/1293799415673757696">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1293577401545482240">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
