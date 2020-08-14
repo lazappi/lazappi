@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [easystats/easystats](https://github.com/easystats/easystats)
   - 📨 Pushed to website in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools\#108](https://github.com/scrna-tools/scrna-tools#108)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
-  - 🍴 Forked lazappi/now-playing-profile from
-    [joshlmao/now-playing-profile](https://github.com/joshlmao/now-playing-profile)
-  - 📨 Pushed to master in
-    [lazappi/lazappi](https://github.com/lazappi/lazappi)
 
 ### Some recent blog posts 📝
 
