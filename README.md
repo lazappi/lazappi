@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - ⭐️ Starred
+    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
+  - ⭐️ Starred
     [mpadge/allcontributor](https://github.com/mpadge/allcontributor)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - ⭐️ Starred
-    [easystats/easystats](https://github.com/easystats/easystats)
 
 ### Some recent blog posts 📝
 
