@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#1549](https://github.com/bioconductor/contributions#1549)
+  - 😺 Created a tag v0.99.2 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred [ltla/rebook](https://github.com/ltla/rebook)
@@ -44,11 +50,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - ⭐️ Starred [melodi-lab/gmtk](https://github.com/melodi-lab/gmtk)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - ⭐️ Starred
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
