@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [ltla/droplettestfiles](https://github.com/ltla/droplettestfiles)
   - 🗣 Commented on issue
@@ -49,7 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - ⭐️ Starred [ltla/rebook](https://github.com/ltla/rebook)
 
 ### Some recent blog posts 📝
 
