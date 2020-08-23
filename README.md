@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [ltla/droplettestfiles](https://github.com/ltla/droplettestfiles)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
