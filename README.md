@@ -41,6 +41,8 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [ltla/droplettestfiles](https://github.com/ltla/droplettestfiles)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#1549](https://github.com/bioconductor/contributions#1549)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#1549](https://github.com/bioconductor/contributions#1549)
 
 ### Some recent blog posts 📝
 
