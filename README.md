@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
+  - 📨 Pushed to emojis in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
+  - 📨 Pushed to gh-pages in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
   - 🗣 Commented on issue
     [lazappi/clamour\#5](https://github.com/lazappi/clamour#5)
   - 😺 Created a tag v0.1.0 in
@@ -44,12 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [lazappi/clamour\#3](https://github.com/lazappi/clamour#3)
   - 📨 Pushed to master in
-    [lazappi/clamour](https://github.com/lazappi/clamour)
-  - 📨 Pushed to master in
-    [lazappi/clamour](https://github.com/lazappi/clamour)
-  - 🎊 Closed an issue in
-    [lazappi/clamour](https://github.com/lazappi/clamour)
-  - 🎊 Closed an issue in
     [lazappi/clamour](https://github.com/lazappi/clamour)
 
 ### Some recent blog posts 📝
