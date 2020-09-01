@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - ⭐️ Starred
-    [darlanminussi/scrappy](https://github.com/darlanminussi/scrappy)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - ⭐️ Starred
-    [ltla/droplettestfiles](https://github.com/ltla/droplettestfiles)
+  - 🗣 Commented on issue
+    [lazappi/clamour\#5](https://github.com/lazappi/clamour#5)
+  - 😺 Created a tag v0.1.0 in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
+  - 📨 Pushed to master in
+    [lazappi/clamour-example](https://github.com/lazappi/clamour-example)
+  - 😺 Created a branch emojis in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
+  - 🎊 Closed an issue in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
+  - 🗣 Commented on issue
+    [lazappi/clamour\#3](https://github.com/lazappi/clamour#3)
+  - 📨 Pushed to master in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
+  - 📨 Pushed to master in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
+  - 🎊 Closed an issue in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
+  - 🎊 Closed an issue in
+    [lazappi/clamour](https://github.com/lazappi/clamour)
 
 ### Some recent blog posts 📝
 
