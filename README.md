@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [darlanminussi/scrappy](https://github.com/darlanminussi/scrappy)
   - 📨 Pushed to website in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [ltla/droplettestfiles](https://github.com/ltla/droplettestfiles)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#1549](https://github.com/bioconductor/contributions#1549)
 
 ### Some recent blog posts 📝
 
