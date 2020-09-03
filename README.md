@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clamour](https://github.com/lazappi/clamour)
   - 🎊 Closed an issue in
     [lazappi/clamour](https://github.com/lazappi/clamour)
-  - 🗣 Commented on issue
-    [lazappi/clamour\#3](https://github.com/lazappi/clamour#3)
 
 ### Some recent blog posts 📝
 
