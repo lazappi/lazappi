@@ -35,6 +35,8 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
   - 📨 Pushed to website in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clamour\#5](https://github.com/lazappi/clamour#5)
   - 😺 Created a tag v0.1.0 in
     [lazappi/clamour](https://github.com/lazappi/clamour)
-  - 📨 Pushed to master in
-    [lazappi/clamour-example](https://github.com/lazappi/clamour-example)
 
 ### Some recent blog posts 📝
 
