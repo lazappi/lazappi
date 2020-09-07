@@ -31,25 +31,25 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - ⭐️ Starred [ltla/scegallery](https://github.com/ltla/scegallery)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a tag v0.99.4 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v0.99.3 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#20](https://github.com/theislab/zellkonverter#20)
   - 📨 Pushed to master in
-    [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎉 Merged a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#21](https://github.com/theislab/zellkonverter#21)
+  - 📨 Pushed to anndata in
+    [kevinrue/zellkonverter](https://github.com/kevinrue/zellkonverter)
+  - ⭐️ Starred [eddelbuettel/pinp](https://github.com/eddelbuettel/pinp)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
-  - 📨 Pushed to emojis in
-    [lazappi/clamour](https://github.com/lazappi/clamour)
 
 ### Some recent blog posts 📝
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1300723179019796480">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1300465811228971008">
+</a> <a href="https://twitter.com/_lazappi_/status/1302979526377508870">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
