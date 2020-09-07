@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [scrna-tools/scrna-tools\#111](https://github.com/scrna-tools/scrna-tools#111)
   - 😺 Created a tag v0.99.4 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v0.99.3 in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to anndata in
     [kevinrue/zellkonverter](https://github.com/kevinrue/zellkonverter)
   - ⭐️ Starred [eddelbuettel/pinp](https://github.com/eddelbuettel/pinp)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
