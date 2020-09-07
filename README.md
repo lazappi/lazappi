@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - ⭐️ Starred [ltla/scegallery](https://github.com/ltla/scegallery)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -47,10 +50,6 @@ Here are some ideas to get you started:
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 📨 Pushed to emojis in
     [lazappi/clamour](https://github.com/lazappi/clamour)
-  - 📨 Pushed to gh-pages in
-    [lazappi/clamour](https://github.com/lazappi/clamour)
-  - 🗣 Commented on issue
-    [lazappi/clamour\#5](https://github.com/lazappi/clamour#5)
 
 ### Some recent blog posts 📝
 
