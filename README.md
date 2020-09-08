@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🤔 Opened an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🗣 Commented on pull request
     [scrna-tools/scrna-tools\#111](https://github.com/scrna-tools/scrna-tools#111)
   - 😺 Created a tag v0.99.4 in
@@ -47,9 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#21](https://github.com/theislab/zellkonverter#21)
-  - 📨 Pushed to anndata in
-    [kevinrue/zellkonverter](https://github.com/kevinrue/zellkonverter)
-  - ⭐️ Starred [eddelbuettel/pinp](https://github.com/eddelbuettel/pinp)
 
 ### Some recent blog posts 📝
 
@@ -69,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1300723179019796480">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1302979526377508870">
+</a> <a href="https://twitter.com/_lazappi_/status/1303228059399720961">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
