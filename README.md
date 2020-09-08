@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🤔 Opened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🤔 Opened an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🤔 Opened an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎉 Merged a pull request in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#21](https://github.com/theislab/zellkonverter#21)
 
 ### Some recent blog posts 📝
 
