@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#62](https://github.com/lazappi/clustree#62)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🤔 Opened an issue in
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [scrna-tools/scrna-tools\#111](https://github.com/scrna-tools/scrna-tools#111)
   - 😺 Created a tag v0.99.4 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v0.99.3 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#20](https://github.com/theislab/zellkonverter#20)
-  - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
