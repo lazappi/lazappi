@@ -37,20 +37,20 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#62](https://github.com/lazappi/clustree#62)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🤔 Opened an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🤔 Opened an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on pull request
-    [scrna-tools/scrna-tools\#111](https://github.com/scrna-tools/scrna-tools#111)
-  - 😺 Created a tag v0.99.4 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#62](https://github.com/lazappi/clustree#62)
 
 ### Some recent blog posts 📝
 
