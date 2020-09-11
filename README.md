@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scib\#159](https://github.com/theislab/scib#159)
+  - 🗣 Commented on issue
+    [theislab/scib\#158](https://github.com/theislab/scib#158)
   - 🤔 Opened an issue in
     [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [theislab/scib\#147](https://github.com/theislab/scib#147)
   - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
