@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)
   - 🗣 Commented on pull request
     [theislab/scib\#147](https://github.com/theislab/scib#147)
   - 🗣 Commented on pull request
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
