@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib\#158](https://github.com/theislab/scib#158)
   - 🤔 Opened an issue in
     [theislab/scib](https://github.com/theislab/scib)
-  - 🤔 Opened an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1305451849416413184">
+<a href="https://twitter.com/_lazappi_/status/1305499553978814465">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1305393339219562496">
+</a> <a href="https://twitter.com/_lazappi_/status/1305500752006189059">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
