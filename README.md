@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [bioconductor/biocstickers](https://github.com/bioconductor/biocstickers)
+  - 😺 Created a branch template in
+    [lazappi/biocstickers](https://github.com/lazappi/biocstickers)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -45,10 +49,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/scib\#158](https://github.com/theislab/scib#158)
-  - 🗣 Commented on issue
-    [theislab/scib\#159](https://github.com/theislab/scib#159)
   - 🗣 Commented on issue
     [theislab/scib\#158](https://github.com/theislab/scib#158)
 
