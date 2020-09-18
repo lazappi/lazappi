@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/scib\#166](https://github.com/theislab/scib#166)
+  - 🤔 Opened an issue in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 🗣 Commented on issue
     [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/biocstickers](https://github.com/bioconductor/biocstickers)
   - 😺 Created a branch template in
     [lazappi/biocstickers](https://github.com/lazappi/biocstickers)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
 
 ### Some recent blog posts 📝
 
