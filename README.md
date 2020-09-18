@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to r-error in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 🤔 Opened a pull request in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 😺 Created a branch r-error in
+    [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
     [theislab/scib\#166](https://github.com/theislab/scib#166)
   - 🤔 Opened an issue in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened a pull request in
-    [bioconductor/biocstickers](https://github.com/bioconductor/biocstickers)
-  - 😺 Created a branch template in
-    [lazappi/biocstickers](https://github.com/lazappi/biocstickers)
 
 ### Some recent blog posts 📝
 
