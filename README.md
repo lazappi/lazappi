@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib\#167](https://github.com/theislab/scib#167)
   - 🗣 Commented on pull request
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
   - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
