@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 😺 Created a branch embedding-plots in
+    [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
     [theislab/scib\#158](https://github.com/theislab/scib#158)
   - 📨 Pushed to website in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib\#167](https://github.com/theislab/scib#167)
   - 🗣 Commented on pull request
     [theislab/scib\#167](https://github.com/theislab/scib#167)
-  - 📨 Pushed to r-error in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🤔 Opened a pull request in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
