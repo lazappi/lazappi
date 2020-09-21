@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [kharchenkolab/conos](https://github.com/kharchenkolab/conos)
   - 🤔 Opened a pull request in
     [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a branch embedding-plots in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#167](https://github.com/theislab/scib#167)
   - 🗣 Commented on pull request
     [theislab/scib\#167](https://github.com/theislab/scib#167)
 
