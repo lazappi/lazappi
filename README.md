@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#167](https://github.com/theislab/scib#167)
   - 📨 Pushed to r-error in
     [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to website in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
     [theislab/scib\#166](https://github.com/theislab/scib#166)
-  - 🤔 Opened an issue in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
