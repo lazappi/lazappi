@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
   - 🤔 Opened an issue in
     [kharchenkolab/conos](https://github.com/kharchenkolab/conos)
   - 🤔 Opened a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#167](https://github.com/theislab/scib#167)
 
 ### Some recent blog posts 📝
 
