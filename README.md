@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
+  - 🗣 Commented on pull request
+    [theislab/scib\#169](https://github.com/theislab/scib#169)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
+  - 🗣 Commented on issue
+    [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
   - 🤔 Opened an issue in
     [kharchenkolab/conos](https://github.com/kharchenkolab/conos)
   - 🤔 Opened a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib\#167](https://github.com/theislab/scib#167)
-  - 📨 Pushed to r-error in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
