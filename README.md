@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to popsim in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
-  - 🗣 Commented on issue
-    [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
 
 ### Some recent blog posts 📝
 
