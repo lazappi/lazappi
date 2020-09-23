@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to popsim in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎉 Merged a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a branch popsim in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Deleted branch kersplat at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Deleted branch libsizes at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Deleted branch dropout at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Deleted branch basics at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
   - 🗣 Commented on issue
     [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
   - 🗣 Commented on pull request
     [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on issue
-    [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
-  - 🗣 Commented on issue
-    [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
-  - 🤔 Opened an issue in
-    [kharchenkolab/conos](https://github.com/kharchenkolab/conos)
-  - 🤔 Opened a pull request in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 😺 Created a branch embedding-plots in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
