@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to splatpop in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a branch splatpop in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Deleted branch popsim at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Deleted branch revert-104-master at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a branch revert-104-master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
   - 📨 Pushed to website in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a branch popsim in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Deleted branch kersplat at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Deleted branch libsizes at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Deleted branch dropout at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Deleted branch basics at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
 
 ### Some recent blog posts 📝
 
