@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
   - 🗣 Commented on issue
     [kharchenkolab/conos\#88](https://github.com/kharchenkolab/conos#88)
   - 🗣 Commented on pull request
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a branch embedding-plots in
     [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on issue
-    [theislab/scib\#158](https://github.com/theislab/scib#158)
 
 ### Some recent blog posts 📝
 
