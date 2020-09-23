@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#105](https://github.com/oshlack/splatter#105)
+  - 🤔 Opened a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to splatpop in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a branch splatpop in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to popsim in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎉 Merged a pull request in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a branch popsim in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
