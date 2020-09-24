@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in [rstudio/renv](https://github.com/rstudio/renv)
   - 🎊 Closed a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
@@ -49,8 +50,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [oshlack/splatter\#104](https://github.com/oshlack/splatter#104)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
