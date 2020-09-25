@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to embedding-plots in
+    [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on pull request
     [theislab/scib\#169](https://github.com/theislab/scib#169)
   - 📨 Pushed to embedding-plots in
@@ -49,7 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened an issue in [rstudio/renv](https://github.com/rstudio/renv)
 
 ### Some recent blog posts 📝
 
