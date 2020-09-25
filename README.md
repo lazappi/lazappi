@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#169](https://github.com/theislab/scib#169)
+  - 📨 Pushed to embedding-plots in
+    [theislab/scib](https://github.com/theislab/scib)
   - ⭐️ Starred
     [carpentries/glosario](https://github.com/carpentries/glosario)
   - 📨 Pushed to website in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened an issue in [rstudio/renv](https://github.com/rstudio/renv)
-  - 🎊 Closed a pull request in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#105](https://github.com/oshlack/splatter#105)
 
 ### Some recent blog posts 📝
 
