@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to ci in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to ci in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 📨 Pushed to embedding-plots in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
