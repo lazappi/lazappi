@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to ci in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to ci in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [rstudio/renv\#540](https://github.com/rstudio/renv#540)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
 
 ### Some recent blog posts 📝
 
