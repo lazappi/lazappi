@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [rstudio/renv\#540](https://github.com/rstudio/renv#540)
   - 📨 Pushed to website in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib\#169](https://github.com/theislab/scib#169)
   - 📨 Pushed to embedding-plots in
     [theislab/scib](https://github.com/theislab/scib)
-  - ⭐️ Starred
-    [carpentries/glosario](https://github.com/carpentries/glosario)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
