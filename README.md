@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#179](https://github.com/theislab/scib#179)
+  - 🗣 Commented on issue
+    [theislab/scib\#178](https://github.com/theislab/scib#178)
+  - 🗣 Commented on issue
+    [theislab/scib\#178](https://github.com/theislab/scib#178)
   - 🤔 Opened a pull request in
     [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a branch merge\_benchmarks in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to ci in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to ci in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#103](https://github.com/oshlack/splatter#103)
 
 ### Some recent blog posts 📝
 
