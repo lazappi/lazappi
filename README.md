@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [theislab/scib\#178](https://github.com/theislab/scib#178)
   - 🤔 Opened an issue in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a branch merge\_benchmarks in
     [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on issue
-    [theislab/scib\#178](https://github.com/theislab/scib#178)
 
 ### Some recent blog posts 📝
 
