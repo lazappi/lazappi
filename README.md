@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scib\#178](https://github.com/theislab/scib#178)
   - 🤔 Opened an issue in
     [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
     [theislab/scib\#178](https://github.com/theislab/scib#178)
-  - 🤔 Opened an issue in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
