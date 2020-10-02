@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to embedding-plots in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 🗣 Commented on pull request
+    [theislab/scib\#179](https://github.com/theislab/scib#179)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch main in
@@ -45,10 +49,6 @@ Here are some ideas to get you started:
     [theislab/scib\#178](https://github.com/theislab/scib#178)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/scib\#178](https://github.com/theislab/scib#178)
-  - 🤔 Opened an issue in
-    [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
     [theislab/scib\#178](https://github.com/theislab/scib#178)
 
