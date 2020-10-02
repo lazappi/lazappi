@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch main in
+    [theislab/scib-results](https://github.com/theislab/scib-results)
+  - 😺 Created a repository
+    [theislab/scib-results](https://github.com/theislab/scib-results)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [theislab/scib\#178](https://github.com/theislab/scib#178)
   - 🗣 Commented on issue
@@ -43,12 +49,6 @@ Here are some ideas to get you started:
     [theislab/scib\#178](https://github.com/theislab/scib#178)
   - 🤔 Opened an issue in
     [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on issue
-    [theislab/scib\#178](https://github.com/theislab/scib#178)
-  - 🗣 Commented on pull request
-    [theislab/scib\#179](https://github.com/theislab/scib#179)
-  - 🗣 Commented on pull request
-    [theislab/scib\#179](https://github.com/theislab/scib#179)
   - 🗣 Commented on issue
     [theislab/scib\#178](https://github.com/theislab/scib#178)
 
