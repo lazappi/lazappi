@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib\#169](https://github.com/theislab/scib#169)
   - 📨 Pushed to embedding-plots in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib\#178](https://github.com/theislab/scib#178)
   - 🗣 Commented on issue
     [theislab/scib\#178](https://github.com/theislab/scib#178)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
