@@ -31,24 +31,24 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on pull request
+    [theislab/scib\#179](https://github.com/theislab/scib#179)
   - 🗣 Commented on pull request
     [theislab/scib\#169](https://github.com/theislab/scib#169)
   - 📨 Pushed to embedding-plots in
     [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on pull request
-    [theislab/scib\#179](https://github.com/theislab/scib#179)
+    [theislab/scib\#169](https://github.com/theislab/scib#169)
+  - 🗣 Commented on pull request
+    [theislab/scib\#169](https://github.com/theislab/scib#169)
+  - 🗣 Commented on pull request
+    [theislab/scib\#169](https://github.com/theislab/scib#169)
+  - 🗣 Commented on pull request
+    [theislab/scib\#169](https://github.com/theislab/scib#169)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
