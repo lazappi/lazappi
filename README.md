@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Deleted branch embedding-plots at
+    [theislab/scib](https://github.com/theislab/scib)
+  - 📨 Pushed to master in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 🎉 Merged a pull request in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 📨 Pushed to embedding-plots in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#103](https://github.com/oshlack/splatter#103)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#103](https://github.com/oshlack/splatter#103)
   - 🗣 Commented on pull request
     [oshlack/splatter\#103](https://github.com/oshlack/splatter#103)
   - 🗣 Commented on pull request
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#179](https://github.com/theislab/scib#179)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 📨 Pushed to embedding-plots in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
-  - 🗣 Commented on pull request
-    [theislab/scib\#169](https://github.com/theislab/scib#169)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1309393438610202625">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1309394141080625153">
+</a> <a href="https://twitter.com/_lazappi_/status/1313100961221574663">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
