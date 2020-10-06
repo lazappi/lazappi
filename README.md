@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#64](https://github.com/lazappi/clustree#64)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 🎉 Merged a pull request in
     [theislab/scib](https://github.com/theislab/scib)
-  - 📨 Pushed to embedding-plots in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#103](https://github.com/oshlack/splatter#103)
 
 ### Some recent blog posts 📝
 
