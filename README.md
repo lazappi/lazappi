@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to splatpop in
+    [azodichr/splatter](https://github.com/azodichr/splatter)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🗣 Commented on issue
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 😺 Deleted branch embedding-plots at
-    [theislab/scib](https://github.com/theislab/scib)
-  - 📨 Pushed to master in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🎉 Merged a pull request in
     [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
