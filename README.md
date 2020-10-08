@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to main in
+    [theislab/scib-results](https://github.com/theislab/scib-results)
   - 🗣 Commented on pull request
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 📨 Pushed to website in
@@ -39,10 +43,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 📨 Pushed to splatpop in
     [azodichr/splatter](https://github.com/azodichr/splatter)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
