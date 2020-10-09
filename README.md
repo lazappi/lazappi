@@ -35,6 +35,8 @@ Here are some ideas to get you started:
     [theislab/scib\#188](https://github.com/theislab/scib#188)
   - 🗣 Commented on pull request
     [theislab/scib\#188](https://github.com/theislab/scib#188)
+  - 🗣 Commented on pull request
+    [theislab/scib\#188](https://github.com/theislab/scib#188)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
