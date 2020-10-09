@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a branch merge\_benchmarks in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 📨 Pushed to lisi\_fix\_small\_values in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 🗣 Commented on pull request
+    [theislab/scib\#188](https://github.com/theislab/scib#188)
+  - 📨 Pushed to lisi\_fix\_small\_values in
+    [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on pull request
     [theislab/scib\#188](https://github.com/theislab/scib#188)
   - 🗣 Commented on pull request
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to main in
     [theislab/scib-results](https://github.com/theislab/scib-results)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
 
 ### Some recent blog posts 📝
 
