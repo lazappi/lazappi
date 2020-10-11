@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#24](https://github.com/theislab/zellkonverter#24)
   - 🗣 Commented on pull request
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [theislab/scib\#188](https://github.com/theislab/scib#188)
   - 📨 Pushed to lisi\_fix\_small\_values in
     [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on pull request
-    [theislab/scib\#188](https://github.com/theislab/scib#188)
   - 🗣 Commented on pull request
     [theislab/scib\#188](https://github.com/theislab/scib#188)
 
