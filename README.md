@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scib\#191](https://github.com/theislab/scib#191)
+  - 🎊 Closed an issue in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 😺 Reopened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#24](https://github.com/theislab/zellkonverter#24)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a branch merge\_benchmarks in
     [theislab/scib](https://github.com/theislab/scib)
-  - 📨 Pushed to lisi\_fix\_small\_values in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on pull request
-    [theislab/scib\#188](https://github.com/theislab/scib#188)
-  - 📨 Pushed to lisi\_fix\_small\_values in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on pull request
-    [theislab/scib\#188](https://github.com/theislab/scib#188)
 
 ### Some recent blog posts 📝
 
