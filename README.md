@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 📨 Pushed to main in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
     [theislab/scib\#191](https://github.com/theislab/scib#191)
   - 🎊 Closed an issue in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#24](https://github.com/theislab/zellkonverter#24)
   - 🗣 Commented on pull request
     [theislab/scib\#190](https://github.com/theislab/scib#190)
-  - 🤔 Opened a pull request in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 😺 Created a branch merge\_benchmarks in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
