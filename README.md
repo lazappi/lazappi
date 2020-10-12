@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v0.99.6 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎊 Closed an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
   - 😺 Deleted branch actions at
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎉 Merged a pull request in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to actions in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🤔 Opened a pull request in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to actions in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
