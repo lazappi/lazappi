@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Added martaint to
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 😺 Added mbuttner to
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 😺 Added luckymd to
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
     [theislab/scib\#191](https://github.com/theislab/scib#191)
-  - 🎊 Closed an issue in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 😺 Reopened an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#24](https://github.com/theislab/zellkonverter#24)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#24](https://github.com/theislab/zellkonverter#24)
-  - 🗣 Commented on pull request
-    [theislab/scib\#190](https://github.com/theislab/scib#190)
 
 ### Some recent blog posts 📝
 
