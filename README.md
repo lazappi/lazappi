@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a tag v0.99.6 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎊 Closed an issue in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [theislab/zellkonverter\#8](https://github.com/theislab/zellkonverter#8)
   - 😺 Deleted branch actions at
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
