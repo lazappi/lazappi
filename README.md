@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#1](https://github.com/theislab/scib-reproducibility#1)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 📨 Pushed to website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
@@ -44,12 +50,6 @@ Here are some ideas to get you started:
   - 🤔 Opened a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Created a branch gh-stats in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Deleted branch gh-stats at
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Created a branch gh-stats in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Added mumichae to
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
