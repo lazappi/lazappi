@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 😺 Created a branch gh-stats in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Deleted branch gh-stats at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Created a branch gh-stats in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Added mumichae to
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
