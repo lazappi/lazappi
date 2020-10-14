@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Deleted branch gh-stats at
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 😺 Created a branch gh-stats in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Added mumichae to
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1315573624095506432">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1316032515799429120">
+</a> <a href="https://twitter.com/_lazappi_/status/1316287500827193344">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
