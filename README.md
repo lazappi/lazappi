@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 😺 Created a branch embedding-plots in
+    [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a tag v0.99.7 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 😺 Added kridsadakorn to
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
