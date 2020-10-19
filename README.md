@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Deleted branch gh-stats at
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 📨 Pushed to main in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🎉 Merged a pull request in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🗣 Commented on pull request
+    [theislab/scib\#193](https://github.com/theislab/scib#193)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a branch embedding-plots in
     [theislab/scib](https://github.com/theislab/scib)
-  - 😺 Created a tag v0.99.7 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#24](https://github.com/theislab/zellkonverter#24)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
