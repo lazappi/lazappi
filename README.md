@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Deleted branch gh-stats at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to main in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 😺 Created a branch gh-stats in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🤔 Opened a pull request in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 😺 Created a branch embedding-plots in
     [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
