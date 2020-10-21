@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on issue
-    [lazappi/clustree\#65](https://github.com/lazappi/clustree#65)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to splatpop in
-    [azodichr/splatter](https://github.com/azodichr/splatter)
-  - 😺 Deleted branch splatpop at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to splatpop in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
-    [theislab/scib\#193](https://github.com/theislab/scib#193)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Deleted branch gh-stats at
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎉 Merged a pull request in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
 
 ### Some recent blog posts 📝
 
