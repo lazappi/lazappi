@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [oshlack/splatter\#106](https://github.com/oshlack/splatter#106)
   - 🗣 Commented on pull request
