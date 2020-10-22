@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib\#193](https://github.com/theislab/scib#193)
   - 📨 Pushed to embedding-plots in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#65](https://github.com/lazappi/clustree#65)
   - 🗣 Commented on issue
     [lazappi/clustree\#65](https://github.com/lazappi/clustree#65)
-  - 📨 Pushed to splatpop in
-    [azodichr/splatter](https://github.com/azodichr/splatter)
 
 ### Some recent blog posts 📝
 
