@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 🎉 Merged a pull request in
+    [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [azodichr/splatter](https://github.com/azodichr/splatter)
   - 📨 Pushed to splatpop in
     [azodichr/splatter](https://github.com/azodichr/splatter)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#65](https://github.com/lazappi/clustree#65)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#65](https://github.com/lazappi/clustree#65)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1318448755998445568">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1319265294498619394">
+</a> <a href="https://twitter.com/_lazappi_/status/1319536194716389378">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
