@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [theislab/scib](https://github.com/theislab/scib)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎉 Merged a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to splatpop in
-    [azodichr/splatter](https://github.com/azodichr/splatter)
 
 ### Some recent blog posts 📝
 
