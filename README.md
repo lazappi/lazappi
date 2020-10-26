@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a tag v1.13.2 in
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎉 Merged a pull request in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to removebatch in
-    [daynefiler/splatter](https://github.com/daynefiler/splatter)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
