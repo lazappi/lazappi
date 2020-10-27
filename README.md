@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a tag v1.13.2 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
 
 ### Some recent blog posts 📝
 
