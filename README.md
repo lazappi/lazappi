@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1321732805060104213">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1322090358310842368">
+</a> <a href="https://twitter.com/_lazappi_/status/1322166444830896128">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
