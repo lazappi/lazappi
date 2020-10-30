@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - ⭐️ Starred
     [constantamateur/soupx](https://github.com/constantamateur/soupx)
   - 😺 Created a tag v1.1.0 in
@@ -39,27 +51,15 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v1.0.0 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📦 Released bioconductor 3.12 at
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - ⭐️ Starred
-    [coolbutuseless/emphatic](https://github.com/coolbutuseless/emphatic)
 
 ### Some recent blog posts 📝
 
+  - [Bioconductor 3.12
+    wrap-up](https://lazappi.id.au/post/2020-10-30-bioconductor-3-12-wrap-up/)
   - [triple j’s
     Requestival](https://lazappi.id.au/post/2020-07-11-requestival/)
   - [Back to the
     SCE-verse\!](https://lazappi.id.au/post/2020-05-12-back-to-the-sce-verse/)
-  - [Bioconductor 3.11
-    wrap-up](https://lazappi.id.au/post/2020-04-29-bioconductor-3-11-wrap-up/)
 
 *More at <https://lazappi.id.au>*
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1321732805060104213">
+<a href="https://twitter.com/_lazappi_/status/1322225926252515329">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1322166444830896128">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
