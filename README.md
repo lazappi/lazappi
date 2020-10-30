@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [constantamateur/soupx](https://github.com/constantamateur/soupx)
+  - 😺 Created a tag v1.1.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.0.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📦 Released bioconductor 3.12 at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib\#199](https://github.com/theislab/scib#199)
   - ⭐️ Starred
     [coolbutuseless/emphatic](https://github.com/coolbutuseless/emphatic)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a tag v1.15.0 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.14.0 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📦 Released bioconductor 3.12 at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
