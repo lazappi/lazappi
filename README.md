@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
   - 📨 Pushed to master in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 😺 Created a tag v1.1.0 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.0.0 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
