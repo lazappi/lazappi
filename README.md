@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [lazappi/navbar\_test](https://github.com/lazappi/navbar_test)
+  - 😺 Created a branch main in
+    [lazappi/navbar\_test](https://github.com/lazappi/navbar_test)
+  - 😺 Created a repository
+    [lazappi/navbar\_test](https://github.com/lazappi/navbar_test)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - ⭐️ Starred
-    [constantamateur/soupx](https://github.com/constantamateur/soupx)
-  - 😺 Created a tag v1.1.0 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
