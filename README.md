@@ -31,12 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
+  - 📨 Pushed to main in
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
+  - 📨 Pushed to main in
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
   - ⭐️ Starred
     [credibilitylab/groundhog](https://github.com/credibilitylab/groundhog)
   - 📨 Pushed to main in
-    [lazappi/navbar\_test](https://github.com/lazappi/navbar_test)
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
   - 😺 Created a branch main in
-    [lazappi/navbar\_test](https://github.com/lazappi/navbar_test)
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
   - 😺 Created a repository
     [lazappi/navbar\_test](https://github.com/lazappi/navbar_test)
   - 📨 Pushed to website in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
