@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to main in
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
   - 📨 Pushed to main in
     [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
   - 📨 Pushed to main in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/navbar\_test](https://github.com/lazappi/navbar_test)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1322225926252515329">
+<a href="https://twitter.com/_lazappi_/status/1323563362748375040">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1323257118363963398">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
