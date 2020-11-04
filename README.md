@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 📨 Pushed to martaint-patch-2 in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred
     [credibilitylab/groundhog](https://github.com/credibilitylab/groundhog)
   - 📨 Pushed to main in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
-  - 😺 Created a branch main in
     [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
 
 ### Some recent blog posts 📝
