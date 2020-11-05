@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
+  - 📨 Pushed to main in
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
+  - 🎉 Merged a pull request in
+    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
+  - 🗣 Commented on pull request
+    [lazappi/separate\_rmarkdown\_navbar\#1](https://github.com/lazappi/separate_rmarkdown_navbar#1)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
@@ -39,16 +49,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to main in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
-  - 📨 Pushed to main in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
-  - 📨 Pushed to main in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
-  - 📨 Pushed to main in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
-  - ⭐️ Starred
-    [credibilitylab/groundhog](https://github.com/credibilitylab/groundhog)
   - 📨 Pushed to main in
     [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
 
