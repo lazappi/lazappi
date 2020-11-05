@@ -35,6 +35,8 @@ Here are some ideas to get you started:
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
   - 🗣 Commented on issue
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
   - 📨 Pushed to main in
     [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to main in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
 
 ### Some recent blog posts 📝
 
