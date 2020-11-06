@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/separate\_rmarkdown\_navbar\#1](https://github.com/lazappi/separate_rmarkdown_navbar#1)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
 
 ### Some recent blog posts 📝
 
