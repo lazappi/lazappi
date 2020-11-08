@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
   - 🗣 Commented on issue
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
-  - 📨 Pushed to main in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
-  - 🎉 Merged a pull request in
-    [lazappi/separate\_rmarkdown\_navbar](https://github.com/lazappi/separate_rmarkdown_navbar)
-  - 🗣 Commented on pull request
-    [lazappi/separate\_rmarkdown\_navbar\#1](https://github.com/lazappi/separate_rmarkdown_navbar#1)
 
 ### Some recent blog posts 📝
 
