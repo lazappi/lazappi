@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [chiphuyen/just-pandas-things](https://github.com/chiphuyen/just-pandas-things)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
   - 🗣 Commented on issue
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1323897587020271616">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1324615035277189120">
+</a> <a href="https://twitter.com/_lazappi_/status/1325708494822117376">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
