@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [theislab/anndata\#455](https://github.com/theislab/anndata#455)
   - 🤔 Opened an issue in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1328619077443719169">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1326095979259564034">
+</a> <a href="https://twitter.com/_lazappi_/status/1328660419389624323">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
