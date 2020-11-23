@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [greenelab/lab-website-template](https://github.com/greenelab/lab-website-template)
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [krishnaswamylab/scprep](https://github.com/krishnaswamylab/scprep)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1329441282272464898">
+<a href="https://twitter.com/_lazappi_/status/1330787339958947841">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1330777642954608640">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
