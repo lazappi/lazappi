@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#26](https://github.com/theislab/zellkonverter#26)
   - 📨 Pushed to website in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [greenelab/lab-website-template](https://github.com/greenelab/lab-website-template)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
