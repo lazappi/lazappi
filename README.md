@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/interaction-tools](https://github.com/theislab/interaction-tools)
   - 😺 Created a repository
     [theislab/interaction-tools](https://github.com/theislab/interaction-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
