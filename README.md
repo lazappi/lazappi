@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 🗣 Commented on issue
     [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
   - 📨 Pushed to website in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch main in
-    [theislab/interaction-tools](https://github.com/theislab/interaction-tools)
-  - 😺 Created a repository
     [theislab/interaction-tools](https://github.com/theislab/interaction-tools)
 
 ### Some recent blog posts 📝
