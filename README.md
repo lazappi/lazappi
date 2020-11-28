@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#26](https://github.com/theislab/zellkonverter#26)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch main in
-    [theislab/interaction-tools](https://github.com/theislab/interaction-tools)
 
 ### Some recent blog posts 📝
 
