@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#109](https://github.com/oshlack/splatter#109)
   - 🗣 Commented on issue
     [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
   - 📨 Pushed to website in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
 
 ### Some recent blog posts 📝
 
