@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.14.1 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a tag v1.15.1 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [evanbiederstedt/splatter](https://github.com/evanbiederstedt/splatter)
   - 🗣 Commented on pull request
     [oshlack/splatter\#109](https://github.com/oshlack/splatter#109)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
