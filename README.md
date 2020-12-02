@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎉 Merged a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to feature/replace\_akima\_aspline in
-    [evanbiederstedt/splatter](https://github.com/evanbiederstedt/splatter)
 
 ### Some recent blog posts 📝
 
