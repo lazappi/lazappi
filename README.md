@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🤔 Opened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [kevinrue/velociraptor\#29](https://github.com/kevinrue/velociraptor#29)
+  - 😺 Created a tag v1.1.1 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [kevinrue/velociraptor\#29](https://github.com/kevinrue/velociraptor#29)
   - 🗣 Commented on issue
@@ -40,16 +50,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred [lux-org/lux](https://github.com/lux-org/lux)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.14.1 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.15.1 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1334404705431285760">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1334398788040056832">
+</a> <a href="https://twitter.com/_lazappi_/status/1334507744871772162">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
