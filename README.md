@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [kevinrue/velociraptor\#29](https://github.com/kevinrue/velociraptor#29)
   - 🗣 Commented on issue
+    [kevinrue/velociraptor\#29](https://github.com/kevinrue/velociraptor#29)
+  - 🗣 Commented on issue
     [oshlack/splatter\#108](https://github.com/oshlack/splatter#108)
   - ⭐️ Starred [lux-org/lux](https://github.com/lux-org/lux)
   - 📨 Pushed to website in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
   - 😺 Created a tag v1.14.1 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a tag v1.15.1 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
