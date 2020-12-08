@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to website in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [kevinrue/velociraptor\#29](https://github.com/kevinrue/velociraptor#29)
   - 😺 Created a tag v1.1.1 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
