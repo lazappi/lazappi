@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#27](https://github.com/theislab/zellkonverter#27)
-  - 🤔 Opened an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
