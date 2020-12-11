@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🤔 Opened a pull request in
+    [bioconductor/biocstickers](https://github.com/bioconductor/biocstickers)
+  - 📨 Pushed to master in
+    [lazappi/biocstickers](https://github.com/lazappi/biocstickers)
   - 🗣 Commented on pull request
     [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 🗣 Commented on pull request
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#66](https://github.com/lazappi/clustree#66)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#67](https://github.com/lazappi/clustree#67)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
