@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [nektos/act](https://github.com/nektos/act)
   - 📨 Pushed to main in
     [theislab/sfaira-site](https://github.com/theislab/sfaira-site)
   - 🗣 Commented on pull request
@@ -49,8 +50,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
 
 ### Some recent blog posts 📝
 
