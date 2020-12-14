@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#206](https://github.com/theislab/scib#206)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/lazappi\_blog](https://github.com/lazappi/lazappi_blog)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🤔 Opened a pull request in
-    [bioconductor/biocstickers](https://github.com/bioconductor/biocstickers)
-  - 📨 Pushed to master in
-    [lazappi/biocstickers](https://github.com/lazappi/biocstickers)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1336942545868349440">
+<a href="https://twitter.com/_lazappi_/status/1338415327546314758">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1335866261281103872">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
