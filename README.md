@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+  - 📨 Pushed to main in
+    [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+  - 😺 Created a branch main in
+    [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+  - 😺 Created a repository
+    [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+  - 📨 Pushed to website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#29](https://github.com/theislab/zellkonverter#29)
   - 📨 Pushed to website in
@@ -41,15 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [lazappi/clustree\#66](https://github.com/lazappi/clustree#66)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - ⭐️ Starred [nektos/act](https://github.com/nektos/act)
-  - 📨 Pushed to main in
-    [theislab/sfaira-site](https://github.com/theislab/sfaira-site)
-  - 🗣 Commented on pull request
-    [theislab/scib\#206](https://github.com/theislab/scib#206)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1339591072943521792">
+<a href="https://twitter.com/_lazappi_/status/1339636679758524416">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1339592540908003332">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
