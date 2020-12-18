@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#3](https://github.com/theislab/scib-reproducibility#3)
+  - 🤔 Opened a pull request in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 📨 Pushed to website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 📨 Pushed to website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - ⭐️ Starred
     [nh13/conda-env-builder](https://github.com/nh13/conda-env-builder)
   - 📨 Pushed to main in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#29](https://github.com/theislab/zellkonverter#29)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#66](https://github.com/lazappi/clustree#66)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1339931733563740160">
+<a href="https://twitter.com/_lazappi_/status/1339932242332823554">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1339592540908003332">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
