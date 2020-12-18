@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [nh13/conda-env-builder](https://github.com/nh13/conda-env-builder)
   - 📨 Pushed to main in
     [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
   - 📨 Pushed to main in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#66](https://github.com/lazappi/clustree#66)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#66](https://github.com/lazappi/clustree#66)
 
 ### Some recent blog posts 📝
 
