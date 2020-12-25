@@ -41,14 +41,14 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#3](https://github.com/theislab/scib-reproducibility#3)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - ⭐️ Starred
     [seandavi/biocactions](https://github.com/seandavi/biocactions)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
