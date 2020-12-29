@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📨 Pushed to ci in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📨 Pushed to ci in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to ci in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to ci in
@@ -42,12 +48,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred [r-lib/pak](https://github.com/r-lib/pak)
   - ⭐️ Starred
     [guangchuangyu/badger](https://github.com/guangchuangyu/badger)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
