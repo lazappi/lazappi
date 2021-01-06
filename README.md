@@ -41,6 +41,8 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Deleted branch ci at
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🎉 Merged a pull request in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🤔 Opened a pull request in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to ci in
     [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
