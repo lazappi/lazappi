@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib-pipeline\#1](https://github.com/theislab/scib-pipeline#1)
+  - 🗣 Commented on pull request
+    [theislab/scib\#147](https://github.com/theislab/scib#147)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#79](https://github.com/oshlack/splatter#79)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Deleted branch ci at
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to master in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🎉 Merged a pull request in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
