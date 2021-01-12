@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [enchufa2/bspm](https://github.com/enchufa2/bspm)
   - 🗣 Commented on issue
     [rstudio/renv\#608](https://github.com/rstudio/renv#608)
   - 📨 Pushed to app in
@@ -48,8 +49,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
@@ -70,7 +69,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1339995705759428617">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1347532970685575171">
+</a> <a href="https://twitter.com/_lazappi_/status/1348903201068756993">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
