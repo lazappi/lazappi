@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Edited a wiki page in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Deleted branch app at
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to app in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to website in
@@ -41,15 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [ltla/bluster\#2](https://github.com/ltla/bluster#2)
-  - ⭐️ Starred [enchufa2/bspm](https://github.com/enchufa2/bspm)
-  - 🗣 Commented on issue
-    [rstudio/renv\#608](https://github.com/rstudio/renv#608)
-  - 📨 Pushed to app in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to app in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
