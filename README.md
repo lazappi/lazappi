@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened an issue in
     [sqjin/cellchat](https://github.com/sqjin/cellchat)
   - ⭐️ Starred
@@ -42,8 +44,6 @@ Here are some ideas to get you started:
   - 😺 Edited a wiki page in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch perturbations in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Edited a wiki page in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Edited a wiki page in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
