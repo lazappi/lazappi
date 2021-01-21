@@ -39,6 +39,8 @@ Here are some ideas to get you started:
     [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 🗣 Commented on pull request
     [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
   - ⭐️ Starred [milesmcbain/tflow](https://github.com/milesmcbain/tflow)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [sqjin/cellchat\#120](https://github.com/sqjin/cellchat#120)
 
 ### Some recent blog posts 📝
 
