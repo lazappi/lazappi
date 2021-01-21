@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
   - ⭐️ Starred [milesmcbain/tflow](https://github.com/milesmcbain/tflow)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [sqjin/cellchat\#120](https://github.com/sqjin/cellchat#120)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to perturbations in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
