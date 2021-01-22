@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 🗣 Commented on pull request
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#32](https://github.com/theislab/zellkonverter#32)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
