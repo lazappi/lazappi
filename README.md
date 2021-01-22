@@ -33,23 +33,24 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
-  - ⭐️ Starred [milesmcbain/tflow](https://github.com/milesmcbain/tflow)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#32](https://github.com/theislab/zellkonverter#32)
-  - 🤔 Opened an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
 
 ### Some recent blog posts 📝
 
@@ -69,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1352230312919621635">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1352540710449410050">
+</a> <a href="https://twitter.com/_lazappi_/status/1352616644896559104">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
