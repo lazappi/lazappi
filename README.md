@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a branch version1 in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#35](https://github.com/theislab/zellkonverter#35)
-  - 📨 Pushed to delayedarray in
-    [ltla/zellkonverter](https://github.com/ltla/zellkonverter)
 
 ### Some recent blog posts 📝
 
