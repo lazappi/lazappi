@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 😺 Created a branch version1 in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [thomasp85/ggraph](https://github.com/thomasp85/ggraph)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#35](https://github.com/theislab/zellkonverter#35)
 
 ### Some recent blog posts 📝
 
