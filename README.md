@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [theislab/zellkonverter\#35](https://github.com/theislab/zellkonverter#35)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#92](https://github.com/oshlack/splatter#92)
+  - 🗣 Commented on pull request
     [theislab/scib\#199](https://github.com/theislab/scib#199)
   - 😺 Created a branch version1 in
     [lazappi/clustree](https://github.com/lazappi/clustree)
@@ -45,10 +49,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [lazappi/clustree\#69](https://github.com/lazappi/clustree#69)
-  - 📨 Pushed to website in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened an issue in
-    [thomasp85/ggraph](https://github.com/thomasp85/ggraph)
   - 📨 Pushed to website in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
