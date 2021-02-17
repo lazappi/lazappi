@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#38](https://github.com/theislab/zellkonverter#38)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#35](https://github.com/theislab/zellkonverter#35)
   - 📨 Pushed to delayedarray in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#35](https://github.com/theislab/zellkonverter#35)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#92](https://github.com/oshlack/splatter#92)
-  - 🗣 Commented on pull request
-    [theislab/scib\#199](https://github.com/theislab/scib#199)
 
 ### Some recent blog posts 📝
 
