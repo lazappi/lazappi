@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 😺 Created a branch plotting-functions in
+    [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v1.1.4 in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎉 Merged a pull request in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to actions in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
