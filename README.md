@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to actions in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a branch actions in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to delayedarray in
+    [ltla/zellkonverter](https://github.com/ltla/zellkonverter)
   - 😺 Reopened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#69](https://github.com/lazappi/clustree#69)
   - 😺 Reopened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#38](https://github.com/theislab/zellkonverter#38)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#35](https://github.com/theislab/zellkonverter#35)
 
 ### Some recent blog posts 📝
 
