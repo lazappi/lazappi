@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - ⭐️ Starred
     [trichelab/velocessor](https://github.com/trichelab/velocessor)
   - ⭐️ Starred
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/sfaira\#111](https://github.com/theislab/sfaira#111)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#70](https://github.com/lazappi/clustree#70)
-  - 🗣 Commented on pull request
-    [theislab/scib\#214](https://github.com/theislab/scib#214)
 
 ### Some recent blog posts 📝
 
