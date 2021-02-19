@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [trichelab/velocessor](https://github.com/trichelab/velocessor)
+  - ⭐️ Starred
+    [baderlab/scclustviz](https://github.com/baderlab/scclustviz)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#70](https://github.com/lazappi/clustree#70)
   - 🗣 Commented on pull request
     [theislab/scib\#214](https://github.com/theislab/scib#214)
-  - 🤔 Opened a pull request in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 😺 Created a branch plotting-functions in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1360135684414185472">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1362753360210845699">
+</a> <a href="https://twitter.com/_lazappi_/status/1362786069423546371">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
