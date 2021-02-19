@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#214](https://github.com/theislab/scib#214)
   - 🗣 Commented on issue
     [theislab/sfaira\#111](https://github.com/theislab/sfaira#111)
   - 🎊 Closed an issue in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 😺 Created a tag v1.1.4 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Deleted branch actions at
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
