@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#37](https://github.com/theislab/zellkonverter#37)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [trichelab/velocessor](https://github.com/trichelab/velocessor)
   - ⭐️ Starred
     [baderlab/scclustviz](https://github.com/baderlab/scclustviz)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
