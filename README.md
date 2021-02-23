@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib\#214](https://github.com/theislab/scib#214)
+  - 📨 Pushed to plotting-functions in
+    [theislab/scib](https://github.com/theislab/scib)
   - ⭐️ Starred
     [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - ⭐️ Starred
-    [trichelab/velocessor](https://github.com/trichelab/velocessor)
-  - ⭐️ Starred
-    [baderlab/scclustviz](https://github.com/baderlab/scclustviz)
 
 ### Some recent blog posts 📝
 
