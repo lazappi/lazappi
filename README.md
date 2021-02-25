@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scanpy\#670](https://github.com/theislab/scanpy#670)
   - 🗣 Commented on pull request
     [theislab/scib\#214](https://github.com/theislab/scib#214)
   - 📨 Pushed to plotting-functions in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to version1 in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
