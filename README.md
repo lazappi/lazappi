@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib\#214](https://github.com/theislab/scib#214)
   - 📨 Pushed to plotting-functions in
     [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on pull request
-    [theislab/scib\#214](https://github.com/theislab/scib#214)
-  - 📨 Pushed to plotting-functions in
-    [theislab/scib](https://github.com/theislab/scib)
-  - ⭐️ Starred
-    [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr)
 
 ### Some recent blog posts 📝
 
