@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - ⭐️ Starred
     [kcuilla/reactablefmtr](https://github.com/kcuilla/reactablefmtr)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#37](https://github.com/theislab/zellkonverter#37)
-  - 🗣 Commented on issue
-    [theislab/anndata\#511](https://github.com/theislab/anndata#511)
 
 ### Some recent blog posts 📝
 
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1360135684414185472">
+<a href="https://twitter.com/_lazappi_/status/1366301436846477315">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1364552553791381504">
+</a> <a href="https://twitter.com/_lazappi_/status/1366308717206134785">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
