@@ -35,6 +35,12 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/scanpy\#670](https://github.com/theislab/scanpy#670)
-  - 🗣 Commented on pull request
-    [theislab/scib\#214](https://github.com/theislab/scib#214)
-  - 📨 Pushed to plotting-functions in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
