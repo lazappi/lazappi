@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Deleted branch ci at
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -40,8 +42,6 @@ Here are some ideas to get you started:
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
