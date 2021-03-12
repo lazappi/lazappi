@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [theislab/sfaira](https://github.com/theislab/sfaira)
   - ⭐️ Starred
     [hasanparasteh/responsivevuenavbar](https://github.com/hasanparasteh/responsivevuenavbar)
   - 🤔 Opened an issue in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
