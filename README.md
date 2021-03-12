@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🤔 Opened an issue in
     [theislab/sfaira](https://github.com/theislab/sfaira)
   - ⭐️ Starred
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v1.0.3 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
