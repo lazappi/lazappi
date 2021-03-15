@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/sfaira\#186](https://github.com/theislab/sfaira#186)
+  - 🗣 Commented on issue
+    [theislab/sfaira\#187](https://github.com/theislab/sfaira#187)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [constantamateur/soupx](https://github.com/constantamateur/soupx)
   - 🗣 Commented on commit
     [theislab/zellkonverter@325f5ccffe](https://github.com/theislab/zellkonverter@325f5ccffe)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.0.3 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Deleted tag v1.0.3 at
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.0.3 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
