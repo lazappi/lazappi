@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scanpy\#1745](https://github.com/theislab/scanpy#1745)
+  - 🎊 Closed an issue in
+    [theislab/scanpy](https://github.com/theislab/scanpy)
+  - 🤔 Opened an issue in
+    [theislab/scanpy](https://github.com/theislab/scanpy)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened an issue in
-    [theislab/sfaira](https://github.com/theislab/sfaira)
-  - ⭐️ Starred
-    [hasanparasteh/responsivevuenavbar](https://github.com/hasanparasteh/responsivevuenavbar)
 
 ### Some recent blog posts 📝
 
