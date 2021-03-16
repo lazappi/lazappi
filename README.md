@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/sfaira](https://github.com/theislab/sfaira)
   - ⭐️ Starred
     [hasanparasteh/responsivevuenavbar](https://github.com/hasanparasteh/responsivevuenavbar)
-  - 🤔 Opened an issue in
-    [constantamateur/soupx](https://github.com/constantamateur/soupx)
 
 ### Some recent blog posts 📝
 
