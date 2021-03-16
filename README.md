@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
+  - 🗣 Commented on issue
     [theislab/sfaira\#186](https://github.com/theislab/sfaira#186)
   - 🗣 Commented on issue
     [theislab/sfaira\#187](https://github.com/theislab/sfaira#187)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [hasanparasteh/responsivevuenavbar](https://github.com/hasanparasteh/responsivevuenavbar)
   - 🤔 Opened an issue in
     [constantamateur/soupx](https://github.com/constantamateur/soupx)
-  - 🗣 Commented on commit
-    [theislab/zellkonverter@325f5ccffe](https://github.com/theislab/zellkonverter@325f5ccffe)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1366301436846477315">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1370051493886369792">
+</a> <a href="https://twitter.com/_lazappi_/status/1371746862009614338">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
