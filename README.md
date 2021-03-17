@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
   - 🤔 Opened an issue in
     [theislab/scanpy](https://github.com/theislab/scanpy)
   - 🗣 Commented on issue
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [theislab/sfaira\#187](https://github.com/theislab/sfaira#187)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
