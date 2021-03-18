@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [lazappi/clustree\#71](https://github.com/lazappi/clustree#71)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
+  - 🗣 Commented on issue
+    [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
+  - 🗣 Commented on issue
+    [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
+  - 🗣 Commented on issue
     [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
   - 🤔 Opened an issue in
     [theislab/scanpy](https://github.com/theislab/scanpy)
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/scanpy](https://github.com/theislab/scanpy)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
-  - 🗣 Commented on issue
-    [theislab/sfaira\#186](https://github.com/theislab/sfaira#186)
-  - 🗣 Commented on issue
-    [theislab/sfaira\#187](https://github.com/theislab/sfaira#187)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
