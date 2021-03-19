@@ -35,6 +35,14 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [scrna-tools/scrna-tools\#138](https://github.com/scrna-tools/scrna-tools#138)
   - 🗣 Commented on issue
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
   - 🗣 Commented on issue
     [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
-  - 🗣 Commented on issue
-    [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
-  - 🗣 Commented on issue
-    [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
-  - 🤔 Opened an issue in
-    [theislab/scanpy](https://github.com/theislab/scanpy)
-  - 🗣 Commented on issue
-    [theislab/scanpy\#1745](https://github.com/theislab/scanpy#1745)
 
 ### Some recent blog posts 📝
 
