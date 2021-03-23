@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [kouts/vue-dataset](https://github.com/kouts/vue-dataset)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +50,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#71](https://github.com/lazappi/clustree#71)
   - 🗣 Commented on issue
     [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
-  - 🗣 Commented on issue
-    [theislab/scanpy\#1747](https://github.com/theislab/scanpy#1747)
 
 ### Some recent blog posts 📝
 
