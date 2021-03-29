@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to tutorial-example in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 😺 Created a branch tutorial-example in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🍴 Forked lazappi/singlecellopenproblems from
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - ⭐️ Starred [dynverse/anndata](https://github.com/dynverse/anndata)
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - ⭐️ Starred [kouts/vue-dataset](https://github.com/kouts/vue-dataset)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
