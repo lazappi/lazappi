@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🤔 Opened an issue in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - 📨 Pushed to master in
-    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
 
 ### Some recent blog posts 📝
 
