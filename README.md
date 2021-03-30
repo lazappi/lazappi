@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
+  - 🗣 Commented on issue
+    [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
+  - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#278](https://github.com/singlecellopenproblems/singlecellopenproblems#278)
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#262](https://github.com/singlecellopenproblems/singlecellopenproblems#262)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
-  - 📨 Pushed to tutorial-example in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 😺 Created a branch tutorial-example in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1376825569644527616">
+<a href="https://twitter.com/_lazappi_/status/1376884636090007557">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1376497249291755520">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
