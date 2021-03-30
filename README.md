@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
+  - 🤔 Opened an issue in
+    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
+  - 🗣 Commented on pull request
     [singlecellopenproblems/singlecellopenproblems\#289](https://github.com/singlecellopenproblems/singlecellopenproblems#289)
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#275](https://github.com/singlecellopenproblems/singlecellopenproblems#275)
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 😺 Created a branch dimred-datasets-preprocessing in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🤔 Opened an issue in
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1376884636090007557">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1376497249291755520">
+</a> <a href="https://twitter.com/_lazappi_/status/1376947437538054147">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
