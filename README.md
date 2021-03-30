@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 📨 Pushed to tutorial-example in
@@ -48,7 +50,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - ⭐️ Starred [kouts/vue-dataset](https://github.com/kouts/vue-dataset)
 
 ### Some recent blog posts 📝
 
