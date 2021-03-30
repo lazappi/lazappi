@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [singlecellopenproblems/singlecellopenproblems\#289](https://github.com/singlecellopenproblems/singlecellopenproblems#289)
+  - 🗣 Commented on issue
+    [singlecellopenproblems/singlecellopenproblems\#275](https://github.com/singlecellopenproblems/singlecellopenproblems#275)
+  - 😺 Created a branch dimred-datasets in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 😺 Created a branch dimred-metrics in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 😺 Created a branch dimred-methods in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🤔 Opened a pull request in
+    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
+  - 😺 Created a branch dimred-datasets-preprocessing in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🤔 Opened an issue in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#278](https://github.com/singlecellopenproblems/singlecellopenproblems#278)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#262](https://github.com/singlecellopenproblems/singlecellopenproblems#262)
-  - 🤔 Opened an issue in
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#248](https://github.com/singlecellopenproblems/singlecellopenproblems#248)
-  - 🤔 Opened an issue in
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - 🤔 Opened an issue in
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
