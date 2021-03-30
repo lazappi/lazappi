@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [singlecellopenproblems/singlecellopenproblems\#278](https://github.com/singlecellopenproblems/singlecellopenproblems#278)
+  - 🗣 Commented on issue
+    [singlecellopenproblems/singlecellopenproblems\#262](https://github.com/singlecellopenproblems/singlecellopenproblems#262)
+  - 🤔 Opened an issue in
+    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
+  - 🗣 Commented on issue
+    [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
+  - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#248](https://github.com/singlecellopenproblems/singlecellopenproblems#248)
   - 🤔 Opened an issue in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
@@ -43,13 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 😺 Created a branch tutorial-example in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🍴 Forked lazappi/singlecellopenproblems from
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - ⭐️ Starred [dynverse/anndata](https://github.com/dynverse/anndata)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
