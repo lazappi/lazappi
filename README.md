@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🎊 Closed a pull request in
+    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
+  - 🗣 Commented on pull request
+    [singlecellopenproblems/singlecellopenproblems\#289](https://github.com/singlecellopenproblems/singlecellopenproblems#289)
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
   - 🗣 Commented on pull request
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
   - 🤔 Opened an issue in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - 🗣 Commented on pull request
-    [singlecellopenproblems/singlecellopenproblems\#289](https://github.com/singlecellopenproblems/singlecellopenproblems#289)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#275](https://github.com/singlecellopenproblems/singlecellopenproblems#275)
-  - 😺 Created a branch dimred-datasets in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
