@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [singlecellopenproblems/singlecellopenproblems\#301](https://github.com/singlecellopenproblems/singlecellopenproblems#301)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#7](https://github.com/lazappi/singlecellopenproblems#7)
+  - 📨 Pushed to dimred-methods-preprocessing-dev in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 📨 Pushed to dimred-methods-preprocessing-dev in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🤔 Opened a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#1](https://github.com/lazappi/singlecellopenproblems#1)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#4](https://github.com/lazappi/singlecellopenproblems#4)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#5](https://github.com/lazappi/singlecellopenproblems#5)
-  - 📨 Pushed to dimred-metrics in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
