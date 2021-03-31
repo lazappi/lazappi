@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#5](https://github.com/lazappi/singlecellopenproblems#5)
+  - 📨 Pushed to dimred-metrics in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to dimred-datasets in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to dimred-methods-preprocessing in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to master in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 😺 Created a branch dimred-methods-preprocessing in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 📨 Pushed to master in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🎊 Closed a pull request in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🗣 Commented on pull request
     [singlecellopenproblems/singlecellopenproblems\#289](https://github.com/singlecellopenproblems/singlecellopenproblems#289)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
-  - 🗣 Commented on issue
-    [singlecellopenproblems/singlecellopenproblems\#295](https://github.com/singlecellopenproblems/singlecellopenproblems#295)
-  - 🗣 Commented on pull request
-    [theislab/scib\#229](https://github.com/theislab/scib#229)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
-  - 🤔 Opened an issue in
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
