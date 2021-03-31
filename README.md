@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#295](https://github.com/singlecellopenproblems/singlecellopenproblems#295)
   - 🗣 Commented on pull request
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#275](https://github.com/singlecellopenproblems/singlecellopenproblems#275)
   - 😺 Created a branch dimred-datasets in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 😺 Created a branch dimred-metrics in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 😺 Created a branch dimred-methods in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
