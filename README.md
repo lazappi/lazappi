@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
+  - 📨 Pushed to dimred-methods-preprocessing-dev in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to dimred-methods-preprocessing in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to master in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🗣 Commented on pull request
     [singlecellopenproblems/singlecellopenproblems\#301](https://github.com/singlecellopenproblems/singlecellopenproblems#301)
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#7](https://github.com/lazappi/singlecellopenproblems#7)
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 😺 Created a branch dimred-methods-preprocessing-dev in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
-  - 🗣 Commented on pull request
-    [singlecellopenproblems/singlecellopenproblems\#301](https://github.com/singlecellopenproblems/singlecellopenproblems#301)
-  - 🤔 Opened a pull request in
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#1](https://github.com/lazappi/singlecellopenproblems#1)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1376884636090007557">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1376947437538054147">
+</a> <a href="https://twitter.com/_lazappi_/status/1377274816500269059">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
