@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
+  - 😺 Added daneseanna to
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+  - 🗣 Commented on pull request
+    [theislab/scib\#229](https://github.com/theislab/scib#229)
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
   - 🗣 Commented on pull request
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to dimred-methods-preprocessing in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 📨 Pushed to master in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🗣 Commented on pull request
-    [singlecellopenproblems/singlecellopenproblems\#301](https://github.com/singlecellopenproblems/singlecellopenproblems#301)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#7](https://github.com/lazappi/singlecellopenproblems#7)
-  - 📨 Pushed to dimred-methods-preprocessing-dev in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-methods-preprocessing-dev in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
