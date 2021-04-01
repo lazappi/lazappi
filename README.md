@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 😺 Created a branch website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 😺 Added daneseanna to
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
   - 📨 Pushed to dimred-methods-preprocessing-dev in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-methods-preprocessing in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to master in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1377629882662985734">
+<a href="https://twitter.com/_lazappi_/status/1377639837696688138">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1377525377480990721">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
