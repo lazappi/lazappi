@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - ⭐️ Starred
+    [himelmallick/tweedieverse](https://github.com/himelmallick/tweedieverse)
   - 🤔 Opened a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Created a branch website in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
-  - 🗣 Commented on pull request
-    [theislab/scib\#229](https://github.com/theislab/scib#229)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
-  - 📨 Pushed to dimred-methods-preprocessing-dev in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
