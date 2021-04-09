@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to version1 in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 😺 Added daneseanna to
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
 
 ### Some recent blog posts 📝
 
