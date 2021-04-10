@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to version1 in
     [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📨 Pushed to version1 in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
-  - 😺 Added daneseanna to
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
