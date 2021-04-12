@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to version1 in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to version1 in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - ⭐️ Starred
-    [himelmallick/tweedieverse](https://github.com/himelmallick/tweedieverse)
-  - 🤔 Opened a pull request in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Created a branch website in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 📨 Pushed to master in
-    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
 
 ### Some recent blog posts 📝
 
