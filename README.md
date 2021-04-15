@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
+  - 📨 Pushed to website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to version1 in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to version1 in
     [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to version1 in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
