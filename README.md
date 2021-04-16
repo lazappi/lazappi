@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#45](https://github.com/theislab/zellkonverter#45)
   - 🗣 Commented on pull request
     [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#5](https://github.com/lazappi/singlecellopenproblems#5)
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#4](https://github.com/lazappi/singlecellopenproblems#4)
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#8](https://github.com/lazappi/singlecellopenproblems#8)
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#9](https://github.com/lazappi/singlecellopenproblems#9)
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#7](https://github.com/lazappi/singlecellopenproblems#7)
-  - 🎊 Closed a pull request in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1382707316101890055">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1382990597288554496">
+</a> <a href="https://twitter.com/_lazappi_/status/1383054682759835649">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
