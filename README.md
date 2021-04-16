@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
   - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+  - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to version1 in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1382707316101890055">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1382688337857802240">
+</a> <a href="https://twitter.com/_lazappi_/status/1382944127977992192">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
