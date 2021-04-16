@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#45](https://github.com/theislab/zellkonverter#45)
   - 🗣 Commented on pull request
     [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems\#7](https://github.com/lazappi/singlecellopenproblems#7)
   - 🎊 Closed a pull request in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#6](https://github.com/lazappi/singlecellopenproblems#6)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1382707316101890055">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1382968355582251008">
+</a> <a href="https://twitter.com/_lazappi_/status/1382990597288554496">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
