@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#5](https://github.com/lazappi/singlecellopenproblems#5)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#4](https://github.com/lazappi/singlecellopenproblems#4)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#8](https://github.com/lazappi/singlecellopenproblems#8)
+  - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#9](https://github.com/lazappi/singlecellopenproblems#9)
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#6](https://github.com/lazappi/singlecellopenproblems#6)
-  - 📨 Pushed to dimred-metrics in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-datasets in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to master in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1382707316101890055">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1382944127977992192">
+</a> <a href="https://twitter.com/_lazappi_/status/1382968355582251008">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
