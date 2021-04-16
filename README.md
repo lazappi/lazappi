@@ -32,25 +32,25 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+    [lazappi/singlecellopenproblems\#9](https://github.com/lazappi/singlecellopenproblems#9)
   - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
   - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
   - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
-  - 📨 Pushed to website in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 📨 Pushed to version1 in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
+    [lazappi/singlecellopenproblems\#7](https://github.com/lazappi/singlecellopenproblems#7)
+  - 🎊 Closed a pull request in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#6](https://github.com/lazappi/singlecellopenproblems#6)
+  - 📨 Pushed to dimred-metrics in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to dimred-datasets in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
