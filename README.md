@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on issue
     [singlecellopenproblems/singlecellopenproblems\#279](https://github.com/singlecellopenproblems/singlecellopenproblems#279)
   - 📨 Pushed to master in
@@ -41,10 +45,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
     [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 🗣 Commented on pull request
