@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
+  - 📨 Pushed to cleanup in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#72](https://github.com/lazappi/clustree#72)
   - 🤔 Opened an issue in
     [sydneybiox/scclassify](https://github.com/sydneybiox/scclassify)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
 
 ### Some recent blog posts 📝
 
