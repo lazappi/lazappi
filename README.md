@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
     [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 📨 Pushed to splatpop\_updates in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#44](https://github.com/theislab/zellkonverter#44)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#73](https://github.com/lazappi/clustree#73)
 
 ### Some recent blog posts 📝
 
