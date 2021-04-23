@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
+  - 📨 Pushed to splatpop\_updates in
+    [azodichr/splatter](https://github.com/azodichr/splatter)
+  - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
   - 📨 Pushed to cleanup in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#44](https://github.com/theislab/zellkonverter#44)
   - 🗣 Commented on issue
     [lazappi/clustree\#73](https://github.com/lazappi/clustree#73)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#72](https://github.com/lazappi/clustree#72)
-  - 🤔 Opened an issue in
-    [sydneybiox/scclassify](https://github.com/sydneybiox/scclassify)
 
 ### Some recent blog posts 📝
 
