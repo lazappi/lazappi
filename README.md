@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 📨 Pushed to website in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
     [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 📨 Pushed to splatpop\_updates in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
   - 📨 Pushed to cleanup in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#71](https://github.com/lazappi/clustree#71)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#112](https://github.com/oshlack/splatter#112)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#44](https://github.com/theislab/zellkonverter#44)
 
 ### Some recent blog posts 📝
 
