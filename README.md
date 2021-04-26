@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [azodichr/splatter](https://github.com/azodichr/splatter)
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
-  - 📨 Pushed to cleanup in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
