@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [amirmasoudabdol/preferably](https://github.com/amirmasoudabdol/preferably)
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
   - 📨 Pushed to website in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 📨 Pushed to splatpop\_updates in
     [azodichr/splatter](https://github.com/azodichr/splatter)
-  - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#4](https://github.com/theislab/scib-reproducibility#4)
 
 ### Some recent blog posts 📝
 
