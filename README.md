@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
+  - 🤔 Opened a pull request in
+    [theislab/scanpy](https://github.com/theislab/scanpy)
+  - 😺 Created a branch plot\_docs\_pca in
+    [theislab/scanpy](https://github.com/theislab/scanpy)
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
   - 📨 Pushed to website in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to website in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
