@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
+  - 📨 Pushed to main in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 😺 Deleted branch website at
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🎊 Closed an issue in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🎉 Merged a pull request in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🗣 Commented on issue
+    [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
   - 🤔 Opened a pull request in
     [theislab/scanpy](https://github.com/theislab/scanpy)
   - 😺 Created a branch plot\_docs\_pca in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
   - 📨 Pushed to website in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - ⭐️ Starred
-    [amirmasoudabdol/preferably](https://github.com/amirmasoudabdol/preferably)
-  - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
-  - 📨 Pushed to website in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
