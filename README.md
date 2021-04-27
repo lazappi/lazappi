@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#28](https://github.com/theislab/zellkonverter#28)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#46](https://github.com/theislab/zellkonverter#46)
+  - 😺 Created a tag v1.1.6 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
     [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
     [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
-  - 🤔 Opened a pull request in
-    [theislab/scanpy](https://github.com/theislab/scanpy)
-  - 😺 Created a branch plot\_docs\_pca in
-    [theislab/scanpy](https://github.com/theislab/scanpy)
-  - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#7](https://github.com/theislab/scib-reproducibility#7)
-  - 📨 Pushed to website in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
