@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#47](https://github.com/theislab/zellkonverter#47)
   - 🤔 Opened an issue in
@@ -48,8 +49,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Deleted branch website at
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎊 Closed an issue in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
