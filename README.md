@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [theislab/zellkonverter\#34](https://github.com/theislab/zellkonverter#34)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#34](https://github.com/theislab/zellkonverter#34)
   - ⭐️ Starred [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#47](https://github.com/theislab/zellkonverter#47)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
-  - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
