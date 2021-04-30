@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a tag v1.1.7 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
@@ -47,9 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#34](https://github.com/theislab/zellkonverter#34)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#34](https://github.com/theislab/zellkonverter#34)
-  - ⭐️ Starred [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#47](https://github.com/theislab/zellkonverter#47)
 
 ### Some recent blog posts 📝
 
