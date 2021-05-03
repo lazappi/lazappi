@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#4](https://github.com/lazappi/singlecellopenproblems#4)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
+  - 🗣 Commented on issue
+    [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#34](https://github.com/theislab/zellkonverter#34)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#34](https://github.com/theislab/zellkonverter#34)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#34](https://github.com/theislab/zellkonverter#34)
 
 ### Some recent blog posts 📝
 
