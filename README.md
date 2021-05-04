@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#45](https://github.com/theislab/zellkonverter#45)
-  - 😺 Created a tag v1.1.8 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#4](https://github.com/lazappi/singlecellopenproblems#4)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
-  - 🗣 Commented on issue
-    [theislab/scanpy\#1619](https://github.com/theislab/scanpy#1619)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🎉 Merged a pull request in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to method-neuralee-task-dimred in
+    [michalk8/singlecellopenproblems](https://github.com/michalk8/singlecellopenproblems)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🎉 Merged a pull request in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to dimred-metrics in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🎉 Merged a pull request in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 📨 Pushed to metric-nnranking-task-dimred in
+    [michalk8/singlecellopenproblems](https://github.com/michalk8/singlecellopenproblems)
+  - 📨 Pushed to dimred-metrics in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🎉 Merged a pull request in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
