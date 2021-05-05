@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
   - 📨 Pushed to dimred-methods in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🎉 Merged a pull request in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to metric-nnranking-task-dimred in
     [michalk8/singlecellopenproblems](https://github.com/michalk8/singlecellopenproblems)
   - 📨 Pushed to dimred-metrics in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🎉 Merged a pull request in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
