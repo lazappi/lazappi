@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to cleanup in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
     [theislab/scib\#234](https://github.com/theislab/scib#234)
   - 🗣 Commented on pull request
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🎉 Merged a pull request in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to metric-nnranking-task-dimred in
-    [michalk8/singlecellopenproblems](https://github.com/michalk8/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
