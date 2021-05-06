@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to splatpop\_updates in
+    [azodichr/splatter](https://github.com/azodichr/splatter)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 📨 Pushed to cleanup in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to method-neuralee-task-dimred in
     [michalk8/singlecellopenproblems](https://github.com/michalk8/singlecellopenproblems)
   - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🎉 Merged a pull request in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-metrics in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🎉 Merged a pull request in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
