@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a branch main in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 😺 Created a repository
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to splatpop\_updates in
     [azodichr/splatter](https://github.com/azodichr/splatter)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 📨 Pushed to method-neuralee-task-dimred in
     [michalk8/singlecellopenproblems](https://github.com/michalk8/singlecellopenproblems)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🎉 Merged a pull request in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
