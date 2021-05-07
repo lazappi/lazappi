@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
@@ -40,14 +48,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 😺 Deleted branch ci at
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
