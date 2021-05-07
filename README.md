@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 📨 Pushed to main in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 📨 Pushed to main in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 😺 Deleted branch ci at
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 😺 Created a branch main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 😺 Created a repository
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 📨 Pushed to splatpop\_updates in
-    [azodichr/splatter](https://github.com/azodichr/splatter)
 
 ### Some recent blog posts 📝
 
