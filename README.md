@@ -45,11 +45,11 @@ Here are some ideas to get you started:
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 📨 Pushed to main in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 😺 Deleted branch ci at
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 🎉 Merged a pull request in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
 
 ### Some recent blog posts 📝
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1389160516413796353">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1389945354213216259">
+</a> <a href="https://twitter.com/_lazappi_/status/1390645253762342912">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
