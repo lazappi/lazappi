@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 🗣 Commented on issue
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎉 Merged a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to splatpop\_updates in
-    [azodichr/splatter](https://github.com/azodichr/splatter)
   - 📨 Pushed to splatpop\_updates in
     [azodichr/splatter](https://github.com/azodichr/splatter)
 
