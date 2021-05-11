@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [wrathematics/proginfo](https://github.com/wrathematics/proginfo)
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - ⭐️ Starred
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 📨 Pushed to main in
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1389160516413796353">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1392009298750939136">
+</a> <a href="https://twitter.com/_lazappi_/status/1392035325313224705">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
