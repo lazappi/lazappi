@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
+  - 🗣 Commented on pull request
+    [lazappi/singlecellopenproblems\#2](https://github.com/lazappi/singlecellopenproblems#2)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a tag v1.15.2 in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [azodichr/splatter](https://github.com/azodichr/splatter)
   - 📨 Pushed to splatpop\_updates in
     [azodichr/splatter](https://github.com/azodichr/splatter)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
-  - 🤔 Opened an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
 
 ### Some recent blog posts 📝
 
