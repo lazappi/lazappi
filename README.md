@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - ⭐️ Starred
     [wrathematics/proginfo](https://github.com/wrathematics/proginfo)
   - 📨 Pushed to main in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
 
 ### Some recent blog posts 📝
 
