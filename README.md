@@ -32,6 +32,18 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
+  - 😺 Created a tag v1.1.9 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#50](https://github.com/theislab/zellkonverter#50)
+  - 🤔 Opened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
   - 📨 Pushed to dimred-methods in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 📨 Pushed to dimred-metrics in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-datasets in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to master in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-datasets in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🎉 Merged a pull request in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
 
 ### Some recent blog posts 📝
 
