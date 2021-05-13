@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [mojaveazure/seurat-object\#15](https://github.com/mojaveazure/seurat-object#15)
+  - 🤔 Opened an issue in
+    [mojaveazure/seurat-object](https://github.com/mojaveazure/seurat-object)
   - 🗣 Commented on pull request
     [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
   - 😺 Created a tag v1.1.9 in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
   - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🎉 Merged a pull request in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 📨 Pushed to dimred-metrics in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
