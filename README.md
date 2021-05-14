@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🤔 Opened a pull request in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🤔 Opened a pull request in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#50](https://github.com/theislab/zellkonverter#50)
   - 🗣 Commented on issue
     [constantamateur/soupx\#73](https://github.com/constantamateur/soupx#73)
-  - 🗣 Commented on issue
-    [mojaveazure/seurat-object\#15](https://github.com/mojaveazure/seurat-object#15)
-  - 🗣 Commented on issue
-    [mojaveazure/seurat-object\#15](https://github.com/mojaveazure/seurat-object#15)
-  - 🤔 Opened an issue in
-    [mojaveazure/seurat-object](https://github.com/mojaveazure/seurat-object)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#113](https://github.com/oshlack/splatter#113)
 
 ### Some recent blog posts 📝
 
