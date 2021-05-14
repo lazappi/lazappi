@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#46](https://github.com/theislab/zellkonverter#46)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#50](https://github.com/theislab/zellkonverter#50)
+  - 🗣 Commented on issue
+    [constantamateur/soupx\#73](https://github.com/constantamateur/soupx#73)
+  - 🗣 Commented on issue
+    [mojaveazure/seurat-object\#15](https://github.com/mojaveazure/seurat-object#15)
   - 🗣 Commented on issue
     [mojaveazure/seurat-object\#15](https://github.com/mojaveazure/seurat-object#15)
   - 🤔 Opened an issue in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎊 Closed an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#50](https://github.com/theislab/zellkonverter#50)
-  - 🤔 Opened an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on pull request
-    [lazappi/singlecellopenproblems\#3](https://github.com/lazappi/singlecellopenproblems#3)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1392824816244248579">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1392823026425729024">
+</a> <a href="https://twitter.com/_lazappi_/status/1393121420327198722">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
