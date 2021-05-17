@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to native in
+    [ltla/zellkonverter](https://github.com/ltla/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to cleanup in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🤔 Opened a pull request in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#46](https://github.com/theislab/zellkonverter#46)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#50](https://github.com/theislab/zellkonverter#50)
 
 ### Some recent blog posts 📝
 
