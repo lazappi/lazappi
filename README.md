@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to cleanup in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#46](https://github.com/theislab/zellkonverter#46)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#50](https://github.com/theislab/zellkonverter#50)
-  - 🗣 Commented on issue
-    [constantamateur/soupx\#73](https://github.com/constantamateur/soupx#73)
 
 ### Some recent blog posts 📝
 
