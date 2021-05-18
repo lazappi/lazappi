@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [rafalab/smallcount](https://github.com/rafalab/smallcount)
   - 📨 Pushed to native in
     [ltla/zellkonverter](https://github.com/ltla/zellkonverter)
   - 📨 Pushed to master in
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened a pull request in
-    [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🤔 Opened a pull request in
     [singlecellopenproblems/singlecellopenproblems](https://github.com/singlecellopenproblems/singlecellopenproblems)
   - 🤔 Opened a pull request in
