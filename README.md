@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.3.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📦 Released bioconductor 3.13 at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.2.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v1.17.1 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a tag v1.16.0 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📦 Released bioconductor 3.13 at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.1.11 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
