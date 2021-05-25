@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📦 Released bioconductor 3.13 at
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v1.2.0 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
