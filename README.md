@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [jdblischak/smk-simple-slurm](https://github.com/jdblischak/smk-simple-slurm)
   - 📨 Pushed to cleanup in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to main in
-    [theislab/sfaira-site](https://github.com/theislab/sfaira-site)
   - 📨 Pushed to main in
     [theislab/sfaira-site](https://github.com/theislab/sfaira-site)
   - 📨 Pushed to main in
