@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [jdblischak/smk-simple-slurm](https://github.com/jdblischak/smk-simple-slurm)
   - 📨 Pushed to cleanup in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to main in
-    [theislab/sfaira-site](https://github.com/theislab/sfaira-site)
   - 📨 Pushed to main in
     [theislab/sfaira-site](https://github.com/theislab/sfaira-site)
 
