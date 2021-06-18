@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [lazappi/clustree\#74](https://github.com/lazappi/clustree#74)
   - 🗣 Commented on issue
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
   - 😺 Deleted branch cleanup at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Created a branch cleanup in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
