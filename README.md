@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [lazappi/clustree\#74](https://github.com/lazappi/clustree#74)
+  - 🗣 Commented on issue
     [hansenlab/tricycle\#2](https://github.com/hansenlab/tricycle#2)
   - 🤔 Opened an issue in
     [hansenlab/tricycle](https://github.com/hansenlab/tricycle)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Deleted branch cleanup at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
