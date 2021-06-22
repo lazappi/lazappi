@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
+  - 😺 Created a tag v1.3.1 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.2.1 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
   - 🗣 Commented on issue
     [oshlack/splatter\#115](https://github.com/oshlack/splatter#115)
   - 📨 Pushed to master in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#74](https://github.com/lazappi/clustree#74)
-  - 🗣 Commented on issue
-    [hansenlab/tricycle\#2](https://github.com/hansenlab/tricycle#2)
-  - 🤔 Opened an issue in
-    [hansenlab/tricycle](https://github.com/hansenlab/tricycle)
-  - 🤔 Opened a pull request in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1406894674359500800">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1407224804382543874">
+</a> <a href="https://twitter.com/_lazappi_/status/1407261420371251200">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
