@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
+  - 🗣 Commented on issue
     [oshlack/splatter\#115](https://github.com/oshlack/splatter#115)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🤔 Opened an issue in
     [hansenlab/tricycle](https://github.com/hansenlab/tricycle)
   - 🤔 Opened a pull request in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Created a branch cleanup2 in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
