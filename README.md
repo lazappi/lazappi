@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#116](https://github.com/oshlack/splatter#116)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
   - 😺 Created a tag v1.3.1 in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [oshlack/splatter\#115](https://github.com/oshlack/splatter#115)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
