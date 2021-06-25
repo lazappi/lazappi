@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 😺 Created a branch main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 😺 Created a repository
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
   - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
   - 😺 Created a tag v1.3.1 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.2.1 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#115](https://github.com/oshlack/splatter#115)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1406894674359500800">
+<a href="https://twitter.com/_lazappi_/status/1408374599767793664">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1408324367482753026">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
