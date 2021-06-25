@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -41,10 +45,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [scrna-tools/scrna-tools\#152](https://github.com/scrna-tools/scrna-tools#152)
-  - 📨 Pushed to main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
-  - 📨 Pushed to main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
   - 📨 Pushed to main in
     [lazappi/doilinker](https://github.com/lazappi/doilinker)
   - 📨 Pushed to main in
