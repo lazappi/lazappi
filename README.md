@@ -39,6 +39,8 @@ Here are some ideas to get you started:
     [lazappi/doilinker](https://github.com/lazappi/doilinker)
   - 📨 Pushed to main in
     [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
   - 😺 Created a branch main in
     [lazappi/doilinker](https://github.com/lazappi/doilinker)
   - 😺 Created a repository
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#116](https://github.com/oshlack/splatter#116)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
-  - 😺 Created a tag v1.3.1 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
