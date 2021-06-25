@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
-  - 📨 Pushed to main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
-  - 📨 Pushed to main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
-  - 📨 Pushed to main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
-  - 📨 Pushed to main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
-  - 😺 Created a branch main in
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
-  - 😺 Created a repository
-    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
-    [oshlack/splatter\#116](https://github.com/oshlack/splatter#116)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#55](https://github.com/theislab/zellkonverter#55)
+    [scrna-tools/scrna-tools\#152](https://github.com/scrna-tools/scrna-tools#152)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
+  - 📨 Pushed to main in
+    [lazappi/doilinker](https://github.com/lazappi/doilinker)
 
 ### Some recent blog posts 📝
 
