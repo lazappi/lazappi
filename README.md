@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [lazappi/clustree\#58](https://github.com/lazappi/clustree#58)
   - 📨 Pushed to master in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [lazappi/clustree\#14](https://github.com/lazappi/clustree#14)
-  - 🤔 Opened an issue in
-    [theislab/scanpy](https://github.com/theislab/scanpy)
-  - 📨 Pushed to main in
-    [lazappi/universe](https://github.com/lazappi/universe)
-  - 📨 Pushed to main in
-    [lazappi/universe](https://github.com/lazappi/universe)
 
 ### Some recent blog posts 📝
 
