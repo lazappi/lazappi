@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [scrna-tools/scrna-tools\#158](https://github.com/scrna-tools/scrna-tools#158)
   - 🗣 Commented on issue
     [oshlack/splatter\#117](https://github.com/oshlack/splatter#117)
   - ⭐️ Starred
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
