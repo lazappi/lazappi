@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch checks-2021-07-27 in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 😺 Deleted branch checks-2021-07-27 at
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🎊 Closed a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to checks-2021-07-27 in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools\#158](https://github.com/scrna-tools/scrna-tools#158)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch checks-2021-07-27 in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on pull request
-    [scrna-tools/scrna-tools\#158](https://github.com/scrna-tools/scrna-tools#158)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#117](https://github.com/oshlack/splatter#117)
-  - ⭐️ Starred
-    [thinkr-open/prepare-for-cran](https://github.com/thinkr-open/prepare-for-cran)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#117](https://github.com/oshlack/splatter#117)
 
 ### Some recent blog posts 📝
 
