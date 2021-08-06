@@ -31,25 +31,25 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on issue
-    [scrna-tools/scrna-tools\#161](https://github.com/scrna-tools/scrna-tools#161)
-  - 🗣 Commented on issue
-    [scrna-tools/scrna-tools\#161](https://github.com/scrna-tools/scrna-tools#161)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch updates-2021-07-31 in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
+  - 😺 Deleted branch checks-20210806 at
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Deleted branch checks-2021-07-27 at
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch checks-20210806 in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🗣 Commented on pull request
+    [theislab/scanpy-tutorials\#43](https://github.com/theislab/scanpy-tutorials#43)
+  - 🗣 Commented on issue
+    [scrna-tools/scrna-tools\#161](https://github.com/scrna-tools/scrna-tools#161)
+  - 🗣 Commented on issue
+    [scrna-tools/scrna-tools\#161](https://github.com/scrna-tools/scrna-tools#161)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
