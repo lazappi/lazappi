@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch updates-20210807 in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch updates-20210806 in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 😺 Deleted branch checks-20210806 at
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/scanpy-tutorials\#43](https://github.com/theislab/scanpy-tutorials#43)
-  - 🗣 Commented on issue
-    [scrna-tools/scrna-tools\#161](https://github.com/scrna-tools/scrna-tools#161)
-  - 🗣 Commented on issue
-    [scrna-tools/scrna-tools\#161](https://github.com/scrna-tools/scrna-tools#161)
 
 ### Some recent blog posts 📝
 
