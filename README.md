@@ -31,25 +31,25 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Deleted branch 2021-07-16 at
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch 2021-07-16 in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 😺 Deleted branch 2021-07-16 at
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🎊 Closed a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to updates-20210807 in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch updates-20210807 in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch updates-20210806 in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 😺 Deleted branch checks-20210806 at
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch checks-20210806 in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
