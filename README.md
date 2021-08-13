@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📦 Released submission at
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 😺 Created a tag 20210813 in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
   - 🗣 Commented on issue
     [oshlack/splatter\#119](https://github.com/oshlack/splatter#119)
   - 😺 Reopened an issue in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
