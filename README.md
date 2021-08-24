@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#51](https://github.com/theislab/zellkonverter#51)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#115](https://github.com/oshlack/splatter#115)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#121](https://github.com/oshlack/splatter#121)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🎊 Closed an issue in
@@ -40,16 +50,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred [oshlack/slinker](https://github.com/oshlack/slinker)
   - 📨 Pushed to main in
     [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
-  - 📦 Released submission at
-    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
-  - 😺 Created a tag 20210813 in
-    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#119](https://github.com/oshlack/splatter#119)
-  - 😺 Reopened an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#118](https://github.com/oshlack/splatter#118)
 
 ### Some recent blog posts 📝
 
