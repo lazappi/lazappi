@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#51](https://github.com/theislab/zellkonverter#51)
   - 🗣 Commented on pull request
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [lazappi/clustree\#74](https://github.com/lazappi/clustree#74)
   - ⭐️ Starred [oshlack/slinker](https://github.com/oshlack/slinker)
-  - 📨 Pushed to main in
-    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
 
 ### Some recent blog posts 📝
 
