@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎊 Closed an issue in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#115](https://github.com/oshlack/splatter#115)
   - 🗣 Commented on issue
     [oshlack/splatter\#121](https://github.com/oshlack/splatter#121)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#74](https://github.com/lazappi/clustree#74)
 
 ### Some recent blog posts 📝
 
