@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#122](https://github.com/oshlack/splatter#122)
   - 🤔 Opened an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#51](https://github.com/theislab/zellkonverter#51)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
 
 ### Some recent blog posts 📝
 
