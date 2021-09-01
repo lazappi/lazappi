@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/squidpy\#409](https://github.com/theislab/squidpy#409)
   - 🤔 Opened an issue in
     [theislab/squidpy](https://github.com/theislab/squidpy)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
