@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
   - 🗣 Commented on pull request
     [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/squidpy\#409](https://github.com/theislab/squidpy#409)
   - 🤔 Opened an issue in
     [theislab/squidpy](https://github.com/theislab/squidpy)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#122](https://github.com/oshlack/splatter#122)
 
 ### Some recent blog posts 📝
 
