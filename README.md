@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/cellrank\#667](https://github.com/theislab/cellrank#667)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
   - 🗣 Commented on pull request
     [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
   - 🗣 Commented on issue
     [theislab/squidpy\#409](https://github.com/theislab/squidpy#409)
-  - 🤔 Opened an issue in
-    [theislab/squidpy](https://github.com/theislab/squidpy)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1433364466624868354">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1435128464873558020">
+</a> <a href="https://twitter.com/_lazappi_/status/1435160622052806663">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
