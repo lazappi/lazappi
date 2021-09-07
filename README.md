@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 📨 Pushed to main in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [theislab/cellrank\#667](https://github.com/theislab/cellrank#667)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/squidpy\#409](https://github.com/theislab/squidpy#409)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
-  - 🗣 Commented on issue
-    [theislab/squidpy\#409](https://github.com/theislab/squidpy#409)
 
 ### Some recent blog posts 📝
 
