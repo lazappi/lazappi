@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on pull request
     [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
   - 😺 Created a tag v1.3.2 in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/cellrank\#667](https://github.com/theislab/cellrank#667)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#120](https://github.com/oshlack/splatter#120)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1436222777103638528">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1436222796938555395">
+</a> <a href="https://twitter.com/_lazappi_/status/1436265539387674632">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
