@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🤔 Opened an issue in [r-lib/cli](https://github.com/r-lib/cli)
+  - 🤔 Opened an issue in [r-lib/cli](https://github.com/r-lib/cli)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -46,8 +47,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to main in
-    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
   - 📨 Pushed to main in
     [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
 
