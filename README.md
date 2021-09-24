@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
+  - ⭐️ Starred
+    [goekelab/bioinformatics-workflows](https://github.com/goekelab/bioinformatics-workflows)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
   - 🤔 Opened an issue in [r-lib/cli](https://github.com/r-lib/cli)
   - 🤔 Opened an issue in [r-lib/cli](https://github.com/r-lib/cli)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
