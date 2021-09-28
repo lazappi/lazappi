@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
+  - 😺 Reopened an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
   - 🗣 Commented on issue
     [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
   - ⭐️ Starred
     [goekelab/bioinformatics-workflows](https://github.com/goekelab/bioinformatics-workflows)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1438056629849804800">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1442523663664779268">
+</a> <a href="https://twitter.com/_lazappi_/status/1442749113523658754">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
