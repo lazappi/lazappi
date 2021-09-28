@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 📨 Pushed to main in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
   - 😺 Reopened an issue in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2266](https://github.com/bioconductor/contributions#2266)
-  - ⭐️ Starred
-    [goekelab/bioinformatics-workflows](https://github.com/goekelab/bioinformatics-workflows)
 
 ### Some recent blog posts 📝
 
