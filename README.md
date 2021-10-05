@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to main in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 😺 Deleted branch update\_analysis\_nbs at
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
 
 ### Some recent blog posts 📝
 
