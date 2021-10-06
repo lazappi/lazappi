@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.17.2 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎉 Merged a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to splatpop\_updates in
+    [azodichr/splatter](https://github.com/azodichr/splatter)
   - 😺 Reopened an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
@@ -41,14 +49,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
   - 🗣 Commented on pull request
     [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
 
