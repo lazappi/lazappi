@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Reopened an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Deleted branch update\_analysis\_nbs at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
   - 🗣 Commented on pull request
     [oshlack/splatter\#123](https://github.com/oshlack/splatter#123)
   - 🗣 Commented on pull request
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1445286929742848004">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1444982468558348299">
+</a> <a href="https://twitter.com/_lazappi_/status/1445645618437709850">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
