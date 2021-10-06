@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2276](https://github.com/bioconductor/contributions#2276)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
   - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Deleted branch update\_analysis\_nbs at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
