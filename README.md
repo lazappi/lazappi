@@ -33,24 +33,24 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Deleted branch update\_analysis\_nbs at
+  - 😺 Deleted branch metric\_dist\_vis at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
-    [oshlack/splatter\#124](https://github.com/oshlack/splatter#124)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2276](https://github.com/bioconductor/contributions#2276)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
-  - 😺 Created a tag v1.17.2 in
+    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
+  - 😺 Created a tag v1.17.3 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎉 Merged a pull request in
+  - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#118](https://github.com/oshlack/splatter#118)
+  - 📨 Pushed to main in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
 
