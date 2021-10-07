@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Deleted branch metric\_dist\_vis at
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎊 Closed a pull request in
+  - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
