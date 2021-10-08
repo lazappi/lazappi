@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
   - 😺 Created a tag 20211008 in
     [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
-  - 📨 Pushed to main in
-    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
 
 ### Some recent blog posts 📝
 
