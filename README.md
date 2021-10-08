@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1446371201266430018">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1446371683842076692">
+</a> <a href="https://twitter.com/_lazappi_/status/1446495869424050209">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
