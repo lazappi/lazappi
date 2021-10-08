@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2276](https://github.com/bioconductor/contributions#2276)
   - 📦 Released revisions at
     [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
   - 😺 Created a tag 20211008 in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
-  - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Deleted branch metric\_dist\_vis at
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎉 Merged a pull request in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
 
 ### Some recent blog posts 📝
 
