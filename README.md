@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📦 Released revisions at
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 😺 Created a tag 20211008 in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 📨 Pushed to main in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on issue
     [oshlack/splatter\#107](https://github.com/oshlack/splatter#107)
-  - 😺 Created a tag v1.17.3 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
