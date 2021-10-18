@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#56](https://github.com/theislab/zellkonverter#56)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#57](https://github.com/theislab/zellkonverter#57)
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#14](https://github.com/theislab/scib-reproducibility#14)
   - 🤔 Opened a pull request in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2286](https://github.com/bioconductor/contributions#2286)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2320](https://github.com/bioconductor/contributions#2320)
 
 ### Some recent blog posts 📝
 
