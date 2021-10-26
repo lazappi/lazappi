@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 😺 Deleted branch martaint-patch-1 at
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+  - 🎉 Merged a pull request in
+    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#16](https://github.com/theislab/scib-reproducibility#16)
   - 🗣 Commented on pull request
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#14](https://github.com/theislab/scib-reproducibility#14)
-  - 😺 Added azodichr to
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
