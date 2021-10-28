@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#75](https://github.com/lazappi/clustree#75)
   - 📨 Pushed to main in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
   - 😺 Deleted branch martaint-patch-1 at
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [theislab/scib-reproducibility\#16](https://github.com/theislab/scib-reproducibility#16)
   - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Deleted branch website at
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎉 Merged a pull request in
     [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 ### Some recent blog posts 📝
