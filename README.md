@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.5.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📦 Released bioconductor 3.14 at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.4.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
-    [lazappi/clustree\#75](https://github.com/lazappi/clustree#75)
-  - 📨 Pushed to main in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 😺 Deleted branch martaint-patch-1 at
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-  - 🎉 Merged a pull request in
-    [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+    [oshlack/splatter\#125](https://github.com/oshlack/splatter#125)
+  - 🎊 Closed a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
-    [theislab/scib-reproducibility\#16](https://github.com/theislab/scib-reproducibility#16)
+    [oshlack/splatter\#126](https://github.com/oshlack/splatter#126)
+  - 😺 Created a tag v1.19.1 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.18.1 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
