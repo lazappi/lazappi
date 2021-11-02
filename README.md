@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1455439863654887425">
+<a href="https://twitter.com/_lazappi_/status/1455517810570969091">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1455439636281573377">
+</a> <a href="https://twitter.com/_lazappi_/status/1455512556790034437">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
