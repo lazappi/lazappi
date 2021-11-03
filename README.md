@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
   - 😺 Created a tag v1.5.0 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [oshlack/splatter\#126](https://github.com/oshlack/splatter#126)
   - 😺 Created a tag v1.19.1 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.18.1 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
