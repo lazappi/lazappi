@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
   - 😺 Created a tag v1.5.0 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [oshlack/splatter\#126](https://github.com/oshlack/splatter#126)
-  - 😺 Created a tag v1.19.1 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1456167853229580288">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1455800237612797956">
+</a> <a href="https://twitter.com/_lazappi_/status/1456276591529521160">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
