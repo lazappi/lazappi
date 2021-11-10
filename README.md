@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📦 Released version 0.4.4 at
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📨 Pushed to develop in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 😺 Created a tag v0.4.4 in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📨 Pushed to master in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [milesmcbain/capsule](https://github.com/milesmcbain/capsule)
   - 🤔 Opened an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1456660263684485121">
+<a href="https://twitter.com/_lazappi_/status/1458352881397026817">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1457685563306299393">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
