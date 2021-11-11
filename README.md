@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📦 Released version 0.4.4 at
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [milesmcbain/fnmate](https://github.com/milesmcbain/fnmate)
   - ⭐️ Starred
     [milesmcbain/capsule](https://github.com/milesmcbain/capsule)
-  - 🤔 Opened an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
