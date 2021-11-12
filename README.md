@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📦 Released post-publication at
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 😺 Created a tag 20211112 in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 📨 Pushed to main in
+    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📦 Released version 0.4.4 at
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to develop in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 😺 Created a tag v0.4.4 in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to master in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
