@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📦 Released post-publication at
-    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
-  - 😺 Created a tag 20211112 in
-    [scrna-tools/1000-tools-paper](https://github.com/scrna-tools/1000-tools-paper)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1461239466765467649">
+<a href="https://twitter.com/_lazappi_/status/1462726239345651712">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1461626673779163139">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
