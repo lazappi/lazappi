@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scib\#278](https://github.com/theislab/scib#278)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2383](https://github.com/bioconductor/contributions#2383)
   - 🤔 Opened an issue in
     [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
   - 🗣 Commented on issue
     [scrna-tools/scrna-tools\#184](https://github.com/scrna-tools/scrna-tools#184)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1462726239345651712">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1463552216141287426">
+</a> <a href="https://twitter.com/_lazappi_/status/1463790886597414914">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
