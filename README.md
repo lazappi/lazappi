@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 📨 Pushed to master in
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
 
 ### Some recent blog posts 📝
 
