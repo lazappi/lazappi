@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
+  - 🗣 Commented on issue
     [theislab/scib\#278](https://github.com/theislab/scib#278)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2383](https://github.com/bioconductor/contributions#2383)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
-  - 🗣 Commented on issue
-    [scrna-tools/scrna-tools\#184](https://github.com/scrna-tools/scrna-tools#184)
 
 ### Some recent blog posts 📝
 
