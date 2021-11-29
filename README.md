@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
+  - 🤔 Opened a pull request in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
+  - 📨 Pushed to feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
+  - 📨 Pushed to feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
+  - 📨 Pushed to feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
+  - 😺 Created a branch feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
-  - 🗣 Commented on issue
-    [theislab/scib\#278](https://github.com/theislab/scib#278)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2383](https://github.com/bioconductor/contributions#2383)
-  - 🤔 Opened an issue in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1462726239345651712">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1465303172373753863">
+</a> <a href="https://twitter.com/_lazappi_/status/1465324291147411465">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
