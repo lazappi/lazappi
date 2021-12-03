@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [greenelab/onboarding](https://github.com/greenelab/onboarding)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
   - 🗣 Commented on pull request
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 📨 Pushed to feature/normalization in
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
-  - 📨 Pushed to feature/normalization in
-    [theislab/ehrapy](https://github.com/theislab/ehrapy)
-  - 😺 Created a branch feature/normalization in
-    [theislab/ehrapy](https://github.com/theislab/ehrapy)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
