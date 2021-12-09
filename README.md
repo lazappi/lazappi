@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#58](https://github.com/theislab/zellkonverter#58)
   - 📨 Pushed to master in
     [lazappi/lazappi](https://github.com/lazappi/lazappi)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
-  - 🗣 Commented on pull request
-    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
 
 ### Some recent blog posts 📝
 
