@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 📨 Pushed to master in
+    [lazappi/lazappi](https://github.com/lazappi/lazappi)
+  - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
-  - 🤔 Opened a pull request in
-    [theislab/ehrapy](https://github.com/theislab/ehrapy)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1466678365348368384">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1466667073942130688">
+</a> <a href="https://twitter.com/_lazappi_/status/1468261173606993927">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
