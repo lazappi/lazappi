@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#58](https://github.com/theislab/zellkonverter#58)
   - 🤔 Opened an issue in
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 🤔 Opened an issue in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2416](https://github.com/bioconductor/contributions#2416)
 
 ### Some recent blog posts 📝
 
