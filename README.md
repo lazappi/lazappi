@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
+  - 📨 Pushed to feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#58](https://github.com/theislab/zellkonverter#58)
   - 🤔 Opened an issue in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - ⭐️ Starred
     [greenelab/onboarding](https://github.com/greenelab/onboarding)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
