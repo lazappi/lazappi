@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#58](https://github.com/theislab/zellkonverter#58)
-  - 🤔 Opened an issue in
-    [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 🤔 Opened an issue in
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
 
