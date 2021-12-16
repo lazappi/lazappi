@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2453](https://github.com/bioconductor/contributions#2453)
   - 📨 Pushed to feature/normalization in
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 📨 Pushed to feature/normalization in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1466678365348368384">
+<a href="https://twitter.com/_lazappi_/status/1471393389325258760">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1471167908558606345">
+</a> <a href="https://twitter.com/_lazappi_/status/1471392982251233285">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
