@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🤔 Opened an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 📨 Pushed to feature/normalization in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
-  - 🗣 Commented on pull request
-    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
-  - 🗣 Commented on pull request
-    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
 
 ### Some recent blog posts 📝
 
