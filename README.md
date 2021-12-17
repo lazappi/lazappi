@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
+  - 📨 Pushed to feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
+  - 🗣 Commented on pull request
+    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2453](https://github.com/bioconductor/contributions#2453)
   - 📨 Pushed to feature/normalization in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
