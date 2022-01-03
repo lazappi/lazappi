@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
-    [oshlack/splatter\#130](https://github.com/oshlack/splatter#130)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened an issue in
+    [theislab/zellkonverter\#44](https://github.com/theislab/zellkonverter#44)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
+  - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
-  - 📨 Pushed to feature/normalization in
-    [theislab/ehrapy](https://github.com/theislab/ehrapy)
-  - 🗣 Commented on pull request
-    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#122](https://github.com/oshlack/splatter#122)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#124](https://github.com/oshlack/splatter#124)
+  - 🎊 Closed an issue in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
