@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 🎊 Closed an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#122](https://github.com/oshlack/splatter#122)
   - 🗣 Commented on issue
     [oshlack/splatter\#124](https://github.com/oshlack/splatter#124)
-  - 🎊 Closed an issue in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
