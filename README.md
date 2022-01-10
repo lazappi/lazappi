@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [lazappi/clustree\#77](https://github.com/lazappi/clustree#77)
   - 📨 Pushed to master in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🗣 Commented on issue
     [lazappi/clustree\#63](https://github.com/lazappi/clustree#63)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1477936834734968833">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1478654354043326467">
+</a> <a href="https://twitter.com/_lazappi_/status/1480496750121074689">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
