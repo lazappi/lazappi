@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎉 Merged a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🤔 Opened an issue in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#44](https://github.com/theislab/zellkonverter#44)
 
 ### Some recent blog posts 📝
 
