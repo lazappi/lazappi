@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#130](https://github.com/oshlack/splatter#130)
+  - 😺 Created a tag v1.19.2 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.18.2 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎊 Closed an issue in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#77](https://github.com/lazappi/clustree#77)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened an issue in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1477936834734968833">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1480496750121074689">
+</a> <a href="https://twitter.com/_lazappi_/status/1480603554456997892">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
