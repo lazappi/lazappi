@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎉 Merged a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
