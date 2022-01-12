@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#124](https://github.com/oshlack/splatter#124)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 📨 Pushed to feature/normalization in
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
   - 😺 Created a tag v1.18.2 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
