@@ -35,6 +35,12 @@ Here are some ideas to get you started:
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
+  - 📨 Pushed to feature/normalization in
+    [theislab/ehrapy](https://github.com/theislab/ehrapy)
+  - 🗣 Commented on pull request
+    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
+  - 🗣 Commented on pull request
+    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🤔 Opened an issue in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 📨 Pushed to feature/normalization in
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#130](https://github.com/oshlack/splatter#130)
-  - 😺 Created a tag v1.19.2 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1477936834734968833">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1481167171162095623">
+</a> <a href="https://twitter.com/_lazappi_/status/1481243089071218689">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
