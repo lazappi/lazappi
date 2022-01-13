@@ -35,6 +35,8 @@ Here are some ideas to get you started:
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
+  - 🗣 Commented on pull request
+    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 📨 Pushed to feature/normalization in
     [theislab/ehrapy](https://github.com/theislab/ehrapy)
   - 🗣 Commented on pull request
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#124](https://github.com/oshlack/splatter#124)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
-  - 📨 Pushed to feature/normalization in
-    [theislab/ehrapy](https://github.com/theislab/ehrapy)
 
 ### Some recent blog posts 📝
 
