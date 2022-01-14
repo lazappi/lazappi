@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
   - 🤔 Opened an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#124](https://github.com/oshlack/splatter#124)
-  - 🗣 Commented on pull request
-    [theislab/ehrapy\#162](https://github.com/theislab/ehrapy#162)
 
 ### Some recent blog posts 📝
 
