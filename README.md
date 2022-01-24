@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Deleted branch citation at
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 📨 Pushed to main in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 🎊 Closed an issue in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
+  - 🎉 Merged a pull request in
+    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 🤔 Opened a pull request in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 😺 Created a branch citation in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2500](https://github.com/bioconductor/contributions#2500)
-  - 🤔 Opened an issue in
-    [theislab/ehrapy](https://github.com/theislab/ehrapy)
 
 ### Some recent blog posts 📝
 
