@@ -32,6 +32,16 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [oshlack/splatter\#133](https://github.com/oshlack/splatter#133)
+  - 😺 Created a tag v1.19.3 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2500](https://github.com/bioconductor/contributions#2500)
   - 🗣 Commented on issue
     [oshlack/splatter\#133](https://github.com/oshlack/splatter#133)
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
   - 🎊 Closed an issue in
     [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 🎉 Merged a pull request in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 🤔 Opened a pull request in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 😺 Created a branch citation in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#132](https://github.com/oshlack/splatter#132)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
