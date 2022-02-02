@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [oshlack/splatter\#132](https://github.com/oshlack/splatter#132)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#134](https://github.com/oshlack/splatter#134)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#135](https://github.com/oshlack/splatter#135)
+  - 🗣 Commented on issue
     [oshlack/splatter\#133](https://github.com/oshlack/splatter#133)
   - 😺 Created a tag v1.19.3 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2500](https://github.com/bioconductor/contributions#2500)
   - 🗣 Commented on issue
     [oshlack/splatter\#133](https://github.com/oshlack/splatter#133)
-  - 😺 Deleted branch citation at
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 📨 Pushed to main in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
-  - 🎊 Closed an issue in
-    [theislab/sfaira-portal](https://github.com/theislab/sfaira-portal)
 
 ### Some recent blog posts 📝
 
