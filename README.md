@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [oshlack/splatter\#127](https://github.com/oshlack/splatter#127)
+  - 🗣 Commented on issue
     [oshlack/splatter\#132](https://github.com/oshlack/splatter#132)
   - 🗣 Commented on pull request
     [oshlack/splatter\#134](https://github.com/oshlack/splatter#134)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2500](https://github.com/bioconductor/contributions#2500)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#133](https://github.com/oshlack/splatter#133)
 
 ### Some recent blog posts 📝
 
