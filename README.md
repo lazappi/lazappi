@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+  - 📨 Pushed to main in
+    [lazappi/staged-recipes](https://github.com/lazappi/staged-recipes)
+  - 🍴 Forked lazappi/staged-recipes from
+    [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
     [oshlack/splatter\#127](https://github.com/oshlack/splatter#127)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#132](https://github.com/oshlack/splatter#132)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#134](https://github.com/oshlack/splatter#134)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#135](https://github.com/oshlack/splatter#135)
 
 ### Some recent blog posts 📝
 
