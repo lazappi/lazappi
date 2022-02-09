@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [scrna-tools/scrna-tools\#90](https://github.com/scrna-tools/scrna-tools#90)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2500](https://github.com/bioconductor/contributions#2500)
   - 🤔 Opened a pull request in
     [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2383](https://github.com/bioconductor/contributions#2383)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1484173300028698626">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1491024234214469637">
+</a> <a href="https://twitter.com/_lazappi_/status/1491313949459034115">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
