@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/anndata\#708](https://github.com/theislab/anndata#708)
   - 🤔 Opened an issue in
     [theislab/anndata](https://github.com/theislab/anndata)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2500](https://github.com/bioconductor/contributions#2500)
   - 🤔 Opened a pull request in
     [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-  - 📨 Pushed to main in
-    [lazappi/staged-recipes](https://github.com/lazappi/staged-recipes)
 
 ### Some recent blog posts 📝
 
