@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [lazappi/doilinker\#1](https://github.com/lazappi/doilinker#1)
+  - 🗣 Commented on issue
+    [lazappi/doilinker\#2](https://github.com/lazappi/doilinker#2)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2500](https://github.com/bioconductor/contributions#2500)
-  - 🗣 Commented on issue
-    [theislab/anndata\#708](https://github.com/theislab/anndata#708)
 
 ### Some recent blog posts 📝
 
