@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
+  - 🗣 Commented on issue
     [lazappi/doilinker\#1](https://github.com/lazappi/doilinker#1)
   - 🗣 Commented on issue
     [lazappi/doilinker\#2](https://github.com/lazappi/doilinker#2)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [oshlack/splatter\#136](https://github.com/oshlack/splatter#136)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
