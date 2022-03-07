@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#136](https://github.com/oshlack/splatter#136)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#137](https://github.com/oshlack/splatter#137)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2520](https://github.com/bioconductor/contributions#2520)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
 
 ### Some recent blog posts 📝
 
