@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#136](https://github.com/oshlack/splatter#136)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
