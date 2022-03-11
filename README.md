@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 📨 Pushed to dimred-methods in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#135](https://github.com/oshlack/splatter#135)
   - 🗣 Commented on pull request
     [oshlack/splatter\#134](https://github.com/oshlack/splatter#134)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#136](https://github.com/oshlack/splatter#136)
 
 ### Some recent blog posts 📝
 
