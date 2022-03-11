@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 😺 Created a tag v1.19.4 in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2520](https://github.com/bioconductor/contributions#2520)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1501605125579808770">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1502299219276750848">
+</a> <a href="https://twitter.com/_lazappi_/status/1502315992332091398">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
