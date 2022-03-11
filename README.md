@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.19.4 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎉 Merged a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#134](https://github.com/oshlack/splatter#134)
+  - 📨 Pushed to issue-132 in
+    [wenjie2wang/splatter](https://github.com/wenjie2wang/splatter)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
   - 🗣 Commented on issue
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#138](https://github.com/oshlack/splatter#138)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
