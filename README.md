@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 😺 Created a tag v1.19.4 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎉 Merged a pull request in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
-    [oshlack/splatter\#134](https://github.com/oshlack/splatter#134)
-  - 📨 Pushed to issue-132 in
-    [wenjie2wang/splatter](https://github.com/wenjie2wang/splatter)
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on pull request
+    [theislab/scib\#279](https://github.com/theislab/scib#279)
 
 ### Some recent blog posts 📝
 
