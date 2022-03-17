@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2520](https://github.com/bioconductor/contributions#2520)
   - 🗣 Commented on pull request
     [theislab/scib\#279](https://github.com/theislab/scib#279)
   - 🗣 Commented on pull request
