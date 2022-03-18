@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2520](https://github.com/bioconductor/contributions#2520)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
   - 🗣 Commented on pull request
     [theislab/scib\#279](https://github.com/theislab/scib#279)
   - 🗣 Commented on pull request
