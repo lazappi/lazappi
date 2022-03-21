@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2520](https://github.com/bioconductor/contributions#2520)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2520](https://github.com/bioconductor/contributions#2520)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
-  - 🗣 Commented on pull request
-    [theislab/scib\#279](https://github.com/theislab/scib#279)
 
 ### Some recent blog posts 📝
 
