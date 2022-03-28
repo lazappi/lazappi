@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#142](https://github.com/oshlack/splatter#142)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 🤔 Opened a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
   - 🗣 Commented on pull request
     [theislab/scib-pipeline\#18](https://github.com/theislab/scib-pipeline#18)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
