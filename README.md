@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2575](https://github.com/bioconductor/contributions#2575)
   - 🗣 Commented on issue
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
   - 🗣 Commented on issue
     [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#142](https://github.com/oshlack/splatter#142)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
 
 ### Some recent blog posts 📝
 
