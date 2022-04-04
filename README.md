@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#60](https://github.com/theislab/zellkonverter#60)
+  - 🗣 Commented on issue
     [lazappi/clustree\#78](https://github.com/lazappi/clustree#78)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
 
 ### Some recent blog posts 📝
 
