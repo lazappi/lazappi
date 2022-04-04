@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [lazappi/clustree\#78](https://github.com/lazappi/clustree#78)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to master in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
   - 🗣 Commented on issue
     [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1501605125579808770">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1509531079589326864">
+</a> <a href="https://twitter.com/_lazappi_/status/1510870537614020613">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
