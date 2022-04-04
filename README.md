@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [gaborcsardi/rim](https://github.com/gaborcsardi/rim)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2575](https://github.com/bioconductor/contributions#2575)
   - 🗣 Commented on issue
@@ -49,8 +50,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
