@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#335](https://github.com/openproblems-bio/openproblems#335)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#60](https://github.com/theislab/zellkonverter#60)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#78](https://github.com/lazappi/clustree#78)
   - ⭐️ Starred [gaborcsardi/rim](https://github.com/gaborcsardi/rim)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2575](https://github.com/bioconductor/contributions#2575)
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to dimred-methods in
     [lazappi/singlecellopenproblems](https://github.com/lazappi/singlecellopenproblems)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#60](https://github.com/theislab/zellkonverter#60)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#78](https://github.com/lazappi/clustree#78)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
