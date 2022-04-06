@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#144](https://github.com/oshlack/splatter#144)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 🗣 Commented on issue
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [lazappi/clustree\#78](https://github.com/lazappi/clustree#78)
   - ⭐️ Starred [gaborcsardi/rim](https://github.com/gaborcsardi/rim)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2575](https://github.com/bioconductor/contributions#2575)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
 
 ### Some recent blog posts 📝
 
