@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
   - 🗣 Commented on issue
@@ -49,7 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#60](https://github.com/theislab/zellkonverter#60)
   - 🗣 Commented on issue
     [lazappi/clustree\#78](https://github.com/lazappi/clustree#78)
-  - ⭐️ Starred [gaborcsardi/rim](https://github.com/gaborcsardi/rim)
 
 ### Some recent blog posts 📝
 
