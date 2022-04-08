@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#316](https://github.com/openproblems-bio/openproblems#316)
   - 🗣 Commented on pull request
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2575](https://github.com/bioconductor/contributions#2575)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2575](https://github.com/bioconductor/contributions#2575)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#335](https://github.com/openproblems-bio/openproblems#335)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#60](https://github.com/theislab/zellkonverter#60)
 
 ### Some recent blog posts 📝
 
