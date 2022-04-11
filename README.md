@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [scverse/scanpy\#2230](https://github.com/scverse/scanpy#2230)
+  - 🗣 Commented on pull request
+    [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
+  - 🤔 Opened a pull request in
+    [scverse/scanpy](https://github.com/scverse/scanpy)
+  - 😺 Created a branch fix-2230 in
+    [lazappi/scanpy](https://github.com/lazappi/scanpy)
+  - 📨 Pushed to master in
+    [lazappi/scanpy](https://github.com/lazappi/scanpy)
+  - 🤔 Opened an issue in
+    [scverse/scanpy](https://github.com/scverse/scanpy)
   - 📨 Pushed to dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🤔 Opened a pull request in
@@ -38,18 +50,6 @@ Here are some ideas to get you started:
   - 😺 Created a branch dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 😺 Deleted branch tutorial-example at
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Deleted branch dimred-datasets-preprocessing at
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Deleted branch dimred-methods-preprocessing at
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Deleted branch dimred-methods-preprocessing-dev at
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Deleted branch dimred-datasets at
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Deleted branch dimred-metrics at
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 📨 Pushed to main in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
