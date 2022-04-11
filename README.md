@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to dimred-datasets in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🤔 Opened a pull request in
     [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
   - 😺 Created a branch dimred-datasets in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 😺 Deleted branch dimred-metrics at
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 📨 Pushed to main in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Created a branch main in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
