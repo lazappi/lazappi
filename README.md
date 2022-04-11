@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to dimred-datasets in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🗣 Commented on issue
     [scverse/scanpy\#2230](https://github.com/scverse/scanpy#2230)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🤔 Opened a pull request in
     [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-  - 😺 Created a branch dimred-datasets in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Deleted branch tutorial-example at
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
