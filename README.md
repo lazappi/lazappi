@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#316](https://github.com/openproblems-bio/openproblems#316)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+  - 😺 Created a branch dimred-datasets in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Deleted branch tutorial-example at
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Deleted branch dimred-datasets-preprocessing at
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Deleted branch dimred-methods-preprocessing at
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Deleted branch dimred-methods-preprocessing-dev at
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Deleted branch dimred-datasets at
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Deleted branch dimred-metrics at
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 📨 Pushed to main in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Created a branch main in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
