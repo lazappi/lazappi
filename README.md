@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#316](https://github.com/openproblems-bio/openproblems#316)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#144](https://github.com/oshlack/splatter#144)
 
 ### Some recent blog posts 📝
 
