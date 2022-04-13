@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
   - 📨 Pushed to dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 📨 Pushed to dimred-methods in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scverse/scanpy](https://github.com/scverse/scanpy)
   - 📨 Pushed to dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 🤔 Opened a pull request in
-    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1512342877174738948">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1513477823272570885">
+</a> <a href="https://twitter.com/_lazappi_/status/1514131083146768384">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
