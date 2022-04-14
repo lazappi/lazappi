@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
   - 📨 Pushed to dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 📨 Pushed to dimred-methods in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
   - 🤔 Opened an issue in
     [scverse/scanpy](https://github.com/scverse/scanpy)
-  - 📨 Pushed to dimred-datasets in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
