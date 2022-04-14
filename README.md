@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
   - 📨 Pushed to master in
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
-  - 🤔 Opened an issue in
-    [scverse/scanpy](https://github.com/scverse/scanpy)
 
 ### Some recent blog posts 📝
 
