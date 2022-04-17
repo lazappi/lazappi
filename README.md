@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [kevinrue/velociraptor](https://github.com/kevinrue/velociraptor)
+  - 😺 Created a tag v1.5.2 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
   - 🗣 Commented on issue
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
   - 📨 Pushed to dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 🗣 Commented on issue
-    [scverse/scanpy\#2230](https://github.com/scverse/scanpy#2230)
-  - 🗣 Commented on pull request
-    [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
-  - 🤔 Opened a pull request in
-    [scverse/scanpy](https://github.com/scverse/scanpy)
 
 ### Some recent blog posts 📝
 
