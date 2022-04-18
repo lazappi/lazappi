@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 📨 Pushed to dimred-datasets in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 📨 Pushed to dimred-methods in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🤔 Opened an issue in
     [kevinrue/velociraptor](https://github.com/kevinrue/velociraptor)
   - 😺 Created a tag v1.5.2 in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2521](https://github.com/bioconductor/contributions#2521)
-  - 📨 Pushed to dimred-datasets in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
