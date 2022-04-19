@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to dimred-methods in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 😺 Created a tag v1.5.3 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 📨 Pushed to dimred-methods in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🤔 Opened an issue in
     [kevinrue/velociraptor](https://github.com/kevinrue/velociraptor)
-  - 😺 Created a tag v1.5.2 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
