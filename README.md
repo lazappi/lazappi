@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 📨 Pushed to dimred-methods in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 📨 Pushed to dimred-methods in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 📨 Pushed to dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
