@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
   - 📨 Pushed to dimred-methods in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🗣 Commented on pull request
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 📨 Pushed to dimred-datasets in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
 
 ### Some recent blog posts 📝
 
