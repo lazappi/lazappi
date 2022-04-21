@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#352](https://github.com/openproblems-bio/openproblems#352)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
   - 🤔 Opened a pull request in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#318](https://github.com/openproblems-bio/openproblems#318)
-  - 📨 Pushed to dimred-methods in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1517035838894444544">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1516407118282252288">
+</a> <a href="https://twitter.com/_lazappi_/status/1517122134618918912">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
