@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to dimred-methods in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 🗣 Commented on pull request
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#352](https://github.com/openproblems-bio/openproblems#352)
   - 📨 Pushed to dimred-methods in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 😺 Created a tag v1.5.3 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
