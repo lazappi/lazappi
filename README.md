@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#369](https://github.com/openproblems-bio/openproblems#369)
   - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#352](https://github.com/openproblems-bio/openproblems#352)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2599](https://github.com/bioconductor/contributions#2599)
-  - 🤔 Opened a pull request in
-    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-  - 😺 Created a branch dimred-methods-ivis in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1517035838894444544">
+<a href="https://twitter.com/_lazappi_/status/1518486928236105728">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1518476313740427264">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
