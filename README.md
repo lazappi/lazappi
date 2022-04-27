@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#61](https://github.com/theislab/zellkonverter#61)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#352](https://github.com/openproblems-bio/openproblems#352)
   - 📨 Pushed to dimred-datasets in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
     [oshlack/splatter\#142](https://github.com/oshlack/splatter#142)
-  - 😺 Created a tag v1.19.5 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
