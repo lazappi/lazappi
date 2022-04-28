@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [openproblems-bio/openproblems\#375](https://github.com/openproblems-bio/openproblems#375)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#62](https://github.com/theislab/zellkonverter#62)
+  - 🗣 Commented on issue
     [theislab/zellkonverter\#61](https://github.com/theislab/zellkonverter#61)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#352](https://github.com/openproblems-bio/openproblems#352)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#369](https://github.com/openproblems-bio/openproblems#369)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#142](https://github.com/oshlack/splatter#142)
 
 ### Some recent blog posts 📝
 
