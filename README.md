@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#61](https://github.com/theislab/zellkonverter#61)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#375](https://github.com/openproblems-bio/openproblems#375)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#62](https://github.com/theislab/zellkonverter#62)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#61](https://github.com/theislab/zellkonverter#61)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#352](https://github.com/openproblems-bio/openproblems#352)
-  - 📨 Pushed to dimred-datasets in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#369](https://github.com/openproblems-bio/openproblems#369)
-  - 😺 Created a tag v1.5.4 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.21.0 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📦 Released bioconductor 3.15 at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.20.0 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.7.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📦 Released bioconductor 3.15 at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.6.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
