@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#43](https://github.com/theislab/multires-consensus-clustering#43)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📦 Released bioconductor 3.15 at
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.20.0 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.7.0 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
