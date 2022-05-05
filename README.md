@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
+  - 📨 Pushed to fix-2230 in
+    [lazappi/scanpy](https://github.com/lazappi/scanpy)
+  - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#383](https://github.com/openproblems-bio/openproblems#383)
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#43](https://github.com/theislab/multires-consensus-clustering#43)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#375](https://github.com/openproblems-bio/openproblems#375)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
