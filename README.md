@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#58](https://github.com/theislab/zellkonverter#58)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#144](https://github.com/oshlack/splatter#144)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#145](https://github.com/oshlack/splatter#145)
   - 🗣 Commented on pull request
     [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
   - 📨 Pushed to fix-2230 in
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#383](https://github.com/openproblems-bio/openproblems#383)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#43](https://github.com/theislab/multires-consensus-clustering#43)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1519675035593711616">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1521756146016694272">
+</a> <a href="https://twitter.com/_lazappi_/status/1522206949760192513">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
