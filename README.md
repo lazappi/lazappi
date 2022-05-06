@@ -37,6 +37,8 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to r4.2 in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to r4.2 in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch r4.2 in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 😺 Deleted branch consistancy-function at
     [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
   - 📨 Pushed to main in
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 🎉 Merged a pull request in
     [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
 
 ### Some recent blog posts 📝
