@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [tidyverse/readr](https://github.com/tidyverse/readr)
   - 🗣 Commented on issue
     [theislab/scib\#305](https://github.com/theislab/scib#305)
   - 😺 Deleted branch consistancy-function at
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
   - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#144](https://github.com/oshlack/splatter#144)
 
 ### Some recent blog posts 📝
 
