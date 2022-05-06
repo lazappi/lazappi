@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to r4.2 in
+  - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to r4.2 in
+  - 😺 Created a branch 2022-05-06 in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 😺 Deleted branch 2022-05-06 at
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🎊 Closed a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to r4.2 in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to r4.2 in
+  - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch r4.2 in
+  - 😺 Created a branch 2022-05-06 in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 😺 Deleted branch r4.2 at
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened an issue in
-    [tidyverse/readr](https://github.com/tidyverse/readr)
-  - 🗣 Commented on issue
-    [theislab/scib\#305](https://github.com/theislab/scib#305)
-  - 😺 Deleted branch consistancy-function at
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 📨 Pushed to main in
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1519675035593711616">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1522569884038832130">
+</a> <a href="https://twitter.com/_lazappi_/status/1522604596631416832">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
