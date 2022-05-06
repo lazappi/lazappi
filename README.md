@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to r4.2 in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to r4.2 in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to r4.2 in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch r4.2 in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened an issue in
     [tidyverse/readr](https://github.com/tidyverse/readr)
   - 🗣 Commented on issue
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
   - 🎉 Merged a pull request in
     [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#58](https://github.com/theislab/zellkonverter#58)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#143](https://github.com/oshlack/splatter#143)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1519675035593711616">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1522255201893240835">
+</a> <a href="https://twitter.com/_lazappi_/status/1522569884038832130">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
