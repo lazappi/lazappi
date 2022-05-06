@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scib\#305](https://github.com/theislab/scib#305)
+  - 😺 Deleted branch consistancy-function at
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
+  - 📨 Pushed to main in
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
+  - 🎉 Merged a pull request in
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
   - 🎊 Closed an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
     [oshlack/splatter\#144](https://github.com/oshlack/splatter#144)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#145](https://github.com/oshlack/splatter#145)
-  - 🗣 Commented on pull request
-    [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
-  - 📨 Pushed to fix-2230 in
-    [lazappi/scanpy](https://github.com/lazappi/scanpy)
 
 ### Some recent blog posts 📝
 
