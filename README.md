@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#63](https://github.com/theislab/zellkonverter#63)
   - 📨 Pushed to 2022-05-06 in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🤔 Opened a pull request in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch 2022-05-06 in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 😺 Deleted branch r4.2 at
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
