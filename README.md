@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [neurorestore/de-analysis](https://github.com/neurorestore/de-analysis)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#63](https://github.com/theislab/zellkonverter#63)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 😺 Deleted branch 2022-05-06 at
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🎊 Closed a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
