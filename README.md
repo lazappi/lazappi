@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.7.1 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.6.1 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🤔 Opened an issue in
     [neurorestore/de-analysis](https://github.com/neurorestore/de-analysis)
   - 🗣 Commented on issue
@@ -44,12 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [theislab/zellkonverter\#63](https://github.com/theislab/zellkonverter#63)
   - 📨 Pushed to 2022-05-06 in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch 2022-05-06 in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 😺 Deleted branch 2022-05-06 at
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
