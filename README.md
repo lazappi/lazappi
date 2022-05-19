@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
   - 🗣 Commented on issue
+    [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
   - 🗣 Commented on issue
     [theislab/scib-reproducibility\#20](https://github.com/theislab/scib-reproducibility#20)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
 
 ### Some recent blog posts 📝
 
