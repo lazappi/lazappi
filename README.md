@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [single-cell-data/matrix-api](https://github.com/single-cell-data/matrix-api)
   - 🗣 Commented on issue
     [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#63](https://github.com/theislab/zellkonverter#63)
   - 🗣 Commented on issue
     [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
-  - 🗣 Commented on issue
-    [theislab/scib-reproducibility\#20](https://github.com/theislab/scib-reproducibility#20)
 
 ### Some recent blog posts 📝
 
