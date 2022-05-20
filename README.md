@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Deleted branch 2022-05-06 at
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
   - 🤔 Opened an issue in [r-lib/rig](https://github.com/r-lib/rig)
   - ⭐️ Starred
     [single-cell-data/matrix-api](https://github.com/single-cell-data/matrix-api)
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.7.1 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.6.1 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🤔 Opened an issue in
-    [neurorestore/de-analysis](https://github.com/neurorestore/de-analysis)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#63](https://github.com/theislab/zellkonverter#63)
 
 ### Some recent blog posts 📝
 
