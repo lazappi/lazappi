@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in [r-lib/rig](https://github.com/r-lib/rig)
   - ⭐️ Starred
     [single-cell-data/matrix-api](https://github.com/single-cell-data/matrix-api)
   - 🗣 Commented on issue
@@ -49,8 +50,6 @@ Here are some ideas to get you started:
     [neurorestore/de-analysis](https://github.com/neurorestore/de-analysis)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#63](https://github.com/theislab/zellkonverter#63)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
 
 ### Some recent blog posts 📝
 
