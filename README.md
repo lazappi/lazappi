@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [theislab/zellkonverter\#64](https://github.com/theislab/zellkonverter#64)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#389](https://github.com/openproblems-bio/openproblems#389)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#63](https://github.com/theislab/zellkonverter#63)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#64](https://github.com/theislab/zellkonverter#64)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Deleted branch 2022-05-06 at
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
