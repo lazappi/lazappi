@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
+  - 🗣 Commented on issue
     [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#64](https://github.com/theislab/zellkonverter#64)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [r-lib/rig\#63](https://github.com/r-lib/rig#63)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
