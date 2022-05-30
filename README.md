@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on pull request
     [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on pull request
+    [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
   - 📨 Pushed to fix-2230 in
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
   - 🤔 Opened a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#148](https://github.com/oshlack/splatter#148)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#64](https://github.com/theislab/zellkonverter#64)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#389](https://github.com/openproblems-bio/openproblems#389)
 
 ### Some recent blog posts 📝
 
