@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [r-lib/rig\#63](https://github.com/r-lib/rig#63)
   - 🗣 Commented on pull request
     [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
   - 📨 Pushed to master in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
 
