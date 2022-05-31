@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
+  - 🗣 Commented on issue
     [lazappi/clustree\#79](https://github.com/lazappi/clustree#79)
   - 🗣 Commented on issue
     [r-lib/rig\#63](https://github.com/r-lib/rig#63)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
