@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#79](https://github.com/lazappi/clustree#79)
+  - 🗣 Commented on issue
     [r-lib/rig\#63](https://github.com/r-lib/rig#63)
   - 🗣 Commented on pull request
     [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2637](https://github.com/bioconductor/contributions#2637)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1526885500208001026">
+<a href="https://twitter.com/_lazappi_/status/1531530353458003968">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1531198156809060352">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
