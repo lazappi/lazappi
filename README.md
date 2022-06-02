@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scverse/scanpy\#2231](https://github.com/scverse/scanpy#2231)
   - 📨 Pushed to fix-2230 in
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
