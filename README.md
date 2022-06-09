@@ -32,25 +32,25 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#66](https://github.com/theislab/zellkonverter#66)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#65](https://github.com/theislab/zellkonverter#65)
+  - 😺 Created a tag v1.7.2 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.6.2 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
     [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
   - 🗣 Commented on issue
     [wmacnair/sampleqc\#24](https://github.com/wmacnair/sampleqc#24)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
 
 ### Some recent blog posts 📝
 
