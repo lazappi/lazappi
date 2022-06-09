@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
   - 🗣 Commented on issue
     [wmacnair/sampleqc\#24](https://github.com/wmacnair/sampleqc#24)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#79](https://github.com/lazappi/clustree#79)
 
 ### Some recent blog posts 📝
 
