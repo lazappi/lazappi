@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [neurorestore/de-analysis\#2](https://github.com/neurorestore/de-analysis#2)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#66](https://github.com/theislab/zellkonverter#66)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#65](https://github.com/theislab/zellkonverter#65)
-  - 😺 Created a tag v1.7.2 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
