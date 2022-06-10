@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Reopened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#65](https://github.com/theislab/zellkonverter#65)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#66](https://github.com/theislab/zellkonverter#66)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2555](https://github.com/bioconductor/contributions#2555)
-  - 🗣 Commented on issue
-    [wmacnair/sampleqc\#24](https://github.com/wmacnair/sampleqc#24)
 
 ### Some recent blog posts 📝
 
