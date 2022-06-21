@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [lazappi/clustree\#80](https://github.com/lazappi/clustree#80)
+  - 😺 Reopened an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#79](https://github.com/lazappi/clustree#79)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
   - 📨 Pushed to master in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#67](https://github.com/theislab/zellkonverter#67)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [neurorestore/de-analysis\#2](https://github.com/neurorestore/de-analysis#2)
 
 ### Some recent blog posts 📝
 
