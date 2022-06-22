@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to integration in
     [theislab/extended-single-cell-best-practices](https://github.com/theislab/extended-single-cell-best-practices)
+  - 🤔 Opened an issue in
+    [theislab/scib](https://github.com/theislab/scib)
+  - 📨 Pushed to integration in
+    [theislab/extended-single-cell-best-practices](https://github.com/theislab/extended-single-cell-best-practices)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#66](https://github.com/theislab/zellkonverter#66)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
