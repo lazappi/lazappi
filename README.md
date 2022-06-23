@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#68](https://github.com/theislab/zellkonverter#68)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#430](https://github.com/openproblems-bio/openproblems#430)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#430](https://github.com/openproblems-bio/openproblems#430)
   - 📨 Pushed to integration in
     [theislab/extended-single-cell-best-practices](https://github.com/theislab/extended-single-cell-best-practices)
   - 🤔 Opened an issue in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#80](https://github.com/lazappi/clustree#80)
   - 😺 Reopened an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#79](https://github.com/lazappi/clustree#79)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
