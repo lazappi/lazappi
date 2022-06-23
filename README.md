@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#66](https://github.com/theislab/zellkonverter#66)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.7.3 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.6.3 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
     [theislab/zellkonverter\#68](https://github.com/theislab/zellkonverter#68)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#430](https://github.com/openproblems-bio/openproblems#430)
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to integration in
     [theislab/extended-single-cell-best-practices](https://github.com/theislab/extended-single-cell-best-practices)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#66](https://github.com/theislab/zellkonverter#66)
-  - 🗣 Commented on pull request
-    [lazappi/clustree\#80](https://github.com/lazappi/clustree#80)
-  - 🗣 Commented on pull request
-    [lazappi/clustree\#80](https://github.com/lazappi/clustree#80)
-  - 😺 Reopened an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
