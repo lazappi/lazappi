@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to develop in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🎉 Merged a pull request in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to integration in
     [theislab/extended-single-cell-best-practices](https://github.com/theislab/extended-single-cell-best-practices)
   - 🗣 Commented on issue
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#80](https://github.com/lazappi/clustree#80)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#66](https://github.com/theislab/zellkonverter#66)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.7.3 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.6.3 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#68](https://github.com/theislab/zellkonverter#68)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#430](https://github.com/openproblems-bio/openproblems#430)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1540266251066417153">
+<a href="https://twitter.com/_lazappi_/status/1540351365893001216">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1539918060391391232">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
