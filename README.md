@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to integration in
+    [theislab/extended-single-cell-best-practices](https://github.com/theislab/extended-single-cell-best-practices)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#68](https://github.com/theislab/zellkonverter#68)
   - 🗣 Commented on pull request
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#68](https://github.com/theislab/zellkonverter#68)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#430](https://github.com/openproblems-bio/openproblems#430)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#430](https://github.com/openproblems-bio/openproblems#430)
 
