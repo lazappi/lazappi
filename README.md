@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 📦 Released version 0.5.0 at
+    [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to develop in
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 📨 Pushed to master in
@@ -42,14 +50,6 @@ Here are some ideas to get you started:
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
-  - 🤔 Opened an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to develop in
     [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1540351365893001216">
+<a href="https://twitter.com/_lazappi_/status/1541319582513827841">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1541307223560830976">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
