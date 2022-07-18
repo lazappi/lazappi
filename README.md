@@ -32,25 +32,25 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🤔 Opened a pull request in
+    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+  - 😺 Created a branch dimred-descriptions in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
+  - 🗣 Commented on issue
+    [openproblems-bio/openproblems\#252](https://github.com/openproblems-bio/openproblems#252)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2676](https://github.com/bioconductor/contributions#2676)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📦 Released version 0.5.0 at
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to develop in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to master in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 😺 Created a tag v0.5.0 in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
