@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#490](https://github.com/openproblems-bio/openproblems#490)
+  - 🗣 Commented on issue
+    [openproblems-bio/openproblems\#497](https://github.com/openproblems-bio/openproblems#497)
   - 🗣 Commented on issue
     [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
   - 🗣 Commented on issue
     [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
