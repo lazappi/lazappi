@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
+  - 🗣 Commented on issue
     [oshlack/splatter\#150](https://github.com/oshlack/splatter#150)
   - 🗣 Commented on issue
     [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🗣 Commented on issue
     [openproblems-bio/openproblems\#252](https://github.com/openproblems-bio/openproblems#252)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
 
 ### Some recent blog posts 📝
 
