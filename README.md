@@ -32,25 +32,25 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#67](https://github.com/theislab/zellkonverter#67)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#68](https://github.com/theislab/zellkonverter#68)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
+  - 🗣 Commented on issue
     [oshlack/splatter\#152](https://github.com/oshlack/splatter#152)
   - 🗣 Commented on issue
     [oshlack/splatter\#149](https://github.com/oshlack/splatter#149)
   - 🤔 Opened an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#152](https://github.com/oshlack/splatter#152)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#150](https://github.com/oshlack/splatter#150)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#150](https://github.com/oshlack/splatter#150)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#490](https://github.com/openproblems-bio/openproblems#490)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#497](https://github.com/openproblems-bio/openproblems#497)
 
 ### Some recent blog posts 📝
 
