@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.21.1 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎊 Closed an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - ⭐️ Starred
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
   - 🗣 Commented on pull request
     [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#152](https://github.com/oshlack/splatter#152)
 
 ### Some recent blog posts 📝
 
