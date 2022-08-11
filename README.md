@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#153](https://github.com/oshlack/splatter#153)
   - 😺 Created a tag v1.21.1 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on issue
     [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
 
 ### Some recent blog posts 📝
 
