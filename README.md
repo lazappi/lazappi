@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [milesmcbain/really\_useful\_engines](https://github.com/milesmcbain/really_useful_engines)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#67](https://github.com/theislab/zellkonverter#67)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#152](https://github.com/oshlack/splatter#152)
   - 🗣 Commented on issue
     [oshlack/splatter\#149](https://github.com/oshlack/splatter#149)
-  - 🤔 Opened an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
