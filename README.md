@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to fix-2230 in
+    [lazappi/scanpy](https://github.com/lazappi/scanpy)
+  - 📨 Pushed to fix-2230 in
+    [lazappi/scanpy](https://github.com/lazappi/scanpy)
+  - 📨 Pushed to fix-2230 in
+    [lazappi/scanpy](https://github.com/lazappi/scanpy)
   - 🗣 Commented on issue
     [oshlack/splatter\#153](https://github.com/oshlack/splatter#153)
   - 😺 Created a tag v1.21.1 in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [milesmcbain/really\_useful\_engines](https://github.com/milesmcbain/really_useful_engines)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#67](https://github.com/theislab/zellkonverter#67)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#68](https://github.com/theislab/zellkonverter#68)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#147](https://github.com/oshlack/splatter#147)
 
 ### Some recent blog posts 📝
 
