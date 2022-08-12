@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 📨 Pushed to fix-2230 in
     [lazappi/scanpy](https://github.com/lazappi/scanpy)
   - 📨 Pushed to fix-2230 in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎊 Closed an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - ⭐️ Starred
-    [milesmcbain/really\_useful\_engines](https://github.com/milesmcbain/really_useful_engines)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#67](https://github.com/theislab/zellkonverter#67)
 
 ### Some recent blog posts 📝
 
