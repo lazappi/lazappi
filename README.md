@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
   - 🗣 Commented on issue
     [oshlack/splatter\#152](https://github.com/oshlack/splatter#152)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2297](https://github.com/bioconductor/contributions#2297)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#71](https://github.com/theislab/zellkonverter#71)
 
 ### Some recent blog posts 📝
 
