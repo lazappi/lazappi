@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
+  - 🗣 Commented on issue
     [theislab/zellkonverter\#45](https://github.com/theislab/zellkonverter#45)
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#152](https://github.com/oshlack/splatter#152)
 
 ### Some recent blog posts 📝
 
