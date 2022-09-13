@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.7.5 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.6.5 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#566](https://github.com/openproblems-bio/openproblems#566)
   - 📨 Pushed to master in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#45](https://github.com/theislab/zellkonverter#45)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
