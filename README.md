@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#566](https://github.com/openproblems-bio/openproblems#566)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
   - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
