@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#72](https://github.com/theislab/zellkonverter#72)
   - 🗣 Commented on pull request
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v1.6.5 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#566](https://github.com/openproblems-bio/openproblems#566)
 
 ### Some recent blog posts 📝
 
