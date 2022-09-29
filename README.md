@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.7.6 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#73](https://github.com/theislab/zellkonverter#73)
   - 📨 Pushed to master in
@@ -45,10 +49,6 @@ Here are some ideas to get you started:
     [theislab/scib](https://github.com/theislab/scib)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#72](https://github.com/theislab/zellkonverter#72)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
 
