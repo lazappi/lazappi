@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#73](https://github.com/theislab/zellkonverter#73)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#45](https://github.com/theislab/multires-consensus-clustering#45)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#45](https://github.com/theislab/zellkonverter#45)
 
 ### Some recent blog posts 📝
 
