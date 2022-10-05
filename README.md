@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 😺 Created a tag v1.7.7 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#73](https://github.com/theislab/zellkonverter#73)
 
 ### Some recent blog posts 📝
 
