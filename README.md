@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 😺 Created a tag v1.7.7 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [bioconductor/contributions\#2737](https://github.com/bioconductor/contributions#2737)
   - 😺 Created a tag v1.7.6 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
