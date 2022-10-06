@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#71](https://github.com/theislab/zellkonverter#71)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2737](https://github.com/bioconductor/contributions#2737)
-  - 😺 Created a tag v1.7.6 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
