@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#615](https://github.com/openproblems-bio/openproblems#615)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#575](https://github.com/openproblems-bio/openproblems#575)
 
 ### Some recent blog posts 📝
 
