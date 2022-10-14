@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#628](https://github.com/openproblems-bio/openproblems#628)
+  - 🤔 Opened a pull request in
+    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+  - 😺 Created a branch dimred-dataset-dimensions in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 📨 Pushed to main in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🤔 Opened a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
   - 🗣 Commented on issue
     [oshlack/splatter\#60](https://github.com/oshlack/splatter#60)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#575](https://github.com/openproblems-bio/openproblems#575)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#615](https://github.com/openproblems-bio/openproblems#615)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
 
 ### Some recent blog posts 📝
 
