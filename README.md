@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#615](https://github.com/openproblems-bio/openproblems#615)
   - 🗣 Commented on issue
     [oshlack/splatter\#60](https://github.com/oshlack/splatter#60)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#74](https://github.com/theislab/zellkonverter#74)
 
 ### Some recent blog posts 📝
 
