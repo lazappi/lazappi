@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
+  - 🤔 Opened an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#74](https://github.com/theislab/zellkonverter#74)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#628](https://github.com/openproblems-bio/openproblems#628)
   - 🤔 Opened a pull request in
     [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-  - 😺 Created a branch dimred-dataset-dimensions in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 📨 Pushed to main in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
