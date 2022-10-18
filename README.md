@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on issue
     [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎊 Closed an issue in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#628](https://github.com/openproblems-bio/openproblems#628)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#628](https://github.com/openproblems-bio/openproblems#628)
-  - 🤔 Opened a pull request in
-    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 
 ### Some recent blog posts 📝
 
