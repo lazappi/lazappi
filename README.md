@@ -35,6 +35,10 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
   - 🤔 Opened an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎊 Closed an issue in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to dimred-dataset-dimensions in
     [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#628](https://github.com/openproblems-bio/openproblems#628)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#628](https://github.com/openproblems-bio/openproblems#628)
 
 ### Some recent blog posts 📝
 
