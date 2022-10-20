@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#77](https://github.com/theislab/zellkonverter#77)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to dimred-dataset-dimensions in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
