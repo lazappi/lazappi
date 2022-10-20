@@ -33,24 +33,24 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#77](https://github.com/theislab/zellkonverter#77)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#75](https://github.com/theislab/zellkonverter#75)
-  - 🤔 Opened an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#74](https://github.com/theislab/zellkonverter#74)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
 
 ### Some recent blog posts 📝
 
