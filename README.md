@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#154](https://github.com/oshlack/splatter#154)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#77](https://github.com/theislab/zellkonverter#77)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
   - 🗣 Commented on pull request
