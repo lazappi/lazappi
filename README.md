@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
+  - 📨 Pushed to fix/anndata\_compat in
+    [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
+  - 😺 Deleted branch actions at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎉 Merged a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to actions in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to actions in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a branch actions in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎉 Merged a pull request in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#78](https://github.com/theislab/zellkonverter#78)
-  - 📨 Pushed to fix/ci in
-    [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
 
 ### Some recent blog posts 📝
 
