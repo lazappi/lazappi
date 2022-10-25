@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to actions in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to actions in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to actions in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🤔 Opened a pull request in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a branch actions in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2610](https://github.com/bioconductor/contributions#2610)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#154](https://github.com/oshlack/splatter#154)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#77](https://github.com/theislab/zellkonverter#77)
 
 ### Some recent blog posts 📝
 
