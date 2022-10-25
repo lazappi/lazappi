@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to ci in
     [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to ci in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a branch actions in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to ci in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
   - 📨 Pushed to fix/anndata\_compat in
     [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
-  - 😺 Deleted branch actions at
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://twitter.com/_lazappi_/status/1577969067276787718">
+<a href="https://twitter.com/_lazappi_/status/1584921049711480833">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
 </a> <a href="https://twitter.com/_lazappi_/status/1583416574932701184">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
