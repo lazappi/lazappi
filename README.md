@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a branch actions in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎉 Merged a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#78](https://github.com/theislab/zellkonverter#78)
   - 📨 Pushed to fix/ci in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#154](https://github.com/oshlack/splatter#154)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#77](https://github.com/theislab/zellkonverter#77)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
 
 ### Some recent blog posts 📝
 
