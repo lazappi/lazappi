@@ -31,25 +31,25 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Deleted branch recarrays at
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.21.2 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎉 Merged a pull request in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🤔 Opened a pull request in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a branch recarrays in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎉 Merged a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.7.8 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎉 Merged a pull request in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
