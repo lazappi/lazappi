@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
   - 📨 Pushed to ci in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to ci in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
-  - 📨 Pushed to fix/anndata\_compat in
-    [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
 
 ### Some recent blog posts 📝
 
