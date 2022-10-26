@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to ci in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Deleted branch actions at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎉 Merged a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to actions in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🤔 Opened a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
   - 📨 Pushed to ci in
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a branch actions in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to ci in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to ci in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [oshlack/splatter\#151](https://github.com/oshlack/splatter#151)
-  - 📨 Pushed to issue\_149 in
-    [azodichr/splatter](https://github.com/azodichr/splatter)
-  - 📨 Pushed to ci in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1584921049711480833">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1583416574932701184">
+</a> <a href="https://twitter.com/_lazappi_/status/1585173438440050688">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
