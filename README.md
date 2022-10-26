@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Deleted branch recarrays at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎉 Merged a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🤔 Opened a pull request in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a branch recarrays in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎉 Merged a pull request in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#76](https://github.com/theislab/zellkonverter#76)
-  - 📨 Pushed to fix/anndata\_compat in
-    [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
-  - 📨 Pushed to fix/anndata\_compat in
-    [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
-  - 📨 Pushed to ci in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
