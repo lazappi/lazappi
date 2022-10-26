@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to fix/anndata\_compat in
+    [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
   - 📨 Pushed to ci in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Deleted branch actions at
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to ci in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a branch actions in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
