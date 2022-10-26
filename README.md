@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to fix/anndata\_compat in
+    [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
   - 📨 Pushed to fix/anndata\_compat in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
-  - 📨 Pushed to ci in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
