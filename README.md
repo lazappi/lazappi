@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a branch recarrays in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🎊 Closed an issue in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [rcannood/zellkonverter](https://github.com/rcannood/zellkonverter)
   - 📨 Pushed to ci in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Deleted branch actions at
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to master in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
