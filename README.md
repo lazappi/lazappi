@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
+  - 🤔 Opened a pull request in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
+  - 😺 Created a branch integration-improvements in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
+  - 🗣 Commented on issue
     [theislab/single-cell-best-practices\#108](https://github.com/theislab/single-cell-best-practices#108)
   - 🤔 Opened an issue in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
@@ -44,12 +50,6 @@ Here are some ideas to get you started:
   - 😺 Created a tag v1.21.2 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎉 Merged a pull request in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🤔 Opened a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
