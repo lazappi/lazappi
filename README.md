@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/single-cell-best-practices\#108](https://github.com/theislab/single-cell-best-practices#108)
   - 🤔 Opened an issue in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 🗣 Commented on issue
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 🎉 Merged a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🤔 Opened a pull request in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
