@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
   - 🗣 Commented on issue
     [scrna-tools/scrna-tools\#223](https://github.com/scrna-tools/scrna-tools#223)
   - 😺 Created a tag v1.21.2 in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎊 Closed an issue in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎉 Merged a pull request in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.7.8 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
