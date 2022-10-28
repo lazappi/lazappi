@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
+  - 🗣 Commented on pull request
+    [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
   - 🎊 Closed an issue in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices\#108](https://github.com/theislab/single-cell-best-practices#108)
   - 🤔 Opened an issue in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2795](https://github.com/bioconductor/contributions#2795)
 
