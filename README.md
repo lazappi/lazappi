@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [lazappi/clustree\#83](https://github.com/lazappi/clustree#83)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
   - 🗣 Commented on issue
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
   - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
-  - 🎊 Closed an issue in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [scrna-tools/scrna-tools\#223](https://github.com/scrna-tools/scrna-tools#223)
-  - 🗣 Commented on issue
-    [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
 
 ### Some recent blog posts 📝
 
