@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to integration-improvements in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.9.0 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
