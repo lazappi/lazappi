@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
+  - 📨 Pushed to integration-improvements in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
+  - 📨 Pushed to integration-improvements in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 📨 Pushed to integration-improvements in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 📨 Pushed to master in
@@ -44,12 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a tag v1.23.0 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📦 Released bioconductor 3.16 at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.22.0 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
