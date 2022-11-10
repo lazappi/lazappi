@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
+  - 🗣 Commented on pull request
+    [theislab/single-cell-best-practices\#87](https://github.com/theislab/single-cell-best-practices#87)
+  - 📨 Pushed to integration-improvements in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
+  - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#87](https://github.com/theislab/single-cell-best-practices#87)
   - 🗣 Commented on issue
     [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 📨 Pushed to integration-improvements in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1589972498644611073">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1590331451530424321">
+</a> <a href="https://twitter.com/_lazappi_/status/1590721611350831104">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
