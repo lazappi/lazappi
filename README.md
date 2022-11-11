@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [theislab/kbet\#72](https://github.com/theislab/kbet#72)
   - 🗣 Commented on issue
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#87](https://github.com/theislab/single-cell-best-practices#87)
-  - 🗣 Commented on issue
-    [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
-  - 🗣 Commented on issue
-    [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
   - 🗣 Commented on issue
     [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
 
