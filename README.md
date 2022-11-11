@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey)
   - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
   - 🗣 Commented on pull request
@@ -45,8 +46,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
   - 🗣 Commented on issue
     [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
-  - 📨 Pushed to integration-improvements in
-    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 📨 Pushed to integration-improvements in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 📨 Pushed to integration-improvements in
