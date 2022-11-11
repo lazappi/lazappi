@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/kbet\#72](https://github.com/theislab/kbet#72)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2835](https://github.com/bioconductor/contributions#2835)
   - ⭐️ Starred [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey)
   - 🗣 Commented on pull request
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
   - 🗣 Commented on issue
     [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
-  - 📨 Pushed to integration-improvements in
-    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
 
 ### Some recent blog posts 📝
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1589972498644611073">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1590990857158922243">
+</a> <a href="https://twitter.com/_lazappi_/status/1591066193363877888">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
