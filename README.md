@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices\#87](https://github.com/theislab/single-cell-best-practices#87)
   - 📨 Pushed to integration-improvements in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-  - 🗣 Commented on pull request
-    [theislab/single-cell-best-practices\#87](https://github.com/theislab/single-cell-best-practices#87)
-  - 🗣 Commented on issue
-    [theislab/single-cell-best-practices\#81](https://github.com/theislab/single-cell-best-practices#81)
 
 ### Some recent blog posts 📝
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/_lazappi_/status/1589972498644611073">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1591066193363877888">
+</a> <a href="https://twitter.com/_lazappi_/status/1592064816662728706">
 <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
 </a>
 
