@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
+  - 🗣 Commented on issue
     [openproblems-bio/openproblems\#679](https://github.com/openproblems-bio/openproblems#679)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey)
   - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
-  - 🗣 Commented on pull request
-    [theislab/single-cell-best-practices\#87](https://github.com/theislab/single-cell-best-practices#87)
 
 ### Some recent blog posts 📝
 
