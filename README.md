@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
   - 🗣 Commented on pull request
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
   - 📨 Pushed to integration-improvements in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/kbet\#72](https://github.com/theislab/kbet#72)
 
 ### Some recent blog posts 📝
 
