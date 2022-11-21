@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
+  - 📨 Pushed to integration-improvements in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
+  - 📨 Pushed to integration-improvements in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 🗣 Commented on issue
     [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
   - 🗣 Commented on issue
@@ -45,11 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [theislab/kbet\#72](https://github.com/theislab/kbet#72)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2835](https://github.com/bioconductor/contributions#2835)
-  - ⭐️ Starred [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey)
-  - 🗣 Commented on pull request
-    [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
 
 ### Some recent blog posts 📝
 
