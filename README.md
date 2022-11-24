@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#84](https://github.com/lazappi/clustree#84)
+  - 😺 Reopened an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2835](https://github.com/bioconductor/contributions#2835)
   - 🗣 Commented on issue
     [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
   - 📨 Pushed to integration-improvements in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-  - 📨 Pushed to integration-improvements in
-    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#82](https://github.com/lazappi/clustree#82)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#679](https://github.com/openproblems-bio/openproblems#679)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
