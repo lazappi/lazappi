@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [openproblems-bio/openproblems\#575](https://github.com/openproblems-bio/openproblems#575)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#84](https://github.com/lazappi/clustree#84)
   - 😺 Reopened an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2835](https://github.com/bioconductor/contributions#2835)
 
 ### Some recent blog posts 📝
 
