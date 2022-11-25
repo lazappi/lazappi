@@ -32,6 +32,16 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [openproblems-bio/openproblems\#575](https://github.com/openproblems-bio/openproblems#575)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#157](https://github.com/oshlack/splatter#157)
+  - 🤔 Opened an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#85](https://github.com/lazappi/clustree#85)
+  - 🗣 Commented on issue
     [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2835](https://github.com/bioconductor/contributions#2835)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
-  - 🗣 Commented on pull request
-    [theislab/scib\#350](https://github.com/theislab/scib#350)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
-  - 🗣 Commented on pull request
-    [theislab/single-cell-best-practices\#109](https://github.com/theislab/single-cell-best-practices#109)
-  - 📨 Pushed to integration-improvements in
-    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
 
 ### Some recent blog posts 📝
 
