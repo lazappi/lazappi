@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [lazappi/clustree\#86](https://github.com/lazappi/clustree#86)
   - 🤔 Opened a pull request in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree](https://github.com/lazappi/clustree)
   - 🗣 Commented on issue
     [lazappi/clustree\#85](https://github.com/lazappi/clustree#85)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
