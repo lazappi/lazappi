@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#21](https://github.com/theislab/scib-reproducibility#21)
+  - 🗣 Commented on pull request
+    [theislab/scib-reproducibility\#21](https://github.com/theislab/scib-reproducibility#21)
+  - 🗣 Commented on issue
+    [lazappi/clustree\#86](https://github.com/lazappi/clustree#86)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#575](https://github.com/openproblems-bio/openproblems#575)
   - 🗣 Commented on issue
     [oshlack/splatter\#157](https://github.com/oshlack/splatter#157)
-  - 🤔 Opened an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#85](https://github.com/lazappi/clustree#85)
 
 ### Some recent blog posts 📝
 
