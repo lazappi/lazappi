@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#84](https://github.com/theislab/zellkonverter#84)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/scib-reproducibility\#21](https://github.com/theislab/scib-reproducibility#21)
   - 🗣 Commented on issue
     [lazappi/clustree\#86](https://github.com/lazappi/clustree#86)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
