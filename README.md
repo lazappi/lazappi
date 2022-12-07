@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#84](https://github.com/theislab/zellkonverter#84)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#42](https://github.com/theislab/zellkonverter#42)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#84](https://github.com/theislab/zellkonverter#84)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#83](https://github.com/theislab/zellkonverter#83)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#83](https://github.com/theislab/zellkonverter#83)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#158](https://github.com/oshlack/splatter#158)
 
 ### Some recent blog posts 📝
 
