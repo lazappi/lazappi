@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [lazappi/clustree\#69](https://github.com/lazappi/clustree#69)
+  - 🗣 Commented on issue
     [theislab/zellkonverter\#42](https://github.com/theislab/zellkonverter#42)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -41,8 +43,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
   - 🗣 Commented on pull request
