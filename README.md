@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
+  - 🎉 Merged a pull request in
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
   - 😺 Deleted branch adjust-parameters at
     [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
   - 📨 Pushed to main in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#756](https://github.com/openproblems-bio/openproblems#756)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#756](https://github.com/openproblems-bio/openproblems#756)
 
 ### Some recent blog posts 📝
 
