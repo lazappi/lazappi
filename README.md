@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Deleted branch adjust-parameters at
+    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
+  - 📨 Pushed to main in
+    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
+  - 🎉 Merged a pull request in
+    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
+  - 📨 Pushed to adjust-parameters in
+    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
+  - 📨 Pushed to adjust-parameters in
+    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
   - 📨 Pushed to adjust-parameters in
     [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
   - 🗣 Commented on issue
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [openproblems-bio/openproblems\#756](https://github.com/openproblems-bio/openproblems#756)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#46](https://github.com/theislab/multires-consensus-clustering#46)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#158](https://github.com/oshlack/splatter#158)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#42](https://github.com/theislab/zellkonverter#42)
 
 ### Some recent blog posts 📝
 
