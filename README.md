@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
+  - 😺 Deleted branch remove-parameters at
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
+  - 📨 Pushed to main in
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
+  - 🎉 Merged a pull request in
+    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
+  - 🗣 Commented on pull request
+    [theislab/multires-consensus-clustering\#48](https://github.com/theislab/multires-consensus-clustering#48)
   - 🗣 Commented on pull request
     [theislab/multires-consensus-clustering\#48](https://github.com/theislab/multires-consensus-clustering#48)
   - 📨 Pushed to main in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
   - 📨 Pushed to main in
     [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
-  - 🎉 Merged a pull request in
-    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
-  - 📨 Pushed to adjust-parameters in
-    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
-  - 📨 Pushed to adjust-parameters in
-    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
-  - 📨 Pushed to adjust-parameters in
-    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#756](https://github.com/openproblems-bio/openproblems#756)
 
 ### Some recent blog posts 📝
 
