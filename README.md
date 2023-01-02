@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to main in
-    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
-  - 😺 Deleted branch remove-parameters at
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 📨 Pushed to main in
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 🎉 Merged a pull request in
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#48](https://github.com/theislab/multires-consensus-clustering#48)
-  - 🗣 Commented on pull request
-    [theislab/multires-consensus-clustering\#48](https://github.com/theislab/multires-consensus-clustering#48)
-  - 📨 Pushed to main in
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 🎉 Merged a pull request in
-    [theislab/multires-consensus-clustering](https://github.com/theislab/multires-consensus-clustering)
-  - 😺 Deleted branch adjust-parameters at
-    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
-  - 📨 Pushed to main in
-    [theislab/consensus-clustering-evaluation](https://github.com/theislab/consensus-clustering-evaluation)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#83](https://github.com/theislab/zellkonverter#83)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#84](https://github.com/theislab/zellkonverter#84)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#156](https://github.com/oshlack/splatter#156)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#154](https://github.com/oshlack/splatter#154)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🗣 Commented on issue
+    [oshlack/splatter\#157](https://github.com/oshlack/splatter#157)
 
 ### Some recent blog posts 📝
 
