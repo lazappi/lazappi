@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#83](https://github.com/theislab/zellkonverter#83)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#84](https://github.com/theislab/zellkonverter#84)
 
 ### Some recent blog posts 📝
 
