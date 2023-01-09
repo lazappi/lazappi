@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - ⭐️ Starred
-    [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [openproblems-bio/openproblems\#756](https://github.com/openproblems-bio/openproblems#756)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#767](https://github.com/openproblems-bio/openproblems#767)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [scrna-tools/scrna-tools\#231](https://github.com/scrna-tools/scrna-tools#231)
-  - 🗣 Commented on pull request
-    [scrna-tools/scrna-tools\#231](https://github.com/scrna-tools/scrna-tools#231)
-  - 🎊 Closed an issue in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - ⭐️ Starred
+    [mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto)
 
 ### Some recent blog posts 📝
 
