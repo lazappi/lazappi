@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [openproblems-bio/openproblems\#773](https://github.com/openproblems-bio/openproblems#773)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#767](https://github.com/openproblems-bio/openproblems#767)
   - 🗣 Commented on issue
@@ -41,8 +43,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#767](https://github.com/openproblems-bio/openproblems#767)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
   - 🗣 Commented on pull request
