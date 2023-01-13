@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2868](https://github.com/bioconductor/contributions#2868)
+  - 🗣 Commented on issue
     [openproblems-bio/openproblems\#781](https://github.com/openproblems-bio/openproblems#781)
   - 🗣 Commented on issue
     [openproblems-bio/openproblems\#781](https://github.com/openproblems-bio/openproblems#781)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#768](https://github.com/openproblems-bio/openproblems#768)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#767](https://github.com/openproblems-bio/openproblems#767)
 
 ### Some recent blog posts 📝
 
