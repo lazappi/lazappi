@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [lazappi/clustree\#83](https://github.com/lazappi/clustree#83)
   - 🗣 Commented on issue
+    [lazappi/clustree\#83](https://github.com/lazappi/clustree#83)
+  - 🗣 Commented on issue
     [oshlack/splatter\#159](https://github.com/oshlack/splatter#159)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [openproblems-bio/openproblems\#781](https://github.com/openproblems-bio/openproblems#781)
   - 🗣 Commented on issue
     [openproblems-bio/openproblems\#781](https://github.com/openproblems-bio/openproblems#781)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#767](https://github.com/openproblems-bio/openproblems#767)
 
 ### Some recent blog posts 📝
 
