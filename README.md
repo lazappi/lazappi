@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
-    [bioconductor/contributions\#2868](https://github.com/bioconductor/contributions#2868)
-  - 🗣 Commented on pull request
-    [scverse/anndata\#882](https://github.com/scverse/anndata#882)
-  - 🗣 Commented on pull request
-    [scverse/anndata\#882](https://github.com/scverse/anndata#882)
+    [oshlack/splatter\#158](https://github.com/oshlack/splatter#158)
   - 🗣 Commented on issue
     [oshlack/splatter\#160](https://github.com/oshlack/splatter#160)
-  - 🤔 Opened an issue in
-    [theislab/scib](https://github.com/theislab/scib)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2887](https://github.com/bioconductor/contributions#2887)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#87](https://github.com/lazappi/clustree#87)
-  - 🗣 Commented on pull request
-    [scverse/anndata\#882](https://github.com/scverse/anndata#882)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.22.1 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to release\_3\_16 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.23.1 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to master in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎉 Merged a pull request in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
