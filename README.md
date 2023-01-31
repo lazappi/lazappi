@@ -31,25 +31,25 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Deleted branch ci at
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 😺 Created a branch ci in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [oshlack/splatter\#158](https://github.com/oshlack/splatter#158)
   - 🗣 Commented on issue
     [oshlack/splatter\#160](https://github.com/oshlack/splatter#160)
   - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.22.1 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to release\_3\_16 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.23.1 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎉 Merged a pull request in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
