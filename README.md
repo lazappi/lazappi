@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [openproblems-bio/website\#102](https://github.com/openproblems-bio/website#102)
   - 😺 Deleted branch ci at
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#158](https://github.com/oshlack/splatter#158)
   - 🗣 Commented on issue
     [oshlack/splatter\#160](https://github.com/oshlack/splatter#160)
-  - 📨 Pushed to master in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
