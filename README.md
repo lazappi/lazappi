@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+  - 🤔 Opened a pull request in
+    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+  - 😺 Created a branch rename-olsson in
+    [lazappi/openproblems](https://github.com/lazappi/openproblems)
   - 🗣 Commented on issue
     [openproblems-bio/website\#102](https://github.com/openproblems-bio/website#102)
   - 😺 Deleted branch ci at
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 😺 Created a branch ci in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#158](https://github.com/oshlack/splatter#158)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#160](https://github.com/oshlack/splatter#160)
 
 ### Some recent blog posts 📝
 
