@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [chubin/wttr.in](https://github.com/chubin/wttr.in)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#811](https://github.com/openproblems-bio/openproblems#811)
   - 🗣 Commented on pull request
@@ -48,8 +49,6 @@ Here are some ideas to get you started:
   - 🗣 Commented on issue
     [openproblems-bio/website\#102](https://github.com/openproblems-bio/website#102)
   - 😺 Deleted branch ci at
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
