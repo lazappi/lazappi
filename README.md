@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🤔 Opened an issue in
     [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-  - 🤔 Opened a pull request in
-    [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-  - 😺 Created a branch rename-olsson in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
 
 ### Some recent blog posts 📝
 
