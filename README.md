@@ -31,25 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
+  - 📨 Pushed to main in
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
+  - 📨 Pushed to main in
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
+  - 📨 Pushed to main in
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
+  - 📨 Pushed to main in
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
+  - 📨 Pushed to main in
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
+  - 😺 Created a branch main in
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
+  - 😺 Created a repository
+    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - ⭐️ Starred [chubin/wttr.in](https://github.com/chubin/wttr.in)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#811](https://github.com/openproblems-bio/openproblems#811)
-  - 🗣 Commented on pull request
-    [openproblems-bio/openproblems\#802](https://github.com/openproblems-bio/openproblems#802)
-  - 📨 Pushed to rename-olsson in
-    [lazappi/openproblems](https://github.com/lazappi/openproblems)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 ### Some recent blog posts 📝
 
