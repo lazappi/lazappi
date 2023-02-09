@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
   - 📨 Pushed to main in
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 📨 Pushed to main in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
