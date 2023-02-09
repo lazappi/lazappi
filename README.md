@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred [dylkot/scsim](https://github.com/dylkot/scsim)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
   - 📨 Pushed to main in
@@ -49,8 +50,6 @@ Here are some ideas to get you started:
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 😺 Created a repository
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
 
 ### Some recent blog posts 📝
 
