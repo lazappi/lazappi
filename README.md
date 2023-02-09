@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2868](https://github.com/bioconductor/contributions#2868)
   - ⭐️ Starred [dylkot/scsim](https://github.com/dylkot/scsim)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to main in
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 😺 Created a branch main in
-    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
-  - 😺 Created a repository
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
 
 ### Some recent blog posts 📝
