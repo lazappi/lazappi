@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -40,10 +44,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred [dylkot/scsim](https://github.com/dylkot/scsim)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 📨 Pushed to main in
-    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
-  - 📨 Pushed to main in
-    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 📨 Pushed to main in
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 📨 Pushed to main in
