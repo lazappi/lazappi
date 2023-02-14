@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/scib\#376](https://github.com/theislab/scib#376)
+  - 🤔 Opened an issue in
+    [theislab/scib](https://github.com/theislab/scib)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred [dylkot/scsim](https://github.com/dylkot/scsim)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 📨 Pushed to main in
-    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
-  - 📨 Pushed to main in
-    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
   - 📨 Pushed to main in
     [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
 
