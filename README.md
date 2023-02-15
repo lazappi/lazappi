@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/scib\#374](https://github.com/theislab/scib#374)
+  - 🗣 Commented on issue
     [theislab/scib\#376](https://github.com/theislab/scib#376)
   - 🤔 Opened an issue in
     [theislab/scib](https://github.com/theislab/scib)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - ⭐️ Starred [dylkot/scsim](https://github.com/dylkot/scsim)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 📨 Pushed to main in
-    [lazappi/oecd-housing](https://github.com/lazappi/oecd-housing)
 
 ### Some recent blog posts 📝
 
