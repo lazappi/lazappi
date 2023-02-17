@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2868](https://github.com/bioconductor/contributions#2868)
+  - 🗣 Commented on issue
+    [theislab/scanpy-in-r\#1](https://github.com/theislab/scanpy-in-r#1)
+  - 🗣 Commented on issue
     [theislab/scib\#374](https://github.com/theislab/scib#374)
   - 🗣 Commented on issue
     [theislab/scib\#376](https://github.com/theislab/scib#376)
@@ -47,9 +51,6 @@ Here are some ideas to get you started:
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2868](https://github.com/bioconductor/contributions#2868)
-  - ⭐️ Starred [dylkot/scsim](https://github.com/dylkot/scsim)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
 
 ### Some recent blog posts 📝
 
