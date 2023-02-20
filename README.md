@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Deleted branch ci at
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 😺 Created a branch ci in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
 
 ### Some recent blog posts 📝
 
