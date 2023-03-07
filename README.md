@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
   - 🗣 Commented on pull request
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2888](https://github.com/bioconductor/contributions#2888)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#89](https://github.com/lazappi/clustree#89)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2887](https://github.com/bioconductor/contributions#2887)
 
 ### Some recent blog posts 📝
 
