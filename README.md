@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
+  - 🎊 Closed an issue in
+    [lazappi/clustree](https://github.com/lazappi/clustree)
+  - 🗣 Commented on issue
     [lazappi/clustree\#89](https://github.com/lazappi/clustree#89)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#87](https://github.com/theislab/zellkonverter#87)
 
 ### Some recent blog posts 📝
 
