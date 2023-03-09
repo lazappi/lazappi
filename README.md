@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2888](https://github.com/bioconductor/contributions#2888)
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
   - 🎊 Closed an issue in
     [lazappi/clustree](https://github.com/lazappi/clustree)
@@ -45,10 +49,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
   - 🗣 Commented on pull request
     [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
 
