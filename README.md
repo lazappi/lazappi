@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [openproblems-bio/openproblems\#849](https://github.com/openproblems-bio/openproblems#849)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [lazappi/clustree\#89](https://github.com/lazappi/clustree#89)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#86](https://github.com/theislab/zellkonverter#86)
 
 ### Some recent blog posts 📝
 
