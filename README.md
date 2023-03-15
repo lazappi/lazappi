@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [bioconductor/contributions\#2887](https://github.com/bioconductor/contributions#2887)
   - 🗣 Commented on pull request
     [openproblems-bio/openproblems\#849](https://github.com/openproblems-bio/openproblems#849)
   - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
-  - 🎊 Closed an issue in
-    [lazappi/clustree](https://github.com/lazappi/clustree)
 
 ### Some recent blog posts 📝
 
