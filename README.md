@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [bioconductor/contributions\#2957](https://github.com/bioconductor/contributions#2957)
+  - 🗣 Commented on issue
     [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
   - 📨 Pushed to devel in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🗣 Commented on issue
-    [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
 
 ### Some recent blog posts 📝
 
