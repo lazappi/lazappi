@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [oshlack/splatter\#162](https://github.com/oshlack/splatter#162)
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
   - 🤔 Opened a pull request in
     [theislab/scib](https://github.com/theislab/scib)
   - 😺 Created a branch fix-374 in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [bioconductor/contributions\#2957](https://github.com/bioconductor/contributions#2957)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2944](https://github.com/bioconductor/contributions#2944)
-  - 📨 Pushed to devel in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.9.2 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
