@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
+  - 😺 Created a branch feature/interoperability in
+    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
   - 🗣 Commented on issue
     [bioconductor/contributions\#2888](https://github.com/bioconductor/contributions#2888)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#162](https://github.com/oshlack/splatter#162)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#162](https://github.com/oshlack/splatter#162)
 
 ### Some recent blog posts 📝
 
