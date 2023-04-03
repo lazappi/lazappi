@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🗣 Commented on issue
     [oshlack/splatter\#162](https://github.com/oshlack/splatter#162)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter\#162](https://github.com/oshlack/splatter#162)
   - 🗣 Commented on issue
     [oshlack/splatter\#162](https://github.com/oshlack/splatter#162)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
-  - 🤔 Opened a pull request in
-    [theislab/scib](https://github.com/theislab/scib)
 
 ### Some recent blog posts 📝
 
