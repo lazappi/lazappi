@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.23.2 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to devel in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to devel in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a branch devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Deleted branch master at
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [theislab/zellkonverter\#92](https://github.com/theislab/zellkonverter#92)
   - 🤔 Opened a pull request in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-  - 😺 Created a branch feature/interoperability in
-    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
