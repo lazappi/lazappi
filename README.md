@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
+  - 🗣 Commented on issue
     [theislab/zellkonverter\#92](https://github.com/theislab/zellkonverter#92)
   - 🤔 Opened a pull request in
     [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
 
 ### Some recent blog posts 📝
 
