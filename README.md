@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
   - 😺 Created a tag v1.9.3 in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to devel in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a tag v1.23.2 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
