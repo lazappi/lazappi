@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.9.3 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to devel in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🗣 Commented on pull request
+    [theislab/zellkonverter\#93](https://github.com/theislab/zellkonverter#93)
+  - 📨 Pushed to devel in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎉 Merged a pull request in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 🎊 Closed an issue in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to devel in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 📨 Pushed to devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 😺 Created a tag v1.23.2 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to devel in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a branch devel in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Deleted branch master at
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#60](https://github.com/oshlack/splatter#60)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#92](https://github.com/theislab/zellkonverter#92)
-  - 🤔 Opened a pull request in
-    [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
 
 ### Some recent blog posts 📝
 
