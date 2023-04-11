@@ -31,35 +31,35 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.23.3 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to devel in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a branch main in
+    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+  - 😺 Deleted branch master at
+    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+  - 😺 Deleted branch update at
+    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+  - 📨 Pushed to master in
+    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+  - 📨 Pushed to master in
+    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
   - 📨 Pushed to master in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🎉 Merged a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#91](https://github.com/theislab/zellkonverter#91)
-  - 😺 Created a tag v1.9.3 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to devel in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🗣 Commented on pull request
-    [theislab/zellkonverter\#93](https://github.com/theislab/zellkonverter#93)
-  - 📨 Pushed to devel in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 🎉 Merged a pull request in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
   - [Bioconductor 3.12
-    wrap-up](https://lazappi.id.au/post/2020-10-30-bioconductor-3-12-wrap-up/)
+    wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/index.html)
   - [triple j’s
-    Requestival](https://lazappi.id.au/post/2020-07-11-requestival/)
+    Requestival](https://lazappi.id.au/posts/2020-07-11-requestival/index.html)
   - [Back to the
-    SCE-verse\!](https://lazappi.id.au/post/2020-05-12-back-to-the-sce-verse/)
+    SCE-verse\!](https://lazappi.id.au/posts/2020-05-12-back-to-the-sce-verse/index.html)
 
 *More at <https://lazappi.id.au>*
 
