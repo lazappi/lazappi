@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+  - 🎉 Merged a pull request in
+    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
   - 😺 Created a tag v1.23.4 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 🎊 Closed an issue in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 😺 Created a branch main in
     [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
   - 😺 Deleted branch master at
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 😺 Deleted branch update at
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 📨 Pushed to master in
     [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 
 ### Some recent blog posts 📝
