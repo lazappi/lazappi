@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a tag v1.23.4 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🎊 Closed an issue in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to devel in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to main in
     [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
   - 😺 Created a tag v1.23.3 in
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
   - 📨 Pushed to master in
     [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 📨 Pushed to master in
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
