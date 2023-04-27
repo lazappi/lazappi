@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
   - 📨 Pushed to main in
     [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
   - 🎉 Merged a pull request in
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to main in
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 😺 Created a tag v1.23.3 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to devel in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a branch main in
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 😺 Deleted branch master at
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 
 ### Some recent blog posts 📝
 
