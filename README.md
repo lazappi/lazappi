@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🤔 Opened an issue in
+  - 😺 Created a branch hdf5-structure in
     [scverse/scverseio](https://github.com/scverse/scverseio)
   - 🤔 Opened an issue in
     [scverse/scverseio](https://github.com/scverse/scverseio)
