@@ -41,16 +41,16 @@ Here are some ideas to get you started:
     [scverse/scverseio](https://github.com/scverse/scverseio)
   - 🤔 Opened an issue in
     [scverse/scverseio](https://github.com/scverse/scverseio)
-  - 📨 Pushed to main in
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 🎉 Merged a pull request in
-    [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-  - 😺 Created a tag v1.23.4 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 🎊 Closed an issue in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to devel in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 🤔 Opened an issue in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
 
 ### Some recent blog posts 📝
 
