@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to hdf5-structure in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
+  - 📨 Pushed to hdf5-structure in
+    [scverse/scverseio](https://github.com/scverse/scverseio)
   - 🤔 Opened a pull request in
     [scverse/scverseio](https://github.com/scverse/scverseio)
   - 😺 Created a branch dims in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to hdf5-structure in
     [scverse/scverseio](https://github.com/scverse/scverseio)
   - 😺 Created a branch hdf5-structure in
-    [scverse/scverseio](https://github.com/scverse/scverseio)
-  - 🤔 Opened an issue in
-    [scverse/scverseio](https://github.com/scverse/scverseio)
-  - 🤔 Opened an issue in
     [scverse/scverseio](https://github.com/scverse/scverseio)
 
 ### Some recent blog posts 📝
