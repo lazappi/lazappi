@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on issue
-    [oshlack/splatter\#60](https://github.com/oshlack/splatter#60)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#90](https://github.com/lazappi/clustree#90)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#67](https://github.com/theislab/zellkonverter#67)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#54](https://github.com/lazappi/clustree#54)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#44](https://github.com/scverse/anndatar#44)
-  - 📨 Pushed to hdf5-structure in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to hdf5-structure in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to hdf5-structure in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened a pull request in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 😺 Created a branch dims in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 😺 Created a tag v1.25.0 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to devel in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📦 Released bioconductor 3.17 at
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.24.0 in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 📨 Pushed to devel in
+    [oshlack/splatter](https://github.com/oshlack/splatter)
+  - 😺 Created a tag v1.11.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to devel in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📦 Released bioconductor 3.17 at
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 😺 Created a tag v1.10.0 in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  - 📨 Pushed to devel in
+    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
