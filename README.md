@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 😺 Created a branch slots in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 😺 Created a tag v1.25.0 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to devel in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📦 Released bioconductor 3.17 at
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
   - 😺 Created a tag v1.10.0 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to devel in
     [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
