@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to slots in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🤔 Opened an issue in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 📨 Pushed to slots in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🤔 Opened a pull request in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 😺 Created a branch slots in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 😺 Created a tag v1.25.0 in
@@ -43,14 +51,6 @@ Here are some ideas to get you started:
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to devel in
     [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 😺 Created a tag v1.11.0 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📨 Pushed to devel in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 📦 Released bioconductor 3.17 at
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-  - 😺 Created a tag v1.10.0 in
-    [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
