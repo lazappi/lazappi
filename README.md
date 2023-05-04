@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to hdf5-structure in
     [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 📨 Pushed to hdf5-structure in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🤔 Opened an issue in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 📨 Pushed to slots in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 😺 Created a tag v1.25.0 in
     [oshlack/splatter](https://github.com/oshlack/splatter)
   - 📨 Pushed to devel in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📦 Released bioconductor 3.17 at
     [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
