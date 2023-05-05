@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  - 🤔 Opened a pull request in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 📨 Pushed to hdf5-structure in
     [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar\#53](https://github.com/scverse/anndatar#53)
   - 📨 Pushed to hdf5-structure in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#67](https://github.com/scverse/anndatar#67)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#69](https://github.com/scverse/anndatar#69)
 
 ### Some recent blog posts 📝
 
