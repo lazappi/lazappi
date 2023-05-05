@@ -31,6 +31,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to hdf5-structure in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🎉 Merged a pull request in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 📨 Pushed to hdf5-content in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#67](https://github.com/scverse/anndatar#67)
+  - 🗣 Commented on issue
+    [scverse/anndatar\#53](https://github.com/scverse/anndatar#53)
+  - 📨 Pushed to hdf5-structure in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on pull request
     [scverse/anndatar\#67](https://github.com/scverse/anndatar#67)
   - 🗣 Commented on pull request
@@ -39,18 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on pull request
     [scverse/anndatar\#67](https://github.com/scverse/anndatar#67)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#48](https://github.com/scverse/anndatar#48)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#53](https://github.com/scverse/anndatar#53)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#58](https://github.com/scverse/anndatar#58)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#13](https://github.com/scverse/anndatar#13)
-  - 📨 Pushed to hdf5-structure in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to hdf5-structure in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
 
 ### Some recent blog posts 📝
 
