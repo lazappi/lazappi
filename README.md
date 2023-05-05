@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#67](https://github.com/scverse/anndatar#67)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#69](https://github.com/scverse/anndatar#69)
   - 📨 Pushed to hdf5-structure in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on pull request
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to hdf5-structure in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 📨 Pushed to hdf5-structure in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened an issue in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to slots in
     [scverse/anndatar](https://github.com/scverse/anndatar)
 
 ### Some recent blog posts 📝
