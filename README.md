@@ -33,24 +33,24 @@ Here are some ideas to get you started:
 
   - 📨 Pushed to hdf5-structure in
     [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#67](https://github.com/scverse/anndatar#67)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#48](https://github.com/scverse/anndatar#48)
+  - 🗣 Commented on issue
+    [scverse/anndatar\#53](https://github.com/scverse/anndatar#53)
+  - 🗣 Commented on issue
+    [scverse/anndatar\#58](https://github.com/scverse/anndatar#58)
+  - 🗣 Commented on issue
+    [scverse/anndatar\#13](https://github.com/scverse/anndatar#13)
+  - 📨 Pushed to hdf5-structure in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 📨 Pushed to hdf5-structure in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🤔 Opened an issue in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 📨 Pushed to slots in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened an issue in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to slots in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened a pull request in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 😺 Created a branch slots in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 😺 Created a tag v1.25.0 in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
-  - 📨 Pushed to devel in
-    [oshlack/splatter](https://github.com/oshlack/splatter)
 
 ### Some recent blog posts 📝
 
