@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
   - 🗣 Commented on pull request
     [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
+  - 📨 Pushed to example-dataset in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 📨 Pushed to example-dataset in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
   - 🗣 Commented on pull request
     [scverse/anndatar\#69](https://github.com/scverse/anndatar#69)
   - 🗣 Commented on pull request
@@ -45,12 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar\#73](https://github.com/scverse/anndatar#73)
   - 🤔 Opened an issue in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened a pull request in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 😺 Created a branch example-dataset in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 ### Some recent blog posts 📝
 
