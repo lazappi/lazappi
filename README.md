@@ -32,25 +32,25 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
-    [scverse/anndatar\#77](https://github.com/scverse/anndatar#77)
-  - 🤔 Opened a pull request in
+    [scverse/anndatar\#79](https://github.com/scverse/anndatar#79)
+  - 📨 Pushed to hdf5-validate in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 😺 Created a branch h5ad-tests in
+  - 🗣 Commented on issue
+    [scverse/anndatar\#11](https://github.com/scverse/anndatar#11)
+  - 🎊 Closed an issue in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened a pull request in
+  - 🗣 Commented on issue
+    [scverse/anndatar\#19](https://github.com/scverse/anndatar#19)
+  - 🎊 Closed an issue in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 😺 Created a branch skip-anndata-helper in
+  - 🗣 Commented on issue
+    [scverse/anndatar\#10](https://github.com/scverse/anndatar#10)
+  - 🎊 Closed an issue in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to example-dataset in
+  - 🗣 Commented on issue
+    [scverse/anndatar\#8](https://github.com/scverse/anndatar#8)
+  - 🎊 Closed an issue in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
-  - 📨 Pushed to example-dataset in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to example-dataset in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
 
 ### Some recent blog posts 📝
 
