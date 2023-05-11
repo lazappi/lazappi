@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to example-dataset in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 📨 Pushed to example-dataset in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on pull request
     [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on issue
     [scverse/anndatar\#10](https://github.com/scverse/anndatar#10)
-  - 🎊 Closed an issue in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#8](https://github.com/scverse/anndatar#8)
 
 ### Some recent blog posts 📝
 
