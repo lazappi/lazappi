@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on pull request
+    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
+  - 🗣 Commented on pull request
     [scverse/anndatar\#79](https://github.com/scverse/anndatar#79)
   - 📨 Pushed to hdf5-validate in
     [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on issue
     [scverse/anndatar\#8](https://github.com/scverse/anndatar#8)
-  - 🎊 Closed an issue in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
 
 ### Some recent blog posts 📝
 
