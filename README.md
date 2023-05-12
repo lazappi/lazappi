@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to master in
+    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
   - 🗣 Commented on pull request
     [scverse/anndatar\#81](https://github.com/scverse/anndatar#81)
   - 🗣 Commented on pull request
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 📨 Pushed to example-dataset in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#79](https://github.com/scverse/anndatar#79)
 
 ### Some recent blog posts 📝
 
