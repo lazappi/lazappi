@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#81](https://github.com/scverse/anndatar#81)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#81](https://github.com/scverse/anndatar#81)
   - 🗣 Commented on issue
     [scverse/anndatar\#76](https://github.com/scverse/anndatar#76)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
   - 🗣 Commented on pull request
     [scverse/anndatar\#79](https://github.com/scverse/anndatar#79)
-  - 📨 Pushed to hdf5-validate in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#11](https://github.com/scverse/anndatar#11)
 
 ### Some recent blog posts 📝
 
