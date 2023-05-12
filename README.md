@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [scverse/anndatar\#76](https://github.com/scverse/anndatar#76)
+  - 🗣 Commented on issue
+    [theislab/scib-reproducibility\#22](https://github.com/theislab/scib-reproducibility#22)
+  - 🗣 Commented on issue
     [theislab/scib-reproducibility\#23](https://github.com/theislab/scib-reproducibility#23)
   - 🗣 Commented on issue
     [lazappi/clustree\#91](https://github.com/lazappi/clustree#91)
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on issue
     [scverse/anndatar\#11](https://github.com/scverse/anndatar#11)
-  - 🎊 Closed an issue in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#19](https://github.com/scverse/anndatar#19)
 
 ### Some recent blog posts 📝
 
