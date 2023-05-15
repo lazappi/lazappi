@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
+  - 📨 Pushed to example-dataset in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 📨 Pushed to master in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 🎉 Merged a pull request in
+    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 🤔 Opened a pull request in
     [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
   - 📨 Pushed to master in
     [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#81](https://github.com/scverse/anndatar#81)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#81](https://github.com/scverse/anndatar#81)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#76](https://github.com/scverse/anndatar#76)
-  - 🗣 Commented on issue
-    [theislab/scib-reproducibility\#22](https://github.com/theislab/scib-reproducibility#22)
-  - 🗣 Commented on issue
-    [theislab/scib-reproducibility\#23](https://github.com/theislab/scib-reproducibility#23)
-  - 🗣 Commented on issue
-    [lazappi/clustree\#91](https://github.com/lazappi/clustree#91)
-  - 📨 Pushed to example-dataset in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to example-dataset in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
 
 ### Some recent blog posts 📝
 
