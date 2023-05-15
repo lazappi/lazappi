@@ -31,26 +31,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
-  - 📨 Pushed to example-dataset in
+  - 😺 Deleted branch example-dataset at
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to master in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  - 📨 Pushed to main in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🎉 Merged a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🤔 Opened a pull request in
-    [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-  - 📨 Pushed to master in
-    [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 😺 Created a branch hdf5-write-dataframe in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
+  - 🗣 Commented on pull request
+    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
 
 ### Some recent blog posts 📝
 
