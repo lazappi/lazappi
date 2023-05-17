@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
   - 🗣 Commented on issue
+    [oshlack/splatter\#163](https://github.com/oshlack/splatter#163)
+  - 🗣 Commented on issue
     [theislab/zellkonverter\#94](https://github.com/theislab/zellkonverter#94)
   - 😺 Deleted branch example-dataset at
     [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on pull request
     [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
   - 🗣 Commented on pull request
     [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
   - 🗣 Commented on pull request
