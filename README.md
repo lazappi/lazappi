@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to hdf5-write-dataframe in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on issue
     [scverse/anndatar\#87](https://github.com/scverse/anndatar#87)
   - 🤔 Opened an issue in
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
   - 📨 Pushed to main in
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🎉 Merged a pull request in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened a pull request in
     [scverse/anndatar](https://github.com/scverse/anndatar)
 
 ### Some recent blog posts 📝
