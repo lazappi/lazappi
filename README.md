@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
+  - 🤔 Opened an issue in
+    [scverse/anndatar](https://github.com/scverse/anndatar)
   - 🗣 Commented on issue
     [theislab/zellkonverter\#42](https://github.com/theislab/zellkonverter#42)
   - 🗣 Commented on issue
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
     [scverse/anndatar](https://github.com/scverse/anndatar)
   - 😺 Created a branch hdf5-write-dataframe in
     [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#74](https://github.com/scverse/anndatar#74)
-  - 🗣 Commented on pull request
-    [scverse/anndatar\#83](https://github.com/scverse/anndatar#83)
 
 ### Some recent blog posts 📝
 
