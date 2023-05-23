@@ -97,9 +97,9 @@ map2_chr(posts$item_title, posts$item_link, function(.title, .link) {
 
 *More at https://lazappi.id.au*
 
-### My latest tweet 👇 and retweet 👉
+<!-- ### My latest tweet 👇 and retweet 👉 -->
 
-```{r tweets, results = "hide", out.width = 0}
+```{r tweets, results = "hide", out.width = 0, eval = FALSE}
 token <- tryCatch({
     get_token()
 }, error = function(e) {
@@ -128,6 +128,7 @@ tweet_screenshot(original$status_url[1], maxwidth = 400)
 tweet_screenshot(retweets$status_url[1], maxwidth = 400)
 ```
 
+```{r, eval = FALSE}
 <p align="center">
   <a href="`r original$status_url[1]`">
     <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
@@ -136,6 +137,7 @@ tweet_screenshot(retweets$status_url[1], maxwidth = 400)
     <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
   </a>
 </p>
+```
 
 ### Now playing on Spotify
 

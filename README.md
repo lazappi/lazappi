@@ -21,67 +21,52 @@ Here are some ideas to get you started:
 ### Here’s some stats on my GitHub repos
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=lazappi&count_private=true&show_icons=true&theme=buefy&hide_title=True">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazappi&hide=html&theme=buefy&layout=compact">
-
 </p>
 
 *Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to hdf5-write-dataframe in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on issue
-    [scverse/anndatar\#87](https://github.com/scverse/anndatar#87)
-  - 🤔 Opened an issue in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🤔 Opened an issue in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#42](https://github.com/theislab/zellkonverter#42)
-  - 🗣 Commented on issue
-    [oshlack/splatter\#163](https://github.com/oshlack/splatter#163)
-  - 🗣 Commented on issue
-    [theislab/zellkonverter\#94](https://github.com/theislab/zellkonverter#94)
-  - 😺 Deleted branch example-dataset at
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 📨 Pushed to main in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
-  - 🎉 Merged a pull request in
-    [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#96](https://github.com/theislab/zellkonverter#96)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.11.1 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.10.1 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#42](https://github.com/theislab/zellkonverter#42)
+- 🤔 Opened an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#95](https://github.com/theislab/zellkonverter#95)
+- 🗣 Commented on pull request
+  [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
+- 🗣 Commented on pull request
+  [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
 
 ### Some recent blog posts 📝
 
-  - [Bioconductor 3.12
-    wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/index.html)
-  - [triple j’s
-    Requestival](https://lazappi.id.au/posts/2020-07-11-requestival/index.html)
-  - [Back to the
-    SCE-verse\!](https://lazappi.id.au/posts/2020-05-12-back-to-the-sce-verse/index.html)
+- [Bioconductor 3.12
+  wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/index.html)
+- [triple j’s
+  Requestival](https://lazappi.id.au/posts/2020-07-11-requestival/index.html)
+- [Back to the
+  SCE-verse!](https://lazappi.id.au/posts/2020-05-12-back-to-the-sce-verse/index.html)
 
 *More at <https://lazappi.id.au>*
 
-### My latest tweet 👇 and retweet 👉
-
-
-<p align="center">
-
-<a href="https://twitter.com/_lazappi_/status/1603304759095607298">
-<img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-</a> <a href="https://twitter.com/_lazappi_/status/1631223906622226435">
-<img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
-</a>
-
-</p>
+<!-- ### My latest tweet 👇 and retweet 👉 -->
 
 ### Now playing on Spotify
 
 <p align="center">
-
 <a href="https://now-playing-profile.lazappi.vercel.app/now-playing?open">
 <img src="https://now-playing-profile.lazappi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
-
 </p>
