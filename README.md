@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img src="https://github.com/lazappi/lazappi/raw/main/github-metrics.svg">
+</p>
 
 ### Here’s some stats on my GitHub repos
 
@@ -31,6 +34,12 @@ Here are some ideas to get you started:
 
 - 📨 Pushed to main in
   [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+- 📨 Pushed to main in
+  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+- 📨 Pushed to main in
+  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+- 📨 Pushed to main in
+  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
 - 📨 Pushed to master in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to master in
@@ -43,12 +52,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.11.1 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.10.1 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#42](https://github.com/theislab/zellkonverter#42)
 
 ### Some recent blog posts 📝
 
