@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 😺 Created a branch main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 😺 Deleted branch master at
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to master in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to master in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to main in
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 - 📨 Pushed to main in
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
@@ -42,16 +52,6 @@ Here are some ideas to get you started:
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 - 📨 Pushed to main in
   [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
-- 📨 Pushed to main in
-  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
-- 📨 Pushed to main in
-  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
-- 📨 Pushed to main in
-  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
-- 📨 Pushed to main in
-  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
-- 📨 Pushed to master in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 
 ### Some recent blog posts 📝
 
