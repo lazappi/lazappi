@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
 - 📨 Pushed to master in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to master in
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on issue
   [theislab/zellkonverter#42](https://github.com/theislab/zellkonverter#42)
-- 🤔 Opened an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
