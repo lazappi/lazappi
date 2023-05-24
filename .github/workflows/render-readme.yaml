@@ -26,6 +26,9 @@ jobs:
           r-version: '4.3.0'
           use-public-rspm: true
 
+      - name: Setup Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+
       - name: Cache packages
         uses: actions/cache@v1
         with:
