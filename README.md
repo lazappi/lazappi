@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 🗣 Commented on issue
   [theislab/zellkonverter#96](https://github.com/theislab/zellkonverter#96)
 - 🎊 Closed an issue in
@@ -45,8 +47,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on issue
   [theislab/zellkonverter#95](https://github.com/theislab/zellkonverter#95)
-- 🗣 Commented on pull request
-  [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
 - 🗣 Commented on pull request
   [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
 
