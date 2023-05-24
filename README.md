@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 - 📨 Pushed to master in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to master in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to master in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 🗣 Commented on issue
   [theislab/zellkonverter#96](https://github.com/theislab/zellkonverter#96)
 - 🎊 Closed an issue in
@@ -45,10 +49,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter#42](https://github.com/theislab/zellkonverter#42)
 - 🤔 Opened an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#95](https://github.com/theislab/zellkonverter#95)
-- 🗣 Commented on pull request
-  [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
 
 ### Some recent blog posts 📝
 
