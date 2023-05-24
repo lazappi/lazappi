@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 📨 Pushed to main in
+  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
+- 📨 Pushed to main in
+  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
+- 😺 Created a branch main in
+  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
+- 😺 Created a repository
+  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
+- 📨 Pushed to main in
+  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
+- 📨 Pushed to main in
   [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
 - 📨 Pushed to main in
   [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
@@ -42,16 +52,6 @@ Here are some ideas to get you started:
   [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
 - 📨 Pushed to master in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 📨 Pushed to master in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 📨 Pushed to master in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#96](https://github.com/theislab/zellkonverter#96)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 ### Some recent blog posts 📝
 
