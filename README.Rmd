@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://github.com/lazappi/lazappi/raw/main/github-metrics.svg)
+<p align="center">
+    <img src="https://github.com/lazappi/lazappi/raw/main/github-metrics.svg">
+</p>
 
 ### Here's some stats on my GitHub repos
 
