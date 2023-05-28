@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 😺 Created a branch main in
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 - 😺 Created a branch main in
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
-- 😺 Created a repository
-  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
-- 📨 Pushed to main in
-  [lazappi/gh-dashboard](https://github.com/lazappi/gh-dashboard)
 
 ### Some recent blog posts 📝
 
