@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to main in
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 - 📨 Pushed to main in
-  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
-- 😺 Created a branch main in
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 
 ### Some recent blog posts 📝
