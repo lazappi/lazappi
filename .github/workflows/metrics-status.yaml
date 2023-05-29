@@ -27,7 +27,7 @@ jobs:
           # Options
           user: lazappi
           template: classic
-          base:
+          base: ""
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -44,3 +44,4 @@ jobs:
           plugin_stargazers_charts_type: classic
           plugin_stars: yes
           plugin_stars_limit: 4
+          filename: "github-status.svg"
