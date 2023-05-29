@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-<img src="https://github.com/lazappi/lazappi/raw/main/github-metrics.svg">
-</p>
 
 ### Here’s some stats on my GitHub repos
 
@@ -30,8 +27,16 @@ Here are some ideas to get you started:
 
 *Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
 
+<p align="center" style="width:100%;">
+<img src="https://github.com/lazappi/lazappi/raw/main/github-intro.svg">
+</p>
+
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 🤔 Opened a pull request in
@@ -48,10 +53,10 @@ Here are some ideas to get you started:
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to master in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 📨 Pushed to main in
-  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
-- 📨 Pushed to main in
-  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
+
+<p align="center" style="width:100%;">
+<img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
+</p>
 
 ### Some recent blog posts 📝
 
