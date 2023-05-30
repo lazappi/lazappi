@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 😺 Created a branch main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 😺 Deleted branch master at
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 📨 Pushed to master in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 📨 Pushed to master in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 
 <p align="center" style="width:100%;">
