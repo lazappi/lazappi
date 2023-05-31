@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [funkyheatmap/funkyheatmap](https://github.com/funkyheatmap/funkyheatmap)
+- 😺 Created a branch scib-vignette in
+  [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
 - 🍴 Forked lazappi/funkyheatmap from
   [funkyheatmap/funkyheatmap](https://github.com/funkyheatmap/funkyheatmap)
 - 📨 Pushed to master in
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 😺 Created a branch main in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
