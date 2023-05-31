@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🍴 Forked lazappi/funkyheatmap from
+  [funkyheatmap/funkyheatmap](https://github.com/funkyheatmap/funkyheatmap)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 😺 Created a branch main in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 😺 Deleted branch master at
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 
 <p align="center" style="width:100%;">
