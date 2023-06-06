@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 - 📨 Pushed to hdf5-write-dataframe in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to hdf5-write-dataframe in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter#95](https://github.com/theislab/zellkonverter#95)
 - 🗣 Commented on issue
   [lazappi/clustree#83](https://github.com/lazappi/clustree#83)
-- 🎊 Closed an issue in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
