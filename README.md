@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#66](https://github.com/scverse/anndatar#66)
 - 📨 Pushed to hdf5-write-dataframe in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to hdf5-write-dataframe in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [theislab/zellkonverter#95](https://github.com/theislab/zellkonverter#95)
-- 🗣 Commented on issue
-  [lazappi/clustree#83](https://github.com/lazappi/clustree#83)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
