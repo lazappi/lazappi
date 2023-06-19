@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [theislab/zellkonverter#97](https://github.com/theislab/zellkonverter#97)
+- 🗣 Commented on issue
   [bioconductor/contributions#2297](https://github.com/bioconductor/contributions#2297)
 - 📨 Pushed to hdf5-write-dataframe in
   [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on issue
   [bioconductor/contributions#3024](https://github.com/bioconductor/contributions#3024)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
