@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#2297](https://github.com/bioconductor/contributions#2297)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3024](https://github.com/bioconductor/contributions#3024)
+- 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 - 🗣 Commented on issue
   [theislab/zellkonverter#97](https://github.com/theislab/zellkonverter#97)
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎊 Closed an issue in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
