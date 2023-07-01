@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#2297](https://github.com/bioconductor/contributions#2297)
 - 🗣 Commented on issue
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar#66](https://github.com/scverse/anndatar#66)
 - 📨 Pushed to hdf5-write-dataframe in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to hdf5-write-dataframe in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
