@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#2297](https://github.com/bioconductor/contributions#2297)
 - 🤔 Opened a pull request in
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter#97](https://github.com/theislab/zellkonverter#97)
 - 🗣 Commented on issue
   [bioconductor/contributions#2297](https://github.com/bioconductor/contributions#2297)
-- 📨 Pushed to hdf5-write-dataframe in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [scverse/anndatar#66](https://github.com/scverse/anndatar#66)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
