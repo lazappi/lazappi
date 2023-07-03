@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [bioconductor/contributions#2297](https://github.com/bioconductor/contributions#2297)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#66](https://github.com/scverse/anndatar#66)
-- 📨 Pushed to hdf5-write-dataframe in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
