@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#88](https://github.com/scverse/anndatar#88)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
-- 📨 Pushed to issue-82-nullable-vectors-and-boolean-enums in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to issue-82-nullable-vectors-and-boolean-enums in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
