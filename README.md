@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [funkyheatmap/funkyheatmap](https://github.com/funkyheatmap/funkyheatmap)
 - 🗣 Commented on pull request
   [scverse/anndatar#88](https://github.com/scverse/anndatar#88)
 - 🗣 Commented on issue
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
-- 📨 Pushed to issue-82-nullable-vectors-and-boolean-enums in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
