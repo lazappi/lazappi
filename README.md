@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
+- 📨 Pushed to scib-vignette in
+  [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
 - 🤔 Opened an issue in
   [funkyheatmap/funkyheatmap](https://github.com/funkyheatmap/funkyheatmap)
 - 🗣 Commented on pull request
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch h5ad-helpers in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#83](https://github.com/scverse/anndatar#83)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
