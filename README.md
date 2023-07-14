@@ -33,6 +33,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
+- 📨 Pushed to scib-vignette in
+  [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
+- 📨 Pushed to scib-vignette in
+  [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
+- 🗣 Commented on pull request
+  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
+- 🗣 Commented on pull request
+  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
+- 🗣 Commented on pull request
+  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
 - 📨 Pushed to scib-vignette in
   [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
 - 🗣 Commented on pull request
@@ -41,18 +53,6 @@ Here are some ideas to get you started:
   [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
 - 🤔 Opened an issue in
   [funkyheatmap/funkyheatmap](https://github.com/funkyheatmap/funkyheatmap)
-- 🗣 Commented on pull request
-  [scverse/anndatar#88](https://github.com/scverse/anndatar#88)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
