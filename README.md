@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
 - 📨 Pushed to scib-vignette in
   [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
-- 🗣 Commented on pull request
-  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
