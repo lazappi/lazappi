@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
+- 🗣 Commented on issue
   [theislab/single-cell-best-practices#220](https://github.com/theislab/single-cell-best-practices#220)
 - 🗣 Commented on issue
   [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
   [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
 - 📨 Pushed to scib-vignette in
   [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
-- 🗣 Commented on pull request
-  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
 - 🗣 Commented on pull request
   [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
 - 🗣 Commented on pull request
