@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch cell-cycle at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎉 Merged a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Created a branch cell-cycle in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on issue
   [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
 - 🗣 Commented on issue
@@ -43,16 +53,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on pull request
-  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
-- 📨 Pushed to scib-vignette in
-  [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
-- 📨 Pushed to scib-vignette in
-  [lazappi/funkyheatmap](https://github.com/lazappi/funkyheatmap)
-- 🗣 Commented on pull request
-  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
-- 🗣 Commented on pull request
-  [funkyheatmap/funkyheatmap#14](https://github.com/funkyheatmap/funkyheatmap#14)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
