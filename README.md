@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#98](https://github.com/theislab/zellkonverter#98)
+- 🤔 Opened an issue in
+  [rstudio/reticulate](https://github.com/rstudio/reticulate)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch cell-cycle at
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
 - 🗣 Commented on issue
   [theislab/single-cell-best-practices#220](https://github.com/theislab/single-cell-best-practices#220)
-- 🗣 Commented on issue
-  [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
