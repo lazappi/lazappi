@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Edited a wiki page in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on issue
   [rstudio/reticulate#1417](https://github.com/rstudio/reticulate#1417)
 - 📨 Pushed to h5ad-helpers in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch cell-cycle in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
