@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - ⭐️ Starred
   [eliocamp/ggpercentogram](https://github.com/eliocamp/ggpercentogram)
 - 📨 Pushed to master in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter#98](https://github.com/theislab/zellkonverter#98)
 - 🤔 Opened an issue in
   [rstudio/reticulate](https://github.com/rstudio/reticulate)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch cell-cycle at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
