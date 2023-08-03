@@ -33,26 +33,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 😺 Deleted branch fixes at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to fixes in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch fixes in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#70](https://github.com/theislab/zellkonverter#70)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#89](https://github.com/theislab/zellkonverter#89)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#91](https://github.com/theislab/zellkonverter#91)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#94](https://github.com/theislab/zellkonverter#94)
+- 🎊 Closed an issue in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🎊 Closed an issue in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
