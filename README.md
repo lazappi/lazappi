@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/anndata2ri#122](https://github.com/theislab/anndata2ri#122)
 - 🤔 Opened an issue in
   [theislab/anndata2ri](https://github.com/theislab/anndata2ri)
 - 🗣 Commented on issue
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter#91](https://github.com/theislab/zellkonverter#91)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#94](https://github.com/theislab/zellkonverter#94)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
