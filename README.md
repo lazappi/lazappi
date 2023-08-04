@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [oshlack/splatter#165](https://github.com/oshlack/splatter#165)
+- 🗣 Commented on issue
   [theislab/zellkonverter#70](https://github.com/theislab/zellkonverter#70)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter#94](https://github.com/theislab/zellkonverter#94)
 - 🎊 Closed an issue in
   [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🎊 Closed an issue in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
