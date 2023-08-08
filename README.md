@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/interoperability in
+  [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
 - 🗣 Commented on pull request
   [scverse/anndatar#88](https://github.com/scverse/anndatar#88)
 - 🗣 Commented on issue
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/anndata2ri](https://github.com/theislab/anndata2ri)
 - 🗣 Commented on issue
   [oshlack/splatter#165](https://github.com/oshlack/splatter#165)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#70](https://github.com/theislab/zellkonverter#70)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
