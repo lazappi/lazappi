@@ -33,6 +33,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🎊 Closed an issue in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Deleted branch scib at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎉 Merged a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Created a branch scib in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on issue
   [theislab/zellkonverter#91](https://github.com/theislab/zellkonverter#91)
 - 📨 Pushed to feature/interoperability in
@@ -41,18 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar#88](https://github.com/scverse/anndatar#88)
 - 🗣 Commented on issue
   [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#99](https://github.com/theislab/zellkonverter#99)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#99](https://github.com/theislab/zellkonverter#99)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [theislab/anndata2ri#122](https://github.com/theislab/anndata2ri#122)
-- 🤔 Opened an issue in
-  [theislab/anndata2ri](https://github.com/theislab/anndata2ri)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
