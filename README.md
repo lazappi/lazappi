@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [lazappi/clustree#92](https://github.com/lazappi/clustree#92)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
