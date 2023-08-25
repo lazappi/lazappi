@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - 🗣 Commented on issue
   [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
 - 🗣 Commented on issue
+  [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
+- 🗣 Commented on issue
   [bioconductor/contributions#3024](https://github.com/bioconductor/contributions#3024)
 - 🗣 Commented on issue
   [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
 - 🗣 Commented on issue
   [lazappi/clustree#92](https://github.com/lazappi/clustree#92)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
