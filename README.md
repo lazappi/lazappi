@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
+- 🗣 Commented on issue
   [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
 - 🗣 Commented on issue
   [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on issue
   [funkyheatmap/funkyheatmap#21](https://github.com/funkyheatmap/funkyheatmap#21)
-- 🗣 Commented on issue
-  [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
