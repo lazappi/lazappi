@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
+- 🗣 Commented on issue
   [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar#88](https://github.com/scverse/anndatar#88)
 - 🗣 Commented on pull request
   [scverse/anndatar#90](https://github.com/scverse/anndatar#90)
-- 🗣 Commented on pull request
-  [scverse/anndatar#88](https://github.com/scverse/anndatar#88)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
