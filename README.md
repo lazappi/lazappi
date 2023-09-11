@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on pull request
   [scverse/scanpy#2657](https://github.com/scverse/scanpy#2657)
 - 🤔 Opened a pull request in
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
 - 🗣 Commented on issue
   [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
