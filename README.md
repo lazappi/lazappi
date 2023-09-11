@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/scanpy#2657](https://github.com/scverse/scanpy#2657)
 - 🤔 Opened a pull request in
   [scverse/scanpy](https://github.com/scverse/scanpy)
 - 😺 Created a branch fix-rank-genes-groups-docs in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
