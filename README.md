@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Created a branch symphony in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
 - 🗣 Commented on issue
   [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
 
