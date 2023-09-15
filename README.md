@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a branch symphony in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to master in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3079](https://github.com/bioconductor/contributions#3079)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
