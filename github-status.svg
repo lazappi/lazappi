@@ -379,7 +379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laminlabs/lamindb</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Data framework for biology.</div>
@@ -887,7 +887,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="102.30000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.4 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -912,12 +912,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 238k out of 119m users</span>
+                                    <span class="gh">ranked 233k out of 119m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">83</div>
+                                        <div class="value">84</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 83 public repositories</div>
+                                <div class="text">Published 84 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1160,7 +1160,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 134k out of 47.6m repositories</span>
+                                    <span class="gh">ranked 132k out of 48.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">275</div>
                                     </div>
@@ -1291,7 +1291,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 672k out of 47.6m repositories</span>
+                                    <span class="gh">ranked 688k out of 48.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
