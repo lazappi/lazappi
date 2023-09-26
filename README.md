@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- ⭐️ Starred
+  [nrokh/scientificfigures](https://github.com/nrokh/scientificfigures)
 - 😺 Made lazappi/lamin-test [public](https://github.com/public)
 - ⭐️ Starred [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 - 📨 Pushed to master in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🗣 Commented on pull request
-  [scverse/scanpy#2657](https://github.com/scverse/scanpy#2657)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
