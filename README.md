@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
 - ⭐️ Starred
   [nrokh/scientificfigures](https://github.com/nrokh/scientificfigures)
 - 😺 Made lazappi/lamin-test [public](https://github.com/public)
@@ -48,8 +50,6 @@ Here are some ideas to get you started:
 - 😺 Created a branch symphony in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
