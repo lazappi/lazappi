@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
 - 🤔 Opened an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
   [nrokh/scientificfigures](https://github.com/nrokh/scientificfigures)
 - 😺 Made lazappi/lamin-test [public](https://github.com/public)
 - ⭐️ Starred [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
