@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
+  [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Created a tag v1.11.3 in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
 - 😺 Made lazappi/lamin-test [public](https://github.com/public)
 - ⭐️ Starred [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 - 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
