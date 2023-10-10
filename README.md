@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [scverse/anndatar#97](https://github.com/scverse/anndatar#97)
+- 🗣 Commented on issue
+  [scverse/anndatar#131](https://github.com/scverse/anndatar#131)
+- 🗣 Commented on issue
   [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
 - 🗣 Commented on issue
   [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
@@ -49,9 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on issue
   [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
-- ⭐️ Starred
-  [nrokh/scientificfigures](https://github.com/nrokh/scientificfigures)
-- 😺 Made lazappi/lamin-test [public](https://github.com/public)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
