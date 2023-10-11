@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Created a tag v1.25.1 in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on issue
   [scverse/anndatar#97](https://github.com/scverse/anndatar#97)
 - 🗣 Commented on issue
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Created a tag v1.11.3 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
