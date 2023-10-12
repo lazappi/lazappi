@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [songdongyuan1994/scdesign3](https://github.com/songdongyuan1994/scdesign3)
 - 😺 Created a tag v1.25.1 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Created a tag v1.11.3 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
