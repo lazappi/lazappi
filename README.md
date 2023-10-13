@@ -33,26 +33,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-- 🤔 Opened an issue in
-  [songdongyuan1994/scdesign3](https://github.com/songdongyuan1994/scdesign3)
-- 😺 Created a tag v1.25.1 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🗣 Commented on issue
-  [scverse/anndatar#97](https://github.com/scverse/anndatar#97)
-- 🗣 Commented on issue
-  [scverse/anndatar#131](https://github.com/scverse/anndatar#131)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
-- 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Deleted branch symphony at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎉 Merged a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Created a branch symphony in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Deleted branch symphony at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎉 Merged a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to symphony in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
