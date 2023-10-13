@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🎊 Closed an issue in
+  [songdongyuan1994/scdesign3](https://github.com/songdongyuan1994/scdesign3)
+- 🗣 Commented on issue
+  [songdongyuan1994/scdesign3#19](https://github.com/songdongyuan1994/scdesign3#19)
 - 📨 Pushed to method/tfs in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Created a branch method/tfs in
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 😺 Created a branch symphony in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch symphony at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
