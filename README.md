@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to dataset/splat in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to dataset/splat in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on issue
   [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
 - 🗣 Commented on issue
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to dataset/splat in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to dataset/splat in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch dataset/splat in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch method/tfs at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
