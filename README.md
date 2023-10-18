@@ -33,26 +33,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 😺 Created a branch dataset/hlca-epithelial in
+- 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to dataset/splat in
+- 😺 Deleted branch dataset/hlca-epithelial at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to dataset/splat in
+- 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to dataset/splat in
+- 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
-- 😺 Created a tag v1.11.4 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to dataset/hlca-epithelial in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to dataset/hlca-epithelial in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to dataset/hlca-epithelial in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Deleted branch dataset/splat at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
