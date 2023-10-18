@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 - 😺 Created a branch dataset/hlca-epithelial in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to dataset/splat in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 🗣 Commented on issue
   [bioconductor/contributions#3021](https://github.com/bioconductor/contributions#3021)
 - 😺 Created a tag v1.11.4 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
