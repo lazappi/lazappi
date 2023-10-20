@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🤔 Opened an issue in
   [songdongyuan1994/scdesign3](https://github.com/songdongyuan1994/scdesign3)
 - 📨 Pushed to main in
@@ -44,14 +52,6 @@ Here are some ideas to get you started:
 - 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to dataset/hlca-epithelial in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to dataset/hlca-epithelial in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to dataset/hlca-epithelial in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch dataset/splat at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
