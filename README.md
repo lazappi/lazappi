@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to develop in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🗣 Commented on issue
+  [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
+- 📨 Pushed to develop in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
 - 🗣 Commented on issue
   [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
 - 📨 Pushed to master in
@@ -46,12 +52,6 @@ Here are some ideas to get you started:
 - 🤔 Opened an issue in
   [songdongyuan1994/scdesign3](https://github.com/songdongyuan1994/scdesign3)
 - 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch dataset/hlca-epithelial at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
