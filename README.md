@@ -33,14 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-- 📨 Pushed to develop in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
 - 🗣 Commented on issue
-  [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
-- 📨 Pushed to develop in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🗣 Commented on issue
-  [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
+  [scverse/anndatar#134](https://github.com/scverse/anndatar#134)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -49,10 +43,16 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🤔 Opened an issue in
-  [songdongyuan1994/scdesign3](https://github.com/songdongyuan1994/scdesign3)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to develop in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🗣 Commented on issue
+  [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
+- 📨 Pushed to develop in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🗣 Commented on issue
+  [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
