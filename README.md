@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
+- 🗣 Commented on issue
   [scverse/anndatar#134](https://github.com/scverse/anndatar#134)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 🗣 Commented on issue
   [lazappi/clustree#93](https://github.com/lazappi/clustree#93)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
