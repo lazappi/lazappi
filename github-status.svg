@@ -656,7 +656,7 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">261</span>
+                                <span class="value">260</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
                                 <div class="bottom">Oct.</div>
@@ -707,7 +707,7 @@
                                 30
                             </div>
                             <div class="entry">
-                                <span class="value">264</span>
+                                <span class="value">263</span>
                                 <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 31
                             </div>
@@ -1217,7 +1217,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 144k out of 69.4m repositories</span>
+                                    <span class="gh">ranked 144k out of 70.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">275</div>
                                     </div>
@@ -1304,7 +1304,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 703k out of 69.4m repositories</span>
+                                    <span class="gh">ranked 703k out of 70.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
