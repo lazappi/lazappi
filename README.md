@@ -33,6 +33,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 😺 Deleted branch develop at
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🎊 Closed an issue in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 📨 Pushed to main in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🎉 Merged a pull request in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 📨 Pushed to develop in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
 - 📨 Pushed to develop in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 📨 Pushed to develop in
@@ -40,18 +52,6 @@ Here are some ideas to get you started:
 - 😺 Deleted branch ci at
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 📨 Pushed to main in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🎉 Merged a pull request in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🤔 Opened a pull request in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 😺 Created a branch ci in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 😺 Deleted branch master at
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 😺 Created a branch main in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🤔 Opened a pull request in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 
 <p align="center" style="width:100%;">
