@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
 - 🤔 Opened an issue in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 😺 Deleted branch develop at
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to develop in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 😺 Deleted branch ci at
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 📨 Pushed to main in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 
 <p align="center" style="width:100%;">
