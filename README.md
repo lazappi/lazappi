@@ -33,6 +33,16 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 😺 Created a branch ci in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 😺 Deleted branch master at
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 😺 Created a branch main in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🤔 Opened a pull request in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -43,16 +53,6 @@ Here are some ideas to get you started:
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#98](https://github.com/theislab/zellkonverter#98)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
-- 🗣 Commented on issue
-  [scverse/anndatar#134](https://github.com/scverse/anndatar#134)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
