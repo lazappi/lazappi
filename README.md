@@ -35,6 +35,16 @@ Here are some ideas to get you started:
 
 - 📨 Pushed to main in
   [lazappi/clustree](https://github.com/lazappi/clustree)
+- 📦 Released version 0.5.1 at
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 😺 Created a tag v0.5.1 in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 📨 Pushed to main in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#99](https://github.com/theislab/zellkonverter#99)
+- 📨 Pushed to main in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
 - 🤔 Opened an issue in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 😺 Deleted branch develop at
@@ -42,16 +52,6 @@ Here are some ideas to get you started:
 - 🎊 Closed an issue in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 📨 Pushed to main in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🎉 Merged a pull request in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 📨 Pushed to develop in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 📨 Pushed to develop in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 📨 Pushed to develop in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 😺 Deleted branch ci at
   [lazappi/clustree](https://github.com/lazappi/clustree)
 
 <p align="center" style="width:100%;">
