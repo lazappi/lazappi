@@ -33,25 +33,25 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Created a tag v1.27.0 in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📦 Released bioconductor 3.18 at
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Created a tag v1.26.0 in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.13.0 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📦 Released bioconductor 3.18 at
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.12.0 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to main in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 📦 Released version 0.5.1 at
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 😺 Created a tag v0.5.1 in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 📨 Pushed to main in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#99](https://github.com/theislab/zellkonverter#99)
-- 📨 Pushed to main in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🤔 Opened an issue in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 😺 Deleted branch develop at
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🎊 Closed an issue in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 📨 Pushed to main in
   [lazappi/clustree](https://github.com/lazappi/clustree)
 
 <p align="center" style="width:100%;">
