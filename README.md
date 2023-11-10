@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [theislab/single-cell-best-practices#168](https://github.com/theislab/single-cell-best-practices#168)
+- 🗣 Commented on pull request
+  [theislab/single-cell-best-practices#168](https://github.com/theislab/single-cell-best-practices#168)
+- 🗣 Commented on pull request
+  [theislab/single-cell-best-practices#168](https://github.com/theislab/single-cell-best-practices#168)
+- 🗣 Commented on pull request
+  [theislab/single-cell-best-practices#168](https://github.com/theislab/single-cell-best-practices#168)
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Created a tag v1.27.0 in
@@ -45,14 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a tag v1.13.0 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📦 Released bioconductor 3.18 at
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.12.0 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to main in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 📦 Released version 0.5.1 at
-  [lazappi/clustree](https://github.com/lazappi/clustree)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
