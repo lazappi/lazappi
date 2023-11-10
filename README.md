@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
 - 🗣 Commented on pull request
   [theislab/single-cell-best-practices#168](https://github.com/theislab/single-cell-best-practices#168)
 - 🗣 Commented on pull request
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 😺 Created a tag v1.26.0 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.13.0 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
