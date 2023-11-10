@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🤔 Opened an issue in
   [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
 - 🗣 Commented on pull request
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📦 Released bioconductor 3.18 at
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Created a tag v1.26.0 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
