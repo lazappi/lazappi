@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [theislab/single-cell-best-practices#168](https://github.com/theislab/single-cell-best-practices#168)
 - 📨 Pushed to feature/interoperability in
   [theislab/single-cell-best-practices](https://github.com/theislab/single-cell-best-practices)
-- 🗣 Commented on pull request
-  [theislab/single-cell-best-practices#168](https://github.com/theislab/single-cell-best-practices#168)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
