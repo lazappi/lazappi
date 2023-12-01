@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [lazappi/clustree#98](https://github.com/lazappi/clustree#98)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#104](https://github.com/theislab/zellkonverter#104)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - ⭐️ Starred
   [cxli233/friendsdontletfriends](https://github.com/cxli233/friendsdontletfriends)
 - 🗣 Commented on issue
@@ -45,14 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to add_uns in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3070](https://github.com/bioconductor/contributions#3070)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
