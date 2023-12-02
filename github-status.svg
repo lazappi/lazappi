@@ -450,6 +450,7 @@
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -473,7 +474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cxli233/FriendsDontLetFriends</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Friends don't let friends make certain types of data visualization - What are they and why are they bad.</div>
@@ -694,13 +695,8 @@
                             <div class="entry">
                                 <span class="value">267</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                18
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 19
+                                <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value">268</span>
@@ -763,6 +759,11 @@
                                 1
                                 <div class="bottom">Dec.</div>
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                2
+                            </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -771,13 +772,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                18
-                                <div class="bottom">Nov.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 19
+                                <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value">+1</span>
@@ -839,6 +835,11 @@
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 1
                                 <div class="bottom">Dec.</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                2
                             </div>
                         </div>
                     </section>
@@ -1005,7 +1006,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 241k out of 118m users</span>
+                                    <span class="gh">ranked 241k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">84</div>
                                     </div>
@@ -1212,7 +1213,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 63.7k out of 118m users</span>
+                                    <span class="gh">ranked 63.7k out of 125m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">145</div>
                                     </div>
@@ -1253,7 +1254,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 144k out of 49.3m repositories</span>
+                                    <span class="gh">ranked 144k out of 55.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">278</div>
                                     </div>
@@ -1340,7 +1341,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 710k out of 49.3m repositories</span>
+                                    <span class="gh">ranked 710k out of 55.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
