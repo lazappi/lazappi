@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [oshlack/splatter#103](https://github.com/oshlack/splatter#103)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#104](https://github.com/theislab/zellkonverter#104)
+- 🗣 Commented on pull request
+  [scverse/anndatar#126](https://github.com/scverse/anndatar#126)
+- 🗣 Commented on issue
+  [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
 - 🗣 Commented on issue
   [lazappi/clustree#98](https://github.com/lazappi/clustree#98)
 - 🗣 Commented on issue
@@ -45,14 +53,6 @@ Here are some ideas to get you started:
   [cxli233/friendsdontletfriends](https://github.com/cxli233/friendsdontletfriends)
 - 🗣 Commented on issue
   [scverse/anndatar#136](https://github.com/scverse/anndatar#136)
-- 📨 Pushed to add_uns in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#126](https://github.com/scverse/anndatar#126)
-- 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to add_uns in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
