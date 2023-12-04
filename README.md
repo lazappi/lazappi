@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch write-h5ad-categoricals in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened an issue in
+  [grimbough/rhdf5](https://github.com/grimbough/rhdf5)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -45,14 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar#126](https://github.com/scverse/anndatar#126)
 - 🗣 Commented on issue
   [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
-- 🗣 Commented on issue
-  [lazappi/clustree#98](https://github.com/lazappi/clustree#98)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#104](https://github.com/theislab/zellkonverter#104)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
