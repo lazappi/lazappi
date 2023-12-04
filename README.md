@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on pull request
   [oshlack/splatter#103](https://github.com/oshlack/splatter#103)
 - 🗣 Commented on issue
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- ⭐️ Starred
-  [cxli233/friendsdontletfriends](https://github.com/cxli233/friendsdontletfriends)
-- 🗣 Commented on issue
-  [scverse/anndatar#136](https://github.com/scverse/anndatar#136)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
