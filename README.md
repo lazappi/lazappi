@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch write-h5ad-categoricals in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter#104](https://github.com/theislab/zellkonverter#104)
 - 🗣 Commented on pull request
   [scverse/anndatar#126](https://github.com/scverse/anndatar#126)
-- 🗣 Commented on issue
-  [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
