@@ -43,6 +43,8 @@ Here are some ideas to get you started:
   [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
 - 🗣 Commented on pull request
   [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
+- 🗣 Commented on pull request
+  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
 - 🗣 Commented on issue
   [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
 - 🤔 Opened a pull request in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in
-  [grimbough/rhdf5](https://github.com/grimbough/rhdf5)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
