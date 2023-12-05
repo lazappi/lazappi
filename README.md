@@ -33,26 +33,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
-- 🗣 Commented on pull request
-  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
-- 🗣 Commented on pull request
-  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
-- 🗣 Commented on pull request
-  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
-- 🗣 Commented on pull request
-  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
-- 🗣 Commented on pull request
-  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
-- 🗣 Commented on issue
-  [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
+- 📨 Pushed to clean-h5ad in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch write-h5ad-categoricals in
+- 😺 Created a branch strip-whitespace in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in
+- 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch clean-h5ad in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
+- 🗣 Commented on pull request
+  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
+- 🗣 Commented on pull request
+  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
+- 🗣 Commented on pull request
+  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
+- 🗣 Commented on pull request
+  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
