@@ -479,7 +479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cxli233/FriendsDontLetFriends</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Friends don't let friends make certain types of data visualization - What are they and why are they bad.</div>
@@ -1259,7 +1259,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 144k out of 47.2m repositories</span>
+                                    <span class="gh">ranked 144k out of 49.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">278</div>
                                     </div>
@@ -1346,7 +1346,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 710k out of 47.2m repositories</span>
+                                    <span class="gh">ranked 710k out of 49.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -1364,7 +1364,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.125628140703519 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.904522613065327 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1392,10 +1392,10 @@
                                     <span class="prefix"></span>
                                     Reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">14</div>
+                                        <div class="value">15</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 14 pull requests</div>
+                                <div class="text">Reviewed 15 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
