@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
+- 📨 Pushed to tidy-interface in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
   [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
 - 📨 Pushed to write-h5ad-categoricals in
   [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 😺 Created a branch tidy-interface in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to clean-h5ad in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch strip-whitespace in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
