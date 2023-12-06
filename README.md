@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to write-h5ad-categoricals in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
 - 🤔 Opened a pull request in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch clean-h5ad in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
 - 🗣 Commented on pull request
   [scverse/anndatar#152](https://github.com/scverse/anndatar#152)
 
