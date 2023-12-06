@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to write-h5ad-categoricals in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to write-h5ad-categoricals in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 😺 Created a branch strip-whitespace in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch clean-h5ad in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
