@@ -33,6 +33,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎊 Closed an issue in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🗣 Commented on issue
+  [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
+- 🎊 Closed an issue in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 🗣 Commented on issue
+  [oshlack/splatter#167](https://github.com/oshlack/splatter#167)
+- 🎊 Closed an issue in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on pull request
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 - 📨 Pushed to tidy-interface in
@@ -40,18 +52,6 @@ Here are some ideas to get you started:
 - 🗣 Commented on pull request
   [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
 - 📨 Pushed to write-h5ad-categoricals in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to write-h5ad-categoricals in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch tidy-interface in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to clean-h5ad in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
