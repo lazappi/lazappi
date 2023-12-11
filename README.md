@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
+- 🗣 Commented on pull request
+  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎊 Closed an issue in
   [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🗣 Commented on issue
-  [oshlack/splatter#164](https://github.com/oshlack/splatter#164)
-- 🎊 Closed an issue in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
