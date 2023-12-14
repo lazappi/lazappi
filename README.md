@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
+- 🗣 Commented on issue
   [scverse/anndata#1258](https://github.com/scverse/anndata#1258)
 - 🗣 Commented on pull request
   [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on pull request
   [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
