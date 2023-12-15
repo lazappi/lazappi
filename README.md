@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Added michalk8 to
+  [theislab/cellrank_notebooks](https://github.com/theislab/cellrank_notebooks)
+- 😺 Added michalk8 to
+  [theislab/cellrank](https://github.com/theislab/cellrank)
+- 😺 Added michalk8 to
+  [theislab/moslin](https://github.com/theislab/moslin)
+- 😺 Added michalk8 to
+  [theislab/moscot](https://github.com/theislab/moscot)
 - 😺 Added marius1311 to
   [theislab/cellrank_reproducibility_preprint](https://github.com/theislab/cellrank_reproducibility_preprint)
 - 😺 Added marius1311 to
@@ -45,14 +53,6 @@ Here are some ideas to get you started:
   [theislab/moscot_benchmarks](https://github.com/theislab/moscot_benchmarks)
 - 😺 Added marius1311 to
   [theislab/moscot_not](https://github.com/theislab/moscot_not)
-- 😺 Added marius1311 to
-  [theislab/moscot-framework_reproducibility](https://github.com/theislab/moscot-framework_reproducibility)
-- 😺 Added marius1311 to
-  [theislab/moscot_notebooks](https://github.com/theislab/moscot_notebooks)
-- 😺 Added marius1311 to
-  [theislab/moslin](https://github.com/theislab/moslin)
-- 😺 Added marius1311 to
-  [theislab/cellrank](https://github.com/theislab/cellrank)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
