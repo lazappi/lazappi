@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Added marius1311 to
+  [theislab/moslin](https://github.com/theislab/moslin)
+- 😺 Added marius1311 to
+  [theislab/cellrank](https://github.com/theislab/cellrank)
+- 😺 Added marius1311 to
+  [theislab/moscot](https://github.com/theislab/moscot)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 - 🗣 Commented on issue
@@ -47,12 +53,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🤔 Opened an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on pull request
-  [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
