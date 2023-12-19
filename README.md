@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 - 😺 Added michalk8 to
   [theislab/cellrank_notebooks](https://github.com/theislab/cellrank_notebooks)
 - 😺 Added michalk8 to
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/cellrank2_reproducibility](https://github.com/theislab/cellrank2_reproducibility)
 - 😺 Added marius1311 to
   [theislab/moscot_benchmarks](https://github.com/theislab/moscot_benchmarks)
-- 😺 Added marius1311 to
-  [theislab/moscot_not](https://github.com/theislab/moscot_not)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
