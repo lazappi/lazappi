@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
+- 🗣 Commented on pull request
   [catavallejos/basics#281](https://github.com/catavallejos/basics#281)
 - 🗣 Commented on pull request
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/cellrank_reproducibility_preprint](https://github.com/theislab/cellrank_reproducibility_preprint)
 - 😺 Added marius1311 to
   [theislab/cellrank_reproducibility](https://github.com/theislab/cellrank_reproducibility)
-- 😺 Added marius1311 to
-  [theislab/cellrank_notebooks](https://github.com/theislab/cellrank_notebooks)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
