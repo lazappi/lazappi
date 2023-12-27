@@ -792,7 +792,7 @@
                                 26
                             </div>
                             <div class="entry">
-                                <span class="value">273</span>
+                                <span class="value">274</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 27
                             </div>
@@ -868,7 +868,7 @@
                                 26
                             </div>
                             <div class="entry">
-                                <span class="value">+1</span>
+                                <span class="value">+2</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 27
                             </div>
@@ -1285,7 +1285,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 144k out of 56.1m repositories</span>
+                                    <span class="gh">ranked 144k out of 49.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">280</div>
                                     </div>
@@ -1372,7 +1372,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 713k out of 56.1m repositories</span>
+                                    <span class="gh">ranked 706k out of 49.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
