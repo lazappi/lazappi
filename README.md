@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [lazappi/clustree#99](https://github.com/lazappi/clustree#99)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#106](https://github.com/theislab/zellkonverter#106)
+- 🗣 Commented on issue
   [theislab/single-cell-best-practices#253](https://github.com/theislab/single-cell-best-practices#253)
 - 🗣 Commented on issue
   [lazappi/clustree#100](https://github.com/lazappi/clustree#100)
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [theislab/cellrank_notebooks](https://github.com/theislab/cellrank_notebooks)
 - 😺 Added michalk8 to
   [theislab/cellrank](https://github.com/theislab/cellrank)
-- 😺 Added michalk8 to
-  [theislab/moslin](https://github.com/theislab/moslin)
-- 😺 Added michalk8 to
-  [theislab/moscot](https://github.com/theislab/moscot)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
