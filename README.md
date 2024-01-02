@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/single-cell-best-practices#253](https://github.com/theislab/single-cell-best-practices#253)
+- 🗣 Commented on issue
+  [lazappi/clustree#100](https://github.com/lazappi/clustree#100)
 - 🗣 Commented on pull request
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 - 🗣 Commented on pull request
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [theislab/moslin](https://github.com/theislab/moslin)
 - 😺 Added michalk8 to
   [theislab/moscot](https://github.com/theislab/moscot)
-- 😺 Added marius1311 to
-  [theislab/cellrank_reproducibility_preprint](https://github.com/theislab/cellrank_reproducibility_preprint)
-- 😺 Added marius1311 to
-  [theislab/cellrank_reproducibility](https://github.com/theislab/cellrank_reproducibility)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
