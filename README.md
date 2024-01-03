@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🎊 Closed a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎊 Closed an issue in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎊 Closed an issue in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on issue
   [lazappi/clustree#99](https://github.com/lazappi/clustree#99)
 - 🗣 Commented on issue
@@ -47,12 +53,6 @@ Here are some ideas to get you started:
   [catavallejos/basics#281](https://github.com/catavallejos/basics#281)
 - 🗣 Commented on pull request
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
-- 🗣 Commented on pull request
-  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
-- 😺 Added michalk8 to
-  [theislab/cellrank_notebooks](https://github.com/theislab/cellrank_notebooks)
-- 😺 Added michalk8 to
-  [theislab/cellrank](https://github.com/theislab/cellrank)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
