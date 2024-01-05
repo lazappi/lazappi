@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#107](https://github.com/theislab/zellkonverter#107)
 - 🎊 Closed a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🎊 Closed an issue in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 - 🗣 Commented on pull request
   [catavallejos/basics#281](https://github.com/catavallejos/basics#281)
-- 🗣 Commented on pull request
-  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
