@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to fixes in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Created a branch fixes in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on issue
   [oshlack/splatter#169](https://github.com/oshlack/splatter#169)
 - 🤔 Opened a pull request in
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on issue
   [lazappi/clustree#99](https://github.com/lazappi/clustree#99)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#106](https://github.com/theislab/zellkonverter#106)
-- 🗣 Commented on issue
-  [theislab/single-cell-best-practices#253](https://github.com/theislab/single-cell-best-practices#253)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
