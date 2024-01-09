@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 📨 Pushed to fixes in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Created a branch fixes in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🎊 Closed an issue in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🗣 Commented on issue
-  [lazappi/clustree#99](https://github.com/lazappi/clustree#99)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
