@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 📨 Pushed to fixes in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 🗣 Commented on issue
   [theislab/zellkonverter#107](https://github.com/theislab/zellkonverter#107)
 - 🎊 Closed a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎊 Closed an issue in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎊 Closed an issue in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
