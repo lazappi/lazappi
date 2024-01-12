@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#108](https://github.com/theislab/zellkonverter#108)
+- 🗣 Commented on issue
+  [lazappi/clustree#101](https://github.com/lazappi/clustree#101)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -49,10 +53,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#107](https://github.com/theislab/zellkonverter#107)
-- 🎊 Closed a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
