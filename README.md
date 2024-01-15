@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- ⭐️ Starred
+  [bioconductor/bioconductor_salt](https://github.com/bioconductor/bioconductor_salt)
 - 🗣 Commented on issue
   [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
 - 🤔 Opened a pull request in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 📨 Pushed to fixes in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch fixes in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
