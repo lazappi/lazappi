@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 - 📨 Pushed to actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to actions in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a branch actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#108](https://github.com/theislab/zellkonverter#108)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
