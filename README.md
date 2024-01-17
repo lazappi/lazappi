@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Created a tag v1.13.2 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a branch actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Deleted branch actions at
@@ -42,10 +46,6 @@ Here are some ideas to get you started:
 - 🎉 Merged a pull request in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🤔 Opened a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to actions in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
