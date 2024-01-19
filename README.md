@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a tag v1.13.2 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
@@ -46,10 +50,6 @@ Here are some ideas to get you started:
 - 🎉 Merged a pull request in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🤔 Opened a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to actions in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
