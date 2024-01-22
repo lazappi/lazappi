@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Added luckymd to
+  [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
+- 😺 Added luckymd to
+  [theislab/scib-pipeline](https://github.com/theislab/scib-pipeline)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🤔 Opened a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
