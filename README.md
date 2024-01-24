@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/scanpy#1619](https://github.com/scverse/scanpy#1619)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a branch actions in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Deleted branch actions at
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
