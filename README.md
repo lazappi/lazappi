@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [scrna-tools/scrna-tools#273](https://github.com/scrna-tools/scrna-tools#273)
+- 🗣 Commented on issue
   [scverse/scanpy#1619](https://github.com/scverse/scanpy#1619)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 😺 Created a tag v1.13.2 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a branch actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
