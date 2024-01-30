@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- ⭐️ Starred [klmr/box](https://github.com/klmr/box)
 - 📨 Pushed to main in
   [lazappi/lazappi.r-universe.dev](https://github.com/lazappi/lazappi.r-universe.dev)
 - 🗣 Commented on issue
@@ -51,8 +52,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 😺 Created a tag v1.13.2 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
