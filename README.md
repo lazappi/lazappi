@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Created a branch main in
+  [lazappi/ssummary](https://github.com/lazappi/ssummary)
+- 😺 Created a repository
+  [lazappi/ssummary](https://github.com/lazappi/ssummary)
 - ⭐️ Starred [klmr/box](https://github.com/klmr/box)
 - 📨 Pushed to main in
   [lazappi/lazappi.r-universe.dev](https://github.com/lazappi/lazappi.r-universe.dev)
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
   [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 - 😺 Added luckymd to
   [theislab/scib-pipeline](https://github.com/theislab/scib-pipeline)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
