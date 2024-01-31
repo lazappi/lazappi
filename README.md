@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/ssummary](https://github.com/lazappi/ssummary)
 - 😺 Created a branch main in
   [lazappi/ssummary](https://github.com/lazappi/ssummary)
 - 😺 Created a repository
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 😺 Added luckymd to
   [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
-- 😺 Added luckymd to
-  [theislab/scib-pipeline](https://github.com/theislab/scib-pipeline)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
