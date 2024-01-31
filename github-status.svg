@@ -81,7 +81,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>klmr/box</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write reusable, composable and modular R code</div>
@@ -134,7 +134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Bioconductor/bioconductor_salt</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Salt to configure Linux and Mac (x86_64, arm64) for the BBS</div>
@@ -360,8 +360,8 @@
                                 30
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">275</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 31
                             </div>
                         </div>
@@ -436,8 +436,8 @@
                                 30
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 31
                             </div>
                         </div>
@@ -853,7 +853,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 144k out of 76.9m repositories</span>
+                                    <span class="gh">ranked 144k out of 79.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">284</div>
                                     </div>
@@ -940,7 +940,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 719k out of 76.9m repositories</span>
+                                    <span class="gh">ranked 719k out of 79.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
