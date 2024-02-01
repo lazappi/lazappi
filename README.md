@@ -33,6 +33,18 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [lazappi/clustree#98](https://github.com/lazappi/clustree#98)
+- 🎊 Closed an issue in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🗣 Commented on issue
+  [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
+- 🎊 Closed an issue in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 🗣 Commented on issue
+  [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
+- 🎊 Closed an issue in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to main in
   [lazappi/ssummary](https://github.com/lazappi/ssummary)
 - 😺 Created a branch main in
@@ -40,18 +52,6 @@ Here are some ideas to get you started:
 - 😺 Created a repository
   [lazappi/ssummary](https://github.com/lazappi/ssummary)
 - ⭐️ Starred [klmr/box](https://github.com/klmr/box)
-- 📨 Pushed to main in
-  [lazappi/lazappi.r-universe.dev](https://github.com/lazappi/lazappi.r-universe.dev)
-- 🗣 Commented on issue
-  [scrna-tools/scrna-tools#273](https://github.com/scrna-tools/scrna-tools#273)
-- 🗣 Commented on issue
-  [scverse/scanpy#1619](https://github.com/scverse/scanpy#1619)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 😺 Added luckymd to
-  [theislab/scib-reproducibility](https://github.com/theislab/scib-reproducibility)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
