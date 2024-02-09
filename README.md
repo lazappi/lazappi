@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 😺 Edited a wiki page in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to fixes in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -47,10 +51,6 @@ Here are some ideas to get you started:
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 🗣 Commented on issue
   [oshlack/splatter#166](https://github.com/oshlack/splatter#166)
-- 🎊 Closed an issue in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🗣 Commented on issue
-  [oshlack/splatter#168](https://github.com/oshlack/splatter#168)
 - 🎊 Closed an issue in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 
