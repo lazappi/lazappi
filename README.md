@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 🗣 Commented on issue
   [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
 - 🤔 Opened a pull request in
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 🤔 Opened a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Edited a wiki page in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to fixes in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
