@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 
 - 🗣 Commented on issue
   [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🗣 Commented on issue
+  [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
 - 🗣 Commented on pull request
   [scverse/anndatar#166](https://github.com/scverse/anndatar#166)
 - 📨 Pushed to main in
@@ -46,12 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Deleted branch fixes at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to fixes in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
