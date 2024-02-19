@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to write-h5ad-categoricals in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch reconstruction at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to main in
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on pull request
   [scverse/anndatar#166](https://github.com/scverse/anndatar#166)
-- 🗣 Commented on issue
-  [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
 - 🗣 Commented on issue
   [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
 
