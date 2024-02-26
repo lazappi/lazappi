@@ -33,26 +33,26 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
-- 🤔 Opened a pull request in
+- 😺 Created a tag v0.1.1 in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 😺 Created a branch snowball in
+- 😺 Deleted branch snowball at
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
 - 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch metric-fixes at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch metric-fixes in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to snowball in
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
+- 😺 Deleted branch ci at
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
+- 📨 Pushed to main in
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
+- 🎉 Merged a pull request in
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
