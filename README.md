@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
+- 📦 Released version v0.1.1 at
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 😺 Created a tag v0.1.1 in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 😺 Deleted branch snowball at
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 📨 Pushed to snowball in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 😺 Deleted branch ci at
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 📨 Pushed to main in
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 🎉 Merged a pull request in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 
 <p align="center" style="width:100%;">
