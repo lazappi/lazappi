@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 - 🤔 Opened a pull request in
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
+- 😺 Created a branch snowball in
+  [lazappi/doilinker](https://github.com/lazappi/doilinker)
+- 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
@@ -48,10 +52,6 @@ Here are some ideas to get you started:
 - 🤔 Opened a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Created a branch metric-fixes in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to write-h5ad-categoricals in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch reconstruction at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
