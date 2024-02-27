@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#110](https://github.com/theislab/zellkonverter#110)
 - 📨 Pushed to main in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 📦 Released version v0.1.1 at
@@ -50,8 +52,6 @@ Here are some ideas to get you started:
 - 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to snowball in
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 😺 Deleted branch ci at
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 
 <p align="center" style="width:100%;">
