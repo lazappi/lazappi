@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 - 🗣 Commented on issue
@@ -46,10 +50,6 @@
 - 😺 Created a tag v0.1.1 in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 😺 Deleted branch snowball at
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 📨 Pushed to main in
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 🎉 Merged a pull request in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 
 <p align="center" style="width:100%;">
