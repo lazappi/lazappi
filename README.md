@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
+- 🗣 Commented on issue
   [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
 - 🗣 Commented on issue
   [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
@@ -49,8 +51,6 @@
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 🎉 Merged a pull request in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
