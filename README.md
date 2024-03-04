@@ -33,6 +33,10 @@
 
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -47,10 +51,6 @@
   [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
 - 🗣 Commented on issue
   [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#110](https://github.com/theislab/zellkonverter#110)
-- 📨 Pushed to main in
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
@@ -58,12 +58,12 @@
 
 ### Some recent blog posts 📝
 
+- [scRNA-tools low-maintenance
+  mode](https://lazappi.id.au/posts/2024-03-04-scRNAtools-low-maintenance/index.html)
 - [Bioconductor 3.12
   wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/index.html)
 - [triple j’s
   Requestival](https://lazappi.id.au/posts/2020-07-11-requestival/index.html)
-- [Back to the
-  SCE-verse!](https://lazappi.id.au/posts/2020-05-12-back-to-the-sce-verse/index.html)
 
 *More at <https://lazappi.id.au>*
 
