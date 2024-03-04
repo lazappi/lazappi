@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
@@ -46,10 +50,6 @@
 - 📨 Pushed to main in
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 - 📦 Released version v0.1.1 at
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 😺 Created a tag v0.1.1 in
-  [lazappi/doilinker](https://github.com/lazappi/doilinker)
-- 😺 Deleted branch snowball at
   [lazappi/doilinker](https://github.com/lazappi/doilinker)
 
 <p align="center" style="width:100%;">
