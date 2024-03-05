@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to main in
@@ -47,8 +49,6 @@
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
 - 🗣 Commented on issue
   [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
 
