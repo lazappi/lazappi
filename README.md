@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Added vornholzl to
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch updates at
@@ -49,8 +51,6 @@
   [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
