@@ -32,6 +32,10 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [theislab/zellkonverter#111](https://github.com/theislab/zellkonverter#111)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#112](https://github.com/theislab/zellkonverter#112)
+- 🗣 Commented on issue
   [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -47,10 +51,6 @@
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3251](https://github.com/bioconductor/contributions#3251)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
