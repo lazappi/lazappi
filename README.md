@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#112](https://github.com/theislab/zellkonverter#112)
 - 😺 Added vornholzl to
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to main in
@@ -49,8 +51,6 @@
   [theislab/zellkonverter#112](https://github.com/theislab/zellkonverter#112)
 - 🗣 Commented on issue
   [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
