@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3321](https://github.com/bioconductor/contributions#3321)
+- 🗣 Commented on issue
   [bioconductor/contributions#3310](https://github.com/bioconductor/contributions#3310)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
@@ -49,8 +51,6 @@
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Created a branch updates in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#111](https://github.com/theislab/zellkonverter#111)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
