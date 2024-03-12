@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [theislab/zellkonverter#112](https://github.com/theislab/zellkonverter#112)
+- 🗣 Commented on issue
   [lazappi/clustree#99](https://github.com/lazappi/clustree#99)
 - 🎊 Closed an issue in
   [lazappi/clustree](https://github.com/lazappi/clustree)
@@ -49,8 +51,6 @@
   [bioconductor/contributions#3310](https://github.com/bioconductor/contributions#3310)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#112](https://github.com/theislab/zellkonverter#112)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
