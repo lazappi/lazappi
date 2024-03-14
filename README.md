@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [scverse/scanpy](https://github.com/scverse/scanpy)
+- 🗣 Commented on issue
+  [scverse/scanpy#2909](https://github.com/scverse/scanpy#2909)
+- 🤔 Opened an issue in
+  [scverse/scanpy](https://github.com/scverse/scanpy)
+- 🗣 Commented on issue
+  [scverse/scanpy#2153](https://github.com/scverse/scanpy#2153)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 - 🗣 Commented on issue
@@ -43,14 +51,6 @@
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch updates in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
