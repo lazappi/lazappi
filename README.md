@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch main in
+  [lazappi/scanpy](https://github.com/lazappi/scanpy)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
 - 🤔 Opened an issue in
   [scverse/scanpy](https://github.com/scverse/scanpy)
 - 🗣 Commented on issue
@@ -46,10 +50,6 @@
 - 🗣 Commented on issue
   [bioconductor/contributions#3321](https://github.com/bioconductor/contributions#3321)
 - 😺 Deleted branch updates at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
