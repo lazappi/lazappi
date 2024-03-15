@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
 - 🤔 Opened a pull request in
   [scverse/scanpy](https://github.com/scverse/scanpy)
 - 😺 Created a branch score-genes-layers in
@@ -47,10 +51,6 @@
   [scverse/scanpy](https://github.com/scverse/scanpy)
 - 🗣 Commented on issue
   [scverse/scanpy#2153](https://github.com/scverse/scanpy#2153)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3321](https://github.com/bioconductor/contributions#3321)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
