@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
 - 🗣 Commented on issue
@@ -47,10 +51,6 @@
   [scverse/scanpy](https://github.com/scverse/scanpy)
 - 🗣 Commented on issue
   [scverse/scanpy#2909](https://github.com/scverse/scanpy#2909)
-- 🤔 Opened an issue in
-  [scverse/scanpy](https://github.com/scverse/scanpy)
-- 🗣 Commented on issue
-  [scverse/scanpy#2153](https://github.com/scverse/scanpy#2153)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
