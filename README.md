@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
-- 😺 Created a branch metrics in
+- 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🗣 Commented on pull request
-  [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
-- 🗣 Commented on issue
-  [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
-- 📨 Pushed to write-h5ad-categoricals in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [grimbough/rhdf5#136](https://github.com/grimbough/rhdf5#136)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3035](https://github.com/bioconductor/contributions#3035)
-- 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 😺 Deleted branch metrics at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Deleted branch methods at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎉 Merged a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to methods in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Created a branch methods in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
