@@ -34,6 +34,8 @@
 - 🗣 Commented on issue
   [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
 - 🗣 Commented on issue
+  [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
+- 🗣 Commented on issue
   [theislab/zellkonverter#99](https://github.com/theislab/zellkonverter#99)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
@@ -48,8 +50,6 @@
 - 😺 Deleted branch methods at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to methods in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
