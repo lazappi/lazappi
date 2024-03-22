@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [theislab/zellkonverter#114](https://github.com/theislab/zellkonverter#114)
+- 🗣 Commented on issue
   [theislab/zellkonverter#115](https://github.com/theislab/zellkonverter#115)
 - 🗣 Commented on issue
   [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
@@ -48,8 +50,6 @@
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch metrics at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
