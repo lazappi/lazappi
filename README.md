@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
 - 🗣 Commented on issue
   [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#99](https://github.com/theislab/zellkonverter#99)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
