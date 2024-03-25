@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [drisso/singlecellexperiment#73](https://github.com/drisso/singlecellexperiment#73)
+- 🤔 Opened a pull request in
+  [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
+- 😺 Created a branch fill-selfhits in
+  [lazappi/singlecellexperiment](https://github.com/lazappi/singlecellexperiment)
+- 📨 Pushed to master in
+  [lazappi/singlecellexperiment](https://github.com/lazappi/singlecellexperiment)
+- 🗣 Commented on issue
+  [lazappi/clustree#102](https://github.com/lazappi/clustree#102)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#114](https://github.com/theislab/zellkonverter#114)
+- 😺 Created a tag v1.13.3 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3335](https://github.com/bioconductor/contributions#3335)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#114](https://github.com/theislab/zellkonverter#114)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#115](https://github.com/theislab/zellkonverter#115)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
-- 🤔 Opened an issue in
-  [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#114](https://github.com/theislab/zellkonverter#114)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
