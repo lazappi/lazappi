@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
+- 🗣 Commented on issue
   [drisso/singlecellexperiment#73](https://github.com/drisso/singlecellexperiment#73)
 - 🤔 Opened a pull request in
   [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
@@ -49,8 +51,6 @@
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
