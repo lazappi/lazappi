@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a tag v1.27.1 in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to fill-selfhits in
@@ -47,10 +51,6 @@
   [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
 - 🗣 Commented on issue
   [drisso/singlecellexperiment#73](https://github.com/drisso/singlecellexperiment#73)
-- 🤔 Opened a pull request in
-  [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
-- 😺 Created a branch fill-selfhits in
-  [lazappi/singlecellexperiment](https://github.com/lazappi/singlecellexperiment)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
