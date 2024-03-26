@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to fill-selfhits in
   [lazappi/singlecellexperiment](https://github.com/lazappi/singlecellexperiment)
 - 📨 Pushed to master in
@@ -48,8 +50,6 @@
 - 🤔 Opened a pull request in
   [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
 - 😺 Created a branch fill-selfhits in
-  [lazappi/singlecellexperiment](https://github.com/lazappi/singlecellexperiment)
-- 📨 Pushed to master in
   [lazappi/singlecellexperiment](https://github.com/lazappi/singlecellexperiment)
 
 <p align="center" style="width:100%;">
