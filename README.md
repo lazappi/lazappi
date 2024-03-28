@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [oshlack/splatter#170](https://github.com/oshlack/splatter#170)
 - 😺 Created a tag v1.27.1 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
@@ -49,8 +51,6 @@
   [drisso/singlecellexperiment#73](https://github.com/drisso/singlecellexperiment#73)
 - 🗣 Commented on issue
   [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
-- 🗣 Commented on issue
-  [drisso/singlecellexperiment#73](https://github.com/drisso/singlecellexperiment#73)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
