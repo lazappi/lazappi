@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
+- 🗣 Commented on issue
   [bioconductor/contributions#3356](https://github.com/bioconductor/contributions#3356)
 - 🗣 Commented on issue
   [bioconductor/contributions#3335](https://github.com/bioconductor/contributions#3335)
@@ -48,8 +50,6 @@
 - 😺 Created a branch baselines in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch distances at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
