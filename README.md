@@ -32,6 +32,10 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [bioconductor/contributions#3335](https://github.com/bioconductor/contributions#3335)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3335](https://github.com/bioconductor/contributions#3335)
+- 🗣 Commented on issue
   [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
@@ -46,10 +50,6 @@
 - 😺 Deleted branch distances at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch distances in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
