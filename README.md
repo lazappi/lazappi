@@ -33,6 +33,10 @@
 
 - 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
+- 🗣 Commented on pull request
+  [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
 - 🗣 Commented on issue
   [bioconductor/contributions#3356](https://github.com/bioconductor/contributions#3356)
 - 🗣 Commented on issue
@@ -46,10 +50,6 @@
 - 😺 Deleted branch baselines at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch baselines in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
