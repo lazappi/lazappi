@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3310](https://github.com/bioconductor/contributions#3310)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
@@ -41,16 +51,6 @@
   [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
 - 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3356](https://github.com/bioconductor/contributions#3356)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3335](https://github.com/bioconductor/contributions#3335)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3335](https://github.com/bioconductor/contributions#3335)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3245](https://github.com/bioconductor/contributions#3245)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
