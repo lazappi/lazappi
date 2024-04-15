@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
 - 🗣 Commented on issue
@@ -45,10 +49,6 @@
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
-- 🗣 Commented on pull request
-  [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
 - 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
 
