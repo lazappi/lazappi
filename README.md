@@ -32,6 +32,10 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [scverse/anndatar#167](https://github.com/scverse/anndatar#167)
+- 🎊 Closed an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
 - 🗣 Commented on issue
   [bioconductor/contributions#3356](https://github.com/bioconductor/contributions#3356)
@@ -47,10 +51,6 @@
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3310](https://github.com/bioconductor/contributions#3310)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
