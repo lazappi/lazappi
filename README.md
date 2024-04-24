@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
+- 🗣 Commented on issue
+  [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
 - 😺 Created a tag v1.27.2 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
@@ -47,10 +51,6 @@
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3356](https://github.com/bioconductor/contributions#3356)
-- 🗣 Commented on issue
-  [bioconductor/contributions#3356](https://github.com/bioconductor/contributions#3356)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
