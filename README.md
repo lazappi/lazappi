@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
+- 📨 Pushed to score-genes-layers in
+  [lazappi/scanpy](https://github.com/lazappi/scanpy)
 - 📨 Pushed to master in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -47,10 +51,6 @@
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
 - 🗣 Commented on issue
   [bioconductor/contributions#3355](https://github.com/bioconductor/contributions#3355)
-- 😺 Created a tag v1.27.2 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
