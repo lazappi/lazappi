@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a tag v1.15.0 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
@@ -48,8 +50,6 @@
 - 📦 Released bioconductor 3.19 at
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Created a tag v1.28.0 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
