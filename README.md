@@ -32,6 +32,16 @@
 ### My recent GitHub activity
 
 - 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to master in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 📨 Pushed to master in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a tag v1.15.0 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -41,16 +51,6 @@
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a tag v1.14.0 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.29.0 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📦 Released bioconductor 3.19 at
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Created a tag v1.28.0 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
