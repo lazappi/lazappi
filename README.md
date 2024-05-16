@@ -31,6 +31,7 @@
 
 ### My recent GitHub activity
 
+- ⭐️ Starred [conda/conda-lock](https://github.com/conda/conda-lock)
 - 😺 Created a branch main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 😺 Created a repository
@@ -48,8 +49,6 @@
 - 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to master in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
