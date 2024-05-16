@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch main in
+  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
+- 😺 Created a repository
+  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 😺 Deleted branch master at
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a branch main in
@@ -47,10 +51,6 @@
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 📨 Pushed to master in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
