@@ -37,6 +37,10 @@
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
+- 📨 Pushed to main in
+  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
+- 📨 Pushed to main in
+  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - ⭐️ Starred [conda/conda-lock](https://github.com/conda/conda-lock)
 - 😺 Created a branch main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
@@ -46,10 +50,6 @@
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a branch main in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 😺 Deleted branch master at
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 😺 Created a branch main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
