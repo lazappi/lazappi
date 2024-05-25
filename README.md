@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
@@ -47,8 +49,6 @@
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - ⭐️ Starred [conda/conda-lock](https://github.com/conda/conda-lock)
 - 😺 Created a branch main in
-  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
-- 😺 Created a repository
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 
 <p align="center" style="width:100%;">
