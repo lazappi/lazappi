@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
+- 📨 Pushed to main in
+  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 🗣 Commented on issue
   [theislab/zellkonverter#118](https://github.com/theislab/zellkonverter#118)
 - 📨 Pushed to main in
@@ -47,10 +51,6 @@
   [rstudio/reticulate#1613](https://github.com/rstudio/reticulate#1613)
 - 🗣 Commented on issue
   [theislab/zellkonverter#116](https://github.com/theislab/zellkonverter#116)
-- 🤔 Opened an issue in
-  [rstudio/reticulate](https://github.com/rstudio/reticulate)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
