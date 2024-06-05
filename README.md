@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
 - 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 📨 Pushed to main in
@@ -49,8 +51,6 @@
   [theislab/atlas-feature-selection-benchmark#163](https://github.com/theislab/atlas-feature-selection-benchmark#163)
 - 🗣 Commented on issue
   [rstudio/reticulate#1613](https://github.com/rstudio/reticulate#1613)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#116](https://github.com/theislab/zellkonverter#116)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
