@@ -31,6 +31,7 @@
 
 ### My recent GitHub activity
 
+- ⭐️ Starred [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
 - 🗣 Commented on pull request
   [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
 - 📨 Pushed to main in
@@ -49,8 +50,6 @@
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🗣 Commented on pull request
   [theislab/atlas-feature-selection-benchmark#163](https://github.com/theislab/atlas-feature-selection-benchmark#163)
-- 🗣 Commented on issue
-  [rstudio/reticulate#1613](https://github.com/rstudio/reticulate#1613)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
