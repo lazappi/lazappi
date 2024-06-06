@@ -31,6 +31,7 @@
 
 ### My recent GitHub activity
 
+- ⭐️ Starred [csoneson/armor](https://github.com/csoneson/armor)
 - 🗣 Commented on issue
   [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
 - 🗣 Commented on issue
@@ -48,8 +49,6 @@
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
-- 🗣 Commented on issue
-  [rstudio/reticulate#1613](https://github.com/rstudio/reticulate#1613)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
