@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [theislab/zellkonverter#119](https://github.com/theislab/zellkonverter#119)
 - ⭐️ Starred [csoneson/armor](https://github.com/csoneson/armor)
@@ -41,14 +49,6 @@
 - ⭐️ Starred [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
 - 🗣 Commented on pull request
   [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
-- 📨 Pushed to main in
-  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
-- 📨 Pushed to main in
-  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#118](https://github.com/theislab/zellkonverter#118)
-- 📨 Pushed to main in
-  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
