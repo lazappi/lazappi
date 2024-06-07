@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#119](https://github.com/theislab/zellkonverter#119)
 - ⭐️ Starred [csoneson/armor](https://github.com/csoneson/armor)
 - 🗣 Commented on issue
   [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
@@ -45,8 +47,6 @@
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 🗣 Commented on issue
   [theislab/zellkonverter#118](https://github.com/theislab/zellkonverter#118)
-- 📨 Pushed to main in
-  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 
