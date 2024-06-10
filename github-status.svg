@@ -303,7 +303,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nf-core/rnaseq</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</div>
@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>conda/conda-lock</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight lockfile for conda environments</div>
@@ -817,7 +817,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 251k out of 138m users</span>
+                                    <span class="gh">ranked 252k out of 138m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">86</div>
                                     </div>
@@ -1030,7 +1030,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 146k out of 191m repositories</span>
+                                    <span class="gh">ranked 146k out of 177m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">296</div>
                                     </div>
@@ -1117,7 +1117,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 740k out of 191m repositories</span>
+                                    <span class="gh">ranked 740k out of 177m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
