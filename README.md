@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🍴 Forked lazappi/nf-core_rnaseq from
+  [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
 - 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -47,8 +49,6 @@
 - 🗣 Commented on issue
   [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
 - ⭐️ Starred [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
-- 🗣 Commented on pull request
-  [scverse/scanpy#2921](https://github.com/scverse/scanpy#2921)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
