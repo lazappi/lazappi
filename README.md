@@ -31,6 +31,18 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
+- 🗣 Commented on pull request
+  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
+- 🤔 Opened a pull request in
+  [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
+- 😺 Created a branch annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 🍴 Forked lazappi/nf-core_rnaseq from
   [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
 - 📨 Pushed to main in
@@ -39,16 +51,6 @@
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#119](https://github.com/theislab/zellkonverter#119)
-- ⭐️ Starred [csoneson/armor](https://github.com/csoneson/armor)
-- 🗣 Commented on issue
-  [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
-- 🗣 Commented on issue
-  [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
-- ⭐️ Starred [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
