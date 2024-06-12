@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
+- 🗣 Commented on issue
+  [oshlack/splatter#171](https://github.com/oshlack/splatter#171)
 - 🗣 Commented on issue
   [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
 - 📨 Pushed to annotation-documentation in
@@ -46,10 +50,6 @@
 - 🍴 Forked lazappi/nf-core_rnaseq from
   [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
 - 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
