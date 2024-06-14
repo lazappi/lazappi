@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
+- 📨 Pushed to main in
+  [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
+- 📨 Pushed to main in
+  [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
+- 😺 Created a branch main in
+  [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
+- 😺 Created a repository
+  [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
 - 🗣 Commented on pull request
   [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
 - 📨 Pushed to annotation-documentation in
@@ -41,16 +51,6 @@
   [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
 - 🗣 Commented on issue
   [oshlack/splatter#171](https://github.com/oshlack/splatter#171)
-- 🗣 Commented on issue
-  [nf-core/rnaseq#1086](https://github.com/nf-core/rnaseq#1086)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 🗣 Commented on pull request
-  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
-- 🤔 Opened a pull request in
-  [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
