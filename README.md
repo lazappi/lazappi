@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch score-genes-layers at
+  [lazappi/scanpy](https://github.com/lazappi/scanpy)
 - 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 📨 Pushed to main in
@@ -49,8 +51,6 @@
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 🗣 Commented on pull request
   [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
-- 🗣 Commented on issue
-  [oshlack/splatter#171](https://github.com/oshlack/splatter#171)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
