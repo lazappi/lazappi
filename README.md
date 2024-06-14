@@ -33,6 +33,12 @@
 
 - 🗣 Commented on pull request
   [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
+- 🗣 Commented on pull request
+  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
 - 🗣 Commented on issue
   [oshlack/splatter#171](https://github.com/oshlack/splatter#171)
 - 🗣 Commented on issue
@@ -45,12 +51,6 @@
   [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
 - 📨 Pushed to annotation-documentation in
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 😺 Created a branch annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 🍴 Forked lazappi/nf-core_rnaseq from
-  [nf-core/rnaseq](https://github.com/nf-core/rnaseq)
-- 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
