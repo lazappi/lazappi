@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch milo-label in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Deleted branch hlca-analysis at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎉 Merged a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to hlca-analysis in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch score-genes-layers at
   [lazappi/scanpy](https://github.com/lazappi/scanpy)
 - 📨 Pushed to main in
@@ -41,16 +51,6 @@
   [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
 - 😺 Created a branch main in
   [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
-- 😺 Created a repository
-  [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
-- 🗣 Commented on pull request
-  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 🗣 Commented on pull request
-  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
