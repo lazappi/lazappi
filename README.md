@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [lazappi/clustree#103](https://github.com/lazappi/clustree#103)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch data at
@@ -48,8 +50,6 @@
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch hlca-analysis at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
