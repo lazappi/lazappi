@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- ⭐️ Starred
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🤔 Opened an issue in
   [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
 - 🗣 Commented on issue
@@ -48,8 +50,6 @@
 - 😺 Created a branch data in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Created a branch milo-label in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
