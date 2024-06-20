@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
 - 📨 Pushed to annotation-documentation in
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 🗣 Commented on pull request
@@ -48,8 +50,6 @@
 - 🗣 Commented on issue
   [lazappi/clustree#103](https://github.com/lazappi/clustree#103)
 - 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch data at
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
