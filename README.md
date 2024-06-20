@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
+- 🗣 Commented on pull request
+  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 🗣 Commented on issue
   [theislab/zellkonverter#117](https://github.com/theislab/zellkonverter#117)
 - ⭐️ Starred
@@ -42,14 +50,6 @@
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch data at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🎉 Merged a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to data in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch data in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
