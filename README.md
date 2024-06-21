@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#116](https://github.com/theislab/zellkonverter#116)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.15.1 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.14.1 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to annotation-documentation in
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 📨 Pushed to annotation-documentation in
@@ -41,16 +51,6 @@
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 🗣 Commented on pull request
   [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#117](https://github.com/theislab/zellkonverter#117)
-- ⭐️ Starred
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🤔 Opened an issue in
-  [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
