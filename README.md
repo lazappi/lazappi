@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
+- 📨 Pushed to annotation-documentation in
+  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 📨 Pushed to main in
   [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
 - 📨 Pushed to annotation-documentation in
@@ -47,10 +51,6 @@
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🤔 Opened an issue in
   [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow)
-- 🗣 Commented on issue
-  [lazappi/clustree#103](https://github.com/lazappi/clustree#103)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
