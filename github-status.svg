@@ -323,7 +323,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nf-core/rnaseq</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</div>
@@ -1048,7 +1048,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 147k out of 207m repositories</span>
+                                    <span class="gh">ranked 147k out of 197m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">296</div>
                                     </div>
@@ -1135,7 +1135,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 743k out of 207m repositories</span>
+                                    <span class="gh">ranked 743k out of 197m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
