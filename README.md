@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 - 🗣 Commented on issue
   [bioconductor/summarizedexperiment#80](https://github.com/bioconductor/summarizedexperiment#80)
 - 🤔 Opened an issue in
@@ -49,8 +51,6 @@
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 📨 Pushed to annotation-documentation in
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
-- 📨 Pushed to main in
-  [lazappi/tidydirectory](https://github.com/lazappi/tidydirectory)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
