@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [scverse/anndata#1474](https://github.com/scverse/anndata#1474)
+- 🗣 Commented on pull request
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 - 🗣 Commented on issue
   [bioconductor/summarizedexperiment#80](https://github.com/bioconductor/summarizedexperiment#80)
@@ -47,8 +49,6 @@
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a tag v1.14.1 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 - 📨 Pushed to annotation-documentation in
   [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 
