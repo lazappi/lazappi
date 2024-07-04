@@ -566,8 +566,8 @@
                                 3
                             </div>
                             <div class="entry">
-                                <span class="value">295</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">296</span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 4
                             </div>
                         </div>
@@ -643,7 +643,7 @@
                                 3
                             </div>
                             <div class="entry">
-                                <span class="value">+2</span>
+                                <span class="value">+3</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 4
                             </div>
@@ -1060,7 +1060,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 148k out of 205m repositories</span>
+                                    <span class="gh">ranked 148k out of 196m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">296</div>
                                     </div>
@@ -1147,7 +1147,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 744k out of 205m repositories</span>
+                                    <span class="gh">ranked 744k out of 196m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
