@@ -34,6 +34,10 @@
 - 🗣 Commented on pull request
   [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
 - 🗣 Commented on pull request
+  [scverse/anndatar#155](https://github.com/scverse/anndatar#155)
+- 🗣 Commented on pull request
+  [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
+- 🗣 Commented on pull request
   [scverse/anndata#1474](https://github.com/scverse/anndata#1474)
 - 🗣 Commented on pull request
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
@@ -46,10 +50,6 @@
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.15.1 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.14.1 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
