@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#169](https://github.com/scverse/anndatar#169)
 - 🗣 Commented on issue
   [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
 - 📨 Pushed to annotation-documentation in
@@ -49,8 +51,6 @@
   [scverse/anndata#1474](https://github.com/scverse/anndata#1474)
 - 🗣 Commented on pull request
   [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
-- 🗣 Commented on issue
-  [bioconductor/summarizedexperiment#80](https://github.com/bioconductor/summarizedexperiment#80)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
