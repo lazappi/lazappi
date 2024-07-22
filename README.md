@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [ropensci/skimr](https://github.com/ropensci/skimr)
 - 🗣 Commented on pull request
   [scverse/anndatar#169](https://github.com/scverse/anndatar#169)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [nf-core/rnaseq#1314](https://github.com/nf-core/rnaseq#1314)
 - 🗣 Commented on pull request
   [scverse/anndata#1474](https://github.com/scverse/anndata#1474)
-- 🗣 Commented on pull request
-  [scverse/anndatar#159](https://github.com/scverse/anndatar#159)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
