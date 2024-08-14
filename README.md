@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [oshlack/splatter#172](https://github.com/oshlack/splatter#172)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [scverse/anndatar#169](https://github.com/scverse/anndatar#169)
 - 🗣 Commented on issue
   [theislab/zellkonverter#113](https://github.com/theislab/zellkonverter#113)
-- 📨 Pushed to annotation-documentation in
-  [lazappi/nf-core_rnaseq](https://github.com/lazappi/nf-core_rnaseq)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
