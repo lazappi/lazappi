@@ -34,6 +34,8 @@
 - 🗣 Commented on issue
   [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 - 🗣 Commented on issue
+  [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
+- 🗣 Commented on issue
   [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
 - 🗣 Commented on issue
   [oshlack/splatter#172](https://github.com/oshlack/splatter#172)
@@ -49,8 +51,6 @@
   [burghoff/scientific-inkscape](https://github.com/burghoff/scientific-inkscape)
 - 🗣 Commented on pull request
   [scverse/anndatar#169](https://github.com/scverse/anndatar#169)
-- 🤔 Opened an issue in
-  [ropensci/skimr](https://github.com/ropensci/skimr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
