@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 🗣 Commented on issue
   [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - ⭐️ Starred
   [burghoff/scientific-inkscape](https://github.com/burghoff/scientific-inkscape)
-- 🗣 Commented on pull request
-  [scverse/anndatar#169](https://github.com/scverse/anndatar#169)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
@@ -59,11 +59,11 @@
 ### Some recent blog posts 📝
 
 - [scRNA-tools low-maintenance
-  mode](https://lazappi.id.au/posts/2024-03-04-scRNAtools-low-maintenance/index.html)
+  mode](https://lazappi.id.au/posts/2024-03-04-scRNAtools-low-maintenance/)
 - [Bioconductor 3.12
-  wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/index.html)
+  wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/)
 - [triple j’s
-  Requestival](https://lazappi.id.au/posts/2020-07-11-requestival/index.html)
+  Requestival](https://lazappi.id.au/posts/2020-07-11-requestival/)
 
 *More at <https://lazappi.id.au>*
 
