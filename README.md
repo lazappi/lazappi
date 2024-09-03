@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch feature/no-ref/migrate-components in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to main in
   [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [theislab/zellkonverter#120](https://github.com/theislab/zellkonverter#120)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- ⭐️ Starred
-  [burghoff/scientific-inkscape](https://github.com/burghoff/scientific-inkscape)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
