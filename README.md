@@ -33,6 +33,8 @@
 
 - 📨 Pushed to feature/no-ref/migrate-components in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 📨 Pushed to feature/no-ref/migrate-components in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to feature/no-ref/migrate-components in
@@ -49,8 +51,6 @@
   [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 - 🗣 Commented on issue
   [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
-- 🗣 Commented on issue
-  [oshlack/splatter#172](https://github.com/oshlack/splatter#172)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
