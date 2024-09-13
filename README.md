@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 - 📨 Pushed to feature/no-ref/template-repository-sync in
   [lazappi/task_template](https://github.com/lazappi/task_template)
 - 😺 Created a branch feature/no-ref/template-repository-sync in
@@ -49,8 +51,6 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Created a branch feature/no-ref/migrate-components in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to main in
-  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
