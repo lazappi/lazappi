@@ -32,6 +32,14 @@
 ### My recent GitHub activity
 
 - 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 📨 Pushed to main in
   [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 🗣 Commented on issue
   [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
@@ -41,14 +49,6 @@
   [lazappi/task_template](https://github.com/lazappi/task_template)
 - 🍴 Forked lazappi/task_template from
   [openproblems-bio/task_template](https://github.com/openproblems-bio/task_template)
-- 📨 Pushed to feature/no-ref/migrate-components in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to feature/no-ref/migrate-components in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to feature/no-ref/migrate-components in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to feature/no-ref/migrate-components in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
