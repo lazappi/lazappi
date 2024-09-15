@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 🗣 Commented on issue
   [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 - 📨 Pushed to feature/no-ref/template-repository-sync in
@@ -49,8 +51,6 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to feature/no-ref/migrate-components in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 😺 Created a branch feature/no-ref/migrate-components in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
@@ -58,12 +58,12 @@
 
 ### Some recent blog posts 📝
 
+- [scverse
+  conference](https://lazappi.id.au/posts/2024-09-15-scverse-conference/)
 - [scRNA-tools low-maintenance
   mode](https://lazappi.id.au/posts/2024-03-04-scRNAtools-low-maintenance/)
 - [Bioconductor 3.12
   wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/)
-- [triple j’s
-  Requestival](https://lazappi.id.au/posts/2020-07-11-requestival/)
 
 *More at <https://lazappi.id.au>*
 
