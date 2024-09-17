@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/actions-template-sync in
+  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
+- 🎊 Closed a pull request in
+  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
+- 😺 Deleted branch chore/template_sync_bc461ca at
+  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
+- 📨 Pushed to feature/no-ref/actions-template-sync in
+  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
 - 😺 Deleted branch chore/template_sync_bc461ca at
   [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
 - 📨 Pushed to feature/no-ref/actions-template-sync in
@@ -43,14 +51,6 @@
   [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
 - 📨 Pushed to main in
   [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
-- 📨 Pushed to feature/no-ref/template-repository-sync in
-  [lazappi/task_template](https://github.com/lazappi/task_template)
-- 😺 Created a branch main in
-  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
-- 😺 Created a repository
-  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
-- 📨 Pushed to feature/no-ref/template-repository-sync in
-  [lazappi/task_template](https://github.com/lazappi/task_template)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
