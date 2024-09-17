@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/template-repository-sync in
+  [lazappi/task_template](https://github.com/lazappi/task_template)
+- 📨 Pushed to feature/no-ref/template-repository-sync in
+  [lazappi/task_template](https://github.com/lazappi/task_template)
+- 📨 Pushed to feature/no-ref/template-repository-sync in
+  [lazappi/task_template](https://github.com/lazappi/task_template)
+- 📨 Pushed to feature/no-ref/template-repository-sync in
+  [lazappi/task_template](https://github.com/lazappi/task_template)
+- 📨 Pushed to feature/no-ref/template-repository-sync in
+  [lazappi/task_template](https://github.com/lazappi/task_template)
+- 📨 Pushed to feature/no-ref/template-repository-sync in
+  [lazappi/task_template](https://github.com/lazappi/task_template)
+- 📨 Pushed to feature/no-ref/template-repository-sync in
+  [lazappi/task_template](https://github.com/lazappi/task_template)
 - 🍴 Forked lazappi/task_dimensionality_reduction from
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
-- 📨 Pushed to feature/no-ref/template-repository-sync in
-  [lazappi/task_template](https://github.com/lazappi/task_template)
-- 😺 Created a branch feature/no-ref/template-repository-sync in
-  [lazappi/task_template](https://github.com/lazappi/task_template)
-- 🍴 Forked lazappi/task_template from
-  [openproblems-bio/task_template](https://github.com/openproblems-bio/task_template)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
