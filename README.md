@@ -35,6 +35,8 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to update-workflows in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 📨 Pushed to update-workflows in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to feature/no-ref/actions-template-sync in
   [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
 - 🎊 Closed a pull request in
@@ -48,8 +50,6 @@
 - 📨 Pushed to feature/no-ref/actions-template-sync in
   [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
 - 📨 Pushed to feature/no-ref/actions-template-sync in
-  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
-- 😺 Created a branch feature/no-ref/actions-template-sync in
   [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
 
 <p align="center" style="width:100%;">
