@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch rapiclient in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🍴 Forked lazappi/laminr from
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
@@ -40,8 +42,6 @@
 - 📨 Pushed to main in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Created a branch update-workflows in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to update-workflows in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to update-workflows in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
