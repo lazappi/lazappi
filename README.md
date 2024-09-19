@@ -31,7 +31,11 @@
 
 ### My recent GitHub activity
 
-- 📨 Pushed to update-workflows in
+- 😺 Deleted branch update-workflows at
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 📨 Pushed to main in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 😺 Created a branch update-workflows in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to update-workflows in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
@@ -47,10 +51,6 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to update-workflows in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to feature/no-ref/actions-template-sync in
-  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
-- 🎊 Closed a pull request in
-  [lazappi/task_dimensionality_reduction_copy](https://github.com/lazappi/task_dimensionality_reduction_copy)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
