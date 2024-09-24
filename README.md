@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [data-intuitive/laminr.api#1](https://github.com/data-intuitive/laminr.api#1)
+- 🤔 Opened a pull request in
+  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
+- 😺 Created a branch add-packagename in
+  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
 - 🗣 Commented on issue
   [lazappi/clustree#35](https://github.com/lazappi/clustree#35)
 - 🤔 Opened a pull request in
@@ -44,12 +50,6 @@
 - 📨 Pushed to main in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Deleted branch update-workflows at
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to main in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 😺 Created a branch update-workflows in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to update-workflows in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
 <p align="center" style="width:100%;">
