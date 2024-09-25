@@ -33,6 +33,12 @@
 
 - 🗣 Commented on pull request
   [data-intuitive/laminr.api#1](https://github.com/data-intuitive/laminr.api#1)
+- 📨 Pushed to add-packagename in
+  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
+- 📨 Pushed to add-packagename in
+  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
+- 🗣 Commented on pull request
+  [data-intuitive/laminr.api#1](https://github.com/data-intuitive/laminr.api#1)
 - 🤔 Opened a pull request in
   [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
 - 😺 Created a branch add-packagename in
@@ -45,12 +51,6 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Created a branch rapiclient in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🍴 Forked lazappi/laminr from
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 😺 Deleted branch update-workflows at
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
