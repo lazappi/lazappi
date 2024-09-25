@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
+- 😺 Created a branch r-r6-documentation in
+  [lazappi/openapi-generator](https://github.com/lazappi/openapi-generator)
 - 🍴 Forked lazappi/openapi-generator from
   [openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
 - 🗣 Commented on pull request
@@ -47,10 +51,6 @@
   [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
 - 🗣 Commented on pull request
   [data-intuitive/laminr.api#1](https://github.com/data-intuitive/laminr.api#1)
-- 🤔 Opened a pull request in
-  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
-- 😺 Created a branch add-packagename in
-  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
