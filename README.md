@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+- 🎉 Merged a pull request in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
+- 🎉 Merged a pull request in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 🤔 Opened a pull request in
   [openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
 - 📨 Pushed to r-r6-documentation in
@@ -41,16 +51,6 @@
   [lazappi/openapi-generator](https://github.com/lazappi/openapi-generator)
 - 🍴 Forked lazappi/openapi-generator from
   [openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
-- 🗣 Commented on pull request
-  [data-intuitive/laminr.api#1](https://github.com/data-intuitive/laminr.api#1)
-- 📨 Pushed to add-packagename in
-  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
-- 📨 Pushed to add-packagename in
-  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
-- 🗣 Commented on pull request
-  [data-intuitive/laminr.api#1](https://github.com/data-intuitive/laminr.api#1)
-- 📨 Pushed to add-packagename in
-  [data-intuitive/laminr.api](https://github.com/data-intuitive/laminr.api)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
