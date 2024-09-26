@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to patch-1 in
+  [gabrielhoffman/zellkonverter](https://github.com/gabrielhoffman/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 - 📨 Pushed to main in
   [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 📨 Pushed to main in
@@ -46,10 +50,6 @@
 - 📨 Pushed to r-r6-documentation in
   [lazappi/openapi-generator](https://github.com/lazappi/openapi-generator)
 - 🤔 Opened an issue in
-  [openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
-- 😺 Created a branch r-r6-documentation in
-  [lazappi/openapi-generator](https://github.com/lazappi/openapi-generator)
-- 🍴 Forked lazappi/openapi-generator from
   [openapitools/openapi-generator](https://github.com/openapitools/openapi-generator)
 
 <p align="center" style="width:100%;">
