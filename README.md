@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch print-record in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
   [viash-hub/toolbox](https://github.com/viash-hub/toolbox)
 - 🤔 Opened an issue in
@@ -42,10 +46,6 @@
 - 🗣 Commented on issue
   [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 - 📨 Pushed to main in
-  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-- 📨 Pushed to main in
-  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-- 🎉 Merged a pull request in
   [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 📨 Pushed to main in
   [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
