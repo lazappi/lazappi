@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/add-common-test-dataset in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 🗣 Commented on pull request
   [laminlabs/laminr#3](https://github.com/laminlabs/laminr#3)
 - 🤔 Opened a pull request in
@@ -49,8 +51,6 @@
   [viash-hub/biobox](https://github.com/viash-hub/biobox)
 - 📨 Pushed to patch-1 in
   [gabrielhoffman/zellkonverter](https://github.com/gabrielhoffman/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#123](https://github.com/theislab/zellkonverter#123)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
