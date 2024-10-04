@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
+- 😺 Created a tag v1.15.3 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#17](https://github.com/theislab/zellkonverter#17)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on issue
   [theislab/zellkonverter#73](https://github.com/theislab/zellkonverter#73)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on issue
   [theislab/zellkonverter#92](https://github.com/theislab/zellkonverter#92)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#95](https://github.com/theislab/zellkonverter#95)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#104](https://github.com/theislab/zellkonverter#104)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#106](https://github.com/theislab/zellkonverter#106)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#107](https://github.com/theislab/zellkonverter#107)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
