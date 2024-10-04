@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch ci in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#73](https://github.com/theislab/zellkonverter#73)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#92](https://github.com/theislab/zellkonverter#92)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#95](https://github.com/theislab/zellkonverter#95)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#104](https://github.com/theislab/zellkonverter#104)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#106](https://github.com/theislab/zellkonverter#106)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#107](https://github.com/theislab/zellkonverter#107)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
