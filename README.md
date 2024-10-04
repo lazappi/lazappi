@@ -31,10 +31,10 @@
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
 - 🗣 Commented on pull request
