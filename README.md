@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#14](https://github.com/laminlabs/laminr#14)
+- 📨 Pushed to falexwolf-patch-1 in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
 - 😺 Reopened an issue in
@@ -47,10 +51,6 @@
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#17](https://github.com/theislab/zellkonverter#17)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
