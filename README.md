@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to falexwolf-patch-1 in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminhub-public#11](https://github.com/laminlabs/laminhub-public#11)
+- 🤔 Opened an issue in
+  [laminlabs/laminhub-public](https://github.com/laminlabs/laminhub-public)
 - 🗣 Commented on pull request
   [laminlabs/laminr#14](https://github.com/laminlabs/laminr#14)
 - 📨 Pushed to falexwolf-patch-1 in
@@ -43,12 +49,6 @@
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on pull request
   [laminlabs/laminr#8](https://github.com/laminlabs/laminr#8)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
-- 😺 Created a tag v1.15.3 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
