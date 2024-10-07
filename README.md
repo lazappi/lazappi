@@ -33,6 +33,8 @@
 
 - 📨 Pushed to foundation-models in
   [lazappi/website](https://github.com/lazappi/website)
+- 📨 Pushed to foundation-models in
+  [lazappi/website](https://github.com/lazappi/website)
 - 🤔 Opened a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 😺 Created a branch foundation-models in
@@ -49,8 +51,6 @@
   [laminlabs/laminr#14](https://github.com/laminlabs/laminr#14)
 - 📨 Pushed to falexwolf-patch-1 in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
