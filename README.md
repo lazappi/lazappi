@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch feature/no-ref/add-scimilarity at
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to feature/no-ref/add-scimilarity in
+  [lazappi/task_batch_integration](https://github.com/lazappi/task_batch_integration)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#2](https://github.com/openproblems-bio/task_batch_integration#2)
+- 😺 Created a branch feature/no-ref/add-scimilarity in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🎊 Closed a pull request in
@@ -43,14 +51,6 @@
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🤔 Opened a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 😺 Created a branch foundation-models in
-  [lazappi/website](https://github.com/lazappi/website)
-- 😺 Deleted branch foundation-models at
-  [lazappi/website](https://github.com/lazappi/website)
-- 📨 Pushed to foundation-models in
-  [lazappi/website](https://github.com/lazappi/website)
-- 📨 Pushed to foundation-models in
-  [lazappi/website](https://github.com/lazappi/website)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
