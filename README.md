@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/add-scimilarity in
+  [lazappi/task_batch_integration](https://github.com/lazappi/task_batch_integration)
 - 😺 Deleted branch feature/no-ref/add-scimilarity at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/add-scimilarity in
@@ -48,8 +50,6 @@
 - 😺 Created a branch foundation-models in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🎊 Closed a pull request in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🤔 Opened a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 
 <p align="center" style="width:100%;">
