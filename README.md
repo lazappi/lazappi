@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#13](https://github.com/laminlabs/laminr#13)
+- 📨 Pushed to feature/no-ref/improve-coranking in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 😺 Created a branch feature/no-ref/improve-coranking in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to feature/no-ref/add-scimilarity in
   [lazappi/task_batch_integration](https://github.com/lazappi/task_batch_integration)
 - 😺 Deleted branch feature/no-ref/add-scimilarity at
@@ -42,14 +50,6 @@
 - 😺 Created a branch feature/no-ref/add-scimilarity in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🎊 Closed a pull request in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🤔 Opened a pull request in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 😺 Created a branch foundation-models in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🎊 Closed a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 
 <p align="center" style="width:100%;">
