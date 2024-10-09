@@ -32,6 +32,12 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [laminlabs/laminr#19](https://github.com/laminlabs/laminr#19)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#19](https://github.com/laminlabs/laminr#19)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#19](https://github.com/laminlabs/laminr#19)
+- 🗣 Commented on pull request
   [laminlabs/laminr#13](https://github.com/laminlabs/laminr#13)
 - 📨 Pushed to feature/no-ref/improve-coranking in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
@@ -45,12 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/add-scimilarity in
   [lazappi/task_batch_integration](https://github.com/lazappi/task_batch_integration)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#2](https://github.com/openproblems-bio/task_batch_integration#2)
-- 😺 Created a branch feature/no-ref/add-scimilarity in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened a pull request in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
