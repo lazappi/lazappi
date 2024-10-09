@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#21](https://github.com/laminlabs/laminr#21)
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -49,8 +51,6 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to feature/no-ref/add-scimilarity in
   [lazappi/task_batch_integration](https://github.com/lazappi/task_batch_integration)
-- 😺 Deleted branch feature/no-ref/add-scimilarity at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
