@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#22](https://github.com/laminlabs/laminr#22)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#22](https://github.com/laminlabs/laminr#22)
+- 📨 Pushed to add-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-printing in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -45,12 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-printing in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#21](https://github.com/laminlabs/laminr#21)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#19](https://github.com/laminlabs/laminr#19)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
