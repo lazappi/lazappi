@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to add-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#22](https://github.com/laminlabs/laminr#22)
+- 📨 Pushed to add-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#22](https://github.com/laminlabs/laminr#22)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to add-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch add-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#21](https://github.com/laminlabs/laminr#21)
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#19](https://github.com/laminlabs/laminr#19)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#19](https://github.com/laminlabs/laminr#19)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#19](https://github.com/laminlabs/laminr#19)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#13](https://github.com/laminlabs/laminr#13)
-- 📨 Pushed to feature/no-ref/improve-coranking in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 😺 Created a branch feature/no-ref/improve-coranking in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to feature/no-ref/add-scimilarity in
-  [lazappi/task_batch_integration](https://github.com/lazappi/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
