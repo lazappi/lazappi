@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch object-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#27](https://github.com/laminlabs/laminr#27)
 - 🗣 Commented on pull request
@@ -47,8 +49,6 @@
   [laminlabs/laminr#18](https://github.com/laminlabs/laminr#18)
 - 🗣 Commented on pull request
   [laminlabs/laminr#18](https://github.com/laminlabs/laminr#18)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#29](https://github.com/laminlabs/laminr#29)
 - 🗣 Commented on pull request
   [laminlabs/laminr#29](https://github.com/laminlabs/laminr#29)
 
