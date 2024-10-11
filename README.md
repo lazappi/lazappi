@@ -32,25 +32,25 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
-  [laminlabs/laminr#29](https://github.com/laminlabs/laminr#29)
+  [laminlabs/laminr#27](https://github.com/laminlabs/laminr#27)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#27](https://github.com/laminlabs/laminr#27)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#27](https://github.com/laminlabs/laminr#27)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#18](https://github.com/laminlabs/laminr#18)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#18](https://github.com/laminlabs/laminr#18)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#18](https://github.com/laminlabs/laminr#18)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#18](https://github.com/laminlabs/laminr#18)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#18](https://github.com/laminlabs/laminr#18)
 - 🗣 Commented on pull request
   [laminlabs/laminr#29](https://github.com/laminlabs/laminr#29)
 - 🗣 Commented on pull request
   [laminlabs/laminr#29](https://github.com/laminlabs/laminr#29)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#3](https://github.com/laminlabs/laminr#3)
-- 📨 Pushed to 3.20-release in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to 3.20-release in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🤔 Opened a pull request in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Created a branch 3.20-release in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#22](https://github.com/laminlabs/laminr#22)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#22](https://github.com/laminlabs/laminr#22)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
