@@ -32,6 +32,14 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [laminlabs/laminr#31](https://github.com/laminlabs/laminr#31)
+- 📨 Pushed to object-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#31](https://github.com/laminlabs/laminr#31)
+- 📨 Pushed to object-printing in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
   [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
 - 📨 Pushed to 3.20-release in
   [oshlack/splatter](https://github.com/oshlack/splatter)
@@ -43,14 +51,6 @@
   [laminlabs/laminr#31](https://github.com/laminlabs/laminr#31)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to object-printing in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
