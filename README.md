@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
+- 📨 Pushed to 3.20-release in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to 3.20-release in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to object-printing in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -45,12 +51,6 @@
   [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
 - 🗣 Commented on pull request
   [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#30](https://github.com/laminlabs/laminr#30)
-- 😺 Created a branch object-printing in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#27](https://github.com/laminlabs/laminr#27)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
