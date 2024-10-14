@@ -31,6 +31,18 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [openproblems-bio/task_dimensionality_reduction#8](https://github.com/openproblems-bio/task_dimensionality_reduction#8)
+- 🗣 Commented on issue
+  [openproblems-bio/task_dimensionality_reduction#7](https://github.com/openproblems-bio/task_dimensionality_reduction#7)
+- 🤔 Opened an issue in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🤔 Opened an issue in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🤔 Opened an issue in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🤔 Opened an issue in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 🎊 Closed a pull request in
   [oshlack/splatter-paper](https://github.com/oshlack/splatter-paper)
 - 📨 Pushed to 3.20-release in
@@ -39,18 +51,6 @@
   [openproblems-bio/task_batch_integration#2](https://github.com/openproblems-bio/task_batch_integration#2)
 - 🎊 Closed a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch feature/no-ref/add-scimilarity in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#31](https://github.com/laminlabs/laminr#31)
-- 📨 Pushed to object-printing in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#31](https://github.com/laminlabs/laminr#31)
-- 📨 Pushed to object-printing in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
