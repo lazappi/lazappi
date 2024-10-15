@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
 - 📨 Pushed to devel in
@@ -44,12 +50,6 @@
 - 📨 Pushed to use-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch use-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch instanceapi-printing at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
