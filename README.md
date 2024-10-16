@@ -47,10 +47,10 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [theislab/zellkonverter#122](https://github.com/theislab/zellkonverter#122)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
