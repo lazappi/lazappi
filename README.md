@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#40](https://github.com/laminlabs/laminr#40)
-- 🤔 Opened a pull request in
+- 😺 Created a tag v1.29.1 in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Deleted branch 3.20-release at
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Created a branch 3.20-release in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Deleted branch 3.20-release at
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 🎉 Merged a pull request in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to 3.20-release in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to feature/no-ref/method-selection in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch feature/no-ref/method-selection in
+- 📨 Pushed to feature/no-ref/method-selection in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
