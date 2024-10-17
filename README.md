@@ -33,6 +33,10 @@
 
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Deleted branch dependabot/github_actions/actions/checkout-4 at
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
@@ -48,10 +52,6 @@
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on issue
   [theislab/zellkonverter#50](https://github.com/theislab/zellkonverter#50)
-- 🤔 Opened an issue in
-  [scverse/anndata](https://github.com/scverse/anndata)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
