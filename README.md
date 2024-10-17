@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#50](https://github.com/theislab/zellkonverter#50)
 - 🤔 Opened an issue in
   [scverse/anndata](https://github.com/scverse/anndata)
 - 📨 Pushed to devel in
@@ -48,8 +50,6 @@
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🎉 Merged a pull request in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to 3.20-release in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
