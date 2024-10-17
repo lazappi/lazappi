@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [scverse/anndata](https://github.com/scverse/anndata)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Created a tag v1.29.1 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Deleted branch 3.20-release at
@@ -47,10 +51,6 @@
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to 3.20-release in
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to feature/no-ref/method-selection in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/method-selection in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
