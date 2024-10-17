@@ -31,14 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#40](https://github.com/laminlabs/laminr#40)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch feature/no-ref/method-selection in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
