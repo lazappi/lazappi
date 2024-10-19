@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a tag v1.15.4 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Deleted branch 3.20-release at
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎉 Merged a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🤔 Opened a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a branch 3.20-release in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on pull request
   [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
 - 🗣 Commented on pull request
   [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to registry-to-data.frame in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch registry-to-data.frame in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Deleted branch dependabot/github_actions/actions/checkout-4 at
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
