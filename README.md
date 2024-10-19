@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to registry-to-data.frame in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch registry-to-data.frame in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
@@ -41,17 +51,6 @@
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🎉 Merged a pull request in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Deleted branch
-  dependabot/github_actions/jamesives/github-pages-deploy-action-4.6.8
-  at [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🎉 Merged a pull request in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#50](https://github.com/theislab/zellkonverter#50)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
