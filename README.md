@@ -31,6 +31,19 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch
+  dependabot/github_actions/jamesives/github-pages-deploy-action-4.6.8
+  at [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎉 Merged a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Deleted branch dependabot/github_actions/actions/checkout-4 at
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎉 Merged a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a tag v1.15.4 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Deleted branch 3.20-release at
@@ -39,18 +52,6 @@
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎉 Merged a pull request in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🤔 Opened a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a branch 3.20-release in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
