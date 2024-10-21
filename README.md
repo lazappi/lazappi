@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/improve-coranking in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Deleted branch
   dependabot/github_actions/jamesives/github-pages-deploy-action-4.6.8
   at [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -49,8 +51,6 @@
 - 😺 Deleted branch 3.20-release at
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
