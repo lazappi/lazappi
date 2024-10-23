@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/method-selection in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to add-checkmethodallowed in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
+- 📨 Pushed to feature/no-ref/method-selection in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🤔 Opened a pull request in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
+- 😺 Created a branch add-checkmethodallowed in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 - 📨 Pushed to feature/no-ref/improve-coranking in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to feature/no-ref/add-scimilarity in
@@ -41,16 +51,6 @@
   dependabot/github_actions/jamesives/github-pages-deploy-action-4.6.8
   at [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Deleted branch dependabot/github_actions/actions/checkout-4 at
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.15.4 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
