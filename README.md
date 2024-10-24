@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#58](https://github.com/laminlabs/laminr#58)
 - 🗣 Commented on issue
   [laminlabs/laminr#45](https://github.com/laminlabs/laminr#45)
 - 🤔 Opened a pull request in
@@ -49,8 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to registry-to-data.frame in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
