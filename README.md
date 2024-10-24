@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to registry-to-data.frame in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to registry-to-data.frame in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
+- 📨 Pushed to registry-to-data.frame in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-52/remove-linktables in
@@ -43,14 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
   [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 😺 Created a branch add-checkmethodallowed in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 📨 Pushed to feature/no-ref/improve-coranking in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to feature/no-ref/add-scimilarity in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/improve-coranking in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
