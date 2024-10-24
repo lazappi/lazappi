@@ -33,6 +33,8 @@
 
 - 🗣 Commented on pull request
   [laminlabs/laminr#58](https://github.com/laminlabs/laminr#58)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#58](https://github.com/laminlabs/laminr#58)
 - 🗣 Commented on issue
   [laminlabs/laminr#45](https://github.com/laminlabs/laminr#45)
 - 🤔 Opened a pull request in
@@ -46,8 +48,6 @@
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issues-46-47/check-suggests in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to registry-to-data.frame in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to registry-to-data.frame in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
