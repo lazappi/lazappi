@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issues-46-47/check-suggests in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issues-46-47/check-suggests in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to registry-to-data.frame in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to registry-to-data.frame in
@@ -45,12 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/no-ref/method-selection in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to add-checkmethodallowed in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 📨 Pushed to feature/no-ref/method-selection in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened a pull request in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
