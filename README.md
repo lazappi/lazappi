@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#45](https://github.com/laminlabs/laminr#45)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-45/add-progress in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issues-46-47/check-suggests in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
@@ -43,14 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#54](https://github.com/laminlabs/laminr#54)
-- 📨 Pushed to registry-to-data.frame in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-52/remove-linktables in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/no-ref/method-selection in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
