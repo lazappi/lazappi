@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-45/add-progress in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#59](https://github.com/laminlabs/laminr#59)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-48/add-recordslist in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#58](https://github.com/laminlabs/laminr#58)
 - 🗣 Commented on pull request
@@ -42,14 +50,6 @@
 - 😺 Created a branch issue-45/add-progress in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issues-46-47/check-suggests in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issues-46-47/check-suggests in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to registry-to-data.frame in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
