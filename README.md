@@ -41,15 +41,15 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-57/macos-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-57/macos-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-57/macos-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-57/macos-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-57/macos-ci in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch issue-52/remove-linktables at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎊 Closed an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
