@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-57/macos-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch issue-52/remove-linktables at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🎊 Closed an issue in
@@ -46,10 +50,6 @@
 - 😺 Deleted branch issue-45/add-progress at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch registry-to-data.frame at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
