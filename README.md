@@ -47,9 +47,9 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-57/macos-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
+- 📨 Pushed to issue-57/macos-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-57/macos-ci in
+- 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
