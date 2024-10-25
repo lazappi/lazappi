@@ -31,25 +31,25 @@
 
 ### My recent GitHub activity
 
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to issue-45/add-progress in
+- 😺 Deleted branch issue-52/remove-linktables at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#59](https://github.com/laminlabs/laminr#59)
-- 🤔 Opened a pull request in
+- 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-48/add-recordslist in
+- 📨 Pushed to main in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#58](https://github.com/laminlabs/laminr#58)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#58](https://github.com/laminlabs/laminr#58)
-- 🗣 Commented on issue
-  [laminlabs/laminr#45](https://github.com/laminlabs/laminr#45)
-- 🤔 Opened a pull request in
+- 🎉 Merged a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-45/add-progress in
+- 📨 Pushed to issue-52/remove-linktables in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-52/remove-linktables in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Deleted branch issue-45/add-progress at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Deleted branch registry-to-data.frame at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
