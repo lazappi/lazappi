@@ -31,15 +31,15 @@
 
 ### My recent GitHub activity
 
+- 📦 Released 2024-07-28: stage 2 submission at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Created a tag 2024-07-28 in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to issues-46-47/check-suggests in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#56](https://github.com/laminlabs/laminr#56)
 - 📨 Pushed to issues-46-47/check-suggests in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-57/macos-ci in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-57/macos-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-57/macos-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
