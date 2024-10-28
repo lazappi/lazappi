@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/add-geneformer in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to main in
   [lazappi/chezmoi-dotfiles](https://github.com/lazappi/chezmoi-dotfiles)
 - 📨 Pushed to issue-48/add-recordslist in
@@ -49,8 +51,6 @@
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 📨 Pushed to issues-46-47/check-suggests in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#56](https://github.com/laminlabs/laminr#56)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
