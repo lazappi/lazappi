@@ -33,6 +33,8 @@
 
 - 📨 Pushed to issue-48/add-recordslist in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-48/add-recordslist in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [laminlabs/laminr#56](https://github.com/laminlabs/laminr#56)
 - 📨 Pushed to issues-46-47/check-suggests in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-57/macos-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
