@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-48/add-recordslist in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-48/add-recordslist in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch bug/no-ref/compute-env at
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to main in
@@ -47,10 +51,6 @@
   [laminlabs/laminr#59](https://github.com/laminlabs/laminr#59)
 - 🗣 Commented on pull request
   [laminlabs/laminr#59](https://github.com/laminlabs/laminr#59)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#6](https://github.com/openproblems-bio/task_batch_integration#6)
-- 📨 Pushed to feature/no-ref/add-geneformer in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
