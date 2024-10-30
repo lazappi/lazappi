@@ -31,18 +31,18 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - ⭐️ Starred
   [posit-dev/brand-yml](https://github.com/posit-dev/brand-yml)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
 - 🗣 Commented on pull request
   [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
 - 🗣 Commented on pull request
