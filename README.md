@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- ⭐️ Starred
+  [posit-dev/brand-yml](https://github.com/posit-dev/brand-yml)
 - 🗣 Commented on pull request
   [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
 - 🗣 Commented on pull request
@@ -49,8 +51,6 @@
   [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
 - 🗣 Commented on pull request
   [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
-- 📨 Pushed to issue-48/add-recordslist in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
