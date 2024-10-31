@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch issue-49/adjust-print-colours in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#7](https://github.com/openproblems-bio/task_batch_integration#7)
 - 🗣 Commented on pull request
@@ -49,8 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
   [scverse/anndatar#189](https://github.com/scverse/anndatar#189)
-- 📨 Pushed to feature/no-ref/add-geneformer in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
