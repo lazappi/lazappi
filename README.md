@@ -31,16 +31,16 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/add-uce in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to feature/no-ref/add-uce in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch feature/no-ref/add-uce in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
   [scverse/anndatar#189](https://github.com/scverse/anndatar#189)
 - 📨 Pushed to feature/no-ref/add-geneformer in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
 - 🗣 Commented on pull request
   [laminlabs/laminr#67](https://github.com/laminlabs/laminr#67)
 - 🗣 Commented on pull request
