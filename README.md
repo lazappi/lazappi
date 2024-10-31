@@ -31,6 +31,18 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-44/api-records-errors in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-44/api-records-errors in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#44](https://github.com/laminlabs/laminr#44)
+- 📨 Pushed to issue-49/adjust-print-colours in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-49/adjust-print-colours in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -39,18 +51,6 @@
   [openproblems-bio/task_batch_integration#7](https://github.com/openproblems-bio/task_batch_integration#7)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-uce in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-uce in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-uce in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-uce in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch feature/no-ref/add-uce in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on issue
-  [scverse/anndatar#189](https://github.com/scverse/anndatar#189)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
