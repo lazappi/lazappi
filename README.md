@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch feature/no-ref/add-scprint in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🗣 Commented on issue
+  [scverse/anndatar#91](https://github.com/scverse/anndatar#91)
 - 🤔 Opened an issue in
   [cantinilab/scprint](https://github.com/cantinilab/scprint)
 - 📨 Pushed to issue-65/registry-print-modules in
@@ -47,10 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#44](https://github.com/laminlabs/laminr#44)
-- 📨 Pushed to issue-49/adjust-print-colours in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
