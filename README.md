@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to feature/no-ref/add-scgpt in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/add-scgpt in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch feature/no-ref/add-scgpt in
@@ -46,10 +50,6 @@
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-65/registry-print-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-44/api-records-errors in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
