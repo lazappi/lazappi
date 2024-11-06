@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch feature/no-ref/add-scgpt in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch feature/no-ref/add-scprint in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-44/api-records-errors in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#44](https://github.com/laminlabs/laminr#44)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
