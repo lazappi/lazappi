@@ -31,8 +31,8 @@
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
+- 🗣 Commented on issue
+  [scverse/anndatar#191](https://github.com/scverse/anndatar#191)
 - 🗣 Commented on pull request
   [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
