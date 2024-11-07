@@ -32,25 +32,25 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
-  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-scgpt in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-scgpt in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch feature/no-ref/add-scgpt in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch feature/no-ref/add-scprint in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on issue
-  [scverse/anndatar#91](https://github.com/scverse/anndatar#91)
-- 🤔 Opened an issue in
-  [cantinilab/scprint](https://github.com/cantinilab/scprint)
-- 📨 Pushed to issue-65/registry-print-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
+- 🗣 Commented on pull request
+  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
+- 🗣 Commented on pull request
+  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
+- 🗣 Commented on pull request
+  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
+- 🗣 Commented on pull request
+  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
+- 🗣 Commented on pull request
+  [scverse/anndatar#192](https://github.com/scverse/anndatar#192)
+- 🗣 Commented on pull request
+  [scverse/anndatar#192](https://github.com/scverse/anndatar#192)
+- 🗣 Commented on pull request
+  [scverse/anndatar#192](https://github.com/scverse/anndatar#192)
+- 🗣 Commented on pull request
+  [scverse/anndatar#192](https://github.com/scverse/anndatar#192)
+- 🗣 Commented on pull request
+  [scverse/anndatar#192](https://github.com/scverse/anndatar#192)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
