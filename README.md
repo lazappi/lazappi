@@ -42,7 +42,7 @@
 - 🗣 Commented on pull request
   [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
-  [scverse/anndatar#192](https://github.com/scverse/anndatar#192)
+  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
   [scverse/anndatar#192](https://github.com/scverse/anndatar#192)
 - 🗣 Commented on pull request
