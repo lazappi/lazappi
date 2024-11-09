@@ -31,10 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
   [scverse/anndatar#191](https://github.com/scverse/anndatar#191)
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
   [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
