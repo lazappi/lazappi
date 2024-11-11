@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#191](https://github.com/scverse/anndatar#191)
+- 🗣 Commented on issue
+  [scverse/anndatar#189](https://github.com/scverse/anndatar#189)
+- 🗣 Commented on issue
+  [scverse/anndatar#195](https://github.com/scverse/anndatar#195)
 - 📨 Pushed to bug/no-ref/metric-hvg-missing-genes in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
@@ -41,12 +47,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
   [scverse/anndatar#191](https://github.com/scverse/anndatar#191)
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
   [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
