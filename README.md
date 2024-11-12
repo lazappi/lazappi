@@ -31,6 +31,18 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [data-intuitive/laminr.api#4](https://github.com/data-intuitive/laminr.api#4)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎉 Merged a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [scverse/anndatar#191](https://github.com/scverse/anndatar#191)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 🎉 Merged a pull request in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on issue
   [scverse/anndatar#191](https://github.com/scverse/anndatar#191)
 - 🗣 Commented on issue
@@ -39,18 +51,6 @@
   [scverse/anndatar#195](https://github.com/scverse/anndatar#195)
 - 📨 Pushed to bug/no-ref/metric-hvg-missing-genes in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch bug/no-ref/metric-hvg-missing-genes in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on issue
-  [scverse/anndatar#191](https://github.com/scverse/anndatar#191)
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
