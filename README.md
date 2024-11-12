@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#196](https://github.com/scverse/anndatar#196)
+- 🗣 Commented on pull request
+  [scverse/anndatar#193](https://github.com/scverse/anndatar#193)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#75](https://github.com/laminlabs/laminr#75)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#75](https://github.com/laminlabs/laminr#75)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#75](https://github.com/laminlabs/laminr#75)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-cellxgene-workflow in
@@ -41,16 +51,6 @@
   [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
   [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#74](https://github.com/laminlabs/laminr#74)
-- 🗣 Commented on pull request
-  [data-intuitive/laminr.api#3](https://github.com/data-intuitive/laminr.api#3)
-- 🗣 Commented on pull request
-  [data-intuitive/laminr.api#4](https://github.com/data-intuitive/laminr.api#4)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
