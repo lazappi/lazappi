@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [theislab/zellkonverter#73](https://github.com/theislab/zellkonverter#73)
+- 🗣 Commented on issue
   [theislab/single-cell-best-practices#305](https://github.com/theislab/single-cell-best-practices#305)
 - 🗣 Commented on pull request
   [scverse/anndatar#196](https://github.com/scverse/anndatar#196)
@@ -47,8 +49,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-cellxgene-workflow in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 - 🗣 Commented on pull request
   [scverse/anndatar#183](https://github.com/scverse/anndatar#183)
 
