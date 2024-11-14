@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-dataframe-artifacts in
@@ -43,14 +51,6 @@
   [theislab/zellkonverter#73](https://github.com/theislab/zellkonverter#73)
 - 🗣 Commented on issue
   [theislab/single-cell-best-practices#305](https://github.com/theislab/single-cell-best-practices#305)
-- 🗣 Commented on pull request
-  [scverse/anndatar#196](https://github.com/scverse/anndatar#196)
-- 🗣 Commented on pull request
-  [scverse/anndatar#193](https://github.com/scverse/anndatar#193)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#75](https://github.com/laminlabs/laminr#75)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#75](https://github.com/laminlabs/laminr#75)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
