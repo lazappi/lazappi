@@ -33,6 +33,8 @@
 
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
 - 🗣 Commented on pull request
@@ -49,8 +51,6 @@
   [laminlabs/laminr#76](https://github.com/laminlabs/laminr#76)
 - 🗣 Commented on issue
   [theislab/zellkonverter#73](https://github.com/theislab/zellkonverter#73)
-- 🗣 Commented on issue
-  [theislab/single-cell-best-practices#305](https://github.com/theislab/single-cell-best-practices#305)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
