@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [theislab/zellkonverter#129](https://github.com/theislab/zellkonverter#129)
+- 🗣 Commented on issue
   [laminlabs/laminr#76](https://github.com/laminlabs/laminr#76)
 - 🗣 Commented on issue
   [theislab/zellkonverter#73](https://github.com/theislab/zellkonverter#73)
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [laminlabs/laminr#75](https://github.com/laminlabs/laminr#75)
 - 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch add-cellxgene-workflow in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
