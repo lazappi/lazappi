@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to add-dataframe-artifacts in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
 - 🗣 Commented on pull request
@@ -46,8 +48,6 @@
 - 📨 Pushed to add-dataframe-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-dataframe-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
