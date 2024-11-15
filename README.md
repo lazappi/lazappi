@@ -37,16 +37,16 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-dataframe-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
-- 🗣 Commented on pull request
-  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
-- 🗣 Commented on pull request
-  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
-- 🗣 Commented on pull request
-  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
 - 📨 Pushed to add-dataframe-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
+- 🗣 Commented on pull request
+  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
+- 🗣 Commented on pull request
+  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
+- 🗣 Commented on pull request
+  [scverse/anndatar#201](https://github.com/scverse/anndatar#201)
 - 📨 Pushed to add-dataframe-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-dataframe-artifacts in
