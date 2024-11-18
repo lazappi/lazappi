@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#130](https://github.com/theislab/zellkonverter#130)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on pull request
   [laminlabs/laminr#81](https://github.com/laminlabs/laminr#81)
 - 🗣 Commented on pull request
@@ -47,10 +51,6 @@
   [laminlabs/laminr#81](https://github.com/laminlabs/laminr#81)
 - 🗣 Commented on pull request
   [laminlabs/laminr#81](https://github.com/laminlabs/laminr#81)
-- 📨 Pushed to add-dataframe-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to add-dataframe-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
