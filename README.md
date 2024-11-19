@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to add-tracking in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#84](https://github.com/laminlabs/laminr#84)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-tracking in
@@ -47,10 +51,6 @@
   [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
 - 🗣 Commented on pull request
   [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
-- 📨 Pushed to add-dataframe-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#130](https://github.com/theislab/zellkonverter#130)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
