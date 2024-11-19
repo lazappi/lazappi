@@ -41,6 +41,8 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to expand-new-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to expand-new-artifacts in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#85](https://github.com/laminlabs/laminr#85)
 - 🤔 Opened a pull request in
@@ -48,8 +50,6 @@
 - 😺 Created a branch expand-new-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-cellxgene-workflow in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to add-tracking in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
