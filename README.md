@@ -31,25 +31,25 @@
 
 ### My recent GitHub activity
 
-- 📨 Pushed to expand-new-artifacts in
+- 📨 Pushed to add-pr-template in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to expand-new-artifacts in
+- 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to expand-new-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to expand-new-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to expand-new-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to expand-new-artifacts in
+- 😺 Created a branch add-pr-template in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#85](https://github.com/laminlabs/laminr#85)
-- 🤔 Opened a pull request in
+- 🗣 Commented on issue
+  [laminlabs/laminr#63](https://github.com/laminlabs/laminr#63)
+- 📨 Pushed to expand-new-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch expand-new-artifacts in
+- 📨 Pushed to expand-new-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to add-cellxgene-workflow in
+- 📨 Pushed to expand-new-artifacts in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to expand-new-artifacts in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to expand-new-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
