@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to add-cellxgene-workflow in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-tracking in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-tracking in
@@ -47,8 +49,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🎉 Merged a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
 - 🗣 Commented on pull request
   [laminlabs/laminr#78](https://github.com/laminlabs/laminr#78)
 
