@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to add-cellxgene-workflow in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-pr-template in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
@@ -41,8 +43,6 @@
   [laminlabs/laminr#85](https://github.com/laminlabs/laminr#85)
 - 🗣 Commented on issue
   [laminlabs/laminr#63](https://github.com/laminlabs/laminr#63)
-- 📨 Pushed to expand-new-artifacts in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to expand-new-artifacts in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to expand-new-artifacts in
