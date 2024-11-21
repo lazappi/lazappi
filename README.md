@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#91](https://github.com/laminlabs/laminr#91)
+- 😺 Created a branch adjust-vignettes in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#92](https://github.com/laminlabs/laminr#92)
 - 🗣 Commented on issue
@@ -44,12 +50,6 @@
 - 📨 Pushed to main in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 📨 Pushed to track-fixes in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to track-fixes in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch track-fixes in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
