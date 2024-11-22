@@ -31,25 +31,25 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#198](https://github.com/scverse/anndatar#198)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#112](https://github.com/theislab/zellkonverter#112)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [lazappi/clustree#82](https://github.com/lazappi/clustree#82)
+- 🎊 Closed an issue in
+  [lazappi/clustree](https://github.com/lazappi/clustree)
+- 🗣 Commented on issue
+  [oshlack/splatter#172](https://github.com/oshlack/splatter#172)
+- 🎊 Closed an issue in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to fix-mermaid-vignettes in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch fix-mermaid-vignettes in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#94](https://github.com/laminlabs/laminr#94)
-- 🗣 Commented on issue
-  [laminlabs/laminr#86](https://github.com/laminlabs/laminr#86)
-- 🗣 Commented on issue
-  [laminlabs/laminr#76](https://github.com/laminlabs/laminr#76)
-- 🎊 Closed an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#61](https://github.com/laminlabs/laminr#61)
-- 🗣 Commented on issue
-  [laminlabs/laminr#53](https://github.com/laminlabs/laminr#53)
-- 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
