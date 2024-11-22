@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#94](https://github.com/laminlabs/laminr#94)
 - 🗣 Commented on issue
   [laminlabs/laminr#86](https://github.com/laminlabs/laminr#86)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#50](https://github.com/laminlabs/laminr#50)
-- 🎊 Closed an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
