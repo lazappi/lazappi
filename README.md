@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
-- 🗣 Commented on issue
-  [scverse/anndatar#198](https://github.com/scverse/anndatar#198)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#112](https://github.com/theislab/zellkonverter#112)
-- 🎊 Closed an issue in
+- 😺 Created a tag v1.17.0 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [lazappi/clustree#82](https://github.com/lazappi/clustree#82)
-- 🎊 Closed an issue in
-  [lazappi/clustree](https://github.com/lazappi/clustree)
-- 🗣 Commented on issue
-  [oshlack/splatter#172](https://github.com/oshlack/splatter#172)
-- 🎊 Closed an issue in
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📦 Released bioconductor 3.20 at
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.16.0 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a tag v1.31.0 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to fix-mermaid-vignettes in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch fix-mermaid-vignettes in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📦 Released bioconductor 3.20 at
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Created a tag v1.30.0 in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
