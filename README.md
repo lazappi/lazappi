@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
-- 📨 Pushed to adjust-vignettes in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
-  [laminlabs/laminr#91](https://github.com/laminlabs/laminr#91)
-- 😺 Created a branch adjust-vignettes in
+  [laminlabs/laminr#86](https://github.com/laminlabs/laminr#86)
+- 🗣 Commented on issue
+  [laminlabs/laminr#76](https://github.com/laminlabs/laminr#76)
+- 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
-  [laminlabs/laminr#92](https://github.com/laminlabs/laminr#92)
+  [laminlabs/laminr#61](https://github.com/laminlabs/laminr#61)
 - 🗣 Commented on issue
-  [laminlabs/laminr#92](https://github.com/laminlabs/laminr#92)
-- 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+  [laminlabs/laminr#53](https://github.com/laminlabs/laminr#53)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#16](https://github.com/laminlabs/laminr#16)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#50](https://github.com/laminlabs/laminr#50)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
