@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch fixes at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#102](https://github.com/laminlabs/laminr#102)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#102](https://github.com/laminlabs/laminr#102)
 - 😺 Deleted branch build/feature/no-ref/add-scimilarity at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Deleted branch feature/no-ref/add-geneformer at
@@ -41,16 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Deleted branch feature/no-ref/add-scgpt at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-scprint in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on issue
-  [cantinilab/scprint#8](https://github.com/cantinilab/scprint#8)
-- 😺 Deleted branch simplify at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
