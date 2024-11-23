@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [cantinilab/scprint#8](https://github.com/cantinilab/scprint#8)
+- 😺 Deleted branch simplify at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to simplify in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/lamin-docs#187](https://github.com/laminlabs/lamin-docs#187)
 - 🤔 Opened a pull request in
@@ -41,16 +51,6 @@
   [laminlabs/laminr#98](https://github.com/laminlabs/laminr#98)
 - 🗣 Commented on issue
   [scverse/anndatar#202](https://github.com/scverse/anndatar#202)
-- 😺 Created a tag v1.17.0 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📦 Released bioconductor 3.20 at
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a tag v1.16.0 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
