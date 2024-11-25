@@ -33,6 +33,10 @@
 
 - 📨 Pushed to feature/no-ref/add-scprint in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to feature/no-ref/add-scprint in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/add-scprint in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
@@ -47,10 +51,6 @@
   [laminlabs/laminr#102](https://github.com/laminlabs/laminr#102)
 - 🗣 Commented on pull request
   [laminlabs/laminr#102](https://github.com/laminlabs/laminr#102)
-- 😺 Deleted branch build/feature/no-ref/add-scimilarity at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Deleted branch feature/no-ref/add-geneformer at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
