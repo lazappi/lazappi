@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#202](https://github.com/scverse/anndatar#202)
 - 😺 Deleted branch fixes at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
@@ -48,8 +50,6 @@
 - 😺 Deleted branch feature/no-ref/add-uce at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Deleted branch bug/no-ref/metric-hvg-missing-genes at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Deleted branch feature/no-ref/add-scgpt at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
