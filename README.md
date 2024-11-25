@@ -33,6 +33,8 @@
 
 - 📨 Pushed to feature/no-ref/add-scprint in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to feature/no-ref/add-scprint in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
   [scverse/anndatar#202](https://github.com/scverse/anndatar#202)
 - 😺 Deleted branch fixes at
@@ -48,8 +50,6 @@
 - 😺 Deleted branch build/feature/no-ref/add-scimilarity at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Deleted branch feature/no-ref/add-geneformer at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Deleted branch feature/no-ref/add-uce at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
