@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-114/add-artifact-open in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#113](https://github.com/laminlabs/laminr#113)
 - 📨 Pushed to populatesymbols in
@@ -46,10 +50,6 @@
 - 🎉 Merged a pull request in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 🤔 Opened a pull request in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to update-figures in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a branch update-figures in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
