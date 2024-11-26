@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#113](https://github.com/laminlabs/laminr#113)
+- 📨 Pushed to populatesymbols in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [scverse/anndatar#202](https://github.com/scverse/anndatar#202)
 - 🗣 Commented on issue
   [oshlack/splatter#178](https://github.com/oshlack/splatter#178)
 - 📨 Pushed to main in
@@ -45,12 +51,6 @@
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Created a branch update-figures in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#113](https://github.com/laminlabs/laminr#113)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#113](https://github.com/laminlabs/laminr#113)
-- 📨 Pushed to feature/no-ref/add-scprint in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
