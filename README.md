@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [oshlack/splatter#178](https://github.com/oshlack/splatter#178)
 - 📨 Pushed to main in
   [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 - 😺 Deleted branch update-figures at
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [laminlabs/laminr#113](https://github.com/laminlabs/laminr#113)
 - 📨 Pushed to feature/no-ref/add-scprint in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
