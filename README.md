@@ -35,6 +35,10 @@
   [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 - 🗣 Commented on issue
   [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
+- 🗣 Commented on issue
+  [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
+- 🗣 Commented on issue
+  [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 - 🗣 Commented on pull request
   [laminlabs/laminr#117](https://github.com/laminlabs/laminr#117)
 - 🗣 Commented on pull request
@@ -47,10 +51,6 @@
   [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 - 🗣 Commented on pull request
   [laminlabs/laminr#117](https://github.com/laminlabs/laminr#117)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#117](https://github.com/laminlabs/laminr#117)
-- 📨 Pushed to issue-114/add-artifact-open in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
