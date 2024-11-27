@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to prepare-task in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
+- 📨 Pushed to prepare-task in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
+- 📨 Pushed to prepare-task in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 😺 Created a branch prepare-task in
@@ -45,12 +51,6 @@
   [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 - 🗣 Commented on pull request
   [laminlabs/laminr#117](https://github.com/laminlabs/laminr#117)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#117](https://github.com/laminlabs/laminr#117)
-- 🗣 Commented on issue
-  [scverse/anndatar#202](https://github.com/scverse/anndatar#202)
-- 🗣 Commented on issue
-  [scverse/anndatar#198](https://github.com/scverse/anndatar#198)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
