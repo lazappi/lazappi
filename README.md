@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#117](https://github.com/laminlabs/laminr#117)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#117](https://github.com/laminlabs/laminr#117)
+- 🗣 Commented on issue
+  [scverse/anndatar#202](https://github.com/scverse/anndatar#202)
+- 🗣 Commented on issue
+  [scverse/anndatar#198](https://github.com/scverse/anndatar#198)
 - 🗣 Commented on issue
   [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 - 🗣 Commented on pull request
@@ -43,14 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/add-scprint in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to issue-114/add-artifact-open in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-114/add-artifact-open in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#113](https://github.com/laminlabs/laminr#113)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
