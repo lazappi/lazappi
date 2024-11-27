@@ -39,12 +39,12 @@
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 📨 Pushed to prepare-task in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
+- 📨 Pushed to prepare-task in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 😺 Created a branch prepare-task in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 🗣 Commented on issue
-  [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 - 🗣 Commented on issue
   [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 - 🗣 Commented on issue
