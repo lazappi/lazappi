@@ -32,6 +32,14 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [laminlabs/laminr#119](https://github.com/laminlabs/laminr#119)
+- 📨 Pushed to refactor_tests in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to refactor_tests in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to refactor_tests in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
   [laminlabs/laminr#118](https://github.com/laminlabs/laminr#118)
 - 📨 Pushed to prepare-task in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
@@ -43,14 +51,6 @@
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 📨 Pushed to prepare-task in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 😺 Created a branch prepare-task in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 🗣 Commented on issue
-  [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
-- 🗣 Commented on issue
-  [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
