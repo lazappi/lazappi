@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/add-scprint in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
+- 😺 Created a branch feature/no-ref/add-scprint in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 😺 Deleted branch falexwolf-patch-1 at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
@@ -44,12 +50,6 @@
 - 📨 Pushed to main in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to authenticate-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to authenticate-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to authenticate-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
