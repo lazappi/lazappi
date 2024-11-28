@@ -31,6 +31,18 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to authenticate-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to authenticate-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Deleted branch refactor_tests at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#119](https://github.com/laminlabs/laminr#119)
 - 🗣 Commented on pull request
   [laminlabs/laminr#119](https://github.com/laminlabs/laminr#119)
 - 📨 Pushed to refactor_tests in
@@ -39,18 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to refactor_tests in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#118](https://github.com/laminlabs/laminr#118)
-- 📨 Pushed to prepare-task in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 📨 Pushed to prepare-task in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 📨 Pushed to prepare-task in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 📨 Pushed to prepare-task in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 📨 Pushed to prepare-task in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
