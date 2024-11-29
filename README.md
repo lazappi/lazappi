@@ -33,6 +33,8 @@
 
 - 🗣 Commented on issue
   [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
+- 🗣 Commented on issue
+  [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
 - 📨 Pushed to feature/no-ref/add-scprint in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 🤔 Opened a pull request in
@@ -48,8 +50,6 @@
 - 📨 Pushed to falexwolf-patch-1 in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch authenticate-api at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
