@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
+- 🗣 Commented on issue
   [laminlabs/laminr#121](https://github.com/laminlabs/laminr#121)
 - 🗣 Commented on pull request
   [laminlabs/laminr#120](https://github.com/laminlabs/laminr#120)
@@ -49,8 +51,6 @@
   [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
 - 🗣 Commented on issue
   [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
-- 📨 Pushed to feature/no-ref/add-scprint in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
