@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#120](https://github.com/laminlabs/laminr#120)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-115/detect-path in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
 - 🗣 Commented on issue
@@ -44,12 +50,6 @@
 - 😺 Deleted branch falexwolf-patch-1 at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to falexwolf-patch-1 in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch authenticate-api at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
