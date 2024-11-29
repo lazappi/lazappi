@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-115/detect-path in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#120](https://github.com/laminlabs/laminr#120)
 - 🗣 Commented on pull request
   [laminlabs/laminr#120](https://github.com/laminlabs/laminr#120)
 - 🤔 Opened a pull request in
@@ -47,10 +51,6 @@
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 😺 Created a branch feature/no-ref/add-scprint in
   [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 😺 Deleted branch falexwolf-patch-1 at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
