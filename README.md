@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch issue-98/track-inputs in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#98](https://github.com/laminlabs/laminr#98)
 - 🗣 Commented on issue
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [laminlabs/laminr#120](https://github.com/laminlabs/laminr#120)
 - 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-115/detect-path in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
