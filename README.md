@@ -32,6 +32,10 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#98](https://github.com/laminlabs/laminr#98)
+- 🗣 Commented on issue
+  [cantinilab/scprint#8](https://github.com/cantinilab/scprint#8)
+- 🗣 Commented on issue
   [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
 - 🗣 Commented on issue
   [laminlabs/laminr#121](https://github.com/laminlabs/laminr#121)
@@ -47,10 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-115/detect-path in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
-- 🗣 Commented on issue
-  [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
