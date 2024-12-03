@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch add-gitmoji in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Deleted branch add-gitmoji at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch add-gitmoji in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
 - 🗣 Commented on pull request
@@ -44,14 +52,6 @@
   at [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#125](https://github.com/laminlabs/laminr#125)
-- 😺 Deleted branch issue-98/track-inputs at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎊 Closed an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
