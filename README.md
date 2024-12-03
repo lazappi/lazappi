@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
 - 😺 Deleted branch
   dependabot/github_actions/jamesives/github-pages-deploy-action-4.7.1
   at [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -44,14 +52,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#124](https://github.com/laminlabs/laminr#124)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#124](https://github.com/laminlabs/laminr#124)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
