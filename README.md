@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
+- 🗣 Commented on issue
+  [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
+- 🗣 Commented on issue
+  [laminlabs/laminr#104](https://github.com/laminlabs/laminr#104)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#108](https://github.com/laminlabs/laminr#108)
 - 😺 Created a branch feature/no-ref/add-scgpt-finetuned in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
@@ -41,16 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch add-gitmoji at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch add-gitmoji in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
