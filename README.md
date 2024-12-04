@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#122](https://github.com/laminlabs/laminr#122)
+- 🗣 Commented on issue
   [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
 - 🗣 Commented on issue
   [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
@@ -48,8 +50,6 @@
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-gitmoji in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch add-gitmoji at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
