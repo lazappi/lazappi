@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch feature/no-ref/add-scgpt-finetuned in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🗣 Commented on issue
+  [laminlabs/laminr#127](https://github.com/laminlabs/laminr#127)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-gitmoji in
@@ -47,11 +51,6 @@
   [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
 - 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
-- 😺 Deleted branch
-  dependabot/github_actions/jamesives/github-pages-deploy-action-4.7.1
-  at [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
