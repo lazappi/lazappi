@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🎊 Closed a pull request in
+  [sbrosinski/uberdoc](https://github.com/sbrosinski/uberdoc)
+- 🎊 Closed a pull request in
+  [bjpop/hitime](https://github.com/bjpop/hitime)
+- 🗣 Commented on issue
+  [scverse/anndatar#206](https://github.com/scverse/anndatar#206)
 - 🗣 Commented on issue
   [openproblems-bio/task_batch_integration#14](https://github.com/openproblems-bio/task_batch_integration#14)
 - 🗣 Commented on issue
@@ -45,12 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#108](https://github.com/laminlabs/laminr#108)
-- 😺 Created a branch feature/no-ref/add-scgpt-finetuned in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on issue
-  [laminlabs/laminr#127](https://github.com/laminlabs/laminr#127)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
