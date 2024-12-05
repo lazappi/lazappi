@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [openproblems-bio/task_batch_integration#14](https://github.com/openproblems-bio/task_batch_integration#14)
+- 🗣 Commented on issue
   [laminlabs/laminr#122](https://github.com/laminlabs/laminr#122)
 - 🗣 Commented on issue
   [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
@@ -48,8 +50,6 @@
 - 🗣 Commented on issue
   [laminlabs/laminr#127](https://github.com/laminlabs/laminr#127)
 - 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch add-gitmoji in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
