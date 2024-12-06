@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [openproblems-bio/task_batch_integration#14](https://github.com/openproblems-bio/task_batch_integration#14)
 - 🎊 Closed a pull request in
   [sbrosinski/uberdoc](https://github.com/sbrosinski/uberdoc)
 - 🎊 Closed a pull request in
@@ -49,8 +51,6 @@
   [laminlabs/laminr#104](https://github.com/laminlabs/laminr#104)
 - 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#108](https://github.com/laminlabs/laminr#108)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
