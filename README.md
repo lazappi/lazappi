@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/issue-8/waypoints in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 😺 Created a branch feature/issue-8/waypoints in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to bugfix/issue-14/move-scgpt-model in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
@@ -45,12 +51,6 @@
   [openproblems-bio/task_batch_integration#14](https://github.com/openproblems-bio/task_batch_integration#14)
 - 🎊 Closed a pull request in
   [sbrosinski/uberdoc](https://github.com/sbrosinski/uberdoc)
-- 🎊 Closed a pull request in
-  [bjpop/hitime](https://github.com/bjpop/hitime)
-- 🗣 Commented on issue
-  [scverse/anndatar#206](https://github.com/scverse/anndatar#206)
-- 🗣 Commented on issue
-  [openproblems-bio/task_batch_integration#14](https://github.com/openproblems-bio/task_batch_integration#14)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
