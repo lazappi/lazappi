@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to bugfix/issue-14/move-scgpt-model in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/issue-14/move-scgpt-model in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on issue
   [theislab/zellkonverter#132](https://github.com/theislab/zellkonverter#132)
 - 🗣 Commented on issue
@@ -45,12 +51,6 @@
   [scverse/anndatar#206](https://github.com/scverse/anndatar#206)
 - 🗣 Commented on issue
   [openproblems-bio/task_batch_integration#14](https://github.com/openproblems-bio/task_batch_integration#14)
-- 🗣 Commented on issue
-  [laminlabs/laminr#122](https://github.com/laminlabs/laminr#122)
-- 🗣 Commented on issue
-  [laminlabs/laminr#115](https://github.com/laminlabs/laminr#115)
-- 🗣 Commented on issue
-  [laminlabs/laminr#110](https://github.com/laminlabs/laminr#110)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
