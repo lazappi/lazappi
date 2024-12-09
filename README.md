@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/issue-8/waypoints in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 🗣 Commented on pull request
   [openproblems-bio/task_dimensionality_reduction#11](https://github.com/openproblems-bio/task_dimensionality_reduction#11)
 - 🗣 Commented on issue
@@ -49,8 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch bugfix/issue-14/move-scgpt-model in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#132](https://github.com/theislab/zellkonverter#132)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
