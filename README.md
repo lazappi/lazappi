@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_denoising#25](https://github.com/openproblems-bio/task_denoising#25)
+- 📨 Pushed to feature/no-ref/add-scprint in
+  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎉 Merged a pull request in
@@ -47,10 +51,6 @@
   [openproblems-bio/task_dimensionality_reduction#11](https://github.com/openproblems-bio/task_dimensionality_reduction#11)
 - 🗣 Commented on issue
   [openproblems-bio/task_dimensionality_reduction#12](https://github.com/openproblems-bio/task_dimensionality_reduction#12)
-- 🤔 Opened an issue in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to feature/issue-8/waypoints in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
