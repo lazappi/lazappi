@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
 - 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to main in
@@ -46,8 +48,6 @@
 - 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
