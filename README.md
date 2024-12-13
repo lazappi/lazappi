@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch issue-128/improve-python-setup in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch wrap-python in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#17](https://github.com/openproblems-bio/task_batch_integration#17)
 - 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
