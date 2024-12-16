@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
-- 🤔 Opened an issue in
-  [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch wrap-python in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#2](https://github.com/openproblems-bio/task_label_projection#2)
-- 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 📨 Pushed to feature/no-ref/scimilarity in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 😺 Created a branch feature/no-ref/scimilarity in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
