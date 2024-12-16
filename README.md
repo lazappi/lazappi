@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 😺 Created a branch bugfix/no-ref/fix-singler in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
 - 🗣 Commented on pull request
@@ -46,10 +50,6 @@
 - 📨 Pushed to feature/no-ref/scimilarity in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 😺 Created a branch feature/no-ref/scimilarity in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to main in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
