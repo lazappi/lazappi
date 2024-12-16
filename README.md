@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
 - 📨 Pushed to issue-128/improve-python-setup in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-128/improve-python-setup in
@@ -48,8 +50,6 @@
 - 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎊 Closed an issue in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
