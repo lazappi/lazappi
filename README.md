@@ -35,12 +35,12 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-128/improve-python-setup in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-128/improve-python-setup in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 😺 Created a branch bugfix/no-ref/fix-singler in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
 - 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
 - 🗣 Commented on pull request
