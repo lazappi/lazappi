@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 😺 Deleted branch feature/issue-8/waypoints at
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 📨 Pushed to main in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🎊 Closed an issue in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🎉 Merged a pull request in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to issue-128/improve-python-setup in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-128/improve-python-setup in
@@ -41,16 +51,6 @@
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to feature/no-ref/uce in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to feature/no-ref/uce in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 😺 Created a branch feature/no-ref/uce in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
