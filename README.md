@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 📨 Pushed to feature/no-ref/uce in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 📨 Pushed to feature/no-ref/uce in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 😺 Created a branch feature/no-ref/uce in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to issue-128/improve-python-setup in
@@ -45,12 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-128/improve-python-setup in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
