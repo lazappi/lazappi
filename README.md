@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to bugfix/issue-13/adjust-waypoint-distances in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Created a branch bugfix/issue-13/adjust-waypoint-distances in
@@ -47,8 +49,6 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 🎉 Merged a pull request in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-128/improve-python-setup in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
