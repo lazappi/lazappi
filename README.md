@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 📨 Pushed to main in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Deleted branch feature/issue-8/waypoints at
@@ -49,8 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
