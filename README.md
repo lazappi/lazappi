@@ -31,6 +31,18 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#8](https://github.com/openproblems-bio/task_label_projection#8)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#3](https://github.com/openproblems-bio/task_label_projection#3)
 - 📨 Pushed to bugfix/issue-13/adjust-waypoint-distances in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 🤔 Opened a pull request in
@@ -39,18 +51,6 @@
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 🤔 Opened an issue in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to main in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 😺 Deleted branch feature/issue-8/waypoints at
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to main in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 🎊 Closed an issue in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 📨 Pushed to issue-128/improve-python-setup in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
