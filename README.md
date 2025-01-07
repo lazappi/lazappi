@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch add-setup-to-index in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#130](https://github.com/laminlabs/laminr#130)
 - 🗣 Commented on issue
   [laminlabs/laminr#131](https://github.com/laminlabs/laminr#131)
 - 🗣 Commented on issue
@@ -39,12 +45,6 @@
   [laminlabs/laminr#121](https://github.com/laminlabs/laminr#121)
 - 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🗣 Commented on pull request
