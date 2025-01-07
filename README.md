@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#131](https://github.com/laminlabs/laminr#131)
+- 🗣 Commented on issue
   [laminlabs/laminr#103](https://github.com/laminlabs/laminr#103)
 - 🗣 Commented on issue
   [laminlabs/laminr#121](https://github.com/laminlabs/laminr#121)
@@ -49,8 +51,6 @@
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 📨 Pushed to main in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
