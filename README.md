@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to add-setup-to-index in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#18](https://github.com/openproblems-bio/task_batch_integration#18)
 - ⭐️ Starred
@@ -49,8 +51,6 @@
   [laminlabs/laminr#103](https://github.com/laminlabs/laminr#103)
 - 🗣 Commented on issue
   [laminlabs/laminr#121](https://github.com/laminlabs/laminr#121)
-- 🎊 Closed an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
