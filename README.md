@@ -31,25 +31,25 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/no-ref/require-feature-ids in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch bugfix/no-ref/scgpt-argument in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch check-env-after-install in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to add-setup-to-index in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#18](https://github.com/openproblems-bio/task_batch_integration#18)
-- ⭐️ Starred
-  [hca-integration/sc-atlasing-toolbox](https://github.com/hca-integration/sc-atlasing-toolbox)
-- 📨 Pushed to add-setup-to-index in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch add-setup-to-index in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
