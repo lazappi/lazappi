@@ -32,6 +32,10 @@
 ### My recent GitHub activity
 
 - 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/no-ref/scgpt-argument in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch check-env-after-install in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
@@ -47,10 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch add-setup-to-index in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#130](https://github.com/laminlabs/laminr#130)
-- 🗣 Commented on issue
-  [laminlabs/laminr#131](https://github.com/laminlabs/laminr#131)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
