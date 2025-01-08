@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch check-env-after-install in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-setup-to-index in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -47,10 +51,6 @@
   [laminlabs/laminr#130](https://github.com/laminlabs/laminr#130)
 - 🗣 Commented on issue
   [laminlabs/laminr#131](https://github.com/laminlabs/laminr#131)
-- 🗣 Commented on issue
-  [laminlabs/laminr#103](https://github.com/laminlabs/laminr#103)
-- 🗣 Commented on issue
-  [laminlabs/laminr#121](https://github.com/laminlabs/laminr#121)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
