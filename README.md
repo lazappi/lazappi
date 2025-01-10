@@ -32,6 +32,8 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#18](https://github.com/openproblems-bio/task_batch_integration#18)
+- 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
@@ -48,8 +50,6 @@
 - 😺 Created a branch bugfix/no-ref/require-feature-ids in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch bugfix/no-ref/scgpt-argument in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
