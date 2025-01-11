@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🎉 Merged a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
+- 📨 Pushed to main in
+  [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
+- 📨 Pushed to add-cellplm in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch add-cellplm in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
@@ -39,16 +49,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#18](https://github.com/openproblems-bio/task_batch_integration#18)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 
