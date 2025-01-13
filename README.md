@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [cantinilab/scprint](https://github.com/cantinilab/scprint)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🤔 Opened an issue in
@@ -49,8 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#18](https://github.com/openproblems-bio/task_batch_integration#18)
-- 📨 Pushed to precompute_clustering in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
