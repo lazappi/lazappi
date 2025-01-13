@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/no-ref/no_integration_batch-ncomps in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened an issue in
   [cantinilab/scprint](https://github.com/cantinilab/scprint)
 - 🗣 Commented on pull request
@@ -47,10 +51,6 @@
   [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
 - 📨 Pushed to add-cellplm in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch add-cellplm in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#18](https://github.com/openproblems-bio/task_batch_integration#18)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
