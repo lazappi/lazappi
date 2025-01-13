@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#17](https://github.com/openproblems-bio/task_batch_integration#17)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/no-ref/uce-memory in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch bugfix/no-ref/no_integration_batch-ncomps in
@@ -44,12 +50,6 @@
 - 📨 Pushed to main in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🎉 Merged a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 📨 Pushed to main in
-  [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
-- 📨 Pushed to add-cellplm in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
