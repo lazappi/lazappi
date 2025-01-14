@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/no-ref/add-na-exit-code in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#17](https://github.com/openproblems-bio/task_batch_integration#17)
 - 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
@@ -47,10 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch bugfix/no-ref/no_integration_batch-ncomps in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened an issue in
-  [cantinilab/scprint](https://github.com/cantinilab/scprint)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
