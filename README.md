@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch test-gpu in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/no-ref/add-batch-hvg in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
   [laminlabs/laminr#136](https://github.com/laminlabs/laminr#136)
 - 📨 Pushed to lamindbv1 in
@@ -44,12 +50,6 @@
 - 📨 Pushed to lamindbv1 in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/no-ref/add-scgpt-finetuned in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
