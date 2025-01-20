@@ -68,7 +68,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HCA-integration/sc-atlasing-toolbox</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pipelines for ensuring the quality of HCA integrated atlases</div>
@@ -840,7 +840,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 146k out of 214m repositories</span>
+                                    <span class="gh">ranked 146k out of 193m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">324</div>
                                     </div>
@@ -858,7 +858,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.165829145728644 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.72361809045226 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -886,10 +886,10 @@
                                     <span class="prefix"></span>
                                     Reviewer
                                     <div class="value-wrapper">
-                                        <div class="value">50</div>
+                                        <div class="value">52</div>
                                     </div>
                                 </div>
-                                <div class="text">Reviewed 50 pull requests</div>
+                                <div class="text">Reviewed 52 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -971,7 +971,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 822k out of 214m repositories</span>
+                                    <span class="gh">ranked 822k out of 193m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
