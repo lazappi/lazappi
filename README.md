@@ -33,6 +33,14 @@
 
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Created a branch bugfix/no-ref/scprint-filtering in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🗣 Commented on pull request
+  [openproblems-bio/common_resources#33](https://github.com/openproblems-bio/common_resources#33)
+- 🗣 Commented on pull request
+  [openproblems-bio/common_resources#33](https://github.com/openproblems-bio/common_resources#33)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch update-comp-env in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Deleted branch update-submodule at
@@ -43,14 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
   [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 😺 Created a branch adjust-labels in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to test-gpu in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to bugfix/no-ref/adjust-resources in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
