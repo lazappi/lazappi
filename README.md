@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch add-setup-to-index at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to add-setup-to-index in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-setup-to-index in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to add-setup-to-index in
@@ -41,14 +49,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindbv1 in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch bugfix/no-ref/scprint-filtering in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on pull request
-  [openproblems-bio/common_resources#33](https://github.com/openproblems-bio/common_resources#33)
-- 🗣 Commented on pull request
-  [openproblems-bio/common_resources#33](https://github.com/openproblems-bio/common_resources#33)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
