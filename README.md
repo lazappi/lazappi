@@ -33,6 +33,8 @@
 
 - 📨 Pushed to add-setup-to-index in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to add-setup-to-index in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindbv1 in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindbv1 in
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [openproblems-bio/common_resources#33](https://github.com/openproblems-bio/common_resources#33)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch update-comp-env in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
