@@ -31,25 +31,25 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch bugfix/no-ref/run-adjustments at
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to main in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🎉 Merged a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Created a branch bugfix/no-ref/run-adjustments in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
-  [openproblems-bio/task_foundation_models](https://github.com/openproblems-bio/task_foundation_models)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_foundation_models](https://github.com/openproblems-bio/task_foundation_models)
-- 😺 Deleted branch update-comp-env at
+- 😺 Deleted branch bugfix/no-ref/run-adjustments at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
+- 🎊 Closed a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎉 Merged a pull request in
+- 🤔 Opened a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Deleted branch bugfix/no-ref/liger-batch-names at
+- 😺 Created a branch bugfix/no-ref/run-adjustments in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎉 Merged a pull request in
+- 😺 Deleted branch bugfix/no-ref/run-adjustments at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
