@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
+- 🗣 Commented on issue
+  [omicsml/cellplm#22](https://github.com/omicsml/cellplm#22)
 - 😺 Deleted branch bugfix/no-ref/adjust-resources at
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to main in
@@ -43,10 +47,6 @@
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 😺 Created a branch bugfix/no-ref/adjust-resources in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to main in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🎉 Merged a pull request in
