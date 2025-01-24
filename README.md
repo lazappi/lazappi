@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
+- 🤔 Opened a pull request in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
+- 😺 Created a branch foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 🗣 Commented on issue
@@ -43,14 +51,6 @@
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to bugfix/no-ref/adjust-resources in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 😺 Created a branch bugfix/no-ref/adjust-resources in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
