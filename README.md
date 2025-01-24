@@ -31,25 +31,25 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch bugfix/no-ref/adjust-resources at
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 🎉 Merged a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Deleted branch bugfix/no-ref/description-reference at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to bugfix/no-ref/run-adjustments in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 📨 Pushed to bugfix/no-ref/adjust-resources in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 🤔 Opened a pull request in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 😺 Created a branch bugfix/no-ref/adjust-resources in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 📨 Pushed to main in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch bugfix/no-ref/description-reference in
+- 🎉 Merged a pull request in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to main in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🎉 Merged a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
