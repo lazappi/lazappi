@@ -37,6 +37,8 @@
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🤔 Opened a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 😺 Created a branch foundation-models-results in
@@ -48,8 +50,6 @@
 - 😺 Deleted branch bugfix/no-ref/adjust-resources at
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to main in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 🎉 Merged a pull request in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
