@@ -31,6 +31,16 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch add-rhub at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch add-rhub in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 📨 Pushed to foundation-models-results in
@@ -41,16 +51,6 @@
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🤔 Opened a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 😺 Created a branch foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 🗣 Commented on issue
-  [omicsml/cellplm#22](https://github.com/omicsml/cellplm#22)
-- 😺 Deleted branch bugfix/no-ref/adjust-resources at
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to main in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
