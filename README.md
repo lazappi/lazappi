@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
+- 😺 Deleted branch bugfix/no-ref/pyliger-build at
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 😺 Deleted branch bugfix/no-ref/run-adjustments at
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 📨 Pushed to foundation-models-results in
@@ -44,12 +50,6 @@
 - 🎉 Merged a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to bump-r-version in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to bump-r-version in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch bump-r-version in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
