@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 😺 Deleted branch add-rhub at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
@@ -46,10 +50,6 @@
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🤔 Opened a pull request in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 
 <p align="center" style="width:100%;">
