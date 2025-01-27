@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🤔 Opened an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch bump-r-version at
@@ -47,10 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch bump-r-version in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
-- 😺 Created a branch ci/no-ref/dependabot-submodules in
-  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
