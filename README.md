@@ -33,6 +33,10 @@
 
 - 📨 Pushed to main in
   [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
+- 📨 Pushed to add-cellplm in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to main in
+  [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
 - 😺 Deleted branch bugfix/no-ref/pyliger-build at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 😺 Deleted branch bugfix/no-ref/run-adjustments at
@@ -46,10 +50,6 @@
 - 😺 Deleted branch bump-r-version at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to bump-r-version in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
