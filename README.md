@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to bump-r-version in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch bump-r-version in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
 - 😺 Created a branch ci/no-ref/dependabot-submodules in
@@ -44,12 +50,6 @@
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 😺 Deleted branch add-rhub at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
