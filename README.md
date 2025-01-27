@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 😺 Created a branch ci/no-ref/dependabot-submodules in
+  [openproblems-bio/task_dimensionality_reduction](https://github.com/openproblems-bio/task_dimensionality_reduction)
+- 🤔 Opened a pull request in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
+- 😺 Created a branch bugfix/no-ref/adjust-exit-strategy in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 📨 Pushed to foundation-models-results in
@@ -43,14 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch add-rhub in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
