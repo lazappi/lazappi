@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#128](https://github.com/laminlabs/laminr#128)
+- 🗣 Commented on issue
+  [laminlabs/laminr#131](https://github.com/laminlabs/laminr#131)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#130](https://github.com/laminlabs/laminr#130)
+- 🗣 Commented on issue
+  [laminlabs/laminr#138](https://github.com/laminlabs/laminr#138)
+- 🗣 Commented on issue
+  [laminlabs/laminr#139](https://github.com/laminlabs/laminr#139)
+- 🗣 Commented on issue
+  [laminlabs/laminr#140](https://github.com/laminlabs/laminr#140)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
 - 📨 Pushed to main in
   [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
-- 📨 Pushed to add-cellplm in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to main in
-  [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
-- 😺 Deleted branch bugfix/no-ref/pyliger-build at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Deleted branch bugfix/no-ref/run-adjustments at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch bump-r-version at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
