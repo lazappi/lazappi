@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📦 Released laminr v0.4.1 at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a tag v0.4.1 in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#128](https://github.com/laminlabs/laminr#128)
 - 🗣 Commented on issue
@@ -47,10 +51,6 @@
   [laminlabs/laminr#140](https://github.com/laminlabs/laminr#140)
 - 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#19](https://github.com/openproblems-bio/task_batch_integration#19)
-- 📨 Pushed to main in
-  [helloworldlty/task_batch_integration](https://github.com/helloworldlty/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
