@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_foundation_models](https://github.com/openproblems-bio/task_foundation_models)
+- 😺 Created a branch feature/no-ref/combine-results in
+  [openproblems-bio/task_foundation_models](https://github.com/openproblems-bio/task_foundation_models)
 - 🗣 Commented on pull request
   [openproblems-bio/website#376](https://github.com/openproblems-bio/website#376)
 - 📨 Pushed to foundation-models-results in
@@ -47,10 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#130](https://github.com/laminlabs/laminr#130)
-- 🗣 Commented on issue
-  [laminlabs/laminr#138](https://github.com/laminlabs/laminr#138)
-- 🗣 Commented on issue
-  [laminlabs/laminr#139](https://github.com/laminlabs/laminr#139)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
