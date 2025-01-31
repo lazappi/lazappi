@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/website#376](https://github.com/openproblems-bio/website#376)
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 📦 Released laminr v0.4.1 at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a tag v0.4.1 in
@@ -47,10 +51,6 @@
   [laminlabs/laminr#138](https://github.com/laminlabs/laminr#138)
 - 🗣 Commented on issue
   [laminlabs/laminr#139](https://github.com/laminlabs/laminr#139)
-- 🗣 Commented on issue
-  [laminlabs/laminr#140](https://github.com/laminlabs/laminr#140)
-- 🎊 Closed an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
