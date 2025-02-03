@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
+- 🤔 Opened a pull request in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+- 😺 Created a branch feature/no-ref/update-process-results in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+- 🗣 Commented on pull request
+  [openproblems-bio/website#376](https://github.com/openproblems-bio/website#376)
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🗣 Commented on pull request
@@ -43,14 +51,6 @@
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_foundation_models](https://github.com/openproblems-bio/task_foundation_models)
-- 😺 Created a branch feature/no-ref/combine-results in
-  [openproblems-bio/task_foundation_models](https://github.com/openproblems-bio/task_foundation_models)
-- 🗣 Commented on pull request
-  [openproblems-bio/website#376](https://github.com/openproblems-bio/website#376)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
