@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [lazappi/clustree#104](https://github.com/lazappi/clustree#104)
 - 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -48,8 +50,6 @@
 - 📨 Pushed to foundation-models-results in
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 📦 Released laminr v0.4.1 at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a tag v0.4.1 in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
