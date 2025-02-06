@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
   [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 - 🤔 Opened a pull request in
@@ -48,8 +50,6 @@
 - 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
