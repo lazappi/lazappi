@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to foundation-models-results in
+  [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🤔 Opened an issue in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
@@ -48,8 +50,6 @@
 - 🗣 Commented on issue
   [lazappi/clustree#104](https://github.com/lazappi/clustree#104)
 - 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
