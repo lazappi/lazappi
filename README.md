@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [cantinilab/scprint#14](https://github.com/cantinilab/scprint#14)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 📨 Pushed to foundation-models-results in
@@ -49,8 +51,6 @@
   [openproblems-bio/website](https://github.com/openproblems-bio/website)
 - 🗣 Commented on pull request
   [openproblems-bio/website#376](https://github.com/openproblems-bio/website#376)
-- 🗣 Commented on issue
-  [lazappi/clustree#104](https://github.com/lazappi/clustree#104)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
