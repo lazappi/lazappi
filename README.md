@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 - 📨 Pushed to feature/refresh-token in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 - 🤔 Opened a pull request in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 😺 Created a branch feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 
 <p align="center" style="width:100%;">
