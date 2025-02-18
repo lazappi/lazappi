@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch feature/refresh-token at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
@@ -45,12 +51,6 @@
   [cantinilab/scprint#14](https://github.com/cantinilab/scprint#14)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to foundation-models-results in
-  [openproblems-bio/website](https://github.com/openproblems-bio/website)
-- 🤔 Opened an issue in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on pull request
-  [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
