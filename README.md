@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened an issue in
   [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 - 📨 Pushed to feature/refresh-token in
@@ -49,8 +51,6 @@
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🗣 Commented on pull request
   [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
-- 🤔 Opened a pull request in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
