@@ -39,6 +39,10 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
 - 🗣 Commented on pull request
@@ -47,10 +51,6 @@
   [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
-- 🎊 Closed an issue in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🗣 Commented on issue
-  [openproblems-bio/task_batch_integration#50](https://github.com/openproblems-bio/task_batch_integration#50)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
