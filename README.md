@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
+- 🎊 Closed an issue in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🗣 Commented on issue
+  [openproblems-bio/task_batch_integration#50](https://github.com/openproblems-bio/task_batch_integration#50)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 🎉 Merged a pull request in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to main in
   [jkobject/task_batch_integration](https://github.com/jkobject/task_batch_integration)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#51](https://github.com/openproblems-bio/task_batch_integration#51)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch feature/refresh-token at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
