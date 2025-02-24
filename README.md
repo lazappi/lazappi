@@ -33,6 +33,10 @@
 
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch fix-notes in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch description-url in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to feature/replace-api in
@@ -47,10 +51,6 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
