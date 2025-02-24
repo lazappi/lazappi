@@ -43,10 +43,10 @@
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#52](https://github.com/openproblems-bio/task_batch_integration#52)
 - 🗣 Commented on pull request
