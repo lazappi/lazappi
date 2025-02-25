@@ -32,25 +32,25 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
-  [scverse/anndatar#229](https://github.com/scverse/anndatar#229)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
+- 🗣 Commented on pull request
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
+- 🗣 Commented on pull request
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
