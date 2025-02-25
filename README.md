@@ -31,20 +31,20 @@
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch fix-linting-issues at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to main in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎉 Merged a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
+  [scverse/anndatar#229](https://github.com/scverse/anndatar#229)
+- 😺 Deleted branch description-url at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to main in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎉 Merged a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 - 🗣 Commented on pull request
