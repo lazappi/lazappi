@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#229](https://github.com/scverse/anndatar#229)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎉 Merged a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🎉 Merged a pull request in
@@ -43,12 +49,6 @@
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch description-url in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
