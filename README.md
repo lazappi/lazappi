@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 🎉 Merged a pull request in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch fix-notes in
@@ -39,10 +43,6 @@
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch description-url in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/replace-api in
