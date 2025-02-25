@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to fix-notes in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to logo in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
+- 📨 Pushed to seurat_refactor in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch fix-linting-issues at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to main in
@@ -43,14 +51,6 @@
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to main in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎉 Merged a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
