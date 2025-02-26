@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to styling in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch styling in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch fix-notes at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to main in
@@ -44,12 +50,6 @@
 - 📨 Pushed to fix-notes in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to logo in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#224](https://github.com/scverse/anndatar#224)
-- 📨 Pushed to seurat_refactor in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch fix-linting-issues at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
