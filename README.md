@@ -33,6 +33,8 @@
 
 - 📨 Pushed to styling in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to styling in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch styling in
@@ -48,8 +50,6 @@
 - 📨 Pushed to seurat_tests in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to fix-notes in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to logo in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
