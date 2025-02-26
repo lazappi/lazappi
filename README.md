@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
 - 📨 Pushed to styling in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to styling in
@@ -46,10 +50,6 @@
 - 📨 Pushed to main in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🎉 Merged a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
-- 📨 Pushed to seurat_tests in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
