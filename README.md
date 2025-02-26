@@ -32,6 +32,12 @@
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [openproblems-bio/task_denoising#26](https://github.com/openproblems-bio/task_denoising#26)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_denoising#26](https://github.com/openproblems-bio/task_denoising#26)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_denoising#26](https://github.com/openproblems-bio/task_denoising#26)
+- 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
 - 🗣 Commented on issue
   [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
@@ -44,12 +50,6 @@
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch styling in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch fix-notes at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to main in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎉 Merged a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
