@@ -35,6 +35,8 @@
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to styling in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to styling in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch styling in
@@ -48,8 +50,6 @@
 - 🗣 Commented on pull request
   [scverse/anndatar#225](https://github.com/scverse/anndatar#225)
 - 📨 Pushed to seurat_tests in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to fix-notes in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
