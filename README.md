@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 😺 Created a branch use-cli in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch styling at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to main in
@@ -49,8 +51,6 @@
   [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
 - 🗣 Commented on issue
   [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
-- 📨 Pushed to styling in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
