@@ -31,6 +31,12 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
+- 🗣 Commented on issue
+  [openproblems-bio/task_denoising#27](https://github.com/openproblems-bio/task_denoising#27)
+- 🗣 Commented on pull request
+  [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch use-cli in
@@ -45,12 +51,6 @@
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [openproblems-bio/task_denoising#26](https://github.com/openproblems-bio/task_denoising#26)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_denoising#26](https://github.com/openproblems-bio/task_denoising#26)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_denoising#26](https://github.com/openproblems-bio/task_denoising#26)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
