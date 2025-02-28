@@ -31,6 +31,14 @@
 
 ### My recent GitHub activity
 
+- 📨 Pushed to sce-keep-pairs-nas in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎉 Merged a pull request in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 📨 Pushed to main in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch sce-keep-pairs-nas in
@@ -43,14 +51,6 @@
   [openproblems-bio/task_denoising#27](https://github.com/openproblems-bio/task_denoising#27)
 - 🗣 Commented on pull request
   [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch use-cli in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch styling at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to main in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
