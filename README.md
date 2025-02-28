@@ -31,6 +31,10 @@
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch sce-keep-pairs-nas in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened an issue in
   [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
 - 🗣 Commented on pull request
@@ -46,10 +50,6 @@
 - 😺 Deleted branch styling at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to main in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎉 Merged a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to styling in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
