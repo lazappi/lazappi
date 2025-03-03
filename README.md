@@ -31,6 +31,8 @@
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#232](https://github.com/scverse/anndatar#232)
 - 📨 Pushed to sce-keep-pairs-nas in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🎉 Merged a pull request in
@@ -49,8 +51,6 @@
   [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
 - 🗣 Commented on issue
   [openproblems-bio/task_denoising#27](https://github.com/openproblems-bio/task_denoising#27)
-- 🗣 Commented on pull request
-  [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
