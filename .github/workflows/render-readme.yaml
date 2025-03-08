@@ -12,10 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       RENV_PATHS_ROOT: ~/.local/share/renv
-      ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
-      ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-      CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
-      CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -36,10 +32,6 @@ jobs:
 
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
-
-      # - name: Clean README
-        # Remove the extra tweet images because I can't work out stop them
-        # run: sed -i '' '/width="0"/d' README.md
 
       - name: Commit results
         run: |

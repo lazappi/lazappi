@@ -105,48 +105,6 @@ map2_chr(posts$item_title, posts$item_link, function(.title, .link) {
 
 *More at https://lazappi.id.au*
 
-<!-- ### My latest tweet 👇 and retweet 👉 -->
-
-```{r tweets, results = "hide", out.width = 0, eval = FALSE}
-token <- tryCatch({
-    get_token()
-}, error = function(e) {
-    create_token(
-        "github-readme-last-tweet",
-        consumer_key    = Sys.getenv("CONSUMER_KEY"),
-        consumer_secret = Sys.getenv("CONSUMER_SECRET"),
-        access_token    = Sys.getenv("ACCESS_TOKEN"),
-        access_secret   = Sys.getenv("ACCESS_SECRET"),
-        set_renv        = FALSE
-    )
-})
-
-tweets <- get_timeline("_lazappi_", n = 30, token = token)
-original <- tweets %>%
-    filter(
-        !is_retweet,
-        source != "IFTTT"
-    ) %>%
-    arrange(desc(created_at))
-retweets <- tweets %>%
-    filter(is_retweet) %>%
-    arrange(desc(created_at))
-
-tweet_screenshot(original$status_url[1], maxwidth = 400)
-tweet_screenshot(retweets$status_url[1], maxwidth = 400)
-```
-
-```{r, eval = FALSE}
-<p align="center">
-  <a href="`r original$status_url[1]`">
-    <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-1.png" width="400">
-  </a>
-  <a href="`r retweets$status_url[1]`">
-    <img src="https://github.com/lazappi/lazappi/raw/master/README_files/figure-gfm/tweets-2.png" width="400">
-  </a>
-</p>
-```
-
 ### Now playing on Spotify
 
 <p align="center">
