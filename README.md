@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
+- 📨 Pushed to spatialexp in
+  [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_batch_integration#54](https://github.com/openproblems-bio/task_batch_integration#54)
 - 🗣 Commented on pull request
   [openproblems-bio/task_spatial_simulators#6](https://github.com/openproblems-bio/task_spatial_simulators#6)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_spatial_simulators#6](https://github.com/openproblems-bio/task_spatial_simulators#6)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_spatial_simulators](https://github.com/openproblems-bio/task_spatial_simulators)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
