@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on pull request
   [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
 - 📨 Pushed to spatialexp in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 📨 Pushed to main in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#54](https://github.com/openproblems-bio/task_batch_integration#54)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_spatial_simulators#6](https://github.com/openproblems-bio/task_spatial_simulators#6)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
