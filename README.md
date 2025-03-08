@@ -44,6 +44,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [openproblems-bio/task_spatial_simulators#6](https://github.com/openproblems-bio/task_spatial_simulators#6)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_spatial_simulators](https://github.com/openproblems-bio/task_spatial_simulators)
-- 😺 Created a branch pin-reticulate in
   [openproblems-bio/task_spatial_simulators](https://github.com/openproblems-bio/task_spatial_simulators)
 
 <p align="center" style="width:100%;">
