@@ -1,7 +1,12 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-### Hi, I’m Luke 👋
+### Hi, I’m Luke <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<!-- Customise this at https://readme-typing-svg.demolab.com -->
+
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=9D24F7&center=true&random=true&width=435&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer)](https://git.io/typing-svg)
 
 <!--
 **lazappi/lazappi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +40,10 @@
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to feature/replace-api in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -47,10 +56,6 @@
   [openproblems-bio/task_spatial_simulators](https://github.com/openproblems-bio/task_spatial_simulators)
 - 😺 Created a branch pin-reticulate in
   [openproblems-bio/task_spatial_simulators](https://github.com/openproblems-bio/task_spatial_simulators)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/replace-api in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
@@ -66,8 +71,6 @@
   wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/)
 
 *More at <https://lazappi.id.au>*
-
-<!-- ### My latest tweet 👇 and retweet 👉 -->
 
 ### Now playing on Spotify
 

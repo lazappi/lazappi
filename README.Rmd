@@ -14,14 +14,11 @@ knitr::opts_chunk$set(
   warning  = FALSE
 )
 
-library(rtweet)
-library(tweetrmd)
-library(webshot2)
-library(tidyRSS)
-library(glue)
-library(stringr)
 library(dplyr)
+library(glue)
 library(purrr)
+library(tidyRSS)
+library(stringr)
 ```
 
 ### Hi, I'm Luke <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -60,8 +57,8 @@ Here are some ideas to get you started:
 ### My recent GitHub activity
 
 ```{r github, results = "asis"}
-activity <- tidyfeed("https://github.com/lazappi.atom") %>%
-    arrange(desc(entry_last_updated)) %>%
+activity <- tidyfeed("https://github.com/lazappi.atom") |>
+    arrange(desc(entry_last_updated)) |>
     slice_head(n = 10)
 
 map_chr(activity$entry_title, function(.title) {
@@ -83,7 +80,7 @@ map_chr(activity$entry_title, function(.title) {
         TRUE                      ~ "😺"
     )
     glue("* {emoji} {event} {repo_link}")
-})  %>%
+})  |>
     paste(collapse = "\n") %>%
     cat()
 ```
@@ -95,14 +92,14 @@ map_chr(activity$entry_title, function(.title) {
 ### Some recent blog posts 📝
 
 ```{r blog, results = "asis"}
-posts <- tidyfeed("https://lazappi.id.au/post/index.xml") %>%
-    arrange(desc(item_pub_date)) %>%
+posts <- tidyfeed("https://lazappi.id.au/post/index.xml") |>
+    arrange(desc(item_pub_date)) |>
     slice_head(n = 3)
 
 map2_chr(posts$item_title, posts$item_link, function(.title, .link) {
     glue("* [{.title}]({.link})")
-}) %>%
-    paste(collapse = "\n") %>%
+}) |>
+    paste(collapse = "\n") |>
     cat()
 ```
 
