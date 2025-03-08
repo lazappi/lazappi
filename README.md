@@ -31,26 +31,26 @@
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [scverse/anndatar#232](https://github.com/scverse/anndatar#232)
-- 📨 Pushed to sce-keep-pairs-nas in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to main in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to main in
+  [lazappi/lazappi](https://github.com/lazappi/lazappi)
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
+  [openproblems-bio/task_batch_integration#54](https://github.com/openproblems-bio/task_batch_integration#54)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_spatial_simulators#6](https://github.com/openproblems-bio/task_spatial_simulators#6)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_spatial_simulators#6](https://github.com/openproblems-bio/task_spatial_simulators#6)
 - 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch sce-keep-pairs-nas in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in
-  [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#18](https://github.com/openproblems-bio/task_label_projection#18)
-- 🗣 Commented on issue
-  [openproblems-bio/task_denoising#27](https://github.com/openproblems-bio/task_denoising#27)
+  [openproblems-bio/task_spatial_simulators](https://github.com/openproblems-bio/task_spatial_simulators)
+- 😺 Created a branch pin-reticulate in
+  [openproblems-bio/task_spatial_simulators](https://github.com/openproblems-bio/task_spatial_simulators)
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to feature/replace-api in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
