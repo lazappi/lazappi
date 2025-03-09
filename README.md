@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#132](https://github.com/theislab/zellkonverter#132)
 - 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -48,8 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
 - 📨 Pushed to spatialexp in
   [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
-- 📨 Pushed to main in
-  [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
   [lazappi/lazappi](https://github.com/lazappi/lazappi)
 - 📨 Pushed to main in
