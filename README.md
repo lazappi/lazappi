@@ -36,14 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch skip-tests-on-cran in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to clean-h5ad in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to clean-h5ad in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#152](https://github.com/laminlabs/laminr#152)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#152](https://github.com/laminlabs/laminr#152)
 - 🗣 Commented on pull request
   [laminlabs/laminr#152](https://github.com/laminlabs/laminr#152)
 - 🗣 Commented on pull request
