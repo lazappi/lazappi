@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to clean-h5ad in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to clean-h5ad in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [laminlabs/laminr#152](https://github.com/laminlabs/laminr#152)
 - 🗣 Commented on pull request
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#152](https://github.com/laminlabs/laminr#152)
 - 🗣 Commented on pull request
   [laminlabs/laminr#152](https://github.com/laminlabs/laminr#152)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
