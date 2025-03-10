@@ -36,22 +36,22 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-204/seurat-v3-assay in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [scverse/anndatar#241](https://github.com/scverse/anndatar#241)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
 - 🎊 Closed a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch issue-204/seurat-v3-assay in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
 - 🗣 Commented on pull request
   [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
 - 🗣 Commented on pull request
