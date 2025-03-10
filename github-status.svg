@@ -663,7 +663,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 222k out of 158m users</span>
+                                    <span class="gh">ranked 223k out of 158m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">97</div>
                                     </div>
@@ -681,7 +681,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.24 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.55 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -709,10 +709,10 @@
                                     <span class="prefix">Super</span>
                                     contributor
                                     <div class="value-wrapper">
-                                        <div class="value">604</div>
+                                        <div class="value">605</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 604 pull requests</div>
+                                <div class="text">Opened 605 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -838,7 +838,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 144k out of 216m repositories</span>
+                                    <span class="gh">ranked 144k out of 231m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">337</div>
                                     </div>
