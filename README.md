@@ -41,6 +41,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on issue
   [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
 - 🗣 Commented on issue
+  [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
+- 🗣 Commented on issue
   [scverse/anndatar#220](https://github.com/scverse/anndatar#220)
 - 🎊 Closed an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#241](https://github.com/scverse/anndatar#241)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
