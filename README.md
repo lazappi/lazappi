@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Reopened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎊 Closed a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch style-pr-command in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#243](https://github.com/scverse/anndatar#243)
 - 🤔 Opened a pull request in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
-- 🗣 Commented on issue
-  [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
-- 🗣 Commented on issue
-  [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
-- 🗣 Commented on issue
-  [scverse/anndatar#220](https://github.com/scverse/anndatar#220)
-- 🎊 Closed an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
