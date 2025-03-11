@@ -39,6 +39,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to issue-204/seurat-v3-assay in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
+  [openproblems-bio/task_dimensionality_reduction#17](https://github.com/openproblems-bio/task_dimensionality_reduction#17)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_dimensionality_reduction#17](https://github.com/openproblems-bio/task_dimensionality_reduction#17)
+- 📨 Pushed to issue-204/seurat-v3-assay in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
   [scverse/anndatar#241](https://github.com/scverse/anndatar#241)
 - 🗣 Commented on pull request
   [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch issue-204/seurat-v3-assay in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#154](https://github.com/laminlabs/laminr#154)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
