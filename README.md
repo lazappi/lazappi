@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#243](https://github.com/scverse/anndatar#243)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch style-vectors in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
 - 😺 Created a branch issue-242/cannot-eval-label in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#220](https://github.com/scverse/anndatar#220)
 - 🎊 Closed an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to issue-204/seurat-v3-assay in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_dimensionality_reduction#17](https://github.com/openproblems-bio/task_dimensionality_reduction#17)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_dimensionality_reduction#17](https://github.com/openproblems-bio/task_dimensionality_reduction#17)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
