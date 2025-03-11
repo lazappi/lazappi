@@ -38,6 +38,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 🗣 Commented on issue
   [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
+- 😺 Created a branch issue-242/cannot-eval-label in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
+  [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
 - 🗣 Commented on issue
   [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
 - 🗣 Commented on issue
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_dimensionality_reduction#17](https://github.com/openproblems-bio/task_dimensionality_reduction#17)
 - 🗣 Commented on pull request
   [openproblems-bio/task_dimensionality_reduction#17](https://github.com/openproblems-bio/task_dimensionality_reduction#17)
-- 📨 Pushed to issue-204/seurat-v3-assay in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#241](https://github.com/scverse/anndatar#241)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
