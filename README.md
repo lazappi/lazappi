@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#249](https://github.com/scverse/anndatar#249)
+- 🗣 Commented on issue
+  [scverse/anndatar#249](https://github.com/scverse/anndatar#249)
+- 🗣 Commented on issue
+  [scverse/anndatar#249](https://github.com/scverse/anndatar#249)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
@@ -49,12 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to issue-242/cannot-eval-label in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Reopened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎊 Closed a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch style-pr-command in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
