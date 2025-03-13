@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#246](https://github.com/scverse/anndatar#246)
 - 🗣 Commented on issue
   [scverse/anndatar#249](https://github.com/scverse/anndatar#249)
 - 🗣 Commented on issue
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on issue
   [scverse/anndatar#242](https://github.com/scverse/anndatar#242)
 - 📨 Pushed to issue-242/cannot-eval-label in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Reopened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
