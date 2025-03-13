@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch fix-recursive-shape at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Deleted branch logo at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Deleted branch pr-commands at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Deleted branch issue-204/seurat-v3-assay at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#250](https://github.com/scverse/anndatar#250)
 - 🤔 Opened a pull request in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#246](https://github.com/scverse/anndatar#246)
-- 📨 Pushed to restructure-conversion in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#246](https://github.com/scverse/anndatar#246)
-- 😺 Reopened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎊 Closed a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
