@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to spatialexp in
+  [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎉 Merged a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to actions in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🤔 Opened a pull request in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch logo at
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch pr-commands at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch issue-204/seurat-v3-assay at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#250](https://github.com/scverse/anndatar#250)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
