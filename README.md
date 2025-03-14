@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#54](https://github.com/openproblems-bio/task_batch_integration#54)
 - 📨 Pushed to spatialexp in
   [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
 - 📨 Pushed to devel in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to spatialexp in
   [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
 - 😺 Deleted branch fix-recursive-shape at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch logo at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
