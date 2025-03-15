@@ -63,12 +63,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### Some recent blog posts 📝
 
+- [Benchmarking feature selection for
+  integration](https://lazappi.id.au/posts/2025-03-15-feature-selection-benchmark/)
 - [scverse
   conference](https://lazappi.id.au/posts/2024-09-15-scverse-conference/)
 - [scRNA-tools low-maintenance
   mode](https://lazappi.id.au/posts/2024-03-04-scRNAtools-low-maintenance/)
-- [Bioconductor 3.12
-  wrap-up](https://lazappi.id.au/posts/2020-10-30-bioconductor-3-12-wrap-up/)
 
 *More at <https://lazappi.id.au>*
 
