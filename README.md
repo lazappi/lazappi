@@ -36,6 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch update-readme at
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🎉 Merged a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 🤔 Opened a pull request in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 😺 Created a branch update-readme in
+  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch update-docs in
@@ -44,18 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_label_projection#20](https://github.com/openproblems-bio/task_label_projection#20)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#54](https://github.com/openproblems-bio/task_batch_integration#54)
-- 📨 Pushed to spatialexp in
-  [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to actions in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🤔 Opened a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a branch actions in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
