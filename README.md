@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a branch update-dependencies in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#20](https://github.com/openproblems-bio/task_label_projection#20)
+- 🗣 Commented on issue
+  [laminlabs/laminr#155](https://github.com/laminlabs/laminr#155)
+- 🗣 Commented on issue
+  [openproblems-bio/task_denoising#27](https://github.com/openproblems-bio/task_denoising#27)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to spatialexp in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📦 Released 2025-03-15: publication at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Created a tag 2025-03-15 in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 😺 Deleted branch update-readme at
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
-- 📨 Pushed to main in
-  [theislab/atlas-feature-selection-benchmark](https://github.com/theislab/atlas-feature-selection-benchmark)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
