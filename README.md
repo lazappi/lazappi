@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to update-dependencies in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to update-dependencies in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch update-dependencies in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
 - 🗣 Commented on pull request
   [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
-- 🗣 Commented on pull request
-  [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
-- 📨 Pushed to spatialexp in
-  [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
