@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#254](https://github.com/scverse/anndatar#254)
+- 🗣 Commented on pull request
+  [scverse/anndatar#250](https://github.com/scverse/anndatar#250)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_label_projection#20](https://github.com/openproblems-bio/task_label_projection#20)
 - 📨 Pushed to update-dependencies in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to update-dependencies in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [openproblems-bio/task_label_projection#20](https://github.com/openproblems-bio/task_label_projection#20)
-- 🗣 Commented on issue
-  [laminlabs/laminr#155](https://github.com/laminlabs/laminr#155)
-- 🗣 Commented on issue
-  [openproblems-bio/task_denoising#27](https://github.com/openproblems-bio/task_denoising#27)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
