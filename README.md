@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#140](https://github.com/theislab/zellkonverter#140)
+- 🗣 Commented on pull request
+  [bioconductor/basilisk#49](https://github.com/bioconductor/basilisk#49)
 - 🗣 Commented on pull request
   [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
 - 📨 Pushed to spatialexp in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [jkobject/task_denoising](https://github.com/jkobject/task_denoising)
 - 📨 Pushed to main in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to main in
-  [jkobject/task_label_projection](https://github.com/jkobject/task_label_projection)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
