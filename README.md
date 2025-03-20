@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch update-pkgdown at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to update-pkgdown in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to update-pkgdown in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to update-pkgdown in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
 - 📨 Pushed to spatialexp in
   [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_label_projection#20](https://github.com/openproblems-bio/task_label_projection#20)
-- 📨 Pushed to main in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_denoising](https://github.com/openproblems-bio/task_denoising)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
