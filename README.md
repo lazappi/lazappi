@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
+- 📨 Pushed to spatialexp in
+  [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
 - 😺 Deleted branch update-pkgdown at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter#140](https://github.com/theislab/zellkonverter#140)
 - 🗣 Commented on pull request
   [bioconductor/basilisk#49](https://github.com/bioconductor/basilisk#49)
-- 🗣 Commented on pull request
-  [theislab/zellkonverter#138](https://github.com/theislab/zellkonverter#138)
-- 📨 Pushed to spatialexp in
-  [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
