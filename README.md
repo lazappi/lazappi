@@ -37,6 +37,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#174](https://github.com/laminlabs/laminr#174)
+- 🗣 Commented on issue
   [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
 - 🗣 Commented on issue
   [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/atlas-feature-selection-benchmark#168](https://github.com/theislab/atlas-feature-selection-benchmark#168)
 - 🗣 Commented on issue
   [laminlabs/laminr#171](https://github.com/laminlabs/laminr#171)
-- 🗣 Commented on issue
-  [theislab/atlas-feature-selection-benchmark#169](https://github.com/theislab/atlas-feature-selection-benchmark#169)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
