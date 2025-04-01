@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-164/check-default-instance in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter#140](https://github.com/theislab/zellkonverter#140)
 - 🗣 Commented on issue
   [laminlabs/laminr#165](https://github.com/laminlabs/laminr#165)
-- 🗣 Commented on issue
-  [laminlabs/laminr#166](https://github.com/laminlabs/laminr#166)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
