@@ -39,6 +39,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on issue
   [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
 - 🗣 Commented on issue
+  [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
+- 🗣 Commented on issue
+  [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
+- 🗣 Commented on issue
   [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
 - 🗣 Commented on issue
   [theislab/zellkonverter#140](https://github.com/theislab/zellkonverter#140)
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#171](https://github.com/laminlabs/laminr#171)
 - 🗣 Commented on issue
   [theislab/atlas-feature-selection-benchmark#169](https://github.com/theislab/atlas-feature-selection-benchmark#169)
-- 🗣 Commented on issue
-  [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
-- 🗣 Commented on issue
-  [laminlabs/laminr#164](https://github.com/laminlabs/laminr#164)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
