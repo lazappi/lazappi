@@ -37,6 +37,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
+- 🗣 Commented on issue
   [laminlabs/laminr#171](https://github.com/laminlabs/laminr#171)
 - 🗣 Commented on issue
   [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
 - 🗣 Commented on issue
   [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
-- 🗣 Commented on issue
-  [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
