@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🍴 Forked lazappi/lamindb from
+  [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#179](https://github.com/laminlabs/laminr#179)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-173/track-environment in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#178](https://github.com/laminlabs/laminr#178)
 - 🗣 Commented on issue
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎉 Merged a pull request in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to spatialexp in
-  [mcmero/zellkonverter](https://github.com/mcmero/zellkonverter)
-- 🗣 Commented on issue
-  [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
-- 🗣 Commented on issue
-  [laminlabs/laminr#171](https://github.com/laminlabs/laminr#171)
-- 🗣 Commented on issue
-  [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
