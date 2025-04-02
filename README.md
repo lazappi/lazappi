@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#178](https://github.com/laminlabs/laminr#178)
+- 🗣 Commented on issue
+  [theislab/atlas-feature-selection-benchmark#169](https://github.com/theislab/atlas-feature-selection-benchmark#169)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#52](https://github.com/theislab/zellkonverter#52)
 - 😺 Created a tag v1.17.2 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#171](https://github.com/laminlabs/laminr#171)
 - 🗣 Commented on issue
   [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
-- 🗣 Commented on issue
-  [laminlabs/laminr#173](https://github.com/laminlabs/laminr#173)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-164/check-default-instance in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
