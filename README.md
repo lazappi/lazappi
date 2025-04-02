@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a branch return-lineage-graph in
+  [lazappi/lamindb](https://github.com/lazappi/lamindb)
+- 🤔 Opened an issue in
+  [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 - 🍴 Forked lazappi/lamindb from
   [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 - 🗣 Commented on pull request
@@ -51,10 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on issue
   [theislab/zellkonverter#52](https://github.com/theislab/zellkonverter#52)
 - 😺 Created a tag v1.17.2 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
