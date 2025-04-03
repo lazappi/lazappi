@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-171/render-md-manual in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#165](https://github.com/laminlabs/laminr#165)
 - 🗣 Commented on pull request
   [laminlabs/laminr#176](https://github.com/laminlabs/laminr#176)
 - 📨 Pushed to issue-164/check-default-instance in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#178](https://github.com/laminlabs/laminr#178)
 - 🤔 Opened a pull request in
   [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-177/view-lineage-graph in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#179](https://github.com/laminlabs/laminr#179)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
