@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
+- 📨 Pushed to main in
+  [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
+- 😺 Created a repository
+  [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
+- 😺 Created a branch main in
+  [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-171/render-md-manual in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#179](https://github.com/laminlabs/laminr#179)
-- 📨 Pushed to issue-173/track-environment in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#178](https://github.com/laminlabs/laminr#178)
-- 🤔 Opened a pull request in
-  [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
