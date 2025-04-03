@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a branch issue-177/view-lineage-graph in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#179](https://github.com/laminlabs/laminr#179)
 - 😺 Created a branch return-lineage-graph in
   [lazappi/lamindb](https://github.com/lazappi/lamindb)
 - 🤔 Opened an issue in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#178](https://github.com/laminlabs/laminr#178)
 - 🗣 Commented on issue
   [theislab/atlas-feature-selection-benchmark#169](https://github.com/theislab/atlas-feature-selection-benchmark#169)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#52](https://github.com/theislab/zellkonverter#52)
-- 😺 Created a tag v1.17.2 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
