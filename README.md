@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/lamindb#2623](https://github.com/laminlabs/lamindb#2623)
+- 😺 Deleted branch view_lineage at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Deleted branch return-lineage-graph at
+  [lazappi/lamindb](https://github.com/lazappi/lamindb)
 - 📨 Pushed to main in
   [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
 - 📨 Pushed to main in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#165](https://github.com/laminlabs/laminr#165)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#176](https://github.com/laminlabs/laminr#176)
-- 📨 Pushed to issue-164/check-default-instance in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#179](https://github.com/laminlabs/laminr#179)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
