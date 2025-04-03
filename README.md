@@ -36,6 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-173/track-environment in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#167](https://github.com/laminlabs/laminr#167)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#178](https://github.com/laminlabs/laminr#178)
+- 🤔 Opened a pull request in
+  [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch issue-177/view-lineage-graph in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -46,16 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
 - 🍴 Forked lazappi/lamindb from
   [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#179](https://github.com/laminlabs/laminr#179)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-173/track-environment in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#178](https://github.com/laminlabs/laminr#178)
-- 🗣 Commented on issue
-  [theislab/atlas-feature-selection-benchmark#169](https://github.com/theislab/atlas-feature-selection-benchmark#169)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
