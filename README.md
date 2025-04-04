@@ -36,6 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-173/track-environment in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [r-lib/sessioninfo#116](https://github.com/r-lib/sessioninfo#116)
+- 🤔 Opened an issue in
+  [r-lib/sessioninfo](https://github.com/r-lib/sessioninfo)
+- 📨 Pushed to issue-173/track-environment in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-177/view-lineage-graph in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/lamindb#2623](https://github.com/laminlabs/lamindb#2623)
 - 😺 Deleted branch view_lineage at
@@ -46,16 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
 - 📨 Pushed to main in
   [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
-- 😺 Created a repository
-  [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
-- 😺 Created a branch main in
-  [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-171/render-md-manual in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#165](https://github.com/laminlabs/laminr#165)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
