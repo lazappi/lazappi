@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed to issue-173/track-environment in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-173/track-environment in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [r-lib/sessioninfo#116](https://github.com/r-lib/sessioninfo#116)
 - 🤔 Opened an issue in
@@ -52,8 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch return-lineage-graph at
   [lazappi/lamindb](https://github.com/lazappi/lamindb)
-- 📨 Pushed to main in
-  [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
 - 📨 Pushed to main in
   [lazappi/git-cleanup](https://github.com/lazappi/git-cleanup)
 
