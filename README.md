@@ -39,6 +39,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on issue
   [theislab/zellkonverter#141](https://github.com/theislab/zellkonverter#141)
 - 🗣 Commented on issue
+  [theislab/zellkonverter#141](https://github.com/theislab/zellkonverter#141)
+- 🗣 Commented on issue
   [theislab/zellkonverter#142](https://github.com/theislab/zellkonverter#142)
 - 🗣 Commented on issue
   [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [r-lib/sessioninfo#116](https://github.com/r-lib/sessioninfo#116)
-- 🤔 Opened an issue in
-  [r-lib/sessioninfo](https://github.com/r-lib/sessioninfo)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
