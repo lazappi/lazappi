@@ -37,13 +37,13 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
-  [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
+  [laminlabs/laminr#180](https://github.com/laminlabs/laminr#180)
 - 🗣 Commented on pull request
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 🗣 Commented on pull request
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 🗣 Commented on pull request
-  [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
+  [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 🗣 Commented on pull request
   [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
 - 🗣 Commented on pull request
