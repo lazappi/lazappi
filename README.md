@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-148/python-dependencies in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#182](https://github.com/laminlabs/laminr#182)
 - 🗣 Commented on issue
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 🗣 Commented on pull request
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
-- 🗣 Commented on pull request
-  [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
-- 🗣 Commented on pull request
-  [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
