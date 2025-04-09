@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [rstudio/reticulate#1780](https://github.com/rstudio/reticulate#1780)
+- 🤔 Opened an issue in
+  [rstudio/reticulate](https://github.com/rstudio/reticulate)
 - 🗣 Commented on pull request
   [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
 - 🗣 Commented on pull request
@@ -46,10 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 🗣 Commented on pull request
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
-- 🗣 Commented on pull request
-  [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
-- 🗣 Commented on pull request
-  [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
 - 🗣 Commented on pull request
   [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
 - 🗣 Commented on pull request
