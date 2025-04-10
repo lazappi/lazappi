@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🗣 Commented on issue
   [theislab/zellkonverter#141](https://github.com/theislab/zellkonverter#141)
 - 😺 Created a tag v1.17.3 in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [rstudio/reticulate](https://github.com/rstudio/reticulate)
 - 🗣 Commented on pull request
   [scverse/anndatar#247](https://github.com/scverse/anndatar#247)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#180](https://github.com/laminlabs/laminr#180)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
