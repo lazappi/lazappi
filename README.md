@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🍴 Forked lazappi/reticulate from
+  [rstudio/reticulate](https://github.com/rstudio/reticulate)
 - 🤔 Opened a pull request in
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 - 😺 Created a branch update-laminr-setup in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 📨 Pushed to bugfix_202 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Deleted branch restructure-conversion at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
