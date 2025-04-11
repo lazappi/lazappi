@@ -36,6 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
+- 📨 Pushed to bugfix_202 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Deleted branch restructure-conversion at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to main in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎉 Merged a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a tag v1.31.1 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
@@ -46,16 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to restructure-conversion in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#187](https://github.com/laminlabs/laminr#187)
-- 🗣 Commented on pull request
-  [scverse/anndatar#246](https://github.com/scverse/anndatar#246)
-- 📨 Pushed to restructure-conversion in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to restructure-conversion in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
