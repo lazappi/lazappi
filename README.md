@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 🗣 Commented on pull request
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
+- 🗣 Commented on pull request
+  [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 📨 Pushed to bugfix_202 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch restructure-conversion at
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on issue
   [theislab/zellkonverter#132](https://github.com/theislab/zellkonverter#132)
 - 😺 Created a tag v1.17.4 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
