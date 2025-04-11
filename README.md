@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-148/python-dependencies in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-148/python-dependencies in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-148/python-dependencies in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [scverse/anndatar#258](https://github.com/scverse/anndatar#258)
 - 🗣 Commented on pull request
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a tag v1.31.1 in
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#132](https://github.com/theislab/zellkonverter#132)
-- 😺 Created a tag v1.17.4 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
