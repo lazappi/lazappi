@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
+- 😺 Created a branch update-laminr-setup in
+  [lazappi/lamin-docs](https://github.com/lazappi/lamin-docs)
+- 🍴 Forked lazappi/lamin-docs from
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 - 📨 Pushed to issue-148/python-dependencies in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-148/python-dependencies in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch restructure-conversion at
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to main in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎉 Merged a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a tag v1.31.1 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
