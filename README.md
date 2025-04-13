@@ -44,18 +44,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed to main in
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 🗣 Commented on issue
   [scverse/anndatar#259](https://github.com/scverse/anndatar#259)
 - 📨 Pushed to update-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [rstudio/reticulate](https://github.com/rstudio/reticulate)
-- 😺 Created a branch issue-1780/require-std-module in
-  [lazappi/reticulate](https://github.com/lazappi/reticulate)
-- 🍴 Forked lazappi/reticulate from
-  [rstudio/reticulate](https://github.com/rstudio/reticulate)
-- 🤔 Opened a pull request in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
