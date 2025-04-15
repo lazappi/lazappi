@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to implement-setting in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
   [lazappi/lamin-docs](https://github.com/lazappi/lamin-docs)
 - 🤔 Opened a pull request in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#56](https://github.com/openproblems-bio/task_batch_integration#56)
 - 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
