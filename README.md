@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to implement-setting in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-239/simplify-mapping in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [laminlabs/laminr#184](https://github.com/laminlabs/laminr#184)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
