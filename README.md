@@ -38,6 +38,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed to implement-setting in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
+- 😺 Created a branch r-introduction in
+  [lazappi/lamin-docs](https://github.com/lazappi/lamin-docs)
+- 📨 Pushed to implement-setting in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to implement-setting in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
   [lazappi/lamin-docs](https://github.com/lazappi/lamin-docs)
 - 🤔 Opened a pull request in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [laminlabs/laminr#184](https://github.com/laminlabs/laminr#184)
-- 🗣 Commented on pull request
-  [laminlabs/nf-lamin#50](https://github.com/laminlabs/nf-lamin#50)
-- 🗣 Commented on pull request
-  [laminlabs/nf-lamin#50](https://github.com/laminlabs/nf-lamin#50)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#56](https://github.com/openproblems-bio/task_batch_integration#56)
-- 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
