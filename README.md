@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch implement-setting in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-239/simplify-mapping in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
@@ -51,10 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
