@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to implement-setting in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch r-introduction at
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 - 📨 Pushed to main in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to implement-setting in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
