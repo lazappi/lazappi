@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a tag v1.19.0 in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to devel in
@@ -47,14 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to devel in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a tag v1.33.0 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📦 Released bioconductor 3.21 at
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Created a tag v1.32.0 in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to devel in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
