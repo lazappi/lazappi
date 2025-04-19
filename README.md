@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🗣 Commented on pull request
   [scrna-tools/scrna-tools#293](https://github.com/scrna-tools/scrna-tools#293)
 - 📨 Pushed to ci in
@@ -49,12 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to implement-setting in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch r-introduction at
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 📨 Pushed to main in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 🎉 Merged a pull request in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 🤔 Opened a pull request in
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 
 <p align="center" style="width:100%;">
