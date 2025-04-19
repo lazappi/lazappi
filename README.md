@@ -36,6 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scrna-tools/scrna-tools#293](https://github.com/scrna-tools/scrna-tools#293)
+- 📨 Pushed to ci in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 😺 Created a branch ci in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 😺 Deleted branch ci at
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 📨 Pushed to implement-setting in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch r-introduction at
@@ -46,16 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 - 🤔 Opened a pull request in
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 😺 Created a branch r-introduction in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 🗣 Commented on pull request
-  [laminlabs/lamin-docs#249](https://github.com/laminlabs/lamin-docs#249)
-- 🗣 Commented on pull request
-  [laminlabs/lamin-docs#249](https://github.com/laminlabs/lamin-docs#249)
-- 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to implement-setting in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
