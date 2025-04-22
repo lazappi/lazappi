@@ -36,26 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 🤔 Opened a pull request in
+- 🗣 Commented on pull request
+  [laminlabs/laminr#180](https://github.com/laminlabs/laminr#180)
+- 📨 Pushed to issue-177/view-lineage-graph in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch welcome in
+- 😺 Deleted branch implement-setting at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/lamindb](https://github.com/laminlabs/lamindb)
-- 📨 Pushed to clear-temp-instance in
+- 📨 Pushed to main in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch clear-temp-instance in
+- 🎉 Merged a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to implement-setting in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [lazappi/clustree#105](https://github.com/lazappi/clustree#105)
+- 😺 Deleted branch welcome at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Deleted branch clear-temp-instance at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
