@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch feature/inherit-arguments in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to update-changelog in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [laminlabs/laminr#180](https://github.com/laminlabs/laminr#180)
 - 📨 Pushed to issue-177/view-lineage-graph in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Deleted branch implement-setting at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
