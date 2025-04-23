@@ -38,6 +38,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed to feature/inherit-arguments in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Reopened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎊 Closed a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to feature/inherit-arguments in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to feature/inherit-arguments in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/inherit-arguments in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch feature/inherit-arguments in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to update-changelog in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#181](https://github.com/laminlabs/laminr#181)
-- 📨 Pushed to issue-171/render-md-manual in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#186](https://github.com/laminlabs/laminr#186)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
