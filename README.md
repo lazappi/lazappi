@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/nf-lamin#50](https://github.com/laminlabs/nf-lamin#50)
+- 🗣 Commented on pull request
+  [laminlabs/nf-lamin#50](https://github.com/laminlabs/nf-lamin#50)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch feature/inherit-arguments in
@@ -50,10 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#186](https://github.com/laminlabs/laminr#186)
 - 📨 Pushed to update-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-177/view-lineage-graph in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#180](https://github.com/laminlabs/laminr#180)
 - 📨 Pushed to issue-177/view-lineage-graph in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
