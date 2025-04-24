@@ -52,7 +52,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Reopened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎊 Closed a pull request in
+- 🎉 Merged a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to feature/inherit-arguments in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
