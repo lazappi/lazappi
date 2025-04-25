@@ -48,14 +48,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to update-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to update-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [lazappi/clustree#105](https://github.com/lazappi/clustree#105)
 - 🍴 Forked lazappi/openpipeline from
   [openpipelines-bio/openpipeline](https://github.com/openpipelines-bio/openpipeline)
 - 🗣 Commented on pull request
   [laminlabs/laminr#191](https://github.com/laminlabs/laminr#191)
-- 📨 Pushed to feature/inherit-arguments in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
