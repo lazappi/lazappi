@@ -36,6 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to update-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to update-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to update-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to update-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to update-ci in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [lazappi/clustree#105](https://github.com/lazappi/clustree#105)
 - 🍴 Forked lazappi/openpipeline from
@@ -45,16 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to feature/inherit-arguments in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch release/v1.1.0 in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to feature/inherit-arguments in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Reopened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
