@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#256](https://github.com/scverse/anndatar#256)
 - 📨 Pushed to lamindb-envvars in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindb-envvars in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch test-signing at
   [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
