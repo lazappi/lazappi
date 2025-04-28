@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch lamindb-envvars in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Deleted branch test-signing at
   [lazappi/lazappi.id.au](https://github.com/lazappi/lazappi.id.au)
 - 📨 Pushed to main in
@@ -43,10 +47,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Deleted branch update-ci at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to update-ci in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to update-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to update-ci in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
