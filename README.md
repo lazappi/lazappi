@@ -36,25 +36,25 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to update-docs in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 😺 Deleted branch issue-239/simplify-mapping at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎊 Closed an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to main in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎉 Merged a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#260](https://github.com/scverse/anndatar#260)
 - 📨 Pushed to ci-dependencies in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
-  [scverse/anndatar#264](https://github.com/scverse/anndatar#264)
-- 🗣 Commented on pull request
-  [scverse/anndatar#264](https://github.com/scverse/anndatar#264)
+  [scverse/anndatar#260](https://github.com/scverse/anndatar#260)
 - 📨 Pushed to ci-dependencies in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch ci-dependencies in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎊 Closed a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#263](https://github.com/scverse/anndatar#263)
-- 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
