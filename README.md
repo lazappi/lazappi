@@ -37,6 +37,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [scverse/anndatar#260](https://github.com/scverse/anndatar#260)
+- 📨 Pushed to issue-239/simplify-mapping in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
   [scverse/anndatar#262](https://github.com/scverse/anndatar#262)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -48,10 +52,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#259](https://github.com/scverse/anndatar#259)
 - 🗣 Commented on issue
   [scverse/anndatar#256](https://github.com/scverse/anndatar#256)
-- 📨 Pushed to lamindb-envvars in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to lamindb-envvars in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindb-envvars in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindb-envvars in
