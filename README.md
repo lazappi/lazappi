@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#263](https://github.com/scverse/anndatar#263)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch test-styling in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [scverse/anndatar#262](https://github.com/scverse/anndatar#262)
 - 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch tidy-dev-status in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
