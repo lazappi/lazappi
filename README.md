@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#262](https://github.com/scverse/anndatar#262)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch tidy-dev-status in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#143](https://github.com/theislab/zellkonverter#143)
 - 🗣 Commented on issue
   [scverse/anndatar#259](https://github.com/scverse/anndatar#259)
 - 🗣 Commented on issue
@@ -47,14 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to lamindb-envvars in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindb-envvars in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to lamindb-envvars in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to lamindb-envvars in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch lamindb-envvars in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
