@@ -37,23 +37,23 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
-  [scverse/anndatar#263](https://github.com/scverse/anndatar#263)
+  [scverse/anndatar#260](https://github.com/scverse/anndatar#260)
+- 📨 Pushed to ci-dependencies in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [scverse/anndatar#264](https://github.com/scverse/anndatar#264)
+- 🗣 Commented on pull request
+  [scverse/anndatar#264](https://github.com/scverse/anndatar#264)
+- 📨 Pushed to ci-dependencies in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch test-styling in
+- 😺 Created a branch ci-dependencies in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to issue-239/simplify-mapping in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to issue-239/simplify-mapping in
+- 🎊 Closed a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
-  [scverse/anndatar#260](https://github.com/scverse/anndatar#260)
-- 🗣 Commented on pull request
-  [scverse/anndatar#260](https://github.com/scverse/anndatar#260)
-- 📨 Pushed to issue-239/simplify-mapping in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#262](https://github.com/scverse/anndatar#262)
+  [scverse/anndatar#263](https://github.com/scverse/anndatar#263)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
