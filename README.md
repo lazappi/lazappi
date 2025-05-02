@@ -36,14 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to update-docs in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [drisso/singlecellexperiment#83](https://github.com/drisso/singlecellexperiment#83)
 - 🤔 Opened an issue in
   [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
 - 📨 Pushed to update-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 - 🗣 Commented on pull request
   [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 - 🗣 Commented on pull request
