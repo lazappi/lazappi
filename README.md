@@ -38,6 +38,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed to update-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to update-docs in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to update-docs in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#253](https://github.com/scverse/anndatar#253)
 - 📨 Pushed to update-docs in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [drisso/singlecellexperiment#83](https://github.com/drisso/singlecellexperiment#83)
-- 🤔 Opened an issue in
-  [drisso/singlecellexperiment](https://github.com/drisso/singlecellexperiment)
-- 📨 Pushed to update-docs in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
