@@ -37,6 +37,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [scverse/anndatar#266](https://github.com/scverse/anndatar#266)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#144](https://github.com/theislab/zellkonverter#144)
+- 🗣 Commented on issue
   [theislab/zellkonverter#144](https://github.com/theislab/zellkonverter#144)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
@@ -48,10 +52,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#253](https://github.com/scverse/anndatar#253)
-- 📨 Pushed to update-docs in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to update-docs in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to update-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to update-docs in
