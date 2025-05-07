@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
+- 😺 Created a branch main in
+  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
+- 😺 Created a repository
+  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 - 🗣 Commented on issue
   [scverse/anndatar#266](https://github.com/scverse/anndatar#266)
 - 🗣 Commented on issue
@@ -46,12 +52,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to update-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to update-docs in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to update-docs in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#253](https://github.com/scverse/anndatar#253)
 - 📨 Pushed to update-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to update-docs in
