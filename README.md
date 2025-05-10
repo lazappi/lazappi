@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
+- 🎉 Merged a pull request in
+  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 - 📨 Pushed to mbzuai-prep in
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 - 🤔 Opened a pull request in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 - 😺 Created a repository
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
-- 🗣 Commented on issue
-  [scverse/anndatar#266](https://github.com/scverse/anndatar#266)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#144](https://github.com/theislab/zellkonverter#144)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
