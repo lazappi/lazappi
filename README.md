@@ -36,6 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#132](https://github.com/theislab/zellkonverter#132)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on pull request
+  [scverse/anndatar#253](https://github.com/scverse/anndatar#253)
+- 🗣 Commented on pull request
+  [scverse/anndatar#253](https://github.com/scverse/anndatar#253)
 - 📨 Pushed to main in
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 - 🎉 Merged a pull request in
@@ -43,18 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to mbzuai-prep in
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
-- 📨 Pushed to mbzuai-prep in
-  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
-- 🗣 Commented on issue
-  [scverse/anndatar#266](https://github.com/scverse/anndatar#266)
-- 😺 Created a branch mbzuai-prep in
-  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
-- 🤔 Opened an issue in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 😺 Created a branch main in
-  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
-- 😺 Created a repository
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 
 <p align="center" style="width:100%;">
