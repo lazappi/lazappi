@@ -37,6 +37,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#197](https://github.com/laminlabs/laminr#197)
+- 🗣 Commented on issue
   [scverse/anndatar#271](https://github.com/scverse/anndatar#271)
 - 🗣 Commented on issue
   [theislab/zellkonverter#61](https://github.com/theislab/zellkonverter#61)
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to main in
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 - 🎉 Merged a pull request in
-  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
-- 📨 Pushed to mbzuai-prep in
   [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 
 <p align="center" style="width:100%;">
