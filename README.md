@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch issue-199/require-modules in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on issue
   [laminlabs/laminr#197](https://github.com/laminlabs/laminr#197)
 - 🗣 Commented on issue
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#253](https://github.com/scverse/anndatar#253)
 - 🗣 Commented on pull request
   [scverse/anndatar#253](https://github.com/scverse/anndatar#253)
-- 📨 Pushed to main in
-  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
-- 🎉 Merged a pull request in
-  [openproblems-bio/task_workshop_example](https://github.com/openproblems-bio/task_workshop_example)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
