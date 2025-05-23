@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch issue-199/require-modules at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-199/require-modules in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
@@ -44,12 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 - 😺 Created a branch issue-266/remove-install_lamindb in
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-199/require-modules in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to issue-199/require-modules in
