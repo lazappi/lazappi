@@ -36,25 +36,25 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
+- 😺 Created a branch issue-266/remove-install_lamindb in
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
+- 📨 Pushed to issue-199/require-modules in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch issue-199/require-modules in
+- 📨 Pushed to issue-199/require-modules in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-199/require-modules in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-199/require-modules in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-199/require-modules in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-199/require-modules in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-199/require-modules in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to issue-199/require-modules in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
