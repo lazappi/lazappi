@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 📨 Pushed to bugfix_assume_x in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [laminlabs/lamin-docs#268](https://github.com/laminlabs/lamin-docs#268)
 - 🗣 Commented on issue
   [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
 - 🗣 Commented on issue
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [laminlabs/laminr#201](https://github.com/laminlabs/laminr#201)
-- 🤔 Opened a pull request in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 😺 Created a branch issue-266/remove-install_lamindb in
-  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 📨 Pushed to issue-199/require-modules in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
