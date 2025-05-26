@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-269/move-as-docs in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch issue-269/move-as-docs in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch bugfix/handle-empty-settings at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch bugfix/handle-empty-settings in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
