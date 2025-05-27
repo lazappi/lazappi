@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/lamin-docs#268](https://github.com/laminlabs/lamin-docs#268)
 - 📨 Pushed to issue-269/move-as-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a branch issue-269/move-as-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Deleted branch bugfix/handle-empty-settings at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
