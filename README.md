@@ -38,6 +38,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
+- 🗣 Commented on issue
+  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
+- 🗣 Commented on issue
+  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 📨 Pushed to issue-268/tf-mapping-args in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [laminlabs/lamin-docs#268](https://github.com/laminlabs/lamin-docs#268)
-- 📨 Pushed to issue-269/move-as-docs in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#273](https://github.com/scverse/anndatar#273)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
