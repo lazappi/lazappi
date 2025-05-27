@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/lamin-docs#268](https://github.com/laminlabs/lamin-docs#268)
+- 🗣 Commented on pull request
+  [scverse/anndatar#273](https://github.com/scverse/anndatar#273)
 - 📨 Pushed to issue-269/move-as-docs in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 📨 Pushed to bugfix_assume_x in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to bugfix_assume_x in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
