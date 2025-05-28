@@ -38,6 +38,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
+- 🤔 Opened an issue in
+  [huber-group-embl/rhdf5](https://github.com/huber-group-embl/rhdf5)
+- 🤔 Opened an issue in
+  [hhoeflin/hdf5r](https://github.com/hhoeflin/hdf5r)
+- 🗣 Commented on issue
+  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🗣 Commented on issue
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
-- 📨 Pushed to issue-268/tf-mapping-args in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch issue-268/tf-mapping-args in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
