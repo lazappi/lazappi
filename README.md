@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🎊 Closed a pull request in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🤔 Opened an issue in
@@ -52,8 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 📨 Pushed to issue-268/tf-mapping-args in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 
