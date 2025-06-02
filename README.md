@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#274](https://github.com/scverse/anndatar#274)
+- 🤔 Opened an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [huber-group-embl/rhdf5#160](https://github.com/huber-group-embl/rhdf5#160)
 - 🗣 Commented on issue
@@ -48,10 +52,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [huber-group-embl/rhdf5](https://github.com/huber-group-embl/rhdf5)
 - 🤔 Opened an issue in
   [hhoeflin/hdf5r](https://github.com/hhoeflin/hdf5r)
-- 🗣 Commented on issue
-  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
-- 🗣 Commented on issue
-  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🗣 Commented on issue
