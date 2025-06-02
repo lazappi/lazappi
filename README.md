@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to lamindb-envvars in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on pull request
   [scverse/anndatar#274](https://github.com/scverse/anndatar#274)
 - 📨 Pushed to issue-268/tf-mapping-args in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🤔 Opened an issue in
   [huber-group-embl/rhdf5](https://github.com/huber-group-embl/rhdf5)
-- 🤔 Opened an issue in
-  [hhoeflin/hdf5r](https://github.com/hhoeflin/hdf5r)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
