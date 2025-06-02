@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [huber-group-embl/rhdf5#160](https://github.com/huber-group-embl/rhdf5#160)
+- 🗣 Commented on issue
+  [scrna-tools/scrna-tools#297](https://github.com/scrna-tools/scrna-tools#297)
 - 🎊 Closed a pull request in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on issue
@@ -50,10 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
-- 🗣 Commented on issue
-  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
-- 📨 Pushed to issue-268/tf-mapping-args in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 
