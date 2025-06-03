@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 - 📨 Pushed to issue-268/tf-mapping-args in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to issue-268/tf-mapping-args in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch bugfix/arrow-list-columns in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
