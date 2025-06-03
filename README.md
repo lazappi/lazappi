@@ -38,6 +38,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed to bugfix/arrow-list-columns in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to bugfix/arrow-list-columns in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to bugfix/arrow-list-columns in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🤔 Opened a pull request in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch bugfix/arrow-list-columns in
@@ -51,10 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [scverse/anndatar#274](https://github.com/scverse/anndatar#274)
 - 📨 Pushed to issue-268/tf-mapping-args in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#274](https://github.com/scverse/anndatar#274)
-- 🤔 Opened an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
