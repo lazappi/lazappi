@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
 - 📨 Pushed to lamindb-envvars in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to lamindb-envvars in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scrna-tools/scrna-tools#297](https://github.com/scrna-tools/scrna-tools#297)
 - 🎊 Closed a pull request in
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 🗣 Commented on issue
-  [scverse/anndatar#272](https://github.com/scverse/anndatar#272)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
