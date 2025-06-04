@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch bugfix/conversion-defaults at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch bugfix/conversion-defaults in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
+  [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
 - 🗣 Commented on pull request
   [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 - 📨 Pushed to issue-268/tf-mapping-args in
@@ -49,12 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to bugfix/arrow-list-columns in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to bugfix/arrow-list-columns in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to bugfix/arrow-list-columns in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch bugfix/arrow-list-columns in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
