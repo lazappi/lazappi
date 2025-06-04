@@ -36,26 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 - 😺 Deleted branch bugfix/conversion-defaults at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch bugfix/conversion-defaults in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 📨 Pushed to issue-268/tf-mapping-args in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to issue-268/tf-mapping-args in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [huber-group-embl/rhdf5#160](https://github.com/huber-group-embl/rhdf5#160)
-- 📨 Pushed to bugfix/arrow-list-columns in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to bugfix/arrow-list-columns in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to bugfix/arrow-list-columns in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
