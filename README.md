@@ -36,26 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
-- 😺 Deleted branch bugfix/conversion-defaults at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch bugfix/conversion-defaults in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
-  [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
+  [theislab/zellkonverter#145](https://github.com/theislab/zellkonverter#145)
+- 🗣 Commented on issue
+  [scverse/anndatar#276](https://github.com/scverse/anndatar#276)
+- 😺 Deleted branch fix-function-name at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [scverse/anndatar#277](https://github.com/scverse/anndatar#277)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
+- 🗣 Commented on pull request
+  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
