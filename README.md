@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to issue-268/tf-mapping-args in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [theislab/zellkonverter#145](https://github.com/theislab/zellkonverter#145)
 - 🗣 Commented on issue
@@ -44,8 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#277](https://github.com/scverse/anndatar#277)
-- 🗣 Commented on pull request
-  [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 - 🗣 Commented on pull request
   [scverse/anndatar#255](https://github.com/scverse/anndatar#255)
 - 🗣 Commented on pull request
