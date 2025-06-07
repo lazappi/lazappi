@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
+- 📨 Pushed to main in
+  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 - 😺 Deleted branch bugfix/arrow-list-columns at
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 📨 Pushed to main in
@@ -51,10 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to task/split-to-from in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch task/split-to-from in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to main in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
