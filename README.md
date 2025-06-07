@@ -36,26 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch bugfix/arrow-list-columns at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to main in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🎉 Merged a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to task/split-to-from in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to task/split-to-from in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on pull request
+  [scverse/anndatar#279](https://github.com/scverse/anndatar#279)
+- 📨 Pushed to task/split-to-from in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch task/split-to-from in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to main in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎊 Closed an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎉 Merged a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to issue-268/tf-mapping-args in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#145](https://github.com/theislab/zellkonverter#145)
-- 🗣 Commented on issue
-  [scverse/anndatar#276](https://github.com/scverse/anndatar#276)
-- 😺 Deleted branch fix-function-name at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#277](https://github.com/scverse/anndatar#277)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
