@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Created a branch update-envs in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 📨 Pushed to main in
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 - 📨 Pushed to main in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#279](https://github.com/scverse/anndatar#279)
-- 📨 Pushed to task/split-to-from in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
