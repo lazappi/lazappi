@@ -36,6 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [theislab/zellkonverter#145](https://github.com/theislab/zellkonverter#145)
+- 😺 Created a tag v1.19.1 in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to devel in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🎉 Merged a pull request in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 📨 Pushed to update-envs in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🤔 Opened a pull request in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 😺 Created a branch update-envs in
@@ -44,18 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 - 📨 Pushed to main in
   [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
-- 😺 Deleted branch bugfix/arrow-list-columns at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to main in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🎉 Merged a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to task/split-to-from in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to task/split-to-from in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#279](https://github.com/scverse/anndatar#279)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
