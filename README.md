@@ -36,6 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
+- 😺 Created a branch laminr-envvars in
+  [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
+- 📨 Pushed to lamindb-envvars in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to lamindb-envvars in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 📨 Pushed to lamindb-envvars in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on pull request
+  [openproblems-bio/core#25](https://github.com/openproblems-bio/core#25)
 - 🗣 Commented on issue
   [theislab/zellkonverter#145](https://github.com/theislab/zellkonverter#145)
 - 😺 Created a tag v1.19.1 in
@@ -44,18 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 - 🎊 Closed an issue in
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🎉 Merged a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to update-envs in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🤔 Opened a pull request in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Created a branch update-envs in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to main in
-  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
-- 📨 Pushed to main in
-  [theislab/gh-dashboard](https://github.com/theislab/gh-dashboard)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
