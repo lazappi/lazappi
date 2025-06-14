@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
+- 😺 Created a branch align-quant in
+  [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
 - 🤔 Opened an issue in
   [viash-hub/biobox](https://github.com/viash-hub/biobox)
 - 🤔 Opened a pull request in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/core#25](https://github.com/openproblems-bio/core#25)
 - 🗣 Commented on issue
   [theislab/zellkonverter#145](https://github.com/theislab/zellkonverter#145)
-- 😺 Created a tag v1.19.1 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
