@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#281](https://github.com/scverse/anndatar#281)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch prepare-0.1.0-release in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to align-quant in
   [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
 - 📨 Pushed to align-quant in
-  [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
-- 🤔 Opened a pull request in
   [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
 
 <p align="center" style="width:100%;">
