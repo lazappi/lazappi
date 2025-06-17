@@ -36,14 +36,13 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- ⭐️ Starred [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#281](https://github.com/scverse/anndatar#281)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch prepare-0.1.0-release in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to align-quant in
-  [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
 - 📨 Pushed to align-quant in
   [viash-hub/rnaseq](https://github.com/viash-hub/rnaseq)
 - 📨 Pushed to align-quant in
