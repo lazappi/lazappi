@@ -42,6 +42,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
 - 🤔 Opened a pull request in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/scrnaseq](https://github.com/lazappi/scrnaseq)
 - 🍴 Forked lazappi/scrnaseq from
   [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
-- 📨 Pushed to master in
-  [lazappi/twitter-stats](https://github.com/lazappi/twitter-stats)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
