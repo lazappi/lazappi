@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened a pull request in
+  [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
+- 🤔 Opened a pull request in
+  [nf-core/scdownstream](https://github.com/nf-core/scdownstream)
+- 😺 Created a branch pin-anndatar in
+  [lazappi/scdownstream](https://github.com/lazappi/scdownstream)
 - 🍴 Forked lazappi/scdownstream from
   [nf-core/scdownstream](https://github.com/nf-core/scdownstream)
 - 😺 Created a branch pin-anndatar in
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/clustree](https://github.com/lazappi/clustree)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a tag v1.19.2 in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 📨 Pushed to devel in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
