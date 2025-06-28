@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
+  [scverse/anndatar#289](https://github.com/scverse/anndatar#289)
+- 🤔 Opened an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to feat/czbenchmarks-scgpt in
@@ -45,14 +53,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🤔 Opened an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
-- 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
