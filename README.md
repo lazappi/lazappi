@@ -37,6 +37,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🤔 Opened a pull request in
+  [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
+- 😺 Created a branch update-repositories in
+  [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
+- 🤔 Opened a pull request in
   [openproblems-bio/task_ist_preprocessing](https://github.com/openproblems-bio/task_ist_preprocessing)
 - 😺 Created a branch update-viash-0.9.4 in
   [openproblems-bio/task_ist_preprocessing](https://github.com/openproblems-bio/task_ist_preprocessing)
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#289](https://github.com/scverse/anndatar#289)
-- 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
