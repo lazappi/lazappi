@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a branch changes in
+  [lazappi/dotfiles](https://github.com/lazappi/dotfiles)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
@@ -50,8 +52,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#290](https://github.com/scverse/anndatar#290)
 - 🗣 Commented on issue
   [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
