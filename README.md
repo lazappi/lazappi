@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a branch changes in
   [lazappi/dotfiles](https://github.com/lazappi/dotfiles)
 - 📨 Pushed to use-rhdf5 in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_ist_preprocessing](https://github.com/openproblems-bio/task_ist_preprocessing)
 - 😺 Created a branch update-viash-0.9.4 in
   [openproblems-bio/task_ist_preprocessing](https://github.com/openproblems-bio/task_ist_preprocessing)
-- 🗣 Commented on issue
-  [scverse/anndatar#290](https://github.com/scverse/anndatar#290)
-- 🗣 Commented on issue
-  [laminlabs/laminr#195](https://github.com/laminlabs/laminr#195)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
