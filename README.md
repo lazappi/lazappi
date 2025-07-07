@@ -37,6 +37,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [laminlabs/laminr#205](https://github.com/laminlabs/laminr#205)
+- 🗣 Commented on issue
   [laminlabs/laminr#206](https://github.com/laminlabs/laminr#206)
 - 🗣 Commented on pull request
   [laminlabs/laminr#204](https://github.com/laminlabs/laminr#204)
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
-- 😺 Created a branch update-repositories in
   [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
 
 <p align="center" style="width:100%;">
