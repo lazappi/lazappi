@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
+- 🗣 Commented on pull request
+  [scverse/anndatar#284](https://github.com/scverse/anndatar#284)
 - 🗣 Commented on issue
   [laminlabs/laminr#205](https://github.com/laminlabs/laminr#205)
 - 🗣 Commented on issue
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 😺 Created a branch changes in
   [lazappi/dotfiles](https://github.com/lazappi/dotfiles)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
