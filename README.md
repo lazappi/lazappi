@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#204](https://github.com/laminlabs/laminr#204)
 - 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a branch update-repositories in
   [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
 - 🤔 Opened a pull request in
-  [openproblems-bio/task_ist_preprocessing](https://github.com/openproblems-bio/task_ist_preprocessing)
-- 😺 Created a branch update-viash-0.9.4 in
   [openproblems-bio/task_ist_preprocessing](https://github.com/openproblems-bio/task_ist_preprocessing)
 
 <p align="center" style="width:100%;">
