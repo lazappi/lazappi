@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#206](https://github.com/laminlabs/laminr#206)
 - 🗣 Commented on pull request
   [laminlabs/laminr#204](https://github.com/laminlabs/laminr#204)
 - 📨 Pushed to main in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
 - 😺 Created a branch update-repositories in
   [openproblems-bio/task_perturbation_prediction](https://github.com/openproblems-bio/task_perturbation_prediction)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_ist_preprocessing](https://github.com/openproblems-bio/task_ist_preprocessing)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
