@@ -39,23 +39,23 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
 - 🗣 Commented on pull request
+  [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
+- 🗣 Commented on pull request
+  [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
+- 🗣 Commented on pull request
+  [scverse/anndatar#282](https://github.com/scverse/anndatar#282)
+- 🗣 Commented on pull request
+  [scverse/anndatar#282](https://github.com/scverse/anndatar#282)
+- 🗣 Commented on pull request
+  [scverse/anndatar#282](https://github.com/scverse/anndatar#282)
+- 🗣 Commented on pull request
+  [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
+- 🗣 Commented on pull request
   [scverse/anndatar#284](https://github.com/scverse/anndatar#284)
 - 🗣 Commented on issue
   [laminlabs/laminr#205](https://github.com/laminlabs/laminr#205)
 - 🗣 Commented on issue
   [laminlabs/laminr#206](https://github.com/laminlabs/laminr#206)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#204](https://github.com/laminlabs/laminr#204)
-- 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to main in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 😺 Created a branch changes in
-  [lazappi/dotfiles](https://github.com/lazappi/dotfiles)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
