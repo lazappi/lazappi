@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a tag v1.33.1 in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🗣 Commented on issue
   [openproblems-bio/task_cyto_batch_integration#80](https://github.com/openproblems-bio/task_cyto_batch_integration#80)
 - 🗣 Commented on pull request
@@ -50,10 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#206](https://github.com/laminlabs/laminr#206)
 - 🗣 Commented on issue
   [laminlabs/laminr#207](https://github.com/laminlabs/laminr#207)
-- 🗣 Commented on pull request
-  [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
-- 🗣 Commented on pull request
-  [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
 - 🗣 Commented on pull request
   [scverse/anndatar#291](https://github.com/scverse/anndatar#291)
 
