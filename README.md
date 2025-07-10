@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Deleted branch ci at
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to feat/transcriptformer-mlflow in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feat/transcriptformer-mlflow in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#284](https://github.com/scverse/anndatar#284)
 - 🗣 Commented on pull request
   [openproblems-bio/task_cyto_batch_integration#78](https://github.com/openproblems-bio/task_cyto_batch_integration#78)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
