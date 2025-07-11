@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#211](https://github.com/laminlabs/laminr#211)
 - 😺 Deleted branch ci at
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 📨 Pushed to devel in
@@ -52,8 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Deleted branch ci at
   [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to feat/transcriptformer-mlflow in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feat/transcriptformer-mlflow in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
