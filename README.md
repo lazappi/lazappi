@@ -50,12 +50,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#293](https://github.com/scverse/anndatar#293)
 - 🗣 Commented on pull request
   [scverse/anndatar#293](https://github.com/scverse/anndatar#293)
-- 🗣 Commented on issue
-  [laminlabs/laminr#211](https://github.com/laminlabs/laminr#211)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
