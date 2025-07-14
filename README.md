@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#293](https://github.com/scverse/anndatar#293)
 - 🗣 Commented on pull request
@@ -49,12 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🎉 Merged a pull request in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 - 🤔 Opened a pull request in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to ci in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 📨 Pushed to ci in
-  [oshlack/splatter](https://github.com/oshlack/splatter)
-- 😺 Created a branch ci in
   [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
