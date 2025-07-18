@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [openproblems-bio/datasets#1](https://github.com/openproblems-bio/datasets#1)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 - 📨 Pushed to use-rhdf5 in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1042](https://github.com/openpipelines-bio/openpipeline#1042)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
