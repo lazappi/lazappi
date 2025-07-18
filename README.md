@@ -37,6 +37,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🤔 Opened an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened an issue in
   [huber-group-embl/rhdf5](https://github.com/huber-group-embl/rhdf5)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
@@ -46,8 +48,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1042](https://github.com/openpipelines-bio/openpipeline#1042)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline#1042](https://github.com/openpipelines-bio/openpipeline#1042)
 - 🗣 Commented on pull request
