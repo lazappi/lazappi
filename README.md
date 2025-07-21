@@ -37,6 +37,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on issue
+  [huber-group-embl/rhdf5#163](https://github.com/huber-group-embl/rhdf5#163)
+- 🗣 Commented on issue
+  [scverse/anndatar#299](https://github.com/scverse/anndatar#299)
+- 🗣 Commented on issue
   [openproblems-bio/datasets#1](https://github.com/openproblems-bio/datasets#1)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
@@ -48,10 +52,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened an issue in
   [huber-group-embl/rhdf5](https://github.com/huber-group-embl/rhdf5)
-- 🗣 Commented on pull request
-  [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
-- 🗣 Commented on pull request
-  [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 - 🗣 Commented on pull request
