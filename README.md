@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🍴 Forked lazappi/cz-benchmarks from
+  [chanzuckerberg/cz-benchmarks](https://github.com/chanzuckerberg/cz-benchmarks)
 - 🗣 Commented on issue
   [huber-group-embl/rhdf5#163](https://github.com/huber-group-embl/rhdf5#163)
 - 🗣 Commented on issue
@@ -52,8 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened an issue in
   [huber-group-embl/rhdf5](https://github.com/huber-group-embl/rhdf5)
-- 🗣 Commented on pull request
-  [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 
