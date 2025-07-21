@@ -36,6 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎊 Closed an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🗣 Commented on issue
+  [scverse/anndatar#261](https://github.com/scverse/anndatar#261)
+- 🗣 Commented on issue
+  [scverse/anndatar#276](https://github.com/scverse/anndatar#276)
+- 🎊 Closed an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to add-pcr-viash in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 📨 Pushed to add-pcr-viash in
@@ -44,18 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 📨 Pushed to add-pcr in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 😺 Created a branch add-pcr in
-  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 🍴 Forked lazappi/cz-benchmarks from
-  [chanzuckerberg/cz-benchmarks](https://github.com/chanzuckerberg/cz-benchmarks)
-- 🗣 Commented on issue
-  [huber-group-embl/rhdf5#163](https://github.com/huber-group-embl/rhdf5#163)
-- 🗣 Commented on issue
-  [scverse/anndatar#299](https://github.com/scverse/anndatar#299)
-- 🗣 Commented on issue
-  [openproblems-bio/datasets#1](https://github.com/openproblems-bio/datasets#1)
-- 🗣 Commented on pull request
-  [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
