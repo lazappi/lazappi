@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed to add-pcr-viash in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
+- 📨 Pushed to add-pcr-viash in
+  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 😺 Created a branch add-pcr-viash in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 📨 Pushed to add-pcr in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/datasets#1](https://github.com/openproblems-bio/datasets#1)
 - 🗣 Commented on pull request
   [scverse/anndatar#283](https://github.com/scverse/anndatar#283)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
