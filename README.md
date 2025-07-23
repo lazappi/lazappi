@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#63](https://github.com/openproblems-bio/task_batch_integration#63)
 - 📨 Pushed to add-pcr-viash-build in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 😺 Created a branch add-pcr-viash-build in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#261](https://github.com/scverse/anndatar#261)
 - 🗣 Commented on issue
   [scverse/anndatar#276](https://github.com/scverse/anndatar#276)
-- 🎊 Closed an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
