@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#301](https://github.com/scverse/anndatar#301)
 - 🗣 Commented on pull request
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🎊 Closed an issue in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [scverse/anndatar#261](https://github.com/scverse/anndatar#261)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
