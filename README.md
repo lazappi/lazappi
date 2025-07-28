@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#303](https://github.com/scverse/anndatar#303)
 - 🗣 Commented on issue
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#63](https://github.com/openproblems-bio/task_batch_integration#63)
 - 📨 Pushed to add-pcr-viash-build in
-  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 😺 Created a branch add-pcr-viash-build in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 
 <p align="center" style="width:100%;">
