@@ -44,6 +44,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to use-rhdf5 in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
   [scverse/anndatar#303](https://github.com/scverse/anndatar#303)
 - 🗣 Commented on issue
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on issue
   [scverse/anndatar#302](https://github.com/scverse/anndatar#302)
 - 🤔 Opened an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
