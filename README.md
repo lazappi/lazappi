@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/datasets#3](https://github.com/openproblems-bio/datasets#3)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 📨 Pushed to use-rhdf5 in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#304](https://github.com/scverse/anndatar#304)
 - 🗣 Commented on issue
   [laminlabs/laminr#212](https://github.com/laminlabs/laminr#212)
-- 🗣 Commented on issue
-  [scverse/anndatar#302](https://github.com/scverse/anndatar#302)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
