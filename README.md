@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#305](https://github.com/scverse/anndatar#305)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch anndata-0.12-fixes in
@@ -46,8 +48,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/datasets#3](https://github.com/openproblems-bio/datasets#3)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to use-rhdf5 in
