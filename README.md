@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎉 Merged a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch pr-305-news in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#305](https://github.com/scverse/anndatar#305)
 - 🤔 Opened a pull request in
@@ -48,14 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/datasets#3](https://github.com/openproblems-bio/datasets#3)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to use-rhdf5 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
