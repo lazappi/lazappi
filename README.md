@@ -36,26 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 📨 Pushed to release-0.2.0 in
+- 🗣 Commented on pull request
+  [nf-core/scdownstream#197](https://github.com/nf-core/scdownstream#197)
+- 🗣 Commented on pull request
+  [nf-core/scrnaseq#472](https://github.com/nf-core/scrnaseq#472)
+- 😺 Created a tag v0.2.0 in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch release-0.2.0 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in
+- 📦 Released version 0.2.0 at
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to main in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎊 Closed an issue in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🎉 Merged a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch pr-305-news in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to feature/no-ref/update-process-results in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 🗣 Commented on pull request
-  [scverse/anndatar#305](https://github.com/scverse/anndatar#305)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
+  [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
+- 🗣 Commented on pull request
+  [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
