@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/update-process-results in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 🗣 Commented on pull request
   [nf-core/scdownstream#197](https://github.com/nf-core/scdownstream#197)
 - 🗣 Commented on pull request
@@ -52,8 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 🗣 Commented on pull request
-  [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 - 🗣 Commented on pull request
   [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 
