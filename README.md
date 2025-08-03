@@ -36,26 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 😺 Deleted branch updates-20250802 at
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 😺 Created a branch updates-20250802 in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 📨 Pushed to main in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🎉 Merged a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 🤔 Opened a pull request in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 😺 Created a branch r-4.5 in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 🗣 Commented on pull request
-  [nf-core/scdownstream#197](https://github.com/nf-core/scdownstream#197)
-- 🗣 Commented on pull request
-  [nf-core/scrnaseq#472](https://github.com/nf-core/scrnaseq#472)
-- 😺 Created a tag v0.2.0 in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📦 Released version 0.2.0 at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to main in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎊 Closed an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🎉 Merged a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
