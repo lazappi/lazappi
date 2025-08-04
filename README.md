@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a branch remove-suppresswarnings in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to remove-deprecated in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 - 📨 Pushed to feature/add-results-schemas in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 🤔 Opened a pull request in
   [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 
 <p align="center" style="width:100%;">
