@@ -36,6 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndatar#303](https://github.com/scverse/anndatar#303)
+- 🗣 Commented on pull request
+  [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
+- 📨 Pushed to feature/add-results-schemas in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
+- 🤔 Opened a pull request in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
+- 😺 Created a branch feature/add-results-schemas in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
+- 📨 Pushed to feature/no-ref/update-process-results in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 🗣 Commented on pull request
   [scverse/anndatar#309](https://github.com/scverse/anndatar#309)
 - 📨 Pushed to main in
@@ -43,18 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Deleted branch updates-20250802 at
   [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
 - 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 😺 Created a branch updates-20250802 in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 📨 Pushed to main in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
