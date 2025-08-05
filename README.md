@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to ci in
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch remove-suppresswarnings in
@@ -54,8 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#275](https://github.com/scverse/anndatar#275)
 - 🗣 Commented on issue
   [scverse/anndatar#303](https://github.com/scverse/anndatar#303)
-- 🗣 Commented on pull request
-  [openproblems-bio/openproblems#919](https://github.com/openproblems-bio/openproblems#919)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
