@@ -38,6 +38,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+- 📨 Pushed to feature/no-ref/update-process-results in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+- 📨 Pushed to feature/no-ref/update-process-results in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 🎉 Merged a pull request in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 📨 Pushed to feature/no-ref/update-process-results in
@@ -51,10 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 🤔 Opened a pull request in
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed to ci in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
