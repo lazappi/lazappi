@@ -37,6 +37,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 📨 Pushed to main in
+  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_predict_modality#10](https://github.com/openproblems-bio/task_predict_modality#10)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_predict_modality#10](https://github.com/openproblems-bio/task_predict_modality#10)
+- 📨 Pushed to main in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 🎉 Merged a pull request in
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
@@ -49,12 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a branch remove-suppresswarnings in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed to remove-deprecated in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on issue
-  [scverse/anndatar#303](https://github.com/scverse/anndatar#303)
-- 🎊 Closed an issue in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
