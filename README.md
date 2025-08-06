@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/no-ref/update-process-results in
+  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+- 📨 Pushed to feature/add-results-schemas in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 - 😺 Deleted branch patch-image-version-to-1 at
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/update-process-results in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to main in
-  [lazappi/scrna-tools](https://github.com/lazappi/scrna-tools)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_predict_modality#10](https://github.com/openproblems-bio/task_predict_modality#10)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
