@@ -36,26 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 📨 Pushed to feature/add-results-schemas in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to feature/add-results-schemas in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 😺 Deleted branch patch-image-version-to-1 at
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to feature/no-ref/update-process-results in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 🎉 Merged a pull request in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
+- 🗣 Commented on issue
+  [laminlabs/laminr#197](https://github.com/laminlabs/laminr#197)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#207](https://github.com/laminlabs/laminr#207)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [laminlabs/laminr#212](https://github.com/laminlabs/laminr#212)
+- 🎊 Closed an issue in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#141](https://github.com/theislab/zellkonverter#141)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#143](https://github.com/theislab/zellkonverter#143)
+- 🎊 Closed an issue in
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
