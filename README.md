@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to feature/add-results-schemas in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 📨 Pushed to feature/add-results-schemas in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 🎉 Merged a pull request in
-  [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
-- 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 
 <p align="center" style="width:100%;">
