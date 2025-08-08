@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to update-viash in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 🤔 Opened a pull request in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
+- 😺 Created a branch update-viash in
+  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to feature/add-results-schemas in
   [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 - 🗣 Commented on issue
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr#212](https://github.com/laminlabs/laminr#212)
 - 🎊 Closed an issue in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#141](https://github.com/theislab/zellkonverter#141)
-- 🎊 Closed an issue in
-  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#143](https://github.com/theislab/zellkonverter#143)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
