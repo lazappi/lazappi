@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to test-python-package in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 📨 Pushed to test-python-package in
+  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 - 🗣 Commented on issue
   [scverse/anndata#2052](https://github.com/scverse/anndata#2052)
 - 🗣 Commented on issue
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 😺 Created a branch update-viash in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to feature/add-results-schemas in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 🗣 Commented on issue
-  [laminlabs/laminr#197](https://github.com/laminlabs/laminr#197)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
