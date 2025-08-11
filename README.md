@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [scverse/anndata#2052](https://github.com/scverse/anndata#2052)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#148](https://github.com/theislab/zellkonverter#148)
 - 📨 Pushed to update-viash in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to patch-image-version-to-1 in
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
 - 🗣 Commented on issue
   [laminlabs/laminr#197](https://github.com/laminlabs/laminr#197)
-- 🎊 Closed an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on issue
-  [laminlabs/laminr#207](https://github.com/laminlabs/laminr#207)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
