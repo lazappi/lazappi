@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed to add-pcr-package in
+  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 😺 Created a branch add-pcr-package in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 📨 Pushed to test-python-package in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to update-viash in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 - 📨 Pushed to update-viash in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 🤔 Opened a pull request in
   [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
