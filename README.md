@@ -36,6 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_denoising#32](https://github.com/openproblems-bio/task_denoising#32)
+- 📨 Pushed to devel in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 🎉 Merged a pull request in
+  [oshlack/splatter](https://github.com/oshlack/splatter)
+- 😺 Deleted branch dependabot/github_actions/actions/checkout-5 at
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 📨 Pushed to devel in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🎉 Merged a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 📨 Pushed to add-pcr-package in
@@ -44,18 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 😺 Created a branch add-pcr-package in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 📨 Pushed to test-python-package in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to test-python-package in
-  [openproblems-bio/common_resources](https://github.com/openproblems-bio/common_resources)
-- 🗣 Commented on issue
-  [scverse/anndata#2052](https://github.com/scverse/anndata#2052)
-- 🗣 Commented on issue
-  [theislab/zellkonverter#148](https://github.com/theislab/zellkonverter#148)
-- 📨 Pushed to update-viash in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
-- 📨 Pushed to patch-image-version-to-1 in
-  [openproblems-bio/task_label_projection](https://github.com/openproblems-bio/task_label_projection)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
