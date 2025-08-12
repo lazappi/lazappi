@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on issue
+  [laminlabs/laminr#106](https://github.com/laminlabs/laminr#106)
 - 🗣 Commented on pull request
   [openproblems-bio/task_denoising#32](https://github.com/openproblems-bio/task_denoising#32)
 - 📨 Pushed to devel in
@@ -53,8 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to add-pcr-package in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 📨 Pushed to add-pcr-package in
-  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 😺 Created a branch add-pcr-package in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 
 <p align="center" style="width:100%;">
