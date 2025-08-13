@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
+- 🗣 Commented on pull request
+  [laminlabs/laminr#213](https://github.com/laminlabs/laminr#213)
 - 🗣 Commented on issue
   [laminlabs/laminr#106](https://github.com/laminlabs/laminr#106)
 - 🗣 Commented on pull request
@@ -51,10 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🎉 Merged a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🤔 Opened a pull request in
-  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 📨 Pushed to add-pcr-package in
-  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 📨 Pushed to add-pcr-package in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 
 <p align="center" style="width:100%;">
