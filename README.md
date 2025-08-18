@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [laminlabs/laminr#213](https://github.com/laminlabs/laminr#213)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_denoising#32](https://github.com/openproblems-bio/task_denoising#32)
+- 🗣 Commented on issue
+  [theislab/zellkonverter#149](https://github.com/theislab/zellkonverter#149)
 - 📨 Pushed to feature/no-ref/update-process-results in
   [openproblems-bio/openproblems](https://github.com/openproblems-bio/openproblems)
 - 📨 Pushed to feature/no-ref/add-mlflow-models in
@@ -49,12 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed to feature/no-ref/add-mlflow-models in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 - 📨 Pushed to feature/no-ref/add-mlflow-models in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 🤔 Opened a pull request in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-mlflow-models in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 😺 Created a branch feature/no-ref/add-mlflow-models in
   [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
