@@ -37,6 +37,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
+- 🗣 Commented on pull request
   [laminlabs/laminr#213](https://github.com/laminlabs/laminr#213)
 - 🗣 Commented on pull request
   [openproblems-bio/task_denoising#32](https://github.com/openproblems-bio/task_denoising#32)
@@ -50,12 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
 - 📨 Pushed to add-pcr-package in
   [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 🎉 Merged a pull request in
-  [lazappi/cz-benchmarks](https://github.com/lazappi/cz-benchmarks)
-- 📨 Pushed to feature/no-ref/add-mlflow-models in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
-- 📨 Pushed to feature/no-ref/add-mlflow-models in
-  [openproblems-bio/task_batch_integration](https://github.com/openproblems-bio/task_batch_integration)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
