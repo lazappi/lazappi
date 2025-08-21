@@ -38,6 +38,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a branch documentation-note in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 🤔 Opened a pull request in
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch fix/generation in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on issue
@@ -52,10 +56,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
-- 🗣 Commented on pull request
-  [laminlabs/laminr#213](https://github.com/laminlabs/laminr#213)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_denoising#32](https://github.com/openproblems-bio/task_denoising#32)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
