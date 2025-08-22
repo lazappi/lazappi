@@ -37,6 +37,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🤔 Opened a pull request in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Created a branch new-dataframe-methods in
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a branch documentation-note in
   [scverse/anndatar](https://github.com/scverse/anndatar)
@@ -50,10 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Created a branch disable-ansi in
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#74](https://github.com/openproblems-bio/task_batch_integration#74)
 
