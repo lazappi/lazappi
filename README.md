@@ -36,26 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [laminlabs/laminr#221](https://github.com/laminlabs/laminr#221)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch disable-ansi-cli in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to new-dataframe-methods in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened an issue in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 📨 Pushed to new-dataframe-methods in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Created a branch new-dataframe-methods in
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 🤔 Opened a pull request in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Created a branch documentation-note in
-  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 Created a [branch](https://github.com/branch)
+- 😺 Created a [branch](https://github.com/branch)
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened an issue in [laminr](https://github.com/laminr)
+- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
+- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
