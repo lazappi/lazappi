@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/task_batch_integration#77](https://github.com/openproblems-bio/task_batch_integration#77)
+- 🗣 Commented on an issue in
+  [task_spatial_simulators](https://github.com/task_spatial_simulators)
+- 🗣 Commented on commit
+  [scverse/anndatar@37003bfd01](https://github.com/scverse/anndatar@37003bfd01)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 Created a [branch](https://github.com/branch)
@@ -47,9 +53,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_batch_integration#77](https://github.com/openproblems-bio/task_batch_integration#77)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#77](https://github.com/openproblems-bio/task_batch_integration#77)
-- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
-- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
-- 😺 Labeled an issue 🔖 release in [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
