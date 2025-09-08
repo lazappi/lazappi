@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
+- 🎊 Closed an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [task_template](https://github.com/task_template)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Contributed to
@@ -49,8 +51,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openproblems-bio/task_batch_integration#71](https://github.com/openproblems-bio/task_batch_integration#71)
 - 🗣 Commented on pull request
   [openproblems-bio/task_batch_integration#71](https://github.com/openproblems-bio/task_batch_integration#71)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
