@@ -37,18 +37,25 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
-  [scverse/anndatar#328](https://github.com/scverse/anndatar#328)
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
 - 🗣 Commented on pull request
-  [scverse/anndatar#328](https://github.com/scverse/anndatar#328)
-- 🤔 Opened an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [lamindb](https://github.com/lamindb)
-- 🤔 Opened an issue in [lamindb](https://github.com/lamindb)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 🎊 Closed an issue in [anndatar](https://github.com/anndatar)
-- 📨 Pushed [task_template](https://github.com/task_template)
-- 😺 Created a [branch](https://github.com/branch)
-- 😺 Contributed to
-  [openproblems-bio/task_template](https://github.com/openproblems-bio/task_template)
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
