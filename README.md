@@ -36,10 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
-- 🗣 Commented on pull request
-  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [datasets](https://github.com/datasets)
 - 🗣 Commented on pull request
   [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
 - 🗣 Commented on pull request
