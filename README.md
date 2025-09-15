@@ -37,6 +37,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in
   [zellkonverter](https://github.com/zellkonverter)
@@ -48,7 +49,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on an issue in
   [zellkonverter](https://github.com/zellkonverter)
 - 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [datasets](https://github.com/datasets)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
