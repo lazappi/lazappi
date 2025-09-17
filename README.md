@@ -37,7 +37,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
+  [openproblems-bio/task_grn_inference#54](https://github.com/openproblems-bio/task_grn_inference#54)
 - 🗣 Commented on pull request
   [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
 - 🗣 Commented on pull request
