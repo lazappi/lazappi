@@ -36,6 +36,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed
+  [task_label_projection](https://github.com/task_label_projection)
+- 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
 - 📨 Pushed
   [task_batch_integration](https://github.com/task_batch_integration)
@@ -43,10 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🤔 Opened an issue in [scanpy](https://github.com/scanpy)
 - 🗣 Commented on pull request
   [openproblems-bio/task_grn_inference#54](https://github.com/openproblems-bio/task_grn_inference#54)
-- 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
-- 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
 - 🗣 Commented on pull request
   [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
 - 🗣 Commented on pull request
