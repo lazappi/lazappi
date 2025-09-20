@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
+- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
+- 😺 Contributed to
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed
   [task_label_projection](https://github.com/task_label_projection)
 - 😺 Created a [branch](https://github.com/branch)
@@ -46,12 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🤔 Opened an issue in [scanpy](https://github.com/scanpy)
 - 🗣 Commented on pull request
   [openproblems-bio/task_grn_inference#54](https://github.com/openproblems-bio/task_grn_inference#54)
-- 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
-- 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
-- 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
