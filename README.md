@@ -36,20 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
-- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
-- 😺 Contributed to
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed
-  [task_label_projection](https://github.com/task_label_projection)
-- 😺 Created a [branch](https://github.com/branch)
-- 📨 Pushed [openpipeline](https://github.com/openpipeline)
-- 📨 Pushed
-  [task_batch_integration](https://github.com/task_batch_integration)
-- 😺 Labeled an issue in [scanpy](https://github.com/scanpy)
-- 🤔 Opened an issue in [scanpy](https://github.com/scanpy)
-- 🗣 Commented on pull request
-  [openproblems-bio/task_grn_inference#54](https://github.com/openproblems-bio/task_grn_inference#54)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
