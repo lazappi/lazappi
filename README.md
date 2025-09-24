@@ -37,6 +37,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 😺 Created a [branch](https://github.com/branch)
+- 😺 Assigned an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 🗣 Commented on pull request
@@ -50,7 +51,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🤔 Opened a pull request in
   [task_ist_preprocessing](https://github.com/task_ist_preprocessing)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
