@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
@@ -45,10 +46,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
 - 🗣 Commented on pull request
   [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🤔 Opened a pull request in
+  [task_ist_preprocessing](https://github.com/task_ist_preprocessing)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
