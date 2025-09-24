@@ -36,18 +36,20 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
+- 🗣 Commented on pull request
+  [scverse/anndatar#322](https://github.com/scverse/anndatar#322)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 😺 Created a [branch](https://github.com/branch)
-- 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
-- 🗣 Commented on pull request
-  [scverse/anndatar#324](https://github.com/scverse/anndatar#324)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
