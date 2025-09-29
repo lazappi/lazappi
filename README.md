@@ -36,16 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [lamin-cli](https://github.com/lamin-cli)
 - 📨 Pushed [lamin-cli](https://github.com/lamin-cli)
 - 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 Assigned an issue in [anndatar](https://github.com/anndatar)
+- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 - 🤔 Opened a pull request in [lamin-cli](https://github.com/lamin-cli)
 - 🍴 Forked lazappi/lamin-cli from
   [laminlabs/lamin-cli](https://github.com/laminlabs/lamin-cli)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
