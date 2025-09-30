@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
@@ -43,9 +49,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [lamin-cli](https://github.com/lamin-cli)
 - 📨 Pushed [lamin-cli](https://github.com/lamin-cli)
-- 😺 Created a [branch](https://github.com/branch)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
