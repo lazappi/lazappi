@@ -42,13 +42,20 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
 - 🗣 Commented on pull request
   [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 😺 Created a [branch](https://github.com/branch)
-- 😺 Created a [branch](https://github.com/branch)
-- 📨 Pushed [lamin-cli](https://github.com/lamin-cli)
-- 📨 Pushed [lamin-cli](https://github.com/lamin-cli)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🗣 Commented on pull request
+  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
