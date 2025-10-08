@@ -36,19 +36,17 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 Created a [branch](https://github.com/branch)
-- 🗣 Commented on pull request
-  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#358](https://github.com/scverse/anndatar#358)
+- 🎊 Closed an issue in [laminr](https://github.com/laminr)
+- 😺 Contributed to
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 Created a [branch](https://github.com/branch)
-- 📨 Pushed
-  [task_ist_preprocessing](https://github.com/task_ist_preprocessing)
-- 😺 Assigned an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
