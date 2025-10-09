@@ -39,13 +39,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [lamin-docs](https://github.com/lamin-docs)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
+- 😺 Laminlabs released v1.2.0 at
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
-- 😺 Created a [branch](https://github.com/branch)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
