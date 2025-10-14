@@ -36,14 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on an issue in [rhdf5](https://github.com/rhdf5)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
+- 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
-- 😺 [Deleted](https://github.com/Deleted)
-- 😺 [Deleted](https://github.com/Deleted)
-- 😺 [Deleted](https://github.com/Deleted)
 - 😺 [Deleted](https://github.com/Deleted)
 - 😺 [Deleted](https://github.com/Deleted)
 
