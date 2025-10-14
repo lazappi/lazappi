@@ -36,15 +36,15 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 😺 Created a [branch](https://github.com/branch)
 - 🗣 Commented on pull request
-  [scverse/anndatar#367](https://github.com/scverse/anndatar#367)
+  [openproblems-bio/task_ist_preprocessing#89](https://github.com/openproblems-bio/task_ist_preprocessing#89)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on pull request
-  [scverse/anndatar#367](https://github.com/scverse/anndatar#367)
-- 😺 Created a [branch](https://github.com/branch)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+  [scverse/anndatar#369](https://github.com/scverse/anndatar#369)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
