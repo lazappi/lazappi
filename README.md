@@ -37,7 +37,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
+- 😺 Contributed to
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on an issue in [rhdf5](https://github.com/rhdf5)
 - 🗣 Commented on pull request
   [scverse/anndatar#369](https://github.com/scverse/anndatar#369)
