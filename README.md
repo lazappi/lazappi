@@ -36,6 +36,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 🗣 Commented on an issue in
+  [contributions](https://github.com/contributions)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
@@ -45,9 +48,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 🗣 Commented on an issue in [anndata](https://github.com/anndata)
 - 😺 Created a [branch](https://github.com/branch)
-- 😺 Contributed to
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on an issue in [rhdf5](https://github.com/rhdf5)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
