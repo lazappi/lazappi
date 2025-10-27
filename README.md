@@ -39,7 +39,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
+- 😺 Contributed to
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 [Deleted](https://github.com/Deleted)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
