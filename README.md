@@ -36,6 +36,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 😺 Created a [branch](https://github.com/branch)
@@ -43,9 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 [Deleted](https://github.com/Deleted)
 - 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
