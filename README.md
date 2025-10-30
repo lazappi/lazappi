@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in [website](https://github.com/website)
 - 🗣 Commented on an issue in [anndata](https://github.com/anndata)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
@@ -45,7 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Contributed to
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 [Deleted](https://github.com/Deleted)
 - 😺 [Deleted](https://github.com/Deleted)
 
 <p align="center" style="width:100%;">
