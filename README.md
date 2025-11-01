@@ -36,17 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
+- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
+- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
+- 📨 Pushed [splatter](https://github.com/splatter)
+- 📨 Pushed [splatter](https://github.com/splatter)
+- 😺 Theislab released v1.20.0 at
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Oshlack released v1.34.0 at
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 - 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
-- 😺 Scverse released v1.0.0 at
-  [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🤔 Opened an issue in [website](https://github.com/website)
-- 🗣 Commented on an issue in [anndata](https://github.com/anndata)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
