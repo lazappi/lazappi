@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in
   [zellkonverter](https://github.com/zellkonverter)
 - 🗣 Commented on an issue in
@@ -49,8 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [biocfilecache](https://github.com/biocfilecache)
 - 😺 Theislab released v1.20.0 at
   [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
-- 😺 Oshlack released v1.34.0 at
-  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
