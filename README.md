@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 🗣 Commented on an issue in
   [biocfilecache](https://github.com/biocfilecache)
+- 🗣 Commented on an issue in
+  [biocfilecache](https://github.com/biocfilecache)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in
   [zellkonverter](https://github.com/zellkonverter)
@@ -48,8 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 📨 Pushed [splatter](https://github.com/splatter)
 - 📨 Pushed [splatter](https://github.com/splatter)
-- 🤔 Opened an issue in
-  [biocfilecache](https://github.com/biocfilecache)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
