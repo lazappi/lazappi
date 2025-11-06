@@ -40,6 +40,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [biocfilecache](https://github.com/biocfilecache)
 - 🗣 Commented on an issue in
   [biocfilecache](https://github.com/biocfilecache)
+- 🗣 Commented on an issue in
+  [biocfilecache](https://github.com/biocfilecache)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in
   [zellkonverter](https://github.com/zellkonverter)
@@ -48,7 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
-- 📨 Pushed [splatter](https://github.com/splatter)
 - 📨 Pushed [splatter](https://github.com/splatter)
 
 <p align="center" style="width:100%;">
