@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
+- 📨 Pushed [splatter](https://github.com/splatter)
 - 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
 - 😺 Created a [branch](https://github.com/branch)
 - 🤔 Opened a pull request in
@@ -44,10 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 Created a [branch](https://github.com/branch)
 - 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on an issue in
-  [biocfilecache](https://github.com/biocfilecache)
-- 🗣 Commented on an issue in
-  [biocfilecache](https://github.com/biocfilecache)
 - 🗣 Commented on an issue in
   [biocfilecache](https://github.com/biocfilecache)
 
