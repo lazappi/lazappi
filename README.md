@@ -36,17 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
+- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 📨 Pushed [splatter](https://github.com/splatter)
 - 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
 - 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in
-  [task_batch_integration](https://github.com/task_batch_integration)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
