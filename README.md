@@ -42,13 +42,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#379](https://github.com/scverse/anndatar#379)
 - 🗣 Commented on pull request
   [scverse/anndatar#379](https://github.com/scverse/anndatar#379)
-- 🗣 Commented on pull request
-  [scverse/anndatar#379](https://github.com/scverse/anndatar#379)
-- 📨 Pushed [gh-dashboard](https://github.com/gh-dashboard)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
