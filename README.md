@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on pull request
   [scverse/anndatar#379](https://github.com/scverse/anndatar#379)
 - 🗣 Commented on pull request
@@ -46,7 +47,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [gh-dashboard](https://github.com/gh-dashboard)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [gh-dashboard](https://github.com/gh-dashboard)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 
