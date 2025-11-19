@@ -36,19 +36,20 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [ecosystem-packages](https://github.com/ecosystem-packages)
+- 😺 [Deleted](https://github.com/Deleted)
+- 😺 Created a [branch](https://github.com/branch)
+- 😺 Created a [branch](https://github.com/branch)
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in
+  [ecosystem-packages](https://github.com/ecosystem-packages)
+- 🤔 Opened a pull request in
+  [ecosystem-packages](https://github.com/ecosystem-packages)
+- 😺 Contributed to
+  [scverse/ecosystem-packages](https://github.com/scverse/ecosystem-packages)
 - 🍴 Forked lazappi/ecosystem-packages from
   [scverse/ecosystem-packages](https://github.com/scverse/ecosystem-packages)
 - 🎊 Closed an issue in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on pull request
-  [data-intuitive/tiledb-soma#1](https://github.com/data-intuitive/tiledb-soma#1)
-- 🗣 Commented on pull request
-  [data-intuitive/tiledb-soma#1](https://github.com/data-intuitive/tiledb-soma#1)
-- 😺 Created a [branch](https://github.com/branch)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
