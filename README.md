@@ -36,16 +36,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🍴 Forked lazappi/ecosystem-packages from
+  [scverse/ecosystem-packages](https://github.com/scverse/ecosystem-packages)
+- 🎊 Closed an issue in [anndatar](https://github.com/anndatar)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 🗣 Commented on pull request
   [data-intuitive/tiledb-soma#1](https://github.com/data-intuitive/tiledb-soma#1)
 - 🗣 Commented on pull request
   [data-intuitive/tiledb-soma#1](https://github.com/data-intuitive/tiledb-soma#1)
 - 😺 Created a [branch](https://github.com/branch)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#379](https://github.com/scverse/anndatar#379)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
