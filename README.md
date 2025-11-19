@@ -41,10 +41,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in
-  [ecosystem-packages](https://github.com/ecosystem-packages)
-- 🤔 Opened a pull request in
-  [ecosystem-packages](https://github.com/ecosystem-packages)
+- 😺 Contributed to
+  [scverse/ecosystem-packages](https://github.com/scverse/ecosystem-packages)
+- 😺 Contributed to
+  [scverse/ecosystem-packages](https://github.com/scverse/ecosystem-packages)
 - 😺 Contributed to
   [scverse/ecosystem-packages](https://github.com/scverse/ecosystem-packages)
 - 🍴 Forked lazappi/ecosystem-packages from
