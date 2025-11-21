@@ -36,14 +36,15 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openproblems-bio/openproblems#936](https://github.com/openproblems-bio/openproblems#936)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 🤔 Opened an issue in [hdf5array](https://github.com/hdf5array)
 - 🗣 Commented on an issue in [hdf5array](https://github.com/hdf5array)
 - 🤔 Opened an issue in [hdf5array](https://github.com/hdf5array)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 😺 Assigned an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 🤔 Opened an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 
