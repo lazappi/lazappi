@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed [openproblems](https://github.com/openproblems)
 - 😺 Created a [branch](https://github.com/branch)
+- 🍴 Forked lazappi/h5mread from
+  [bioconductor/h5mread](https://github.com/bioconductor/h5mread)
 - 🤔 Opened a pull request in
   [openproblems](https://github.com/openproblems)
 - 🗣 Commented on an issue in [hdf5array](https://github.com/hdf5array)
@@ -47,7 +49,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in [hdf5array](https://github.com/hdf5array)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 🤔 Opened an issue in [hdf5array](https://github.com/hdf5array)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
