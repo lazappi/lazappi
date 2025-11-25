@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [splatter](https://github.com/splatter)
 - 📨 Pushed [openproblems](https://github.com/openproblems)
 - 😺 Created a [branch](https://github.com/branch)
 - 🗣 Commented on an issue in [hdf5array](https://github.com/hdf5array)
@@ -43,11 +47,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [bioconductor/h5mread](https://github.com/bioconductor/h5mread)
 - 🤔 Opened a pull request in
   [openproblems](https://github.com/openproblems)
-- 🗣 Commented on an issue in [hdf5array](https://github.com/hdf5array)
-- 📨 Pushed [openproblems](https://github.com/openproblems)
-- 🗣 Commented on pull request
-  [openproblems-bio/openproblems#936](https://github.com/openproblems-bio/openproblems#936)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in [hdf5array](https://github.com/hdf5array)
 
 <p align="center" style="width:100%;">
