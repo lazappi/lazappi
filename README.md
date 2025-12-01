@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
@@ -44,8 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Made this repository [public](https://github.com/public)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [splatter](https://github.com/splatter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
