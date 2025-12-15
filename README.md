@@ -36,14 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
 
