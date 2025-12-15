@@ -36,14 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 🗣 Commented on pull request
-  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
-- 🗣 Commented on pull request
-  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
-- 🗣 Commented on pull request
-  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
-- 🗣 Commented on pull request
-  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
 - 🗣 Commented on pull request
   [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
 - 🗣 Commented on pull request
