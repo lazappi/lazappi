@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on an issue in
+  [zellkonverter](https://github.com/zellkonverter)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 😺 Contributed to
@@ -45,9 +49,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 😺 Created a [branch](https://github.com/branch)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
-- 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
-- 😺 [Deleted](https://github.com/Deleted)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
