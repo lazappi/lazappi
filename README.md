@@ -36,20 +36,19 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 Contributed to
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Contributed to
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 🎊 Closed an issue in [laminr](https://github.com/laminr)
 - 😺 Contributed to
   [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- 😺 Laminlabs released v1.2.1 at
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
-- ⭐️ Starred
-  [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on an issue in
-  [zellkonverter](https://github.com/zellkonverter)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
