@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- ⭐️ Starred [casey/just](https://github.com/casey/just)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - ⭐️ Starred [dialvarezs/neat-cv](https://github.com/dialvarezs/neat-cv)
@@ -47,7 +48,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
