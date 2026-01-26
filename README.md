@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
+- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
+- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - ⭐️ Starred [casey/just](https://github.com/casey/just)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
@@ -46,8 +48,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
 - 😺 Contributed to
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
