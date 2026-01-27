@@ -36,6 +36,10 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [scverse/anndatar#392](https://github.com/scverse/anndatar#392)
+- 🗣 Commented on pull request
+  [scverse/anndatar#411](https://github.com/scverse/anndatar#411)
 - 😺 Contributed to
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Contributed to
@@ -47,8 +51,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- ⭐️ Starred [casey/just](https://github.com/casey/just)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
