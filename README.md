@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [clustree](https://github.com/clustree)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 🗣 Commented on pull request
@@ -50,7 +51,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Contributed to
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
