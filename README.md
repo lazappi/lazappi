@@ -36,19 +36,17 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [laminr](https://github.com/laminr)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 🗣 Commented on an issue in [clustree](https://github.com/clustree)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#392](https://github.com/scverse/anndatar#392)
-- 🗣 Commented on pull request
-  [scverse/anndatar#411](https://github.com/scverse/anndatar#411)
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 🎊 Closed an issue in [laminr](https://github.com/laminr)
 - 😺 Contributed to
-  [scverse/anndatar](https://github.com/scverse/anndatar)
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Labeled an issue in [laminr](https://github.com/laminr)
+- 😺 Labeled an issue in [laminr](https://github.com/laminr)
+- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
