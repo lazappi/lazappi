@@ -36,7 +36,13 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
+- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
+- 😺 Contributed to
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
+- 😺 Contributed to
+  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 📨 Pushed
   [openpipeline_spatial](https://github.com/openpipeline_spatial)
 - 🍴 Forked lazappi/openpipeline_qc from
@@ -45,12 +51,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openpipeline](https://github.com/openpipeline)
 - 🤔 Opened an issue in [openpipeline](https://github.com/openpipeline)
 - 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 🍴 Forked lazappi/openpipeline_spatial from
-  [openpipelines-bio/openpipeline_spatial](https://github.com/openpipelines-bio/openpipeline_spatial)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
