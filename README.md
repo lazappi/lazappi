@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline_spatial#40](https://github.com/openpipelines-bio/openpipeline_spatial#40)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
@@ -44,7 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 
 <p align="center" style="width:100%;">
