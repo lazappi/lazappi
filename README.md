@@ -41,13 +41,11 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
-- 📨 Pushed [openpipeline](https://github.com/openpipeline)
-- 😺 Contributed to
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 😺 Contributed to
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
