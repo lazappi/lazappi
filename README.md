@@ -36,6 +36,11 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in
+  [openpipeline_spatial](https://github.com/openpipeline_spatial)
+- 😺 Added lazappi to
+  [openpipelines-bio/openpipeline_spatial](https://github.com/openpipelines-bio/openpipeline_spatial)
 - ⭐️ Starred [nictru/nf-anndata](https://github.com/nictru/nf-anndata)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 Contributed to
@@ -44,9 +49,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openpipelines-bio/openpipeline_spatial#40](https://github.com/openpipelines-bio/openpipeline_spatial#40)
 - 📨 Pushed
   [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 
