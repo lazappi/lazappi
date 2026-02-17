@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed
+  [openpipeline_spatial](https://github.com/openpipeline_spatial)
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Labeled an issue in [scanpy](https://github.com/scanpy)
@@ -48,8 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 Contributed to
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#40](https://github.com/openpipelines-bio/openpipeline_spatial#40)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
