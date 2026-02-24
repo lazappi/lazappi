@@ -37,22 +37,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 📨 Pushed [anndatar](https://github.com/anndatar)
+- 😺 Created a [branch](https://github.com/branch)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 Assigned an issue in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on pull request
-  [scverse/anndatar#418](https://github.com/scverse/anndatar#418)
-- 🗣 Commented on pull request
-  [scverse/anndatar#418](https://github.com/scverse/anndatar#418)
-- 🤔 Opened an issue in
-  [openpipeline_qc](https://github.com/openpipeline_qc)
-- 🤔 Opened an issue in
-  [openpipeline_qc](https://github.com/openpipeline_qc)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 📨 Pushed
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
+- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 - 😺 Contributed to
-  [openpipelines-bio/openpipeline_spatial](https://github.com/openpipelines-bio/openpipeline_spatial)
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 🤔 Opened an issue in [anndatar](https://github.com/anndatar)
+- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
+- 😺 Assigned an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
