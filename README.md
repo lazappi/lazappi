@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in [openpipeline](https://github.com/openpipeline)
 - 😺 Contributed to
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
@@ -48,7 +49,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 🤔 Opened an issue in [anndatar](https://github.com/anndatar)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
