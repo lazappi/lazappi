@@ -18,9 +18,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get install libcurl4-openssl-dev
+      # - name: Install dependencies
+      #   run: |
+      #     sudo apt-get install libcurl4-openssl-dev
 
       - uses: r-lib/actions/setup-pandoc@v2
 
