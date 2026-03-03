@@ -37,6 +37,15 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline_spatial#45](https://github.com/openpipelines-bio/openpipeline_spatial#45)
+- 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
+- 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline_spatial#47](https://github.com/openpipelines-bio/openpipeline_spatial#47)
+- 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline_spatial#47](https://github.com/openpipelines-bio/openpipeline_spatial#47)
+- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
+- 🗣 Commented on pull request
   [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
@@ -45,13 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openpipelines-bio/openpipeline_spatial#45](https://github.com/openpipelines-bio/openpipeline_spatial#45)
 - 🗣 Commented on pull request
   [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
-- 🗣 Commented on pull request
-  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
-- 😺 Created a [branch](https://github.com/branch)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 😺 Contributed to
-  [scverse/anndatar](https://github.com/scverse/anndatar)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
