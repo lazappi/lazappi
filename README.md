@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- ⭐️ Starred
+  [watchmaker-genomics/nf-cgroup-metrics](https://github.com/watchmaker-genomics/nf-cgroup-metrics)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline_spatial#47](https://github.com/openpipelines-bio/openpipeline_spatial#47)
 - 🗣 Commented on pull request
@@ -52,7 +54,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
-- 📨 Pushed [lazappi](https://github.com/lazappi)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
