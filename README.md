@@ -36,6 +36,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in
+  [openpipeline_qc](https://github.com/openpipeline_qc)
+- 🤔 Opened an issue in
+  [openpipeline_qc](https://github.com/openpipeline_qc)
+- 🤔 Opened an issue in
+  [openpipeline_qc](https://github.com/openpipeline_qc)
+- 🤔 Opened an issue in
+  [openpipeline_qc](https://github.com/openpipeline_qc)
 - ⭐️ Starred
   [watchmaker-genomics/nf-cgroup-metrics](https://github.com/watchmaker-genomics/nf-cgroup-metrics)
 - 🗣 Commented on pull request
@@ -47,13 +55,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🤔 Opened an issue in [openpipeline](https://github.com/openpipeline)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline_spatial#47](https://github.com/openpipelines-bio/openpipeline_spatial#47)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#47](https://github.com/openpipelines-bio/openpipeline_spatial#47)
-- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
