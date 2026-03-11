@@ -36,25 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 🤔 Opened an issue in
-  [openpipeline_qc](https://github.com/openpipeline_qc)
-- 🤔 Opened an issue in
-  [openpipeline_qc](https://github.com/openpipeline_qc)
-- 🤔 Opened an issue in
-  [openpipeline_qc](https://github.com/openpipeline_qc)
-- 🤔 Opened an issue in
-  [openpipeline_qc](https://github.com/openpipeline_qc)
-- ⭐️ Starred
-  [watchmaker-genomics/nf-cgroup-metrics](https://github.com/watchmaker-genomics/nf-cgroup-metrics)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#47](https://github.com/openpipelines-bio/openpipeline_spatial#47)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#45](https://github.com/openpipelines-bio/openpipeline_spatial#45)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#46](https://github.com/openpipelines-bio/openpipeline_spatial#46)
-- 🤔 Opened an issue in [openpipeline](https://github.com/openpipeline)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline_spatial#47](https://github.com/openpipelines-bio/openpipeline_spatial#47)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 Created a [branch](https://github.com/branch)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 📨 Pushed [laminr](https://github.com/laminr)
+- 😺 Created a [branch](https://github.com/branch)
+- 😺 Contributed to
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Contributed to
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
