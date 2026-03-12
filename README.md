@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on an issue in [anndata](https://github.com/anndata)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
@@ -45,7 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
-- 😺 Created a [branch](https://github.com/branch)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
