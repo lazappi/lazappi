@@ -36,17 +36,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in
+  [lamin-docs](https://github.com/lamin-docs)
+- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
+- 😺 Assigned an issue in [laminr](https://github.com/laminr)
+- 🤔 Opened an issue in [laminr](https://github.com/laminr)
 - 🗣 Commented on an issue in [anndata](https://github.com/anndata)
 - ⭐️ Starred
   [k-dense-ai/claude-scientific-skills](https://github.com/k-dense-ai/claude-scientific-skills)
 - 🗣 Commented on an issue in [anndata](https://github.com/anndata)
 - 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 😺 Created a [branch](https://github.com/branch)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
