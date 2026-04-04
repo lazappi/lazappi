@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [lazappi](https://github.com/lazappi)
 - ⭐️ Starred [laminlabs/laminr](https://github.com/laminlabs/laminr)
 - 😺 Contributed to
@@ -45,7 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
-- 😺 Created a [branch](https://github.com/branch)
 - 😺 Created a [branch](https://github.com/branch)
 
 <p align="center" style="width:100%;">
