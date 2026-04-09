@@ -39,6 +39,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [chezmoi-dotfiles](https://github.com/chezmoi-dotfiles)
 - 📨 Pushed [chezmoi-dotfiles](https://github.com/chezmoi-dotfiles)
 - 📨 Pushed [chezmoi-dotfiles](https://github.com/chezmoi-dotfiles)
+- 📨 Pushed [chezmoi-dotfiles](https://github.com/chezmoi-dotfiles)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [lazappi](https://github.com/lazappi)
 - ⭐️ Starred [laminlabs/laminr](https://github.com/laminlabs/laminr)
@@ -46,7 +47,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [laminlabs/lamin-docs](https://github.com/laminlabs/lamin-docs)
 - 📨 Pushed [lamin-docs](https://github.com/lamin-docs)
 - 📨 Pushed [laminr](https://github.com/laminr)
-- 😺 [Deleted](https://github.com/Deleted)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
