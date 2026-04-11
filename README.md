@@ -36,6 +36,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [splatter](https://github.com/splatter)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
@@ -45,7 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [chezmoi-dotfiles](https://github.com/chezmoi-dotfiles)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [lazappi](https://github.com/lazappi)
-- ⭐️ Starred [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
