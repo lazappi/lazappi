@@ -36,6 +36,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
@@ -43,9 +46,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [splatter](https://github.com/splatter)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [chezmoi-dotfiles](https://github.com/chezmoi-dotfiles)
-- 📨 Pushed [chezmoi-dotfiles](https://github.com/chezmoi-dotfiles)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
