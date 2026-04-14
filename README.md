@@ -36,18 +36,26 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 🗣 Commented on an issue in
-  [zellkonverter](https://github.com/zellkonverter)
-- 😺 Assigned an issue in
-  [zellkonverter](https://github.com/zellkonverter)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 😺 Assigned an issue in [laminr](https://github.com/laminr)
-- 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
-- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
+- 🗣 Commented on pull request
+  [scverse/anndatar#190](https://github.com/scverse/anndatar#190)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
