@@ -36,6 +36,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
+- 🤔 Opened an issue in [laminr](https://github.com/laminr)
 - 😺 Created a [branch](https://github.com/branch)
 - 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
 - 📨 Pushed [splatter](https://github.com/splatter)
@@ -43,8 +45,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Unlabeled an issue in [anndatar](https://github.com/anndatar)
 - 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 - 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
-- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
