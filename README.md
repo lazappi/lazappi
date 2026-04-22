@@ -37,18 +37,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### My recent GitHub activity
 
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
+- 😺 Created a [branch](https://github.com/branch)
+- 📨 Pushed [openpipeline](https://github.com/openpipeline)
+- 😺 Created a [branch](https://github.com/branch)
+- 📨 Pushed [openpipeline](https://github.com/openpipeline)
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Created a [branch](https://github.com/branch)
 - 🤔 Opened a pull request in
   [openpipeline](https://github.com/openpipeline)
-- 🤔 Opened a pull request in
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 🤔 Opened a pull request in
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
