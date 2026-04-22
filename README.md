@@ -45,8 +45,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in
-  [openpipeline](https://github.com/openpipeline)
+- 😺 Contributed to
+  [openpipelines-bio/openpipeline](https://github.com/openpipelines-bio/openpipeline)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
