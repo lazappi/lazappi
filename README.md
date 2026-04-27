@@ -36,6 +36,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [openpipeline](https://github.com/openpipeline)
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in
+  [openpipeline](https://github.com/openpipeline)
+- 😺 Unassigned an issue in
+  [single-cell-best-practices](https://github.com/single-cell-best-practices)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline#1169](https://github.com/openpipelines-bio/openpipeline#1169)
 - 📨 Pushed [anndatar](https://github.com/anndatar)
@@ -46,14 +52,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openpipelines-bio/openpipeline#1169](https://github.com/openpipelines-bio/openpipeline#1169)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline#1169](https://github.com/openpipelines-bio/openpipeline#1169)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1169](https://github.com/openpipelines-bio/openpipeline#1169)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1169](https://github.com/openpipelines-bio/openpipeline#1169)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1169](https://github.com/openpipelines-bio/openpipeline#1169)
-- 😺 Contributed to
-  [openpipelines-bio/openpipeline](https://github.com/openpipelines-bio/openpipeline)
 
 <p align="center" style="width:100%;">
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
