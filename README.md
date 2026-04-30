@@ -24,6 +24,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### Here’s some stats on my GitHub repos
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=lazappi&count_private=true&show_icons=true&theme=buefy&hide_title=True">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazappi&hide=html&theme=buefy&layout=compact">
 </p>
@@ -31,11 +32,15 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 *Courtesy of <https://github.com/anuraghazra/github-readme-stats>*
 
 <p align="center" style="width:100%;">
+
 <img src="https://github.com/lazappi/lazappi/raw/main/github-intro.svg">
 </p>
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in
+  [openpipeline_spatial](https://github.com/openpipeline_spatial)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 Created a [branch](https://github.com/branch)
@@ -44,10 +49,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
 
 <p align="center" style="width:100%;">
+
 <img src="https://github.com/lazappi/lazappi/raw/main/github-status.svg">
 </p>
 
@@ -65,6 +69,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 ### Now playing on Spotify
 
 <p align="center">
+
 <a href="https://now-playing-profile.lazappi.vercel.app/now-playing?open">
 <img src="https://now-playing-profile.lazappi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
