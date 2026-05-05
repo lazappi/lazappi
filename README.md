@@ -38,20 +38,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
+- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
+- 📨 Pushed [splatter](https://github.com/splatter)
+- 📨 Pushed [splatter](https://github.com/splatter)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [laminr](https://github.com/laminr)
-- 📨 Pushed [laminr](https://github.com/laminr)
-- 😺 Created a [branch](https://github.com/branch)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1168](https://github.com/openpipelines-bio/openpipeline#1168)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1168](https://github.com/openpipelines-bio/openpipeline#1168)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1168](https://github.com/openpipelines-bio/openpipeline#1168)
-- 📨 Pushed [openpipeline](https://github.com/openpipeline)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 😺 Contributed to
-  [laminlabs/laminr](https://github.com/laminlabs/laminr)
+- 😺 Theislab released v1.22.0 at
+  [theislab/zellkonverter](https://github.com/theislab/zellkonverter)
+- 😺 Oshlack released v1.36.0 at
+  [oshlack/splatter](https://github.com/oshlack/splatter)
 
 <p align="center" style="width:100%;">
 
