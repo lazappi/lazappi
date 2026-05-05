@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [laminr](https://github.com/laminr)
 - 📨 Pushed [laminr](https://github.com/laminr)
 - 😺 Created a [branch](https://github.com/branch)
 - 🗣 Commented on pull request
@@ -47,11 +49,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline#1168](https://github.com/openpipelines-bio/openpipeline#1168)
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
-- 🤔 Opened a pull request in [laminr](https://github.com/laminr)
-- 📨 Pushed [openpipeline](https://github.com/openpipeline)
-- 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
+- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
+- 😺 Contributed to
+  [laminlabs/laminr](https://github.com/laminlabs/laminr)
 
 <p align="center" style="width:100%;">
 
