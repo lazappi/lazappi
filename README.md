@@ -38,18 +38,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
+- 📨 Pushed [openpipeline](https://github.com/openpipeline)
+- 📨 Pushed [openpipeline](https://github.com/openpipeline)
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
 - 📨 Pushed [openpipeline](https://github.com/openpipeline)
 - 😺 Created a [branch](https://github.com/branch)
-- 😺 Contributed to
-  [openpipelines-bio/openpipeline](https://github.com/openpipelines-bio/openpipeline)
-- 😺 Contributed to
-  [openpipelines-bio/openpipeline](https://github.com/openpipelines-bio/openpipeline)
-- 🤔 Opened an issue in [mudata](https://github.com/mudata)
-- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
-- 📨 Pushed [zellkonverter](https://github.com/zellkonverter)
-- 📨 Pushed [splatter](https://github.com/splatter)
-- 📨 Pushed [splatter](https://github.com/splatter)
+- 😺 Created a [branch](https://github.com/branch)
+- 📨 Pushed [openpipeline](https://github.com/openpipeline)
 
 <p align="center" style="width:100%;">
 
