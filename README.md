@@ -38,6 +38,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
+- 😺 Contributed to
+  [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
@@ -50,8 +53,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 😺 Contributed to
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
-- 😺 [Deleted](https://github.com/Deleted)
 
 <p align="center" style="width:100%;">
 
@@ -60,12 +61,12 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### Some recent blog posts 📝
 
+- [Bioconductor 3.23
+  wrap-up](https://lazappi.id.au/posts/2026-05-12-bioconductor-3-23-wrap-up/)
 - [Benchmarking feature selection for
   integration](https://lazappi.id.au/posts/2025-03-15-feature-selection-benchmark/)
 - [scverse
   conference](https://lazappi.id.au/posts/2024-09-15-scverse-conference/)
-- [scRNA-tools low-maintenance
-  mode](https://lazappi.id.au/posts/2024-03-04-scRNAtools-low-maintenance/)
 
 *More at <https://lazappi.id.au>*
 
