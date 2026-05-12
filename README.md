@@ -40,13 +40,13 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
 - 😺 Contributed to
+  [scverse/anndatar](https://github.com/scverse/anndatar)
+- 😺 Contributed to
   [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 - 😺 Created a [branch](https://github.com/branch)
-- 😺 Contributed to
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 😺 Contributed to
   [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 - 😺 Contributed to
