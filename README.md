@@ -40,6 +40,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 [Deleted](https://github.com/Deleted)
+- 📨 Pushed [viash](https://github.com/viash)
 - 😺 Created a [branch](https://github.com/branch)
 - 🤔 Opened a pull request in [viash](https://github.com/viash)
 - 😺 Labeled an issue in [viash](https://github.com/viash)
@@ -49,7 +50,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Contributed to
   [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
-- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
 
 <p align="center" style="width:100%;">
 
