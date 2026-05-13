@@ -38,21 +38,18 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
+- 😺 [Deleted](https://github.com/Deleted)
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in [viash](https://github.com/viash)
+- 😺 Labeled an issue in [viash](https://github.com/viash)
+- 🤔 Opened an issue in [viash](https://github.com/viash)
 - 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
 - 😺 Contributed to
   [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Contributed to
   [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
 - 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
-- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
-- 📨 Pushed [scrna-tools](https://github.com/scrna-tools)
-- 😺 Created a [branch](https://github.com/branch)
-- 😺 Contributed to
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 😺 Contributed to
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
-- 😺 Contributed to
-  [scrna-tools/scrna-tools](https://github.com/scrna-tools/scrna-tools)
 
 <p align="center" style="width:100%;">
 
