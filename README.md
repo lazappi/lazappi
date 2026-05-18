@@ -38,6 +38,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🤔 Opened an issue in [canek](https://github.com/canek)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [viash](https://github.com/viash)
@@ -48,8 +49,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
 - 😺 Contributed to
   [scverse/anndatar](https://github.com/scverse/anndatar)
-- 😺 Contributed to
-  [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq)
 
 <p align="center" style="width:100%;">
 
