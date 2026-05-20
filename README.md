@@ -38,6 +38,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [splatter](https://github.com/splatter)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed
   [openpipeline_spatial](https://github.com/openpipeline_spatial)
@@ -50,7 +51,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 [Deleted](https://github.com/Deleted)
 - 📨 Pushed [viash](https://github.com/viash)
-- 😺 Created a [branch](https://github.com/branch)
 
 <p align="center" style="width:100%;">
 
