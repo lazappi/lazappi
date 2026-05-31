@@ -38,6 +38,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
 - 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
 - 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
 - 🎊 Closed an issue in [laminr](https://github.com/laminr)
@@ -50,7 +51,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 😺 Contributed to
   [openpipelines-bio/openpipeline_spatial](https://github.com/openpipelines-bio/openpipeline_spatial)
 - 🗣 Commented on an issue in [laminr](https://github.com/laminr)
-- 🤔 Opened an issue in [canek](https://github.com/canek)
 
 <p align="center" style="width:100%;">
 
