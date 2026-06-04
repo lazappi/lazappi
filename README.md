@@ -38,19 +38,25 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
-- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
-- 🗣 Commented on an issue in [anndatar](https://github.com/anndatar)
-- 📨 Pushed [lazappi.id.au](https://github.com/lazappi.id.au)
-- 🎊 Closed an issue in [laminr](https://github.com/laminr)
-- 📨 Pushed [splatter](https://github.com/splatter)
-- 😺 [Deleted](https://github.com/Deleted)
-- 📨 Pushed
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 📨 Pushed
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 😺 Contributed to
-  [openpipelines-bio/openpipeline_spatial](https://github.com/openpipelines-bio/openpipeline_spatial)
-- 🗣 Commented on an issue in [laminr](https://github.com/laminr)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 🗣 Commented on pull request
+  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 📨 Pushed [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 
