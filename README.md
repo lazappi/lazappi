@@ -40,8 +40,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
-- 🗣 Commented on pull request
-  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
+- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
 - 🗣 Commented on pull request
   [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
 - 🗣 Commented on pull request
