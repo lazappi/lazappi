@@ -38,21 +38,21 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
+- 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
+- 🗣 Commented on pull request
+  [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
+- 🤔 Opened an issue in [anndatar](https://github.com/anndatar)
 - 🤔 Opened an issue in
   [openpipeline_spatial](https://github.com/openpipeline_spatial)
 - 📨 Pushed
   [openpipeline_spatial](https://github.com/openpipeline_spatial)
 - 😺 Created a [branch](https://github.com/branch)
 - 😺 [Deleted](https://github.com/Deleted)
-- 🤔 Opened a pull request in
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
-- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
-- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
-- 🗣 Commented on pull request
-  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
-- 🗣 Commented on pull request
-  [scverse/anndatar#455](https://github.com/scverse/anndatar#455)
 
 <p align="center" style="width:100%;">
 
