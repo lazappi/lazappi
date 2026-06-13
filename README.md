@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
+- 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
 - 🗣 Commented on pull request
@@ -51,9 +53,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 - 🤔 Opened an issue in [anndatar](https://github.com/anndatar)
 - 🤔 Opened an issue in
   [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 📨 Pushed
-  [openpipeline_spatial](https://github.com/openpipeline_spatial)
-- 😺 Created a [branch](https://github.com/branch)
 
 <p align="center" style="width:100%;">
 
