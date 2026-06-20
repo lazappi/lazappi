@@ -38,6 +38,8 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Created a [branch](https://github.com/branch)
+- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
 - ⭐️ Starred
   [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli)
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
@@ -51,8 +53,6 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
   [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
-- 😺 Labeled an issue in [anndatar](https://github.com/anndatar)
 
 <p align="center" style="width:100%;">
 
