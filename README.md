@@ -38,15 +38,16 @@ SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=20
 
 ### My recent GitHub activity
 
+- 😺 Contributed to
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - 😺 Created a [branch](https://github.com/branch)
-- 🤔 Opened a pull request in [anndatar](https://github.com/anndatar)
+- 😺 Contributed to
+  [scverse/anndatar](https://github.com/scverse/anndatar)
 - ⭐️ Starred
   [thegdsks/awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli)
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
 - 📨 Pushed [quarto-cv-template](https://github.com/quarto-cv-template)
-- 🗣 Commented on pull request
-  [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
 - 🗣 Commented on pull request
   [openpipelines-bio/openpipeline#1201](https://github.com/openpipelines-bio/openpipeline#1201)
 - 🗣 Commented on pull request
