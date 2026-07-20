@@ -17,6 +17,12 @@
 
 <h1 data-importer="text" align="center">Hi, I'm Luke 👋</h1>
 
+<!-- Customise this at https://readme-typing-svg.demolab.com/demo/?size=28&duration=3000&pause=200&color=9D24F7&center=true&vCenter=true&multiline=true&repeat=false&random=true&height=160&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9D24F7&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=435&height=50&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer" alt="Typing my roles" />
+</div>
+
 ###
 
 <div data-importer="techs" align="center">
