@@ -15,7 +15,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi, I'm Luke 👋</h1>
+<h1 data-importer="text" align="center">Hi, I'm Luke <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!-- Customise this at https://readme-typing-svg.demolab.com/demo/?size=28&duration=3000&pause=200&color=9D24F7&center=true&vCenter=true&multiline=true&repeat=false&random=true&height=160&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer -->
 
