@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://github.com/nextflow-io/trademark/blob/d23659daca6162680544f84d20d56b708ead047a/nextflow-icon.svg" height="40" alt="nextflow logo"  />
+  <img src="https://cdn.simpleicons.org/nextflow/0DC09D" height="40" alt="nextflow logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
