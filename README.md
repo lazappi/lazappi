@@ -1,5 +1,5 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://lazappi.id.au/profile.png"  />
+<div align="center">
+  <img src="https://wsrv.nl/?url=lazappi.id.au/profile.png&w=300&h=300&fit=cover&mask=circle">
 </div>
 
 ###
