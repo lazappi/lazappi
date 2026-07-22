@@ -33,6 +33,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="bioconductor-icon.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://scverse.org/img/logo/scverse_symbol.svg" height="40" alt="scverse logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/black/white" height="40" alt="bash logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
