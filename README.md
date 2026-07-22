@@ -5,6 +5,9 @@
 ###
 
 <div data-importer="socials" align="center">
+  <a href="https://lazappi.id.au" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&label=lazappi.id.au&color=darkviolet&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website"  />
+  </a>
   <a href="https://bsky.app/profile/lazappi.bsky.social" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=@lazappi.bsky.social&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
   </a>
