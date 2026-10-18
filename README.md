@@ -1,8 +1,19 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://wsrv.nl/?url=lazappi.id.au/profile.png&w=300&h=300&fit=cover&mask=circle">
-</div>
+</div> -->
 
 ###
+
+<h1 data-importer="text" align="center">
+  Hi, I'm Luke
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+<!-- Customise this at https://readme-typing-svg.demolab.com/demo/?size=28&duration=3000&pause=200&color=9D24F7&center=true&vCenter=true&multiline=true&repeat=false&random=true&height=160&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9D24F7&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=435&height=50&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer" alt="Typing my roles" />
+</div>
 
 <div data-importer="socials" align="center">
   <a href="https://lazappi.id.au" target="_blank">
@@ -18,16 +29,6 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi, I'm Luke <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-<!-- Customise this at https://readme-typing-svg.demolab.com/demo/?size=28&duration=3000&pause=200&color=9D24F7&center=true&vCenter=true&multiline=true&repeat=false&random=true&height=160&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9D24F7&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=435&height=50&lines=Data+scientist;Bioinformatician;Package+developer;Workflow+engineer" alt="Typing my roles" />
-</div>
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
@@ -35,7 +36,7 @@
   <img width="12" />
   <img src="bioconductor-icon.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://scverse.org/img/logo/scverse_symbol.svg" height="40" alt="scverse logo"  />
+  <img src="https://scverse.org/img/logo/scverse-symbol.svg" height="40" alt="scverse logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/black/white" height="40" alt="bash logo" />
   <img width="12" />
@@ -67,6 +68,17 @@
     <img alt="Bash logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40">
   </picture>
 -->
+
+###
+
+I'm a bioinformatician and scientific software engineer working on single-cell and spatial genomics.
+
+- At [Data Intuitive](https://data-intuitive.com) I build Nextflow and Python workflows for pharmaceutical clients
+- I'm a core member of [Open Problems in Single-Cell Analysis](https://openproblems.bio) and lead the dimensionality reduction task
+- I work on R/Python interoperability including [anndataR](https://github.com/scverse/anndataR) (scverse) and [zellkonverter](https://github.com/theislab/zellkonverter), tools for moving between the [scverse](https://scverse.org/) and [Bioconductor](https://bioconductor.org/) ecosystems, and [LaminR](https://github.com/laminlabs/laminr), the R client for [LaminDB](https://lamin.ai/)
+- I created [Splatter](https://github.com/Oshlack/splatter), a single-cell simulation framework, and [clustree](https://github.com/lazappi/clustree) for visualising clusters across resolutions
+
+See more at [lazappi.id.au](https://lazappi.id.au).
 
 ###
 
