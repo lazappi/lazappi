@@ -56,9 +56,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/inkscape/black/white" height="40" alt="inkscape logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/inkscape/black/white" height="40" alt="inkscape logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  /> -->
 </div>
 
 <!--
